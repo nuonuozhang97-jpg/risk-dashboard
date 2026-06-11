@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>全球风险日报</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg: #ffffff;
+    --bg-secondary: #f5f5f7;
+    --card-bg: #ffffff;
+    --text: #1d1d1f;
+    --text-secondary: #86868b;
+    --text-tertiary: #aeaeb2;
+    --border: #d2d2d7;
+    --separator: #e8e8ed;
+    --accent: #0071e3;
+    --accent-hover: #0077ed;
+    --red: #ff3b30;
+    --orange: #ff9500;
+    --yellow: #ffcc00;
+    --green: #34c759;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 20px rgba(0,0,0,0.06);
+    --radius: 12px;
+    --radius-lg: 16px;
+    --font: 'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', sans-serif;
+  }
+
+  html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+  body {
+    font-family: var(--font);
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  /* Header */
+  .header {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(255,255,255,0.85);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+  .header-inner {
+    max-width: 1080px; margin: 0 auto;
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 14px 24px; gap: 12px;
+  }
+  .header-left { display: flex; align-items: baseline; gap: 12px; }
+  .header-title {
+    font-size: 17px; font-weight: 600; letter-spacing: -0.02em;
+  }
+  .header-date {
+    font-size: 13px; color: var(--text-secondary); font-weight: 400;
+  }
+  .header-right { display: flex; align-items: center; gap: 12px; }
+  .header-updated {
+    font-size: 12px; color: var(--text-tertiary); white-space: nowrap;
+  }
+  .refresh-btn {
+    background: var(--accent); color: white; border: none;
+    padding: 6px 14px; border-radius: 20px; font-size: 12px; font-weight: 500;
+    cursor: pointer; transition: .2s;
+  }
+  .refresh-btn:hover { background: var(--accent-hover); }
+  .refresh-btn:active { transform: scale(0.96); }
+
+  /* Content */
+  .content { max-width: 1080px; margin: 0 auto; padding: 32px 24px 80px; }
+
+  /* Section */
+  .section { margin-bottom: 40px; }
+  .section-header {
+    display: flex; align-items: center; gap: 8px;
+    margin-bottom: 16px;
+  }
+  .section-icon { font-size: 18px; width: 28px; text-align: center; }
+  .section-title {
+    font-size: 15px; font-weight: 600; color: var(--text-secondary);
+    letter-spacing: 0.02em; text-transform: uppercase;
+  }
+  .section-count {
+    font-size: 12px; color: var(--text-tertiary);
+    background: var(--bg-secondary); padding: 2px 10px; border-radius: 10px;
+    margin-left: auto;
+  }
+
+  /* Cards Grid */
+  .card-grid {
+    display: grid; gap: 16px;
+  }
+  .card-grid-2 { grid-template-columns: 1fr 1fr; }
+  .card-grid-3 { grid-template-columns: 1fr 1fr 1fr; }
+  @media (max-width: 860px) { .card-grid-2, .card-grid-3 { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 540px) { .card-grid-2, .card-grid-3 { grid-template-columns: 1fr; } }
+
+  /* Card */
+  .card {
+    background: var(--card-bg);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--separator);
+    overflow: hidden;
+    transition: .2s;
+  }
+  .card:hover { box-shadow: var(--shadow-md); }
+  .card-full { grid-column: 1 / -1; }
+
+  .card-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 16px 18px 0;
+  }
+  .card-header-left { display: flex; align-items: center; gap: 8px; }
+  .card-emoji { font-size: 15px; }
+  .card-label {
+    font-size: 13px; font-weight: 600; color: var(--text-secondary);
+    letter-spacing: -0.01em;
+  }
+  .card-badge {
+    font-size: 11px; color: var(--text-tertiary);
+    background: var(--bg-secondary); padding: 1px 8px; border-radius: 8px;
+    font-weight: 500;
+  }
+
+  .card-body { padding: 12px 18px 16px; }
+
+  /* List Items */
+  .item-list { }
+  .item-row {
+    padding: 10px 0;
+    border-bottom: 1px solid var(--separator);
+  }
+  .item-row:last-child { border-bottom: none; }
+  .item-title {
+    font-size: 13px; font-weight: 500; line-height: 1.45;
+    color: var(--text);
+  }
+  .item-title a {
+    color: var(--text); text-decoration: none; transition: .15s;
+  }
+  .item-title a:hover { color: var(--accent); }
+  .item-meta {
+    display: flex; gap: 10px; align-items: center;
+    font-size: 11px; color: var(--text-tertiary); margin-top: 4px;
+  }
+
+  /* Tags */
+  .tag {
+    display: inline-flex; align-items: center;
+    font-size: 10px; font-weight: 600; padding: 1px 8px; border-radius: 4px;
+    letter-spacing: 0.01em;
+  }
+  .tag-red { background: #fde8e8; color: #c41e1e; }
+  .tag-orange { background: #fff3e0; color: #b85c00; }
+  .tag-yellow { background: #fffde7; color: #8b7500; }
+  .tag-green { background: #e8f8e8; color: #1a7a1a; }
+  .tag-blue { background: #e8f0fe; color: #0066cc; }
+  .tag-gray { background: var(--bg-secondary); color: var(--text-tertiary); }
+
+  /* Magnitude bar */
+  .mag-meter {
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .mag-bar {
+    display: inline-block; height: 4px; border-radius: 2px;
+    background: var(--bg-secondary); overflow: hidden;
+  }
+  .mag-bar-fill { height: 100%; border-radius: 2px; }
+  .mag-bar-fill.high { background: var(--red); }
+  .mag-bar-fill.mid { background: var(--orange); }
+  .mag-bar-fill.low { background: var(--yellow); }
+
+  /* Forex */
+  .forex-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 8px;
+  }
+  .forex-item {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 6px 0;
+  }
+  .forex-pair { font-size: 12px; font-weight: 500; color: var(--text-secondary); }
+  .forex-rate {
+    font-size: 15px; font-weight: 600; font-variant-numeric: tabular-nums;
+    color: var(--text);
+  }
+  .forex-rate.null { color: var(--text-tertiary); }
+
+  /* Empty state */
+  .empty-state {
+    text-align: center; padding: 20px 0;
+    color: var(--text-tertiary); font-size: 13px;
+  }
+
+  /* Loading / Error */
+  .load-state {
+    display: flex; align-items: center; justify-content: center;
+    min-height: 60vh; color: var(--text-tertiary); font-size: 15px;
+  }
+
+  /* Scrollable list */
+  .scroll-list { max-height: 420px; overflow-y: auto; margin: 0 -18px; padding: 0 18px; }
+  .scroll-list::-webkit-scrollbar { width: 3px; }
+  .scroll-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+  /* Source tag in items */
+  .source-tag {
+    font-size: 10px; font-weight: 500; color: var(--text-tertiary);
+    background: var(--bg-secondary); padding: 1px 7px; border-radius: 4px;
+  }
+
+  /* Bond table */
+  .bond-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+  .bond-item {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 5px 0; font-size: 12px;
+  }
+  .bond-key { color: var(--text-secondary); }
+  .bond-val { font-weight: 600; font-variant-numeric: tabular-nums; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-inner">
+    <div class="header-left">
+      <span class="header-title">全球风险日报</span>
+      <span class="header-date" id="headerDate">—</span>
+    </div>
+    <div class="header-right">
+      <span class="header-updated" id="lastUpdate"></span>
+      <button class="refresh-btn" onclick="location.reload()">刷新</button>
+    </div>
+  </div>
+</div>
+
+<div class="content" id="app">
+  <div class="load-state">加载中…</div>
+</div>
+
+<script>
+const app = document.getElementById('app');
+
+(async () => {
+  try {
+    const res = await fetch('./data.json?_t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    render(data);
+  } catch(e) {
+    app.innerHTML = `<div class="load-state" style="flex-direction:column;gap:8px"><span>⚠️</span><span>${e.message}</span></div>`;
+  }
+})();
+
+function timeAgo(iso) {
+  if (!iso) return '';
+  const diff = Date.now() - new Date(iso).getTime();
+  const min = Math.floor(diff / 60000);
+  if (min < 1) return '刚刚';
+  if (min < 60) return `${min}分钟前`;
+  const h = Math.floor(min / 60);
+  if (h < 24) return `${h}小时前`;
+  return new Date(iso).toLocaleDateString('zh-CN');
+}
+
+function render(data) {
+  document.getElementById('headerDate').textContent = data.date || '—';
+  document.getElementById('lastUpdate').textContent = data.updated_at ? `更新于 ${timeAgo(data.updated_at)}` : '';
+
+  const c = data.categories || {};
+  let html = '';
+
+  // =========== 1. 自然灾害 ===========
+  html += `<div class="section">
+    <div class="section-header"><span class="section-icon">🌍</span><span class="section-title">自然灾害</span></div>
+    <div class="card-grid card-grid-3">`;
+
+  // 地震
+  const eq = c.earthquake || [];
+  html += `<div class="card">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">📊</span><span class="card-label">地震 M4.5+</span></div>
+      <span class="card-badge">${eq.length}</span>
+    </div>
+    <div class="card-body">
+      ${eq.length ? `<div class="scroll-list">${eq.map(e => {
+        const m = e.magnitude || 0;
+        const cls = m >= 7 ? 'tag-red' : m >= 6 ? 'tag-orange' : m >= 5 ? 'tag-yellow' : 'tag-gray';
+        const pct = Math.min((m / 9) * 100, 100);
+        const fillCls = m >= 7 ? 'high' : m >= 6 ? 'mid' : 'low';
+        return `<div class="item-row">
+          <div class="item-title">
+            <span class="tag ${cls}" style="margin-right:6px">M${m}</span>
+            ${e.url ? `<a href="${e.url}" target="_blank">${e.place || 'Unknown'}</a>` : e.place}
+            ${e.tsunami ? '<span style="margin-left:4px">🌊</span>' : ''}
+          </div>
+          <div class="item-meta">
+            <span>${e.time || ''}</span>
+            <span>${e.depth_km || '?'} km</span>
+            <span class="mag-meter"><span class="mag-bar" style="width:60px"><span class="mag-bar-fill ${fillCls}" style="width:${pct}%"></span></span></span>
+          </div>
+        </div>`;
+      }).join('')}</div>` : `<div class="empty-state">暂无数据</div>`}
+    </div>
+  </div>`;
+
+  // GDACS
+  const gd = c.gdacs || [];
+  html += `<div class="card">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">⚠️</span><span class="card-label">全球灾害预警</span></div>
+      <span class="card-badge">${gd.length}</span>
+    </div>
+    <div class="card-body">
+      ${gd.length ? `<div class="scroll-list">${gd.map(g => {
+        const isHigh = g.title && (g.title.includes('red') || g.title.includes('Red') || g.title.includes('橙色'));
+        return `<div class="item-row">
+          <div class="item-title">${g.link ? `<a href="${g.link}" target="_blank">${g.title}</a>` : g.title}</div>
+          <div class="item-meta">${g.pubDate || ''}</div>
+        </div>`;
+      }).join('')}</div>` : `<div class="empty-state">暂无数据</div>`}
+    </div>
+  </div>`;
+
+  // 台风
+  const ty = c.typhoon || [];
+  html += `<div class="card">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">🌀</span><span class="card-label">热带气旋</span></div>
+      <span class="card-badge">${ty.length}</span>
+    </div>
+    <div class="card-body">
+      ${ty.length ? `<div class="scroll-list">${ty.map(t => `<div class="item-row">
+        <div class="item-title">${t.link ? `<a href="${t.link}" target="_blank">${t.title}</a>` : t.title}</div>
+        <div class="item-meta">${t.pubDate || ''}</div>
+      </div>`).join('')}</div>` : `<div class="empty-state">暂无数据</div>`}
+    </div>
+  </div>`;
+
+  html += `</div></div>`;
+
+  // =========== 2. 疫情 ===========
+  html += `<div class="section">
+    <div class="section-header"><span class="section-icon">🦠</span><span class="section-title">疫情监测</span></div>
+    <div class="card-grid">`;
+  const dis = c.disease || [];
+  html += `<div class="card card-full">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">📋</span><span class="card-label">全球疫情通报</span></div>
+      <span class="card-badge">${dis.length}</span>
+    </div>
+    <div class="card-body">
+      ${dis.length && !dis[0].error ? `<div class="scroll-list" style="max-height:500px">${dis.map(d => {
+        const high = d.title && (d.title.includes('EBOLA') || d.title.includes('NIPAH') || d.title.includes('PANDEMIC') || d.title.includes('DEATH'));
+        return `<div class="item-row">
+          <div class="item-title">${high ? '<span class="tag tag-red" style="margin-right:6px">紧急</span>' : ''}${d.link ? `<a href="${d.link}" target="_blank">${d.title}</a>` : d.title}</div>
+          <div class="item-meta">${d.published || ''}</div>
+        </div>`;
+      }).join('')}</div>` : `<div class="empty-state">数据源暂不可用</div>`}
+    </div>
+  </div>`;
+  html += `</div></div>`;
+
+  // =========== 3. 市场行情 ===========
+  html += `<div class="section">
+    <div class="section-header"><span class="section-icon">📊</span><span class="section-title">市场行情</span></div>
+    <div class="card-grid card-grid-3">`;
+
+  // 汇率
+  const fx = c.forex || [];
+  html += `<div class="card">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">💱</span><span class="card-label">汇率</span></div>
+      <span class="card-badge">${fx.length}</span>
+    </div>
+    <div class="card-body">
+      ${fx.length ? `<div class="forex-grid">${fx.map(f => `<div class="forex-item">
+        <span class="forex-pair">${f.pair}</span>
+        <span class="forex-rate ${f.rate === null ? 'null' : ''}">${f.rate !== null ? f.rate.toFixed(4) : '—'}</span>
+      </div>`).join('')}</div>` : `<div class="empty-state">暂无数据</div>`}
+    </div>
+  </div>`;
+
+  // 国债
+  const bond = c.bond_yields || [];
+  html += `<div class="card">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">🏦</span><span class="card-label">国债收益率</span></div>
+      <span class="card-badge">${bond.length}</span>
+    </div>
+    <div class="card-body">
+      ${bond.length && !bond[0].error ? `<div class="bond-grid">${Object.entries(bond[0]).filter(([k]) => k !== 'error').map(([k, v]) => `<div class="bond-item"><span class="bond-key">${k}</span><span class="bond-val">${v}</span></div>`).join('')}</div>` : `<div class="empty-state">暂无数据</div>`}
+    </div>
+  </div>`;
+
+  // 大宗商品
+  html += `<div class="card">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">⛽</span><span class="card-label">大宗商品</span></div>
+      <span class="card-badge">—</span>
+    </div>
+    <div class="card-body">
+      <div class="empty-state">接入中</div>
+    </div>
+  </div>`;
+
+  html += `</div></div>`;
+
+  // =========== 4. 行业新闻 & 政策 ===========
+  html += `<div class="section">
+    <div class="section-header"><span class="section-icon">📰</span><span class="section-title">行业新闻 &amp; 政策</span></div>
+    <div class="card-grid card-grid-2">`;
+
+  const sn = c.semiconductor_news || [];
+  html += `<div class="card">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">🔬</span><span class="card-label">半导体行业</span></div>
+      <span class="card-badge">${sn.length}</span>
+    </div>
+    <div class="card-body">
+      ${sn.length ? `<div class="scroll-list" style="max-height:500px">${sn.map(n => `<div class="item-row">
+        <div class="item-title">${n.link ? `<a href="${n.link}" target="_blank">${n.title}</a>` : n.title}</div>
+        <div class="item-meta"><span class="source-tag">${n.source || ''}</span> ${n.pubDate || ''}</div>
+      </div>`).join('')}</div>` : `<div class="empty-state">暂无数据</div>`}
+    </div>
+  </div>`;
+
+  const cp = c.china_policy || [];
+  html += `<div class="card">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">🇨🇳</span><span class="card-label">中国政策</span></div>
+      <span class="card-badge">${cp.length}</span>
+    </div>
+    <div class="card-body">
+      ${cp.length && !cp[0].error ? `<div class="scroll-list" style="max-height:500px">${cp.map(p => `<div class="item-row">
+        <div class="item-title">${p.link ? `<a href="${p.link}" target="_blank">${p.title}</a>` : p.title}</div>
+        <div class="item-meta">${p.pubDate || ''}</div>
+      </div>`).join('')}</div>` : `<div class="empty-state">数据源暂不可用</div>`}
+    </div>
+  </div>`;
+
+  html += `</div></div>`;
+
+  // =========== 5. 竞品动态 ===========
+  const cm = c.competitor_news || [];
+  html += `<div class="section">
+    <div class="section-header"><span class="section-icon">🏭</span><span class="section-title">竞品动态</span><span class="section-count">${cm.length}</span></div>
+    <div class="card-grid">`;
+  html += `<div class="card card-full">
+    <div class="card-header">
+      <div class="card-header-left"><span class="card-emoji">📡</span><span class="card-label">竞品新闻</span></div>
+      <span class="card-badge">${cm.length}</span>
+    </div>
+    <div class="card-body">
+      ${cm.length ? `<div class="scroll-list" style="max-height:520px">${cm.map(m => `<div class="item-row">
+        <div class="item-title">${m.link ? `<a href="${m.link}" target="_blank">${m.title}</a>` : m.title}</div>
+        <div class="item-meta"><span class="source-tag">${m.keyword || ''}</span> ${m.pubDate || ''}</div>
+      </div>`).join('')}</div>` : `<div class="empty-state">暂无数据</div>`}
+    </div>
+  </div>`;
+  html += `</div></div>`;
+
+  app.innerHTML = html;
+}
+</script>
+</body>
+</html>
