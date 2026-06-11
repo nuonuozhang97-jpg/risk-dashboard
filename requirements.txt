@@ -1,0 +1,2 @@
+# Python dependencies
+# 用于抓取数据，GitHub Actions上会用

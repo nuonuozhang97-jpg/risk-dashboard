@@ -1,0 +1,489 @@
+{
+  "date": "2026-06-11",
+  "updated_at": "2026-06-11T12:27:04.964256+00:00",
+  "categories": {
+    "earthquake": [
+      {
+        "magnitude": 5.1,
+        "place": "123 km NW of Vallenar, Chile",
+        "time": "2026-06-11 12:06 UTC",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7x",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "62 km S of Sarangani, Philippines",
+        "time": "2026-06-11 11:46 UTC",
+        "depth_km": 35.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7v",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "170 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "time": "2026-06-11 10:00 UTC",
+        "depth_km": 35.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss75",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "18 km NW of Mamou, Guinea",
+        "time": "2026-06-11 09:04 UTC",
+        "depth_km": 10.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6x",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "south of the Fiji Islands",
+        "time": "2026-06-11 07:53 UTC",
+        "depth_km": 540.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6i",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.4,
+        "place": "59 km S of Sarangani, Philippines",
+        "time": "2026-06-11 07:33 UTC",
+        "depth_km": 73.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6g",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "65 km SSE of Sarangani, Philippines",
+        "time": "2026-06-11 05:38 UTC",
+        "depth_km": 62.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss60",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "117 km NW of Vallenar, Chile",
+        "time": "2026-06-11 05:19 UTC",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5y",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "212 km SE of Ust’-Kamchatsk Staryy, Russia",
+        "time": "2026-06-11 04:44 UTC",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5v",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "20 km SE of Sarangani, Philippines",
+        "time": "2026-06-11 03:14 UTC",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5k",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "70 km S of Sarangani, Philippines",
+        "time": "2026-06-11 02:43 UTC",
+        "depth_km": 32.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5f",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "south of the Fiji Islands",
+        "time": "2026-06-11 02:41 UTC",
+        "depth_km": 184.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5c",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "58 km S of Sarangani, Philippines",
+        "time": "2026-06-11 01:56 UTC",
+        "depth_km": 49.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss57",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "57 km SSW of Sarangani, Philippines",
+        "time": "2026-06-11 00:00 UTC",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4y",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "175 km SSW of Houma, Tonga",
+        "time": "2026-06-10 23:50 UTC",
+        "depth_km": 46.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss50",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.4,
+        "place": "176 km ESE of Neiafu, Tonga",
+        "time": "2026-06-10 23:30 UTC",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4s",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "67 km SSW of Sarangani, Philippines",
+        "time": "2026-06-10 23:26 UTC",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4r",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "25 km ENE of Sibolga, Indonesia",
+        "time": "2026-06-10 16:30 UTC",
+        "depth_km": 127.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss28",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "165 km SE of Petropavlovsk-Kamchatsky, Russia",
+        "time": "2026-06-10 15:23 UTC",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss21",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "time": "2026-06-10 13:45 UTC",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss1g",
+        "tsunami": 0
+      }
+    ],
+    "gdacs": [
+      {
+        "title": "Green flood alert in Türkiye",
+        "description": "On 28/06/2026, a flood started in Türkiye, lasting until 30/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103920",
+        "pubDate": "Tue, 02 Jun 2026 05:45:56 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.5M, Depth:49.891km) in Philippines 11/06/2026 01:56 UTC, 120 thousand in MMI>=IV.",
+        "description": "On 6/11/2026 1:56:14 AM, an earthquake occurred in Philippines potentially affecting 120 thousand in MMI>=IV. The earthquake had Magnitude 5.5M, Depth:49.891km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545533",
+        "pubDate": "Thu, 11 Jun 2026 02:11:39 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.7M, Depth:343.313km) in Russian Federation 10/06/2026 10:34 UTC, 220 thousand in MMI>=II.",
+        "description": "On 6/10/2026 10:34:17 AM, an earthquake occurred in Russian Federation potentially affecting 220 thousand in MMI>=II. The earthquake had Magnitude 5.7M, Depth:343.313km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545401",
+        "pubDate": "Wed, 10 Jun 2026 10:50:32 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 6M, Depth:13.669km) in Auckland Islands, N.Z.  Region 10/06/2026 00:44 UTC, [unknown].",
+        "description": "On 6/10/2026 12:44:20 AM, an earthquake occurred in Auckland Islands, N.Z.  Region potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:13.669km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545305",
+        "pubDate": "Wed, 10 Jun 2026 01:00:52 GMT"
+      },
+      {
+        "title": "Green forest fire notification in Australia",
+        "description": "On 10/06/2026, a forest fire started in Australia,  until 11/06/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028855",
+        "pubDate": "Wed, 10 Jun 2026 19:00:11 GMT"
+      },
+      {
+        "title": "Green forest fire notification in United States",
+        "description": "On 10/06/2026, a forest fire started in United States,  until 11/06/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028867",
+        "pubDate": "Wed, 10 Jun 2026 23:00:13 GMT"
+      },
+      {
+        "title": "Green forest fire notification in Australia",
+        "description": "On 09/06/2026, a forest fire started in Australia,  until 10/06/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028846",
+        "pubDate": "Wed, 10 Jun 2026 07:00:11 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 6.1M, Depth:26km) in Cuba 08/06/2026 18:00 UTC, 3 thousand in MMI V.",
+        "description": "On 6/8/2026 6:00:27 PM, an earthquake occurred in Cuba potentially affecting 3 thousand in MMI V. The earthquake had Magnitude 6.1M, Depth:26km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544981",
+        "pubDate": "Mon, 08 Jun 2026 18:10:35 GMT"
+      },
+      {
+        "title": "Green notification for tropical cyclone CRISTINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "description": "From 08/06/2026 to 11/06/2026, a Tropical Depression (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001275",
+        "pubDate": "Mon, 08 Jun 2026 15:21:42 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 08/06/2026 14:20 UTC, [unknown].",
+        "description": "On 6/8/2026 2:20:10 PM, an earthquake occurred in Southern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544927",
+        "pubDate": "Mon, 08 Jun 2026 14:41:13 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.5M, Depth:81.095km) in Philippines 08/06/2026 11:22 UTC, 3 million in MMI IV.",
+        "description": "On 6/8/2026 11:22:32 AM, an earthquake occurred in Philippines potentially affecting 3 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:81.095km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544876",
+        "pubDate": "Mon, 08 Jun 2026 11:42:14 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.6M, Depth:35km) in Philippines 08/06/2026 09:17 UTC, 50 thousand in MMI IV.",
+        "description": "On 6/8/2026 9:17:26 AM, an earthquake occurred in Philippines potentially affecting 50 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:35km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544854",
+        "pubDate": "Mon, 08 Jun 2026 10:00:38 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.5M, Depth:51.144km) in Philippines 08/06/2026 05:12 UTC, 7 thousand in MMI V.",
+        "description": "On 6/8/2026 5:12:04 AM, an earthquake occurred in Philippines potentially affecting 7 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:51.144km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544803",
+        "pubDate": "Mon, 08 Jun 2026 05:33:14 GMT"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.7M, Depth:35km) in Philippines 08/06/2026 04:46 UTC, 130 thousand in MMI IV.",
+        "description": "On 6/8/2026 4:46:42 AM, an earthquake occurred in Philippines potentially affecting 130 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:35km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544800",
+        "pubDate": "Mon, 08 Jun 2026 05:06:41 GMT"
+      },
+      {
+        "title": "Green flood alert in Ukraine",
+        "description": "On 08/06/2026, a flood started in Ukraine, lasting until 10/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103936",
+        "pubDate": "Thu, 11 Jun 2026 06:44:08 GMT"
+      }
+    ],
+    "typhoon": [],
+    "disease": [
+      {
+        "error": "ProMED parse failed"
+      }
+    ],
+    "forex": [
+      {
+        "pair": "USD/CNY",
+        "rate": null,
+        "date": ""
+      },
+      {
+        "pair": "EUR/USD",
+        "rate": null,
+        "date": ""
+      },
+      {
+        "pair": "USD/JPY",
+        "rate": null,
+        "date": ""
+      },
+      {
+        "pair": "EUR/CNY",
+        "rate": null,
+        "date": ""
+      },
+      {
+        "pair": "GBP/USD",
+        "rate": null,
+        "date": ""
+      }
+    ],
+    "bond_yields": [],
+    "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "ST Brings AI Inference Closer to Sensing Element",
+        "link": "https://www.eetasia.com/st-brings-ai-inference-closer-to-sensing-element/",
+        "pubDate": "Thu, 11 Jun 2026 11:32:48 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Memory Cost Pressures Expected to Drag Down Global Smartphone Production",
+        "link": "https://www.eetasia.com/memory-cost-pressures-expected-to-drag-down-global-smartphone-production/",
+        "pubDate": "Thu, 11 Jun 2026 02:39:06 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "TI Launches High-cell-count EIS-enabled Battery Monitor",
+        "link": "https://www.eetasia.com/ti-launches-high-cell-count-eis-enabled-battery-monitor/",
+        "pubDate": "Thu, 11 Jun 2026 02:30:59 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Samsung Starts Shipment of HBM4E Samples",
+        "link": "https://www.eetasia.com/samsung-starts-shipment-of-hbm4e-samples/",
+        "pubDate": "Thu, 11 Jun 2026 02:19:46 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Photonics Emerges as Next Scaling Frontier for AI Infra, Distributed Computing",
+        "link": "https://www.eetasia.com/photonics-emerges-as-next-scaling-frontier-for-ai-infra-distributed-computing/",
+        "pubDate": "Thu, 11 Jun 2026 02:02:43 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "What’s New at the 2026 DAC Exhibits",
+        "link": "https://semiwiki.com/eda/370115-whats-new-at-the-2026-dac-exhibits/",
+        "pubDate": "Wed, 10 Jun 2026 17:00:44 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Optimizing Photonic Integrated Circuit Production with yieldHUB Analytics",
+        "link": "https://semiwiki.com/eda/370005-optimizing-photonic-integrated-circuit-production-with-yieldhub-analytics/",
+        "pubDate": "Wed, 10 Jun 2026 15:00:51 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Disaggregating AI Compute to Break the Tokens Barrier",
+        "link": "https://semiwiki.com/artificial-intelligence/369947-disaggregating-ai-compute-to-break-the-tokens-barrier/",
+        "pubDate": "Wed, 10 Jun 2026 13:00:21 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Customized Foundation IP Enables the Next Generation of Automotive Compute",
+        "link": "https://semiwiki.com/eda/370099-customized-foundation-ip-enables-the-next-generation-of-automotive-compute/",
+        "pubDate": "Tue, 09 Jun 2026 17:00:29 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Rambus Delivers Complete DDR5 Client Chipset for High-Speed CUDIMM and CSODIMM Memory Modules",
+        "link": "https://semiwiki.com/ip/369937-rambus-delivers-complete-ddr5-client-chipset-for-high-speed-cudimm-and-csodimm-memory-modules/",
+        "pubDate": "Tue, 09 Jun 2026 15:00:07 +0000"
+      }
+    ],
+    "china_policy": [
+      {
+        "error": "MIIT feed unavailable"
+      }
+    ],
+    "competitor_news": [
+      {
+        "keyword": "Texas Instruments semiconductor",
+        "title": "UT Austin Selected To Help Lead National Expansion of Semiconductor Workforce - The University of Texas at Austin",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHZoRWljZTFCc1V1V1JYWS1EQ256RGJsYkxvdG1pbVRZc29USEFJaXo3LThMR2dhYTdNanZDX0s5MUpoYWQ1Tl9aNnp4WTEtUGcyVzdUYzJYakllamd3Zm0xcG1SRno0NWpGV3NTOC1WMG9FZWpvYjJaZWlXRjNTU1p3Yy1CdjdMUFFWY2ZZMTc3cUxPLVlfZHIyY1ZhdDBXNVZiN05kV2p2cFNZcEljMW1tRQ?oc=5",
+        "pubDate": "Tue, 09 Jun 2026 16:22:05 GMT"
+      },
+      {
+        "keyword": "Texas Instruments semiconductor",
+        "title": "In Utah’s Silicon Slopes, Texas Instruments Is A Pillar Of America’s Chip Comeback - The Business Download |",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2VUNEI4eHFFWHltNlRtb2pMa1NpRzkxS1BZdHZMbWdCaXE4anBiUTdOdDdoTXAzajQ3Z0pqQ1ZMVlBrRjBQOTdka2RGYXh1b2RmVFdlaTVyZXJOb0dZVXpoLXJfRDNGMEJwRnlJREdCT3Eyd25mVWwyUlFxeWRoN3didk5EOWRuSnl4RFJuTjVGaVR5SnE3Yl9VQ0RJZk9TQ19Wdmw0U3lRUThSZWJTQnRR?oc=5",
+        "pubDate": "Tue, 09 Jun 2026 13:19:37 GMT"
+      },
+      {
+        "keyword": "Texas Instruments semiconductor",
+        "title": "Texas Instruments, Silicon Labs merger filing not yet accepted in China - MLex",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzA1ZFlGeGt0UUNXRmlhT2R5RTUxN0l3b1EySXRmSUhVY0VRMmdxYzctbzBwSTRzdjhKMUJLWGNYZktzdFhydE1pYzRYN2pUMVlTdVY5Nm83eVBKNTh2eVlHeFVNTkg4MXFOek1zTWE5dHVqdDZ3RXRQQlF1WFpTdDRXMHhlNERaWW1GbmFBOG1lRmtHX1lSbEgtOWxzQlpGa084ckdQVXlJcmhJbEZLT2swOGVvUEhpQkVNYnJhSXN5N29YV0UydUtBeUl5aUXSAVpBVV95cUxOYXp2dWRGcnZLLVdta2hyamhpbW9WNk5fMEtJcFBKNmFIS3R6a2NwUjVFTmQ0bEZjR0NTUU91ekpBUXc4UlhJUllOUUxpdV9YYUFoX0FRaFRlM1E?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 03:44:00 GMT"
+      },
+      {
+        "keyword": "NXP semiconductor",
+        "title": "NXP Semiconductors Announces Quarterly Dividend - GlobeNewswire",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZXN5X2I2U0gwVmtEZUt1dFBYZDJsNE5GZU1VbEYwRkk1bm9JX3JsVGQ5b3VMXzRRU000WTBlLVEyNlN0ZERMRDBWNmJUOHdhYjJIV0huc1pNS1puUFNpWFdnLUFMbHRrZzJENFhKWjRSQ3l2QjVJMzlVYU02SU1fM1JYUE1VR1pGbTZWMV96azUyUXoyY1U3dl84RHI5Q2FwVl9HcmFQRGYtTktZclRyT1FLVEZ5WEw3SUZF?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 12:00:00 GMT"
+      },
+      {
+        "keyword": "NXP semiconductor",
+        "title": "CGD and NXP Semiconductors collaborate to deliver complete power conversion solutions for automotive and data centre applications - Engineer Live",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeVlXMEJSRGFoaTlfM0pYXzVZcjkwZEtPREFzb2xfQ1owbWRiNmJzMVJZZmFmSkt3MVE4ZVBqejJUcHpVanlOU0lHUGFpaGJvVG9LTW55NG5GbG5qMmdXMXlfdFpVbHZqd3NQVzFOVEc5WWhvc0lEWEtVN3VVNmZGTXdIbUR4bk5hSFRGTFFhOGxYaDIxUEFadEl5c2VUMFFFZU1PQ0hqWEZ1Z2szMTA3VHFhUjlOamtUTXNZ?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 10:48:59 GMT"
+      },
+      {
+        "keyword": "NXP semiconductor",
+        "title": "NXP Semiconductors N.V. $NXPI Shares Bought by Deutsche Bank AG - MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmhrVHhScXJsYThpbEVSenc4RnVsUFBPR3psclJhWnIxRm9veXhKNWxZY3MzejN1dzVLb3hrSjBYTmNCdXVWRXlSYnJMX0UtQU52Vkk2S3lxRW04azhtLU9JM3ZBZDNEeUIwQzNDNVhaa042akZqaDJYX2RieTFCQ0xUMjVRY1h5LW9hTjQ3VnVzaGJoRllIODkyWjNIRFA3Z3ZkUzBzb2tBVi1ZRVZBZXpPcFZNRkxIbGJKcFNB?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 08:41:59 GMT"
+      },
+      {
+        "keyword": "Infineon",
+        "title": "Infineon Technologies AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPS3U5SEFvRms3c3ZFWENlbHlwaGlndTBfYkNXVzNLRkhHQVFlaGEwa1VBSU9Mam1keGF3VjRYM3hDOU9qX2ZuZm1vSDNlOU5odGZ5TkNYeGJiLUdHbWFTSnViRmlZaXRhN1dUZEhoUUN5WmpNVllCRWVXVGQ3V0dISXNlWm1fT1JYZXdNdlN3Z0FOeXNiZVNGRmpPeFViLXptUXAwWlQ5QWxKZFlNQmJSUTdqUU94TE9VT251TmNDOWwySkd5RlRnZXpPMXg2b0paV0NvQXlHSDRTMHRxN0FQZ3J3N0h6bEJsWHg2X1Jpd3VhZW5Pc3N2RlhWeXdWU1ViTUI0MWdHempsQmpzT2g1ZDVFOTEzNldzTU1uWjkwV1RCSm9JU3dIYW02TC0zNkYzbDRYTUEtNzM?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 05:45:00 GMT"
+      },
+      {
+        "keyword": "Infineon",
+        "title": "Siemens and Infineon: Semiconductor Manufacturing and Risk - Manufacturing Digital",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzNMRjJhLVJWcUFwOGRXdF9NT3JMdVNla2JUTG5HeDBnczBKZmUxeThQOHE5dDlNSFUwdHFWa0YzeE9RWHhDdmE2Ynd3bUV1Ry0taHJBS3p3WENQUTBzUUhwdTF2SnExV3pDSUxZbTlkM3REMGQydjZ2dGg0QlRsWWF0TFI4Q1N2T1YyMTlkcTNaazZnUHJwNHJ4dUplbEgt?oc=5",
+        "pubDate": "Tue, 09 Jun 2026 14:09:15 GMT"
+      },
+      {
+        "keyword": "Infineon",
+        "title": "Infineon Deepens NVIDIA Ties In Physical AI Security And Power Delivery - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl8ybEpyUmxFd3VaTEItRjNhU1JscTctam9lbU90VVFiSEdhcXQ5YkhYZ1h3ZE9pbDlINDdCUk5JaHlqVTFlRW8xOEF1QndtRS1BeEdMVWdmUzdMN2gzZllIbFdVcDN3NXFRQ1hJQWtWdUczVlVNanJiWHk1M0t4eUVYOUpoNVFNcXBiN3AxYnh3UVlYemZqM0xVeGk4VlZCaVV4bg?oc=5",
+        "pubDate": "Sun, 07 Jun 2026 12:07:46 GMT"
+      },
+      {
+        "keyword": "STMicroelectronics",
+        "title": "STMicroelectronics doubles its data centre revenue target for 2026 - Evertiq",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlVWckk0b1o4RVhad2RCenJCbk8zWnV4a0lOQngtalUyV2lEUEZtb2NjbjU0WDNQWVpQWmM1VUpLQ2tMenNRMmhlcXh3M3pFSjl2Nk84eV9DTFVneVAtR1E5Z1ZWNGY1MWMtRFg2cnNhZndBbWRsTW94dFdyMUpud2lPMmUyd1gwZTZBWHNya3pSWUFEN21UWFJBeEtBOVhKMzc0Zy1nUQ?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 09:12:54 GMT"
+      },
+      {
+        "keyword": "STMicroelectronics",
+        "title": "STMicroelectronics expands ST87M01 NB-IoT module platform with certifications for North America and Brazil - STMicroelectronics",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uai1zTVZjdS02bzZ0UTVXcTNvQk4wcEtrbW16QWpxZFlIUXh1N29YWWI4RkVfOTRBVGMtOUZuWUlDWEd0cmRLR3dLUDR1dzF0QWlQQjQ3bFdLY1dCMmNPX0JwYmxFeUdkLWRoZEFfSzM?oc=5",
+        "pubDate": "Wed, 10 Jun 2026 20:35:17 GMT"
+      },
+      {
+        "keyword": "STMicroelectronics",
+        "title": "Is It Too Late To Consider STMicroelectronics (ENXTPA:STMPA) After A 168% Year-To-Date Surge? - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdS1WUFIzaXRKU013Zm5XWWE3b2dDbFhxMnNQOTJHM2dTOEEtakxRMEIydnNTZl9xeF8wSFdfYzZRZEhoWkFkbnliRVVYVmFoclNYVm5Pd1E5ZDJfa19QWm9DcEpjZk0xdzY2cTNGWUVBbE1yX3E4bk8tcUd1cmVaN1FYS0c0a1hLeUg4STB5djhFV3JoREhRQ1ZFU2V4OVFaLWtYVC1nblBVUU9pQWc?oc=5",
+        "pubDate": "Sun, 07 Jun 2026 02:11:00 GMT"
+      },
+      {
+        "keyword": "ADI Analog Devices",
+        "title": "MU, NVDA Look Smarter Buy Than Analog Devices Stock - Trefis",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFpZNmhzMHFReXZ4Z2EzYkl4N18tN3I4TnNkcDQ1aXQtR1ZDLVlQS2N5RTh3eGx4N3JIS2dvOW14YTJNaVNKTTVZNm45TWQyUzVVZUd2czlONWxXd1RhUzB0YkR0Q0U5M01jRnFlRHBiZGpPMzFFZld1VE0tTlhrUXVqcjI0UlJBT0otYTdxWTJmYVVSV0xTR01Cb1RuZHlCcmg3UHY5MTduZ3psU09Oc3J3?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 07:10:47 GMT"
+      },
+      {
+        "keyword": "ADI Analog Devices",
+        "title": "Analog Devices, Inc. $ADI Shares Acquired by LPL Financial LLC - MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2R5MkV0dDRPSmlQcGZBcTlHX0FSRUlZNlhTbjRjeFJMN0RGR1I3M0hlck55SGNYRGNCaTFtSnQ2RWNjN2tJWmdvTE1nTVpvUFl0bEIzcGtXZ1B2UnlaUWpXREhYdXczb2ZOUm5FR0hVdHAxTGxOc2tndnFiNjNNVG5yeUkyLW9vR0hQcy1vejM1OEJNNmRYWGdjMkU3M2dnMDAtRWxnSDY4blU0NlBKRjdLdDhIcUo0N0hrRg?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 09:26:14 GMT"
+      },
+      {
+        "keyword": "ADI Analog Devices",
+        "title": "Comparing Analog Devices With Industry Competitors In Semiconductors & Semiconductor Equipment Indust - Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWN4MngtQjV2ekh0NXY5M29NTE5lN291Y3dIYlRqeDhuYzRIeWZMdGp0X2U1WDhIek1XckFMcnE3LTJjYVlmMnNQTlpScFFkcDJvdDhRdVY1TVd5Skt1NjlJelEzdC02UkNaNDRqaGl4UEtfVGdEcW1UazVMczhDREtSeHZRc1lTUVVTdTE5b25PZ0pkQnI0bDZVcnV0cnJHMzlfZmJpbTF6MnREUUkxQ2Y5aWx2bXNXRTlkRGxZZkhHQUJtUVdpVW1TT2RXRVowMlc1YlNWeWNrZTdYZmJwSGtNd2dEMTky?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 09:59:37 GMT"
+      },
+      {
+        "keyword": "Renesas",
+        "title": "Is Renesas Electronics (TSE:6723) Overvalued After Strong 1-Year Gains And Recent Share Price Pullback - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2pIR1c0WTFiSEVHV2t5VVF6eUloclExa0FJNDVwWWQ2TnhYVFV6VEdFOVJuZkVVc0ZOLTVkVEtzTk1XZURjRjN5VkFDeGpOVHR6Y0ptQ1k3T1NrZVJVMzdOSGV4cDk2SmZNcmV5MnhfWkhPMGtkQVhjMHBwV2J4WUVGYUhscnRIT3dpTjd2cFhUUnVWaHFtajEzZldJdzFOZzczdnpJZw?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 11:09:17 GMT"
+      },
+      {
+        "keyword": "Renesas",
+        "title": "Will Renesas (TSE:6723) Engineering Shake-Up Subtly Reframe Its Innovation Edge And Risk Profile? - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOHo0by10ZWVPZVVTTzV5X2NMUlgtRVY1czJVT0lvcFhVWkdxTXJkZW1RcWUzbHNPNGRxNU4wY1RBRkZhVkRnZVdzSmY0bTcyNzdoN2ZrOXBCcllHdERGT2hjRnphU3VQZ05aaVBTWDlKcFZjZVhEZk5OWGVDQWRvV3Y2Z1dmMXRBbW1tbTlHYjdzam5lWWlTdFFBQi0tcFM5TVJJSG8zWXB0allGNm9TYlpVdzFXVU9MMkdmTTAwbG9GX1VnbkZIMjVTb2JqVDhRWHgtUnBOQWhUSVl2WG5lRTJIek00cTTSAecBQVVfeXFMUDh6NG8tdGVlT2VVU081eV9jTFJYLUVWNXMyVU9Jb3BYVVpHcU1yZGVtUXFlM2xzTzRkcTVOMGNUQUZGYVZEZ2VXc0pmNG03Mjc3aDdmazlwQnJZR3RERk9oY0Z6YVN1UGdOWmlQU1g5SnBWY2VYRGZOTlhlQ0Fkb1d2NmdXZjF0QW1tbW05R2I3c2puZVlpU3RRQUItLXBTOU1SSUhvM1lwdGpZRjZvU2JaVXcxV1VPTDJHZk0wMGxvRl9VZ25GSDI1U29ialQ4UVh4LVJwTkFoVElZdlhuZUUySHpNNHE0?oc=5",
+        "pubDate": "Wed, 10 Jun 2026 15:28:33 GMT"
+      },
+      {
+        "keyword": "Renesas",
+        "title": "Renesas Completes Acquisition of Irida Labs to Expand Vision AI Software Capabilities and Accelerates System-Level Vision Solutions - Renesas Electronics",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRkZtak5BVHZURE83MnJCQVpaSm5BTHM1TGJibHFrOEREbVlIUUpNbEsyTEhQUjFlNWUwMTVYOEZSWmw4dEh3ZjBBOVhoS2s3azFocnVmSEVTV00xbDlyT3dzUENaZGZfOWZMd1ZGNHgxRlhyeFdvb055R2g4Y0ZPdjNpeFFLZzMxRTRWYmpZUHRnVm1JQkdKVUYxdFc1ZTZEV2l2TTFLdGVrMjhERFRNM0dqY1FRVHJrczFjMjB5V3BGZWllbEQtVkJlekx1QWR5cGRV?oc=5",
+        "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+      },
+      {
+        "keyword": "Microchip Technology",
+        "title": "Assessing Microchip Technology (MCHP) Valuation After A Recent Pullback In The Share Price - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGViWnJ3RDlWZmJlQUthRXVKNnF6T19KOWVoWXJnRDdOSzFtMzRYYk5HMThHOG9ncGhqbzA1eWhNUnkwVDhxZE5vbm5DQVREOVNyT1Jja0NCYlNWQmRwSHFEZ0pVNDBDbUNua2o3MUZyUl84anJFNXVMOUJMMDBPOEg2bU1TanJhSUZzejFLam1UbUZqMHh5WlBkOVRPS3EybHBEVzdtcklZck5mQlJPclV1TVROemlLUjEzd1NHeUpOeXU4NEFkbUxtalpROVlVUzdwZDByVm5RMEt3cmfSAeMBQVVfeXFMTzNSb1U5RFJ4U2s5UzZ4ak5pSFlmazlzdVZGcjQ0RS1LV2M1VUxCa2lkWWdWcTNXNHF1OFdjTGtLTUN0WVE0cFhuZDBaVnFsUjVkYU1DNG15cXNSUzBYSHF5bUl0SGVkNWVsRHhrTWhUS05sVUw2d1poVVBiVGx6NnFKYWdVZzJBam1uNDd3RFZVbmh2ZkNtOUtGYnBkZmowUmprMjJITl91aG5lQXVWV05JZEk4N3NkSHlUeXVzWllCUXNFSG1yYmoxOExNZkVGWlRISmwzVGhXWmtWR1NOdlNmQXc?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 11:45:46 GMT"
+      },
+      {
+        "keyword": "Microchip Technology",
+        "title": "Seagate, Entegris, and Microchip Technology Stocks Trade Down, What You Need To Know - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUxWX2lLTW5WV1dLSFB6UlV1SDFBdU1taEpLdWlQYUp4REVZbmliSmtsa1NuYzJnVVF3UmhyZThhNzdGeFhIOUFndDE2ZldBVllwbEtWck12WVZtblIyV1AwN3FCMndPeU1lRV90c0VFN3p0RVRXdl9ZR2ZPLXJ4QUtuaVVkak9CQ1lWdlFhRUFaYUNQOFN0azJaRE9Xb2V5QTBPT1lYdlBQc0dDMlE?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 00:17:00 GMT"
+      },
+      {
+        "keyword": "Microchip Technology",
+        "title": "Apollo to Artemis chips: Microchip French plant gets Class Y certification - Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXN6WFVnRHRLcTdDUEI4Vkd0a1lpbXFNTlVSOGZoa2QtenhMQWFEc3ZCTFptY2dxcVJQZjlObTNHaFZyR21WR0VzVGUxd0tsaExSVWxlNzQ5QkhURFRLZ2ZkX2V0YTM2Y01QLV9lb095MEYtd3ZrZnkwN0F4SVY3eU5XRlFMclA2QTdyN2czTlozcVVZemZJRUY1TEhUVWtjZVlvd3lWVVUtVkV5RHJCUzE1Zw?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 12:00:00 GMT"
+      }
+    ]
+  }
+}
