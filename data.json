@@ -1,8 +1,64 @@
 {
-  "date": "2026-06-11",
-  "updated_at": "2026-06-11T12:40:23.770888+00:00",
+  "date": "2026-06-12",
+  "updated_at": "2026-06-12T03:32:58.043785+00:00",
   "categories": {
     "earthquake": [
+      {
+        "magnitude": 4.5,
+        "place": "23公里 NNE Goroka 巴布亚新几内亚",
+        "time": "2026-06-12 02:24",
+        "depth_km": 92.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sse2",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "35公里 东 Port-Olry Vanuatu",
+        "time": "2026-06-12 01:53",
+        "depth_km": 157.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssdz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "Izu Islands 日本 区域",
+        "time": "2026-06-12 00:20",
+        "depth_km": 475.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssdn",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "68公里 北西北 Isangel Vanuatu",
+        "time": "2026-06-11 21:32",
+        "depth_km": 168.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssct",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "85公里 南 Pýrgos Greece",
+        "time": "2026-06-11 19:30",
+        "depth_km": 30.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssbd",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "71公里 南 Sarangani 菲律宾",
+        "time": "2026-06-11 16:09",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss9q",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "128公里 西北 Vallenar 智利",
+        "time": "2026-06-11 12:22",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss82",
+        "tsunami": 0
+      },
       {
         "magnitude": 5.1,
         "place": "123公里 西北 Vallenar 智利",
@@ -74,94 +130,6 @@
         "depth_km": 10,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5v",
         "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "20公里 东南 Sarangani 菲律宾",
-        "time": "2026-06-11 03:14",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5k",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "70公里 南 Sarangani 菲律宾",
-        "time": "2026-06-11 02:43",
-        "depth_km": 32.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5f",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "south the 斐济",
-        "time": "2026-06-11 02:41",
-        "depth_km": 184.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5c",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.5,
-        "place": "58公里 南 Sarangani 菲律宾",
-        "time": "2026-06-11 01:56",
-        "depth_km": 49.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss57",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "57公里 西南偏南 Sarangani 菲律宾",
-        "time": "2026-06-11 00:00",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4y",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "175公里 西南偏南 Houma 汤加",
-        "time": "2026-06-10 23:50",
-        "depth_km": 46.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss50",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.4,
-        "place": "176公里 东南偏东 Neiafu 汤加",
-        "time": "2026-06-10 23:30",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4s",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "67公里 西南偏南 Sarangani 菲律宾",
-        "time": "2026-06-10 23:26",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4r",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "25公里 东北偏东 Sibolga 印度尼西亚",
-        "time": "2026-06-10 16:30",
-        "depth_km": 127.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss28",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "165公里 东南 Petropavlovsk-Kamchatsky 俄罗斯",
-        "time": "2026-06-10 15:23",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss21",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "156公里 东南偏东 Petropavlovsk-Kamchatsky 俄罗斯",
-        "time": "2026-06-10 13:45",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss1g",
-        "tsunami": 0
       }
     ],
     "gdacs": [
@@ -170,6 +138,12 @@
         "description": "On 28/06/2026, a flood started in Türkiye, lasting until 30/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
         "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103920",
         "pubDate": "2026-06-02 05:45"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) 智利 11/06/2026 12:22 , 6千 MMI IV.",
+        "description": "On 6/11/2026 12:22:06 PM, an earthquake occurred in Chile potentially affecting 6 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545654",
+        "pubDate": "2026-06-11 12:40"
       },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:49.891公里) 菲律宾 11/06/2026 01:56 , 120千 烈度≥IV级.",
@@ -248,12 +222,6 @@
         "description": "On 6/8/2026 4:46:42 AM, an earthquake occurred in Philippines potentially affecting 130 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:35km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544800",
         "pubDate": "2026-06-08 05:06"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 乌克兰",
-        "description": "On 08/06/2026, a flood started in Ukraine, lasting until 10/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103936",
-        "pubDate": "2026-06-11 06:44"
       }
     ],
     "typhoon": [],
@@ -266,31 +234,37 @@
       {
         "pair": "美元/人民币",
         "rate": 6.79,
-        "date": "2026-06-11"
+        "date": "2026-06-12"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1534,
-        "date": "2026-06-11"
+        "rate": 1.1547,
+        "date": "2026-06-12"
       },
       {
         "pair": "美元/日元",
-        "rate": 160.47,
-        "date": "2026-06-11"
+        "rate": 160.27,
+        "date": "2026-06-12"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.8316,
-        "date": "2026-06-11"
+        "rate": 7.8406,
+        "date": "2026-06-12"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3369,
-        "date": "2026-06-11"
+        "rate": 1.3387,
+        "date": "2026-06-12"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "MIPI Alliance Strengthens A-PHY Automotive Ecosystem with New Compliance Program",
+        "link": "https://www.eetasia.com/mipi-alliance-strengthens-a-phy-automotive-ecosystem-with-new-compliance-program/",
+        "pubDate": "Fri, 12 Jun 2026 02:44:10 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "ST Brings AI Inference Closer to Sensing Element",
@@ -316,10 +290,22 @@
         "pubDate": "Thu, 11 Jun 2026 02:19:46 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Photonics Emerges as Next Scaling Frontier for AI Infra, Distributed Computing",
-        "link": "https://www.eetasia.com/photonics-emerges-as-next-scaling-frontier-for-ai-infra-distributed-computing/",
-        "pubDate": "Thu, 11 Jun 2026 02:02:43 +0000"
+        "source": "SemiWiki",
+        "title": "The Memory Sector Is Becoming One of the Main Beneficiaries of the AI Boom",
+        "link": "https://semiwiki.com/semiconductor-manufacturers/369676-the-memory-sector-is-becoming-one-of-the-main-beneficiaries-of-the-ai-boom/",
+        "pubDate": "Thu, 11 Jun 2026 17:00:52 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "WEBINAR: Engineering Documentation is a Critical Source of Truth – Do You Know if it’s Accurate?",
+        "link": "https://semiwiki.com/eda/llmda-ai/369693-engineering-documentation-is-a-critical-source-of-truth-do-you-know-if-its-accurate/",
+        "pubDate": "Thu, 11 Jun 2026 15:00:10 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Technical Paper: FPGA Prototyping That Creates Useful PreSilicon Evidence",
+        "link": "https://semiwiki.com/prototyping/s2c-eda/370147-fpga-prototyping-that-creates-useful-presilicon-evidence/",
+        "pubDate": "Thu, 11 Jun 2026 13:00:32 +0000"
       },
       {
         "source": "SemiWiki",
@@ -332,24 +318,6 @@
         "title": "Optimizing Photonic Integrated Circuit Production with yieldHUB Analytics",
         "link": "https://semiwiki.com/eda/370005-optimizing-photonic-integrated-circuit-production-with-yieldhub-analytics/",
         "pubDate": "Wed, 10 Jun 2026 15:00:51 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Disaggregating AI Compute to Break the Tokens Barrier",
-        "link": "https://semiwiki.com/artificial-intelligence/369947-disaggregating-ai-compute-to-break-the-tokens-barrier/",
-        "pubDate": "Wed, 10 Jun 2026 13:00:21 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Customized Foundation IP Enables the Next Generation of Automotive Compute",
-        "link": "https://semiwiki.com/eda/370099-customized-foundation-ip-enables-the-next-generation-of-automotive-compute/",
-        "pubDate": "Tue, 09 Jun 2026 17:00:29 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Rambus Delivers Complete DDR5 Client Chipset for High-Speed CUDIMM and CSODIMM Memory Modules",
-        "link": "https://semiwiki.com/ip/369937-rambus-delivers-complete-ddr5-client-chipset-for-high-speed-cudimm-and-csodimm-memory-modules/",
-        "pubDate": "Tue, 09 Jun 2026 15:00:07 +0000"
       }
     ],
     "china_policy": [
@@ -372,9 +340,9 @@
       },
       {
         "keyword": "德州仪器(TI)",
-        "title": "瑞芯微对比TI、NXP究竟差在哪? - 财富号",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qSFZISE80eXhBZWNaM1VGSlNIOGhHMDByRFFBdDBmTHExSVBoRlpkZTVyUktDbnBaZEFRazYxbHBNVm01aGdzaFdodlZJUzBYZXNFbV90WWFhalpSVmxwd210ZmdhYUxDcERr?oc=5",
-        "pubDate": "2026-03-10 07:00"
+        "title": "NXP Semiconductors Rose 8% This Week. Here’s Why 2026 Could Be a Turning Point - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGdLaEhUTEJ4Um84Smdzd0lBX05VTmsyTW5MNDEwaU80S3AxM2FMYl8tTmo4SUdVTC1XRXVYb3ZaaTRHcTF4ZHBkc3JLMndPcE1iVXg3LTdCNkRINTVPOHR0dVVwd2VndkhwQmZ5RUI4SGpyZ3h5bGFaUjdMdkVmbUxlT3d1TnZDamFRUGFXR0lhRWRjZWdGVjcxdDhXa2pDZ1RBSmFhUQ?oc=5",
+        "pubDate": "2026-05-29 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -390,7 +358,7 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - 观察者",
+        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - guancha.cn",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
         "pubDate": "2026-03-05 08:00"
       },
@@ -410,13 +378,13 @@
         "keyword": "英飞凌",
         "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
-        "pubDate": "2026-05-11 07:00"
+        "pubDate": "2026-05-25 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "意法半导体在人工智能基础设施持续强劲需求的推动下，提高了其数据中心业务的收入目标。 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmpJWXRGcFRxdzhVc3dZa0d4bWJFWVhFM3kzSDB5WC1fRjJBT3RJdnUzUEVPcXR0cjFvckpMWVR2ODB5aXc3YTE1Y0IyV1h2SXBnT3ZHSmdKX2tjUlpxNDdQeUZYdk5QSkJ3eDZkRlpYWWVUMkN0bGFIOGx3dUJkY2s0aGFCVVFtTXJ4R2h4Z0hDV29heV9XV2E0UlRGT3ppUVRDWTZvRE9QMUNPRGs3U2NfelhZMGhvN0VfUG5zcVJVaFFaVkE?oc=5",
-        "pubDate": "2026-06-02 04:00"
+        "title": "德意志银行上调意法半导体的目标价，维持买入评级 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFIwX3AtdGVjUDNBaHRleUZYY0s1VUdXRHd2VlJsV3hPazZtdlhTeUVMdzh5WVBrc3BSYThPWENBWE1LQWd5UC04STlIZlZmSmpKa005VjFrQ1BXUGRMYkIxWVY0NlAzR0VhZkU5WjZkWXJTMHZkcTl4UldiNUh4ZDhHZHNCdEszQXJPMHRFeS01OFZNMlFPTzNMX0xWUnZXOUFRR2RFMEgzNzQ1?oc=5",
+        "pubDate": "2026-06-11 12:44"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -426,9 +394,9 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "【湾区物道】聚焦工业4.0核心需求，解码半导体破局路径——专访意法半导体 Allan Lagasca - RFID世界网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCYXhILXBFbklQZjEwYklUa1lXNmkwSHNrN1JZTHU5TFNfR3VJUzdsTkJpMWhCSGtTbFBOaWpfTlRTOFVVX1o4RVhCXzVvR2hlcFk0eHdVa0RCZ0NjN2NvRmotUnJVNFlxU3c?oc=5",
-        "pubDate": "2025-11-04 08:00"
+        "title": "意法半导体股价下跌，因芯片股在行业冲击后普遍回落，交易员在近期人工智能数据中心乐观情绪后获利了结。 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3g2MEZobUdhSEhtd2ZZY2pkemttQlB4aGo4UTR6SnlGN0VrOG9kU1BNYjZEVkloQkxmajdDaGg4VlBtaVEwN3gzMlZNaTJiZzJlaWI3UmYzSENpLS13bjIwWFgwaVU1VERUeHRlX0pPSVRGMUxzRms4NXhyV2xTcWdsUnRhY3otMkhyZTRjYlNzOXQwblN5MFRDNkdDS0xyME9yWmlWeGk2d2o1aFhKRzk5RXROdHh5dE1Z?oc=5",
+        "pubDate": "2026-06-04 14:52"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -456,15 +424,15 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "PROFINET I/O设备芯片TPS-1演示 - Renesas Electronics",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFdyS1ZLcjQ0YU1UeUpkdWJmaUphUmc1eWUwSlhoRmFVU0xHQlo2X2NOMnVnMGJ6Zy1HTXgtc0FMd00xd0FuOE81c251MEtxQXBKSUJ3bVNya1NIMVBZVnpTdVhnd09VMUduQlhkelM3Q0swZFREYWt0RURPLTJVR3hOdElQcm9HdzJJRA?oc=5",
-        "pubDate": "2018-04-04 07:00"
+        "title": "Global Integrated Circuit Makers Exhibit Latest Tech at 5th CIIE - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0tEQ3ljYUJuZkl5WU9PN0VMNzBfRlAwcVNPVHBTLWplRUs2R2tRQnZWVFdPSTY5T3JoWVdSakVvMlBsNjRqVldhUGp5Mm5SQ2ZSZnhkYl9NSkNtTXBIeTRaQ2lnekRtUmpOdDQ3SFVaRFcxVWxadkZJWDB0U0NadC1oeGlxcnlManFWWWJnZzIxOTRSdTFveFZBWHZoaDg?oc=5",
+        "pubDate": "2022-11-10 08:00"
       },
       {
         "keyword": "瑞萨",
-        "title": "“智”燃盛夏，贸泽电子即将亮相2023慕尼黑上海电子展 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyc2JZZ2pZZmNuaGp5QmlhejRtSVFmN2drZlpfZW9qUDhRV2hoalEwY0JSVC1oRWcwYjdNbXUxZGx6bmZLMXMxQnZ5RW9XSXRo?oc=5",
-        "pubDate": "2023-07-03 07:00"
+        "title": "PROFINET I/O设备芯片TPS-1演示 - Renesas Electronics",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFdyS1ZLcjQ0YU1UeUpkdWJmaUphUmc1eWUwSlhoRmFVU0xHQlo2X2NOMnVnMGJ6Zy1HTXgtc0FMd00xd0FuOE81c251MEtxQXBKSUJ3bVNya1NIMVBZVnpTdVhnd09VMUduQlhkelM3Q0swZFREYWt0RURPLTJVR3hOdElQcm9HdzJJRA?oc=5",
+        "pubDate": "2018-04-04 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
@@ -482,7 +450,7 @@
         "keyword": "微芯科技(Microchip)",
         "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
-        "pubDate": "2026-05-11 07:00"
+        "pubDate": "2026-05-25 07:00"
       }
     ]
   }
