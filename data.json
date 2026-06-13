@@ -1,227 +1,140 @@
 {
-  "date": "2026-06-12",
-  "updated_at": "2026-06-12T03:32:58.043785+00:00",
+  "date": "2026-06-13",
+  "updated_at": "2026-06-13T02:58:07.058324+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.5,
-        "place": "23公里 NNE Goroka 巴布亚新几内亚",
-        "time": "2026-06-12 02:24",
-        "depth_km": 92.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sse2",
+        "magnitude": 5.2,
+        "place": "2公里 WSW Kablalan 菲律宾",
+        "time": "2026-06-13 02:05",
+        "depth_km": 69.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssls",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "35公里 东 Port-Olry Vanuatu",
-        "time": "2026-06-12 01:53",
-        "depth_km": 157.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssdz",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "Izu Islands 日本 区域",
-        "time": "2026-06-12 00:20",
-        "depth_km": 475.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssdn",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5,
-        "place": "68公里 北西北 Isangel Vanuatu",
-        "time": "2026-06-11 21:32",
-        "depth_km": 168.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssct",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "85公里 南 Pýrgos Greece",
-        "time": "2026-06-11 19:30",
-        "depth_km": 30.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssbd",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "71公里 南 Sarangani 菲律宾",
-        "time": "2026-06-11 16:09",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss9q",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.5,
-        "place": "128公里 西北 Vallenar 智利",
-        "time": "2026-06-11 12:22",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss82",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "123公里 西北 Vallenar 智利",
-        "time": "2026-06-11 12:06",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7x",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "62公里 南 Sarangani 菲律宾",
-        "time": "2026-06-11 11:46",
-        "depth_km": 35.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7v",
+        "place": "77公里 西北偏西 Hihifo 汤加",
+        "time": "2026-06-13 00:09",
+        "depth_km": 193.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssle",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "170公里 东南偏东 Petropavlovsk-Kamchatsky 俄罗斯",
-        "time": "2026-06-11 10:00",
-        "depth_km": 35.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss75",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "18公里 西北 Mamou 几内亚",
-        "time": "2026-06-11 09:04",
-        "depth_km": 10.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6x",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "south the 斐济",
-        "time": "2026-06-11 07:53",
-        "depth_km": 540.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6i",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.4,
-        "place": "59公里 南 Sarangani 菲律宾",
-        "time": "2026-06-11 07:33",
-        "depth_km": 73.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6g",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5,
-        "place": "65公里 南东南 Sarangani 菲律宾",
-        "time": "2026-06-11 05:38",
-        "depth_km": 62.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss60",
+        "place": "137公里 北 Tobelo 印度尼西亚",
+        "time": "2026-06-12 19:33",
+        "depth_km": 101.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssjl",
         "tsunami": 0
       },
       {
         "magnitude": 5.2,
-        "place": "117公里 西北 Vallenar 智利",
-        "time": "2026-06-11 05:19",
+        "place": "65公里 南 Sarangani 菲律宾",
+        "time": "2026-06-12 19:10",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5y",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssje",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "212公里 东南 Ust’-Kamchatsk Staryy 俄罗斯",
-        "time": "2026-06-11 04:44",
+        "place": "30公里 西南偏南 Daliao 菲律宾",
+        "time": "2026-06-12 17:58",
+        "depth_km": 65.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssit",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "123公里 西 El Aguilar 阿根廷",
+        "time": "2026-06-12 17:54",
+        "depth_km": 213.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssir",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "169公里 东南 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-06-12 16:08",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5v",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sshz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "213公里 东 Levuka 斐济",
+        "time": "2026-06-12 14:52",
+        "depth_km": 581.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssh2",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "132公里 西北 Malango Solomon Islands",
+        "time": "2026-06-12 14:20",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssgt",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "6公里 南东南 Pangyan 菲律宾",
+        "time": "2026-06-12 12:47",
+        "depth_km": 54.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssgf",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "10公里 西南 Qutqashen Azerbaijan",
+        "time": "2026-06-12 11:13",
+        "depth_km": 58.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssg4",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "southern East 太平洋 Rise",
+        "time": "2026-06-12 08:59",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssfk",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "203公里 南 Severo-Kuril’sk 俄罗斯",
+        "time": "2026-06-12 08:15",
+        "depth_km": 42.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssfb",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "south the 斐济",
+        "time": "2026-06-12 07:18",
+        "depth_km": 535.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssf6",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "斐济 区域",
+        "time": "2026-06-12 05:42",
+        "depth_km": 552.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sses",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "47公里 西南偏南 Lumatil 菲律宾",
+        "time": "2026-06-12 05:14",
+        "depth_km": 57.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssen",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
-        "title": "绿色（低） 洪水 警报 土耳其",
-        "description": "On 28/06/2026, a flood started in Türkiye, lasting until 30/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103920",
-        "pubDate": "2026-06-02 05:45"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) 智利 11/06/2026 12:22 , 6千 MMI IV.",
-        "description": "On 6/11/2026 12:22:06 PM, an earthquake occurred in Chile potentially affecting 6 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545654",
-        "pubDate": "2026-06-11 12:40"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:49.891公里) 菲律宾 11/06/2026 01:56 , 120千 烈度≥IV级.",
-        "description": "On 6/11/2026 1:56:14 AM, an earthquake occurred in Philippines potentially affecting 120 thousand in MMI>=IV. The earthquake had Magnitude 5.5M, Depth:49.891km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545533",
-        "pubDate": "2026-06-11 02:11"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.7级, 深度:343.313公里) 俄罗斯 10/06/2026 10:34 , 220千 烈度≥II级.",
-        "description": "On 6/10/2026 10:34:17 AM, an earthquake occurred in Russian Federation potentially affecting 220 thousand in MMI>=II. The earthquake had Magnitude 5.7M, Depth:343.313km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545401",
-        "pubDate": "2026-06-10 10:50"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6级, 深度:13.669公里) 奥克兰群岛, N.Z. Region 10/06/2026 00:44 , 未知.",
-        "description": "On 6/10/2026 12:44:20 AM, an earthquake occurred in Auckland Islands, N.Z.  Region potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:13.669km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545305",
-        "pubDate": "2026-06-10 01:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 10/06/2026, a forest fire started in Australia,  until 11/06/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028855",
-        "pubDate": "2026-06-10 19:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 美国",
-        "description": "On 10/06/2026, a forest fire started in United States,  until 11/06/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028867",
-        "pubDate": "2026-06-10 23:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 09/06/2026, a forest fire started in Australia,  until 10/06/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028846",
-        "pubDate": "2026-06-10 07:00"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6.1级, 深度:26公里) 古巴 08/06/2026 18:00 , 3千 MMI V.",
-        "description": "On 6/8/2026 6:00:27 PM, an earthquake occurred in Cuba potentially affecting 3 thousand in MMI V. The earthquake had Magnitude 6.1M, Depth:26km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544981",
-        "pubDate": "2026-06-08 18:10"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 CRISTINA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 08/06/2026 to 11/06/2026, a Tropical Depression (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001275",
-        "pubDate": "2026-06-08 15:21"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) 南大西洋中脊 08/06/2026 14:20 , 未知.",
-        "description": "On 6/8/2026 2:20:10 PM, an earthquake occurred in Southern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544927",
-        "pubDate": "2026-06-08 14:41"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:81.095公里) 菲律宾 08/06/2026 11:22 , 3 million MMI IV.",
-        "description": "On 6/8/2026 11:22:32 AM, an earthquake occurred in Philippines potentially affecting 3 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:81.095km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544876",
-        "pubDate": "2026-06-08 11:42"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.6级, 深度:35公里) 菲律宾 08/06/2026 09:17 , 50千 MMI IV.",
-        "description": "On 6/8/2026 9:17:26 AM, an earthquake occurred in Philippines potentially affecting 50 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:35km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544854",
-        "pubDate": "2026-06-08 10:00"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:51.144公里) 菲律宾 08/06/2026 05:12 , 7千 MMI V.",
-        "description": "On 6/8/2026 5:12:04 AM, an earthquake occurred in Philippines potentially affecting 7 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:51.144km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544803",
-        "pubDate": "2026-06-08 05:33"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.7级, 深度:35公里) 菲律宾 08/06/2026 04:46 , 130千 MMI IV.",
-        "description": "On 6/8/2026 4:46:42 AM, an earthquake occurred in Philippines potentially affecting 130 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:35km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544800",
-        "pubDate": "2026-06-08 05:06"
+        "error": "GDACS 解析失败"
       }
     ],
     "typhoon": [],
@@ -233,32 +146,38 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.79,
-        "date": "2026-06-12"
+        "rate": 6.78,
+        "date": "2026-06-13"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1547,
-        "date": "2026-06-12"
+        "rate": 1.1574,
+        "date": "2026-06-13"
       },
       {
         "pair": "美元/日元",
-        "rate": 160.27,
-        "date": "2026-06-12"
+        "rate": 160.24,
+        "date": "2026-06-13"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.8406,
-        "date": "2026-06-12"
+        "rate": 7.8472,
+        "date": "2026-06-13"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3387,
-        "date": "2026-06-12"
+        "rate": 1.3405,
+        "date": "2026-06-13"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "Cadence, Samsung Foundry Expand 2nm and 3D‑IC Platform Partnership",
+        "link": "https://www.eetasia.com/cadence-samsung-foundry-expand-2nm-and-3d%e2%80%91ic-platform-partnership/",
+        "pubDate": "Fri, 12 Jun 2026 05:19:53 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "MIPI Alliance Strengthens A-PHY Automotive Ecosystem with New Compliance Program",
@@ -284,10 +203,10 @@
         "pubDate": "Thu, 11 Jun 2026 02:30:59 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Samsung Starts Shipment of HBM4E Samples",
-        "link": "https://www.eetasia.com/samsung-starts-shipment-of-hbm4e-samples/",
-        "pubDate": "Thu, 11 Jun 2026 02:19:46 +0000"
+        "source": "SemiWiki",
+        "title": "How llmda.ai Coaxed Me Out of Retirement, an Interview with Kurt Shuler",
+        "link": "https://semiwiki.com/eda/llmda-ai/370182-how-llmda-ai-coaxed-me-out-of-retirement-an-interview-with-kurt-shuler/",
+        "pubDate": "Fri, 12 Jun 2026 13:00:48 +0000"
       },
       {
         "source": "SemiWiki",
@@ -312,12 +231,6 @@
         "title": "What’s New at the 2026 DAC Exhibits",
         "link": "https://semiwiki.com/eda/370115-whats-new-at-the-2026-dac-exhibits/",
         "pubDate": "Wed, 10 Jun 2026 17:00:44 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Optimizing Photonic Integrated Circuit Production with yieldHUB Analytics",
-        "link": "https://semiwiki.com/eda/370005-optimizing-photonic-integrated-circuit-production-with-yieldhub-analytics/",
-        "pubDate": "Wed, 10 Jun 2026 15:00:51 +0000"
       }
     ],
     "china_policy": [
@@ -326,12 +239,6 @@
       }
     ],
     "competitor_news": [
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "TI 推出业界最高电芯数量的支持 EIS 的电池监控器，为电池管理系统注入智能 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzFicHNPMnlFWk8tNGItT1VUbEVObnp5UTc5MGVNWVVPdm5XMlBoSy1ad1RkLW9NUi1mS3BGcUNhcklKYlJnSC1YZmpLUUNFZ1JQRjFRVHJFWlliQm8xcDlacTlmUkZ4dFJjMlVKZGxybS1NLXBTYlVkcmZiX19YUGoteXlNU1hOdDc0aFVJaTFtSUFYV0lzMHhTRHJfRGVobnI0NENGUzBWLUNJQTFtelRkVlpXdw?oc=5",
-        "pubDate": "2026-06-09 06:00"
-      },
       {
         "keyword": "德州仪器(TI)",
         "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
@@ -343,6 +250,12 @@
         "title": "NXP Semiconductors Rose 8% This Week. Here’s Why 2026 Could Be a Turning Point - TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGdLaEhUTEJ4Um84Smdzd0lBX05VTmsyTW5MNDEwaU80S3AxM2FMYl8tTmo4SUdVTC1XRXVYb3ZaaTRHcTF4ZHBkc3JLMndPcE1iVXg3LTdCNkRINTVPOHR0dVVwd2VndkhwQmZ5RUI4SGpyZ3h5bGFaUjdMdkVmbUxlT3d1TnZDamFRUGFXR0lhRWRjZWdGVjcxdDhXa2pDZ1RBSmFhUQ?oc=5",
         "pubDate": "2026-05-29 07:00"
+      },
+      {
+        "keyword": "德州仪器(TI)",
+        "title": "模拟芯片“一哥”德州仪器炸裂业绩背后：半导体复苏已经AI算力蔓延至工业与汽车 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS3ZkUmxnZTZEcjd3T3Y0ZktsSEpETVpDTkdLUGVnaHZDcGVzVTd0N1NkLWhiS29nUTdNQjI0bC1iNTd2RXIzYzBLWDdreEt2blhSaGhIRVVXc0c5THZzLTRhVkdGWmFnamt4Q1l4d1JMSHF6a3JQNUtzYWNobkVFaE45NXJoenVHb2VxdENRS3JMcFdPeWRKanRaaWhtanNxeTc4eW9yaXFENUZkajU2WUdTM0Uwd3k1M1pnTm9uTjU4bGFZVzlyNWhn?oc=5",
+        "pubDate": "2026-04-23 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -358,7 +271,7 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - guancha.cn",
+        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - 观察者网",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
         "pubDate": "2026-03-05 08:00"
       },
@@ -376,9 +289,9 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
-        "pubDate": "2026-05-25 07:00"
+        "title": "中国贸促会经贸摩擦预警信息快报 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MnhzNGhXNUZMY25USmZVM3dQaF9pbWkxS1Y2U2R4TW1Ed0ZDOUMwSml5UmhBUVNMUS1pa0VIWVNPNTVyRngzQ2Z3LW9vVHBhd2lOdkN3?oc=5",
+        "pubDate": "2026-05-16 10:48"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -394,15 +307,15 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "意法半导体股价下跌，因芯片股在行业冲击后普遍回落，交易员在近期人工智能数据中心乐观情绪后获利了结。 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3g2MEZobUdhSEhtd2ZZY2pkemttQlB4aGo4UTR6SnlGN0VrOG9kU1BNYjZEVkloQkxmajdDaGg4VlBtaVEwN3gzMlZNaTJiZzJlaWI3UmYzSENpLS13bjIwWFgwaVU1VERUeHRlX0pPSVRGMUxzRms4NXhyV2xTcWdsUnRhY3otMkhyZTRjYlNzOXQwblN5MFRDNkdDS0xyME9yWmlWeGk2d2o1aFhKRzk5RXROdHh5dE1Z?oc=5",
-        "pubDate": "2026-06-04 14:52"
+        "title": "【湾区物道】聚焦工业4.0核心需求，解码半导体破局路径——专访意法半导体 Allan Lagasca - RFID世界网",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCYXhILXBFbklQZjEwYklUa1lXNmkwSHNrN1JZTHU5TFNfR3VJUzdsTkJpMWhCSGtTbFBOaWpfTlRTOFVVX1o4RVhCXzVvR2hlcFk0eHdVa0RCZ0NjN2NvRmotUnJVNFlxU3c?oc=5",
+        "pubDate": "2025-11-04 08:00"
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices (ADI) News Flow - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNR09TS1RyZ1lTSERkR2tkbFZUNWlSVi1Kc1FUQ1lzVnAxdTJ1OUhBMFBuZDBKMjI2dlJuZW5QbFp4MVllNDFJWVQ0TUVqcnNjWFJmWExaWjdoaEMzSzRhaTlPc0c4c0MtVEFvSW13OGFNbXRBa1pWUlpsSGFZZ2ZDVWNzdlhWaElpMGR1aVVlOHJNYzBBempHRGJTVjltdkVkbTlucktDSVVXWnJJdXFfWFJXRGNrUjFMTmNLNUVQTndhVEZ4XzdvWE1WYkVnQnBick54QVJQdjlfbmNGU2hhMTNMbXdHUXkyS3k0OUplN0IyWlNnZWNETE9IckgtTWRnaTgyZndGNzlndmJHc2w1NC1rQVdtal9vbjZ0a2Y5NW9fSm8wcXVac0xLTGlLcHhRZzZJQQ?oc=5",
-        "pubDate": "2026-06-08 15:27"
+        "title": "亚德诺(ADI)股票6月11日收盘上涨5.02%：背后推手曝光 - TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWktNVBUT1AyWFEtQ2sxN1ZRN3hoWjNVSzE4Tk1zZmNPLXdVRkoxOTdDY2pMclFIemxVc0Zpby04eEtIQjdLakYtMXNYdW9MS0swZDRycDhTejdKdkIxdkVGYm9rZEhON2phcG9HdFpuTkNuTUd2SmFHa2VySGtjVjZZcjFJVkM0WVE3ZGdBU2ZNVHhr?oc=5",
+        "pubDate": "2026-06-11 20:15"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -424,15 +337,15 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "Global Integrated Circuit Makers Exhibit Latest Tech at 5th CIIE - 一财全球Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0tEQ3ljYUJuZkl5WU9PN0VMNzBfRlAwcVNPVHBTLWplRUs2R2tRQnZWVFdPSTY5T3JoWVdSakVvMlBsNjRqVldhUGp5Mm5SQ2ZSZnhkYl9NSkNtTXBIeTRaQ2lnekRtUmpOdDQ3SFVaRFcxVWxadkZJWDB0U0NadC1oeGlxcnlManFWWWJnZzIxOTRSdTFveFZBWHZoaDg?oc=5",
-        "pubDate": "2022-11-10 08:00"
+        "title": "电动汽车半导体市场规模、份额、增长、预测（2034 年） - Straits Research",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0R0FlWXo3eFVtSXlOTU5qREM2TUxJM09seDRXdmFoOTZRaG5GR3hBcWZsMlBMSkZIWFlpYUIwSUI5VjExQ25wT0IxQ29GcVlydG9tZjEwbGtweGhUWDUzN3NPNVZnZ2tsaFh1dVlNUQ?oc=5",
+        "pubDate": "2025-12-15 08:00"
       },
       {
         "keyword": "瑞萨",
-        "title": "PROFINET I/O设备芯片TPS-1演示 - Renesas Electronics",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFdyS1ZLcjQ0YU1UeUpkdWJmaUphUmc1eWUwSlhoRmFVU0xHQlo2X2NOMnVnMGJ6Zy1HTXgtc0FMd00xd0FuOE81c251MEtxQXBKSUJ3bVNya1NIMVBZVnpTdVhnd09VMUduQlhkelM3Q0swZFREYWt0RURPLTJVR3hOdElQcm9HdzJJRA?oc=5",
-        "pubDate": "2018-04-04 07:00"
+        "title": "Global Integrated Circuit Makers Exhibit Latest Tech at 5th CIIE - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0tEQ3ljYUJuZkl5WU9PN0VMNzBfRlAwcVNPVHBTLWplRUs2R2tRQnZWVFdPSTY5T3JoWVdSakVvMlBsNjRqVldhUGp5Mm5SQ2ZSZnhkYl9NSkNtTXBIeTRaQ2lnekRtUmpOdDQ3SFVaRFcxVWxadkZJWDB0U0NadC1oeGlxcnlManFWWWJnZzIxOTRSdTFveFZBWHZoaDg?oc=5",
+        "pubDate": "2022-11-10 08:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
