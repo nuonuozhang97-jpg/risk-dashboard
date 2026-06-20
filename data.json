@@ -1,86 +1,134 @@
 {
-  "date": "2026-06-19",
-  "updated_at": "2026-06-19T03:54:05.230029+00:00",
+  "date": "2026-06-20",
+  "updated_at": "2026-06-20T02:56:11.470409+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.6,
-        "place": "south Panama",
-        "time": "2026-06-19 00:07",
+        "magnitude": 5.7,
+        "place": "west Macquarie Island",
+        "time": "2026-06-20 01:46",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sugs",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "286公里 西北偏西 Houma 汤加",
-        "time": "2026-06-18 21:09",
-        "depth_km": 549.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sueg",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "Izu Islands 日本 区域",
-        "time": "2026-06-18 19:17",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "63公里 东南偏东 Bobon 菲律宾",
-        "time": "2026-06-18 16:33",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "28公里 东南偏东 Wāngjing 印度",
-        "time": "2026-06-18 15:29",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suc2",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sury",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "211公里 WSW Adak Alaska",
-        "time": "2026-06-18 13:58",
-        "depth_km": 35.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000subg",
+        "place": "102公里 西南偏南 Pagar Alam 印度尼西亚",
+        "time": "2026-06-20 01:40",
+        "depth_km": 55.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000surx",
         "tsunami": 0
       },
       {
-        "magnitude": 4.6,
-        "place": "50公里 东南偏东 Palu 印度尼西亚",
-        "time": "2026-06-18 13:39",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000subc",
+        "magnitude": 4.5,
+        "place": "60公里 西北偏西 Abra Pampa 阿根廷",
+        "time": "2026-06-20 01:22",
+        "depth_km": 245.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suru",
         "tsunami": 0
       },
       {
-        "magnitude": 4.8,
-        "place": "斐济 区域",
-        "time": "2026-06-18 12:29",
-        "depth_km": 606.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suaw",
+        "magnitude": 5.1,
+        "place": "South Sandwich Islands 区域",
+        "time": "2026-06-19 21:08",
+        "depth_km": 150.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "76公里 西 Ollagüe 智利",
+        "time": "2026-06-19 20:10",
+        "depth_km": 115.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suq2",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "12公里 东 Venilale Timor Leste",
-        "time": "2026-06-18 07:26",
-        "depth_km": 21.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9l",
+        "place": "127公里 南东南 Itoman 日本",
+        "time": "2026-06-19 19:36",
+        "depth_km": 8.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000supp",
         "tsunami": 0
       },
       {
-        "magnitude": 5.3,
-        "place": "1公里 南 Kablalan 菲律宾",
-        "time": "2026-06-18 06:57",
-        "depth_km": 95.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f",
+        "magnitude": 4.7,
+        "place": "165公里 东南 Kokopo 巴布亚新几内亚",
+        "time": "2026-06-19 19:00",
+        "depth_km": 76.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000supf",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "58公里 西南偏南 Sarangani 菲律宾",
+        "time": "2026-06-19 18:38",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sup8",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "20公里 东南 Nyūzen 日本",
+        "time": "2026-06-19 18:16",
+        "depth_km": 216.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sunx",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "斐济 区域",
+        "time": "2026-06-19 15:28",
+        "depth_km": 468.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "167公里 东南偏东 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-06-19 08:03",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suik",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.8,
+        "place": "171公里 东南偏东 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-06-19 07:52",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suii",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "163公里 东 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-06-19 07:48",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suij",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "169公里 东 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-06-19 07:05",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui8",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 6.6,
+        "place": "133公里 东南偏东 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-06-19 06:52",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 6,
+        "place": "156公里 东南偏东 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-06-19 06:51",
+        "depth_km": 28.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui2",
         "tsunami": 0
       }
     ],
@@ -92,8 +140,32 @@
         "pubDate": "2026-06-02 05:45"
       },
       {
-        "title": "绿色（低） 警报 for 热带气旋 SEVEN-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 18/06/2026 to 19/06/2026, a Tropical Depression (maximum wind speed of 213 km/h) SEVEN-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "title": "绿色（低） 地震 (震级5.7级, 深度:10公里) West Of Macquarie Island 20/06/2026 01:46 , 未知.",
+        "description": "On 6/20/2026 1:46:32 AM, an earthquake occurred in West Of Macquarie Island potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547547",
+        "pubDate": "2026-06-20 02:02"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 俄罗斯 19/06/2026 07:52 , 240千 烈度≥III级.",
+        "description": "On 6/19/2026 7:52:57 AM, an earthquake occurred in Russia potentially affecting 240 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403",
+        "pubDate": "2026-06-19 08:14"
+      },
+      {
+        "title": "绿色（低） 地震 (震级6.6级, 深度:10公里) 俄罗斯 19/06/2026 06:52 , Few people affected 烈度≥V级.",
+        "description": "On 6/19/2026 6:52:34 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI>=V. The earthquake had Magnitude 6.6M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547396",
+        "pubDate": "2026-06-19 07:19"
+      },
+      {
+        "title": "绿色（低） 地震 (震级6级, 深度:28.383公里) 俄罗斯 19/06/2026 06:51 , 8千 MMI IV.",
+        "description": "On 6/19/2026 6:51:31 AM, an earthquake occurred in Russia potentially affecting 8 thousand in MMI IV. The earthquake had Magnitude 6M, Depth:28.383km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547395",
+        "pubDate": "2026-06-19 07:05"
+      },
+      {
+        "title": "绿色（低） 警报 for 热带气旋 MEKKHALA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 18/06/2026 to 20/06/2026, a Tropical Storm (maximum wind speed of 204 km/h) MEKKHALA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277",
         "pubDate": "2026-06-18 20:07"
       },
@@ -129,9 +201,15 @@
       },
       {
         "title": "绿色（低） 洪水 警报 西班牙",
-        "description": "On 16/06/2026, a flood started in Spain, lasting until 18/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+        "description": "On 16/06/2026, a flood started in Spain, lasting until 19/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
         "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103948",
         "pubDate": "2026-06-17 10:06"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 16/06/2026, a forest fire started in Australia,  until 19/06/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028975",
+        "pubDate": "2026-06-19 19:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 Botswana",
@@ -140,40 +218,10 @@
         "pubDate": "2026-06-17 15:00"
       },
       {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:72.266公里) 菲律宾 15/06/2026 15:30 , 3.9 million MMI IV.",
-        "description": "On 6/15/2026 3:30:24 PM, an earthquake occurred in Philippines potentially affecting 3.9 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:72.266km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546507",
-        "pubDate": "2026-06-15 15:49"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6.2级, 深度:111.922公里) 菲律宾 15/06/2026 09:18 , 2.9 million MMI IV.",
-        "description": "On 6/15/2026 9:18:38 AM, an earthquake occurred in Philippines potentially affecting 2.9 million in MMI IV. The earthquake had Magnitude 6.2M, Depth:111.922km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546445",
-        "pubDate": "2026-06-15 09:38"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Portugal",
-        "description": "On 15/06/2026, a flood started in Portugal, lasting until 16/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103947",
-        "pubDate": "2026-06-17 10:05"
-      },
-      {
         "title": "绿色（低） 洪水 警报 Tunisia",
         "description": "On 15/06/2026, a flood started in Tunisia, lasting until 17/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
         "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103945",
         "pubDate": "2026-06-17 10:05"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Bosnia & Herzegovina",
-        "description": "On 15/06/2026, a flood started in Bosnia & Herzegovina, lasting until 17/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103946",
-        "pubDate": "2026-06-17 10:05"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Guatemala",
-        "description": "On 15/06/2026, a flood started in Guatemala, lasting until 17/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103949",
-        "pubDate": "2026-06-18 05:25"
       }
     ],
     "typhoon": [],
@@ -186,27 +234,27 @@
       {
         "pair": "美元/人民币",
         "rate": 6.78,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.1468,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       },
       {
         "pair": "美元/日元",
-        "rate": 161.1,
-        "date": "2026-06-19"
+        "rate": 161.26,
+        "date": "2026-06-20"
       },
       {
         "pair": "欧元/人民币",
         "rate": 7.7752,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3228,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       }
     ],
     "bond_yields": [],
@@ -243,6 +291,18 @@
       },
       {
         "source": "SemiWiki",
+        "title": "Deloitte 2026 Semiconductor Industry Outlook: AI Reshapes the Semiconductor Landscape",
+        "link": "https://semiwiki.com/uncategorized/370504-deloitte-2026-semiconductor-industry-outlook-ai-reshapes-the-semiconductor-landscape/",
+        "pubDate": "Fri, 19 Jun 2026 22:39:02 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "The Yield Partnership: Intel and PDF Solutions Tackle Advanced Nodes",
+        "link": "https://semiwiki.com/semiconductor-manufacturers/intel/369950-the-yield-partnership-intel-and-pdf-solutions-tackle-advanced-nodes/",
+        "pubDate": "Fri, 19 Jun 2026 13:00:21 +0000"
+      },
+      {
+        "source": "SemiWiki",
         "title": "Webinar: Faster Design Spec to Implementation using IP-XACT",
         "link": "https://semiwiki.com/eda/defacto-technologies/370274-webinar-faster-design-spec-to-implementation-using-ip-xact/",
         "pubDate": "Thu, 18 Jun 2026 17:00:21 +0000"
@@ -258,18 +318,6 @@
         "title": "Feed Forward Intelligence: Enabling Testability in the Chiplets Era",
         "link": "https://semiwiki.com/artificial-intelligence/370248-feed-forward-intelligence-enabling-testability-in-the-chiplets-era/",
         "pubDate": "Thu, 18 Jun 2026 13:00:41 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Synopsys Unifies Electrical, Thermal, Mechanical, and Optical Analysis with Multiphysics Fusion Solutions",
-        "link": "https://semiwiki.com/eda/synopsys/370446-synopsys-unifies-electrical-thermal-mechanical-and-optical-analysis-with-multiphysics-fusion-solutions/",
-        "pubDate": "Wed, 17 Jun 2026 21:00:25 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "RISC-V and AI: The Architecture Shift Is Now",
-        "link": "https://semiwiki.com/ip/risc-v/370153-risc-v-and-ai-the-architecture-shift-is-now/",
-        "pubDate": "Wed, 17 Jun 2026 17:00:09 +0000"
       }
     ],
     "china_policy": [
@@ -324,7 +372,7 @@
         "keyword": "英飞凌",
         "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
-        "pubDate": "2026-05-25 07:00"
+        "pubDate": "2026-06-01 07:00"
       },
       {
         "keyword": "英飞凌",
@@ -352,15 +400,15 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "AI服务器电源变天，ADI豪掷15亿美元押注 - 36Kr",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zYWI1cGN1XzJXUUZBT1ktSjFhMi0xeFA5aW0yaFU2SkVJQjJZRy1QSDh2QXJKZlg5TEd3bE41bVF6N1FUamcxU2dxMnZHZw?oc=5",
-        "pubDate": "2026-06-18 21:54"
+        "title": "亚德诺(ADI)股票6月15日盘中上涨3.09%：真相来了 - TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmhwemM4S3daQ3Q3QzZISnJfRVJmbkxqaUdkR05aUXdkMkw1MnU0WGdtWjdJU1p2NnZ2b2xPWHpwQkxKR09UUE1PanRpSjVYQmR4MDlwRjF1b3g3TnVVS1FkUW9vdHZwcGFvUXRJMUhBTHlnS01UZGlpOG9LNDIwbVNVWkwyRXBBZHVvYU10NVNuTzRE?oc=5",
+        "pubDate": "2026-06-15 19:16"
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "亚德诺(ADI)股票6月18日盘中上涨4.75%：真相来了 - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjRjbGxmRXAyN3N6NV9nU0lDTkZFLUQwVHZFdjVXMVJ3T0FkZ3JqMDZJSDlzWElGT0NwNTRtVlZob1RWeE5TT0F0VXhScWdlODFSZm5aaUR5TmxHRUM0dFVPZjBlejBkT21kZGlXWDhYZXMzZ01CX2VoYUg0ZDFMUzZGeHhoQWN6d2pNUlZkb242SWNu?oc=5",
-        "pubDate": "2026-06-18 17:16"
+        "title": "AI服务器电源变天，ADI豪掷15亿美元押注 - 36 Kr",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zYWI1cGN1XzJXUUZBT1ktSjFhMi0xeFA5aW0yaFU2SkVJQjJZRy1QSDh2QXJKZlg5TEd3bE41bVF6N1FUamcxU2dxMnZHZw?oc=5",
+        "pubDate": "2026-06-18 21:54"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -382,9 +430,9 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "电动汽车半导体市场规模、份额、增长、预测（2034 年） - Straits Research",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0R0FlWXo3eFVtSXlOTU5qREM2TUxJM09seDRXdmFoOTZRaG5GR3hBcWZsMlBMSkZIWFlpYUIwSUI5VjExQ25wT0IxQ29GcVlydG9tZjEwbGtweGhUWDUzN3NPNVZnZ2tsaFh1dVlNUQ?oc=5",
-        "pubDate": "2025-12-15 08:00"
+        "title": "BCD电源IC市场规模，行业报告2035 | MRFR报告 - Market Research Future",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORHgtTHJWbm1qVVBqSERZakU5Mzd1V3VCNzUxVFBTbzFUSkI5bWtKYW80R0VxZDNzVm9ZM3pleDQtQTNaa2FHemltaVpNLUdQSnpSQ296TE1MVEw4a2lXS0xveWgzdkdXZnU1MDNKUmRLTW9rWXplZEk5YzByTm9wZ0Vn?oc=5",
+        "pubDate": "2026-04-06 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
@@ -396,7 +444,7 @@
         "keyword": "微芯科技(Microchip)",
         "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
-        "pubDate": "2026-05-25 07:00"
+        "pubDate": "2026-06-01 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
