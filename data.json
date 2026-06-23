@@ -1,187 +1,148 @@
 {
-  "date": "2026-06-22",
-  "updated_at": "2026-06-22T03:47:39.132237+00:00",
+  "date": "2026-06-23",
+  "updated_at": "2026-06-23T02:50:23.676281+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.8,
-        "place": "17公里 WSW Burias 菲律宾",
-        "time": "2026-06-22 02:17",
-        "depth_km": 10.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv26",
+        "magnitude": 5.3,
+        "place": "Kermadec Islands 区域",
+        "time": "2026-06-23 02:26",
+        "depth_km": 141.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7iy",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "186公里 北 Fais Micronesia",
+        "time": "2026-06-23 01:56",
+        "depth_km": 43.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "53公里 NNE Tobelo 印度尼西亚",
-        "time": "2026-06-22 01:36",
-        "depth_km": 179.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1z",
+        "place": "10公里 东 Miyakojima 日本",
+        "time": "2026-06-22 22:20",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7hp",
         "tsunami": 0
       },
       {
-        "magnitude": 5,
-        "place": "Kermadec Islands 新西兰",
-        "time": "2026-06-21 23:14",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1m",
+        "magnitude": 4.8,
+        "place": "276公里 西南偏南 ‘Ohonua 汤加",
+        "time": "2026-06-22 20:41",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7h1",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "275公里 西南偏南 ‘Ohonua 汤加",
+        "time": "2026-06-22 20:14",
+        "depth_km": 109.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gn",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "Kermadec Islands 区域",
+        "time": "2026-06-22 19:46",
+        "depth_km": 28.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "217公里 东南偏东 Severo-Kuril’sk 俄罗斯",
-        "time": "2026-06-21 23:04",
+        "place": "Mid-印度n Ridge",
+        "time": "2026-06-22 18:32",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1l",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "120公里 东北偏东 Masohi 印度尼西亚",
-        "time": "2026-06-21 21:26",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1e",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5,
-        "place": "Drake Passage",
-        "time": "2026-06-21 20:05",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv17",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "48公里 南 Qapqal 中国",
-        "time": "2026-06-21 17:58",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0p",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fr",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "86公里 东北偏东 Fangale’ounga 汤加",
-        "time": "2026-06-21 17:29",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0m",
+        "place": "90公里 西南 Pagar Alam 印度尼西亚",
+        "time": "2026-06-22 18:03",
+        "depth_km": 63.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fi",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "16公里 东 Torata 秘鲁",
-        "time": "2026-06-21 08:50",
-        "depth_km": 120.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suyj",
+        "place": "103公里 西南偏南 Puerto El Triunfo 萨尔瓦多",
+        "time": "2026-06-22 17:51",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fh",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "斐济 区域",
+        "time": "2026-06-22 14:51",
+        "depth_km": 531.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv7j",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "260公里 西南偏南 ‘Ohonua 汤加",
+        "time": "2026-06-22 12:39",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv75",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "76公里 东 Kimbe 巴布亚新几内亚",
+        "time": "2026-06-22 10:58",
+        "depth_km": 108.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6n",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "42公里 西南偏南 Jurm Afghanistan",
+        "time": "2026-06-22 10:22",
+        "depth_km": 207.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6e",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "Off the coast Baja California Sur 墨西哥",
-        "time": "2026-06-21 06:31",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suy7",
+        "place": "125公里 南东南 Kuril’sk 俄罗斯",
+        "time": "2026-06-22 09:43",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6a",
         "tsunami": 0
       },
       {
-        "magnitude": 4.8,
-        "place": "south the 斐济",
-        "time": "2026-06-21 06:04",
-        "depth_km": 605.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suy3",
+        "magnitude": 4.9,
+        "place": "68公里 西北偏西 Tobelo 印度尼西亚",
+        "time": "2026-06-22 05:28",
+        "depth_km": 124.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv3q",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "56公里 南 Puerto San José Guatemala",
+        "time": "2026-06-22 04:00",
+        "depth_km": 45.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv2p",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "Kuril Islands",
+        "time": "2026-06-22 03:45",
+        "depth_km": 33.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv2n",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
-        "title": "绿色（低） 洪水 警报 土耳其",
-        "description": "On 28/06/2026, a flood started in Türkiye, lasting until 30/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103920",
-        "pubDate": "2026-06-02 05:45"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) St. Helena 20/06/2026 06:43 , Few people affected MMI III.",
-        "description": "On 6/20/2026 6:43:17 AM, an earthquake occurred in St. Helena potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.5M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547584",
-        "pubDate": "2026-06-20 07:03"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.8级, 深度:35公里) 俄罗斯 20/06/2026 03:49 , 250千 烈度≥III级.",
-        "description": "On 6/20/2026 3:49:06 AM, an earthquake occurred in Russia potentially affecting 250 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:35km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547571",
-        "pubDate": "2026-06-20 04:09"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.7级, 深度:10公里) West Of Macquarie Island 20/06/2026 01:46 , 未知.",
-        "description": "On 6/20/2026 1:46:32 AM, an earthquake occurred in West Of Macquarie Island potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547547",
-        "pubDate": "2026-06-20 02:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 美国",
-        "description": "On 20/06/2026, a forest fire started in United States,  until 21/06/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029002",
-        "pubDate": "2026-06-21 07:00"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 俄罗斯 19/06/2026 07:52 , 240千 烈度≥III级.",
-        "description": "On 6/19/2026 7:52:57 AM, an earthquake occurred in Russia potentially affecting 240 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403",
-        "pubDate": "2026-06-19 08:14"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6.6级, 深度:10公里) 俄罗斯 19/06/2026 06:52 , Few people affected 烈度≥V级.",
-        "description": "On 6/19/2026 6:52:34 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI>=V. The earthquake had Magnitude 6.6M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547396",
-        "pubDate": "2026-06-19 07:19"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6级, 深度:28.383公里) 俄罗斯 19/06/2026 06:51 , 8千 MMI IV.",
-        "description": "On 6/19/2026 6:51:31 AM, an earthquake occurred in Russia potentially affecting 8 thousand in MMI IV. The earthquake had Magnitude 6M, Depth:28.383km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547395",
-        "pubDate": "2026-06-19 07:05"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Ghana",
-        "description": "On 19/06/2026, a flood started in Ghana, lasting until 21/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103954",
-        "pubDate": "2026-06-21 06:26"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Austria",
-        "description": "On 19/06/2026, a flood started in Austria, lasting until 21/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103957",
-        "pubDate": "2026-06-21 06:36"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 德国",
-        "description": "On 19/06/2026, a flood started in Germany, lasting until 21/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103958",
-        "pubDate": "2026-06-21 06:36"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 韩国",
-        "description": "On 19/06/2026, a flood started in South Korea, lasting until 21/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103961",
-        "pubDate": "2026-06-21 06:47"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 MEKKHALA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 1.516 million .",
-        "description": "From 18/06/2026 to 22/06/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 250 km/h) MEKKHALA-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 1.516 million .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277",
-        "pubDate": "2026-06-18 20:07"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 秘鲁",
-        "description": "On 18/06/2026, a flood started in Peru, lasting until 20/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103951",
-        "pubDate": "2026-06-20 06:26"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Poland",
-        "description": "On 18/06/2026, a flood started in Poland, lasting until 20/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103955",
-        "pubDate": "2026-06-21 06:26"
+        "error": "GDACS 解析失败"
       }
     ],
     "typhoon": [],
@@ -194,31 +155,55 @@
       {
         "pair": "美元/人民币",
         "rate": 6.79,
-        "date": "2026-06-21"
+        "date": "2026-06-23"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1468,
-        "date": "2026-06-21"
+        "rate": 1.1442,
+        "date": "2026-06-23"
       },
       {
         "pair": "美元/日元",
-        "rate": 161.22,
-        "date": "2026-06-21"
+        "rate": 161.61,
+        "date": "2026-06-23"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.7867,
-        "date": "2026-06-21"
+        "rate": 7.7689,
+        "date": "2026-06-23"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3228,
-        "date": "2026-06-21"
+        "rate": 1.3245,
+        "date": "2026-06-23"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine",
+        "link": "https://www.eetasia.com/why-cadence-sees-ai-super-agents-as-the-next-semiconductor-productivity-engine/",
+        "pubDate": "Tue, 23 Jun 2026 02:05:28 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Fujifilm Strengthens Endoscopy Service Operations",
+        "link": "https://www.eetasia.com/fujifilm-strengthens-endoscopy-service-operations/",
+        "pubDate": "Mon, 22 Jun 2026 09:02:38 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "ZEISS and Envision Health Technologies Collaborating on VR-based Function Testing to Advance Glaucoma Care",
+        "link": "https://www.eetasia.com/zeiss-and-envision-health-technologies-collaborating-on-vr-based-function-testing-to-advance-glaucoma-care/",
+        "pubDate": "Mon, 22 Jun 2026 08:27:55 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Eitan Medical and WeInfuse Deliver Seamless Pump-to-Workflow Integration",
+        "link": "https://www.eetasia.com/eitan-medical-and-weinfuse-deliver-seamless-pump-to-workflow-integration/",
+        "pubDate": "Mon, 22 Jun 2026 08:10:17 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "Renesas Strengthens Embedded Systems Portfolio with Pictorus Acquisition",
@@ -226,28 +211,22 @@
         "pubDate": "Mon, 22 Jun 2026 02:26:07 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Global Smartwatch Market Sustains Growth Momentum in 1Q 2026",
-        "link": "https://www.eetasia.com/global-smartwatch-market-sustains-growth-momentum-in-1q-2026/",
-        "pubDate": "Mon, 22 Jun 2026 02:16:56 +0000"
+        "source": "SemiWiki",
+        "title": "Available Is Not In Control: Balancing Output, Quality, and Risk in High-Volume Fabs",
+        "link": "https://semiwiki.com/semiconductor-manufacturers/370465-available-is-not-in-control-balancing-output-quality-and-risk-in-high-volume-fabs/",
+        "pubDate": "Mon, 22 Jun 2026 21:00:59 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Seok-Hee Lee Appointed Executive Vice President of Intel Foundry",
-        "link": "https://www.eetasia.com/seok-hee-lee-appointed-executive-vice-president-of-intel-foundry/",
-        "pubDate": "Mon, 22 Jun 2026 02:01:55 +0000"
+        "source": "SemiWiki",
+        "title": "AION Silicon: Architecting Smarter SoCs with RISC-V: Balancing Performance, Flexibility, and Risk",
+        "link": "https://semiwiki.com/semiconductor-services/aion-silicon/369777-aion-silicon-architecting-smarter-socs-with-risc-v-balancing-performance-flexibility-and-risk/",
+        "pubDate": "Mon, 22 Jun 2026 17:00:56 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "EE Power Asia 2026 to Spotlight Technologies Driving the Next Era of Electrification",
-        "link": "https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/",
-        "pubDate": "Mon, 22 Jun 2026 01:15:38 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "Structural Shortages to Keep NOR Flash and SLC NAND Prices Rising in 2H 2026",
-        "link": "https://www.eetasia.com/structural-shortages-to-keep-nor-flash-and-slc-nand-prices-rising-in-2h-2026/",
-        "pubDate": "Thu, 18 Jun 2026 03:11:46 +0000"
+        "source": "SemiWiki",
+        "title": "AI-native Virtual Chiplet Eco-systems: Shift Left, Shift Up, and Shift Out to accelerate Chiplet adoption",
+        "link": "https://semiwiki.com/chiplet/370142-ai-native-virtual-chiplet-eco-systems-shift-left-shift-up-and-shift-out-to-accelerate-chiplet-adoption/",
+        "pubDate": "Mon, 22 Jun 2026 13:00:11 +0000"
       },
       {
         "source": "SemiWiki",
@@ -260,24 +239,6 @@
         "title": "CEO Interview with James Regan of Oriole",
         "link": "https://semiwiki.com/ceo-interviews/370220-ceo-interview-with-james-regan-of-oriole/",
         "pubDate": "Sun, 21 Jun 2026 21:00:49 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "The Yield Partnership: Intel and PDF Solutions Tackle Advanced Nodes",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/intel/369950-the-yield-partnership-intel-and-pdf-solutions-tackle-advanced-nodes/",
-        "pubDate": "Fri, 19 Jun 2026 13:00:21 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Webinar: Faster Design Spec to Implementation using IP-XACT",
-        "link": "https://semiwiki.com/eda/defacto-technologies/370274-webinar-faster-design-spec-to-implementation-using-ip-xact/",
-        "pubDate": "Thu, 18 Jun 2026 17:00:21 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Webinar: Caspia Shows You How to Fix Security Flaws Before It’s Too Late",
-        "link": "https://semiwiki.com/events/370203-webinar-caspia-shows-you-how-to-fix-security-flaws-before-its-too-late/",
-        "pubDate": "Thu, 18 Jun 2026 15:00:01 +0000"
       }
     ],
     "china_policy": [
@@ -324,12 +285,6 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "《财富》杂志揭晓2026年《财富》欧洲最具创新力公司榜单 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWFrOTE3OEh5b25QNkNUbEl1SkZKNjlKZzdyNGlEbHJFNE5veDgxNmRBNkgtWFNPb0ZVV2JvT0N6Vkg2SllydVZzYndTd29DQXFCT0VUTmVra1RuY2lfNkNyUXFfM3V3Y1RfVGdPSmhoN3RqSjgyYkhicFFSVkFWc1JGczhyX21XLXl4ekFYYzFUVVM2QVNXMlZPWWdieGt0bGptYVdKbGtuNTFobTlTelJUOEM2UQ?oc=5",
-        "pubDate": "2026-06-18 06:00"
-      },
-      {
-        "keyword": "英飞凌",
         "title": "宽禁带半导体市场规模、份额、增长，2034 年 - Straits Research",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iNzdjeUFjdjBYdmZCdnk3b2pSN0FTc2ZrQnJRMzVJZ2JyN2VIWmN2djl3d05UVWhxc0JHVFdfQUQ2ZVFENE9LbUlzUkU5TkFSaVZRVmpzTjR1N1M0YkpZRzZfdDQtT3hnd2l0eTlBbHJfdnd3WFd0VGpWZ0VBUQ?oc=5",
         "pubDate": "2026-06-18 07:00"
@@ -339,6 +294,18 @@
         "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
         "pubDate": "2026-06-01 07:00"
+      },
+      {
+        "keyword": "英飞凌",
+        "title": "英飞凌推出全新EiceDRIVER™栅极驱动器IC 适用于电动汽车牵引逆变器-汽车资讯 - 盖世汽车社区",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNcmF6SHhZb2hsOHFONUtoRFRlODZiUWhCZU03MEo2RnJSSlBrWWlrdXd3QkpMcDRSRTVTQ0V1aUh6Qm1ldVZqWnFqdmFYRExF?oc=5",
+        "pubDate": "2026-06-12 07:00"
+      },
+      {
+        "keyword": "意法半导体(ST)",
+        "title": "汽车半导体市场规模、份额、增长、分析（至2034年） - Straits Research",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZYmpzOFN2SklrVmc5cGZ0V1pEY0xuNXI3VUtoTG1waHJKNUxxaXpFWEJld0JFMld1aHNhYUVJWFdvVVp3ZzlYd29WR3NqZzFGLUtsakg2TkEzVFYwSG5wbkE1OGxFQ1JlZFFmVFBXcGZoOVplSE9GXw?oc=5",
+        "pubDate": "2026-06-18 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -351,12 +318,6 @@
         "title": "STMicroelectronics Shares Rally After Chip Maker Raises Data-Center Revenue Target - 富途牛牛",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUNrVHduSVdmR01DVTZUUGlnS0N0VWtNRnVIbmNIcDhsYU9kcjVMZ1RkU0Mxa3A3NElnM1FJSEE1cW5aekF0QVNLbkJGVmowTGUwMjFzelE2UURMSGdvS05FNzBOMXhkNUJvb2pjQnJoWktnWHRUNEc3a0hRa0c0RHh5VDh4VUkwOVRVeU12LXZoV3dpWlNWMVVVWWRYMFE2OHFFR25PM3JFdXU0bWVPZ05xNA?oc=5",
         "pubDate": "2026-06-02 07:00"
-      },
-      {
-        "keyword": "意法半导体(ST)",
-        "title": "德意志银行上调意法半导体的目标价，维持买入评级 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFIwX3AtdGVjUDNBaHRleUZYY0s1VUdXRHd2VlJsV3hPazZtdlhTeUVMdzh5WVBrc3BSYThPWENBWE1LQWd5UC04STlIZlZmSmpKa005VjFrQ1BXUGRMYkIxWVY0NlAzR0VhZkU5WjZkWXJTMHZkcTl4UldiNUh4ZDhHZHNCdEszQXJPMHRFeS01OFZNMlFPTzNMX0xWUnZXOUFRR2RFMEgzNzQ1?oc=5",
-        "pubDate": "2026-06-11 07:00"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -378,6 +339,12 @@
       },
       {
         "keyword": "瑞萨",
+        "title": "混合信号集成电路市场规模、份额、增长、分析、报告（至2034年） - Straits Research",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEZGFnZjJDZ2dtOE5GblRpeV8tUFl6YlFvQXlqMThQcTA2dVJzWkdod1R0UlEtYmExdmNLTnFBbjE2WHplcnJIQ2QtLVFZVFVDZzlseFZ1c1pjRUFMZ3BuZi1vZWxuTlpQZW5YRQ?oc=5",
+        "pubDate": "2026-06-18 07:00"
+      },
+      {
+        "keyword": "瑞萨",
         "title": "汽车应用市场 SerDes 芯片组 规模、行业份额、趋势、2035 年报告 - Market Research Future",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFhKLUtTWUU0LTlCSWFfMFpMdk1zM0ZiLWZ2Zlg3a0x0XzYzOGZPNkcxNFRmMHQwb0kzZ3Yza0hDV2ZsMTA4RGsxQVFFcG1ZVEo3OFlrUzUzVGRkN05oWTVfbk9uREJDQUsyRnBkUVhVUnZNZmVhRU5DV2hjOVkxYnlieXVMZVIzNzlSYnVvOEpaVTlHSHBOdzJxQUl1dTQ3TXpFTGln?oc=5",
         "pubDate": "2026-05-14 07:00"
@@ -389,12 +356,6 @@
         "pubDate": "2026-01-12 08:00"
       },
       {
-        "keyword": "瑞萨",
-        "title": "BCD电源IC市场规模，行业报告2035 | MRFR报告 - Market Research Future",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORHgtTHJWbm1qVVBqSERZakU5Mzd1V3VCNzUxVFBTbzFUSkI5bWtKYW80R0VxZDNzVm9ZM3pleDQtQTNaa2FHemltaVpNLUdQSnpSQ296TE1MVEw4a2lXS0xveWgzdkdXZnU1MDNKUmRLTW9rWXplZEk5YzByTm9wZ0Vn?oc=5",
-        "pubDate": "2026-04-06 07:00"
-      },
-      {
         "keyword": "微芯科技(Microchip)",
         "title": "Microchip Technology Tokenized Stock (Ondo)(MCHPon) 币价，图表，市值以及其他指标 - CoinMarketCap",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUNxa2xCeU9Da3VmdmtNWjNWbTRFOVVJNEI4c0lWTGlmdmtHdXlJWGFuOUVKNVV6S2ZEUkhybjVoaXhzZ2t1VHo3SFQ5SUd1VFhRMzZlNjFfT2YxcEpyZTJHQkJjbHVNNDdha0dnVUVwdngtRE5QTkpTWjJJUFM5ODU3WnVYMkpycFE?oc=5",
@@ -402,15 +363,15 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "Microchip位于法国南特的工厂获得QML Class Y认证，进一步拓展了其高可靠性产品能力 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFdqaUlwMGxvM054b1BTNkVycEE3bVBhdF9XRF9JYUdDSXpVSTFPZnVOX2JEU3VWbkVvNmEtLXlrTXFMcjlYcWxnM0FfcDJfQUd4T3k0NFNRRlpydEZCUXRocV9LNFN4OGxzWGhfSWNCamtnTFI1M2VBSHNSSjlVZU45R29lUm9feXNxeUR2MkRHbWpHVzk0eU5rUlZyUHpfODBHbFdWdW4?oc=5",
-        "pubDate": "2026-06-11 07:00"
+        "title": "Up 133% In Last 12 Months, Can ON Semiconductor Stock Continue The Rally? - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd1B0YjF5c3c2aGIxUEZZMVl5Q2ZkblMyLWJlc1lSbWV5VkFySmEyZjVmdVFnNDJ4eUxicDgwa0lhTUVCQS1jNGx6OHJJUy1ONHgtQl9QOGs5Y1ZVLVJQOVRIS3BnVi1KNVpzN05OMExRLWlWMFYyQmp6TTdxdTNoQW1nM001X0ktc0JjNUNpSEJDZWFTa3J6dGprNE9pWG5mUlI1OUpBdldJUQ?oc=5",
+        "pubDate": "2026-06-22 17:03"
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "压力传感器市场规模、份额、增长、分析、报告（至2034年） - Straits Research",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CanlJY3ladmtCRmxGVlBrWDZNVlZIOVlFZnNZYmt1VkFTY3VNcUFmNmdkVXNqMTIxOWdTbFgtR2w1RDFqdWRlTEwycFl4d2RXRjJYbHFWNVlSNnA4ZHZrYXZzS1RVR2lvSjM5Sg?oc=5",
-        "pubDate": "2026-06-18 07:00"
+        "title": "Microchip位于法国南特的工厂获得QML Class Y认证，进一步拓展了其高可靠性产品能力 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFdqaUlwMGxvM054b1BTNkVycEE3bVBhdF9XRF9JYUdDSXpVSTFPZnVOX2JEU3VWbkVvNmEtLXlrTXFMcjlYcWxnM0FfcDJfQUd4T3k0NFNRRlpydEZCUXRocV9LNFN4OGxzWGhfSWNCamtnTFI1M2VBSHNSSjlVZU45R29lUm9feXNxeUR2MkRHbWpHVzk0eU5rUlZyUHpfODBHbFdWdW4?oc=5",
+        "pubDate": "2026-06-11 07:00"
       }
     ]
   }
