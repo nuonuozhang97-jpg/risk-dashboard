@@ -1,114 +1,188 @@
 {
-  "date": "2026-07-04",
-  "updated_at": "2026-07-04T02:31:36.389380+00:00",
+  "date": "2026-07-05",
+  "updated_at": "2026-07-05T02:41:32.297916+00:00",
   "categories": {
     "earthquake": [
       {
         "magnitude": 4.5,
-        "place": "斐济 区域",
-        "time": "2026-07-04 00:00",
-        "depth_km": 576.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta0n",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "Balleny Islands 区域",
-        "time": "2026-07-03 20:22",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zw",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "42公里 西南 Balangonan 菲律宾",
-        "time": "2026-07-03 19:09",
-        "depth_km": 59.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zf",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "24公里 东南 Tambolaka 印度尼西亚",
-        "time": "2026-07-03 17:14",
-        "depth_km": 41.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9yy",
+        "place": "south the 斐济",
+        "time": "2026-07-04 23:51",
+        "depth_km": 531.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta6r",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "158公里 东北偏东 Beauséjour Guadeloupe",
-        "time": "2026-07-03 14:45",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9um",
+        "place": "斐济 区域",
+        "time": "2026-07-04 22:26",
+        "depth_km": 624.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta6j",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "18公里 西南 Sarangani 菲律宾",
-        "time": "2026-07-03 10:10",
-        "depth_km": 67.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tw",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "36公里 WSW Sarangani 菲律宾",
-        "time": "2026-07-03 10:08",
-        "depth_km": 61.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tv",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "west Macquarie Island",
-        "time": "2026-07-03 09:16",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ts",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.9,
-        "place": "296公里 西南偏南 Severo-Kuril’sk 俄罗斯",
-        "time": "2026-07-03 08:22",
-        "depth_km": 75.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf",
+        "magnitude": 4.5,
+        "place": "Pagan 区域 Northern Mariana Islands",
+        "time": "2026-07-04 22:12",
+        "depth_km": 187.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta6h",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "67公里 西 Tobelo 印度尼西亚",
-        "time": "2026-07-03 08:11",
-        "depth_km": 141.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ta",
+        "place": "51公里 南 Atico 秘鲁",
+        "time": "2026-07-04 20:24",
+        "depth_km": 26.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta64",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "Izu Islands 日本 区域",
+        "time": "2026-07-04 17:03",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta53",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "78公里 西 Tobelo 印度尼西亚",
-        "time": "2026-07-03 04:17",
-        "depth_km": 89.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9sk",
+        "place": "Izu Islands 日本 区域",
+        "time": "2026-07-04 16:57",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta52",
         "tsunami": 0
       },
       {
-        "magnitude": 6.1,
-        "place": "136公里 NNE Hirara 日本",
-        "time": "2026-07-03 04:04",
+        "magnitude": 4.6,
+        "place": "off the coast Central America",
+        "time": "2026-07-04 16:07",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9sj",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4u",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "southern 中大西洋海岭",
+        "time": "2026-07-04 14:12",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4c",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "Reykjanes Ridge",
+        "time": "2026-07-04 12:42",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "Reykjanes Ridge",
+        "time": "2026-07-04 12:34",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3r",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "16公里 东南偏东 Pianjiao 中国",
+        "time": "2026-07-04 10:28",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3g",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "13公里 东 Pianjiao 中国",
+        "time": "2026-07-04 10:07",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3d",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "64公里 西 Tobelo 印度尼西亚",
+        "time": "2026-07-04 09:02",
+        "depth_km": 128.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta34",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "264公里 西 Abepura 印度尼西亚",
+        "time": "2026-07-04 08:55",
+        "depth_km": 39.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "149公里 NNE Hirara 日本",
-        "time": "2026-07-03 03:53",
+        "place": "51公里 西南 Sarangani 菲律宾",
+        "time": "2026-07-04 08:53",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta31",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "135公里 北 Lae 巴布亚新几内亚",
+        "time": "2026-07-04 07:50",
+        "depth_km": 182.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "Izu Islands 日本 区域",
+        "time": "2026-07-04 05:03",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9si",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta20",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "26公里 西南 Balangonan 菲律宾",
+        "time": "2026-07-04 04:26",
+        "depth_km": 10.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta1t",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "43公里 西南 Ovalle 智利",
+        "time": "2026-07-04 03:09",
+        "depth_km": 49.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta18",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "91公里 东南 Kumano 日本",
+        "time": "2026-07-04 02:56",
+        "depth_km": 388.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta17",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 04/07/2026, a forest fire started in Australia,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029285",
+        "pubDate": "2026-07-04 19:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 04/07/2026, a forest fire started in Australia,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029286",
+        "pubDate": "2026-07-04 23:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 04/07/2026, a forest fire started in Australia,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029287",
+        "pubDate": "2026-07-04 23:01"
+      },
       {
         "title": "绿色（低） 地震 (震级5.9级, 深度:75.804公里) 俄罗斯 03/07/2026 08:22 , Few people affected 烈度≥III级.",
         "description": "On 7/3/2026 8:22:53 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI>=III. The earthquake had Magnitude 5.9M, Depth:75.804km.",
@@ -131,73 +205,55 @@
         "title": "绿色（低） 森林火灾 警报 Angola",
         "description": "On 03/07/2026, a forest fire started in Angola,  until 03/07/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029271",
-        "pubDate": "2026-07-03 23:00"
+        "pubDate": "2026-07-04 23:01"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 02/07/2026, a forest fire started in Australia,  until 02/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029251",
-        "pubDate": "2026-07-02 23:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Portugal",
-        "description": "On 02/07/2026, a forest fire started in Portugal,  until 03/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029260",
-        "pubDate": "2026-07-03 07:00"
+        "description": "On 03/07/2026, a forest fire started in Australia,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029288",
+        "pubDate": "2026-07-04 15:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 02/07/2026, a forest fire started in Australia,  until 03/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029261",
-        "pubDate": "2026-07-03 15:02"
+        "description": "On 03/07/2026, a forest fire started in Australia,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029289",
+        "pubDate": "2026-07-04 23:01"
       },
       {
-        "title": "绿色（低） 地震 (震级5.7级, 深度:259公里) 汤加 01/07/2026 21:13 , 10千 烈度≥II级.",
-        "description": "On 7/1/2026 9:13:40 PM, an earthquake occurred in Tonga potentially affecting 10 thousand in MMI>=II. The earthquake had Magnitude 5.7M, Depth:259km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549627",
-        "pubDate": "2026-07-01 21:32"
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 03/07/2026, a forest fire started in Angola,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029299",
+        "pubDate": "2026-07-04 23:01"
       },
       {
-        "title": "橙色（中） 警报 for 热带气旋 MAYSAK-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (16.374 million Tropical Storm).",
-        "description": "From 01/07/2026 to 04/07/2026, a Tropical Storm (maximum wind speed of 93 km/h) MAYSAK-26 was active in NWPacific. The cyclone affects these countries: Viet Nam, China, Laos (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (16.374 million in tropical storm).",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001281",
-        "pubDate": "2026-07-01 21:07"
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 03/07/2026, a forest fire started in Angola,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029300",
+        "pubDate": "2026-07-04 23:01"
       },
       {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:216.694公里) Afghanistan 01/07/2026 17:57 , 9 million MMI III.",
-        "description": "On 7/1/2026 5:57:03 PM, an earthquake occurred in Afghanistan potentially affecting 9 million in MMI III. The earthquake had Magnitude 5.5M, Depth:216.694km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549600",
-        "pubDate": "2026-07-01 18:14"
+        "title": "绿色（低） 森林火灾 警报 巴西",
+        "description": "On 03/07/2026, a forest fire started in Brazil,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029311",
+        "pubDate": "2026-07-04 23:01"
       },
       {
-        "title": "绿色（低） 地震 (震级6级, 深度:43.568公里) 日本 01/07/2026 12:08 , 1.6 million MMI IV.",
-        "description": "On 7/1/2026 12:08:29 PM, an earthquake occurred in Japan potentially affecting 1.6 million in MMI IV. The earthquake had Magnitude 6M, Depth:43.568km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549565",
-        "pubDate": "2026-07-01 12:25"
+        "title": "绿色（低） 洪水 警报 乌克兰",
+        "description": "On 02/07/2026, a flood started in Ukraine, lasting until 04/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104001",
+        "pubDate": "2026-07-04 06:09"
       },
       {
-        "title": "绿色（低） 地震 (震级5.6级, 深度:536.709公里) 斐济 01/07/2026 10:42 , 10千 MMI II.",
-        "description": "On 7/1/2026 10:42:43 AM, an earthquake occurred in Fiji potentially affecting 10 thousand in MMI II. The earthquake had Magnitude 5.6M, Depth:536.709km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549555",
-        "pubDate": "2026-07-01 11:03"
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 02/07/2026, a forest fire started in Angola,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029301",
+        "pubDate": "2026-07-04 23:02"
       },
       {
-        "title": "绿色（低） 警报 for 热带气旋 DOUGLAS-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 01/07/2026 to 03/07/2026, a Tropical Storm (maximum wind speed of 65 km/h) DOUGLAS-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001280",
-        "pubDate": "2026-07-01 08:51"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 秘鲁",
-        "description": "On 01/07/2026, a flood started in Peru, lasting until 03/07/2026 (last update). The flood caused 0 deaths and 3 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104000",
-        "pubDate": "2026-07-03 10:08"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 泰国",
-        "description": "On 01/07/2026, a flood started in Thailand, lasting until 03/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996",
-        "pubDate": "2026-07-02 10:08"
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 02/07/2026, a forest fire started in Australia,  until 04/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029290",
+        "pubDate": "2026-07-04 15:01"
       }
     ],
     "typhoon": [],
@@ -209,28 +265,28 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.79,
-        "date": "2026-07-04"
+        "rate": 6.8,
+        "date": "2026-07-05"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.1442,
-        "date": "2026-07-04"
+        "date": "2026-07-05"
       },
       {
         "pair": "美元/日元",
-        "rate": 161.3,
-        "date": "2026-07-04"
+        "rate": 161.27,
+        "date": "2026-07-05"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.7689,
-        "date": "2026-07-04"
+        "rate": 7.7803,
+        "date": "2026-07-05"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3351,
-        "date": "2026-07-04"
+        "date": "2026-07-05"
       }
     ],
     "bond_yields": [],
@@ -304,21 +360,21 @@
     "competitor_news": [
       {
         "keyword": "德州仪器(TI)",
-        "title": "What is Texas Instruments Incorporated (TXN) stock_business overview_development history - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94Q3A4Nk5ob1lLUWdKNWlKYVEzM29ucG1jQjJNNVpPQmp2ZG03cWREekVZckg1R2FJTVp1UmNQMUIwUVpkU0J5Mm5qMEZGcXluR0NYamtZMVpWazA?oc=5",
-        "pubDate": "2026-06-25 06:21"
-      },
-      {
-        "keyword": "德州仪器(TI)",
         "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
         "pubDate": "2026-02-04 08:00"
       },
       {
         "keyword": "德州仪器(TI)",
-        "title": "行业分析-2026年全球数字电位器 IC市场规模将达到31亿元 - 财富号",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rcEY1V2s2bmhYSXNVMDVOLUF5RXd2YlZOZ1V0bHAyOFhxcGF2RThWdFRiQm9sb2E5MWlzNWVyR24xNXFJeDA0VHhfb1hEMTNKdk84ZU94em5lZzg0TjJwOGp3aXotWm1SS0pR?oc=5",
-        "pubDate": "2026-06-25 02:38"
+        "title": "TI 推出业界最高电芯数量的支持 EIS 的电池监控器，为电池管理系统注入智能 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzFicHNPMnlFWk8tNGItT1VUbEVObnp5UTc5MGVNWVVPdm5XMlBoSy1ad1RkLW9NUi1mS3BGcUNhcklKYlJnSC1YZmpLUUNFZ1JQRjFRVHJFWlliQm8xcDlacTlmUkZ4dFJjMlVKZGxybS1NLXBTYlVkcmZiX19YUGoteXlNU1hOdDc0aFVJaTFtSUFYV0lzMHhTRHJfRGVobnI0NENGUzBWLUNJQTFtelRkVlpXdw?oc=5",
+        "pubDate": "2026-06-09 07:00"
+      },
+      {
+        "keyword": "德州仪器(TI)",
+        "title": "China Probe on US Analog Chips Could Unlock USD350 Million Market for Local Firms - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaW5CR05aMnBwbVM5S2NaZnpsQVNYVjgyM0RQdjFXaWE3bTIyU2M2V204elhUSVFkaG5HVm9ta25NTkRpMWVBSzVlUXllZGQza3FlZGFsZzJTNVFOTmdMRXlyZE9yNHRpMnpackZha19CaTBZcFliUmtzNVFoYjhyQ2VQSm9XdHg0MmdvaFNiWnIwbDQ1cVRPR1Z5NTN6SF84Y0MtQlFWOGEzQmQ4VUpGSkFkRUpFQQ?oc=5",
+        "pubDate": "2025-09-16 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -334,21 +390,21 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors | 4: Statement of changes in beneficial ownership of securities-Director Chunyuan Gu - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2NNRnFvZGF1SmJVRklXdTlSdERVbDBHRmNEZldySVNtdnJTVVlIXzdPSF9DRHNvaHFWWWhMUFBmVm1UMEFxbkt6UVdTbjVMTl9GdDNJa2NYZnBwSmVVZFpLM0x3dDFDdGYzVTFxMGxHX3pmR1puLXZhR2ZZWjZhZUNqWFpIM3RObVRDZExzbURSeUxfZEZGM3RrMzVjbDdJLXltaFVsbjdpdnhXclVOY0Yyc0xTYUtsaFE?oc=5",
-        "pubDate": "2026-06-12 07:00"
-      },
-      {
-        "keyword": "英飞凌",
-        "title": "英飞凌目标价获上调，因Berenberg指出终端市场需求强劲 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFh3d01HODJBYnZWdUVWbXkyckYtQ3lWUnBXaldPU1BVWThGSjdmdGlrQVJUbXhLajg2QThVUWVpa0JpMnhoS2g1a1I2Z01aYzVmVXI4WXFuSHJRMzFWREw2Smg4ai1RQ2FwcmE5Y1FSQ3ZCdEx4M1hKWnZxNjNsUWpjVWYzTFRObjdmVmZMSUZGTkpiTzBRZUU4QmNzUnp5UGpxUWJ0bEEzNm9hSXRsd3dn?oc=5",
-        "pubDate": "2026-07-03 14:43"
+        "title": "NXP Semiconductors | 4: Statement of changes in beneficial ownership of securities-Director SUMME GREGORY L - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNE5ZVzhJSTZkSWJmMjhQWWt3aVVMeU4tWkttUzg1bmdrZlJzWmUyREdMdFU1SW1VMHhjRi1MbWthS2NIbC1NZ3B5R0d2NDV4TTJTVU5mdmYwVEs3YmxuY2FGS19qSTlzZzVrOEpEM2FIelpUOHhVRnNjZXBOSzdINTBhWGtoUERSbkdJMUhHNU9yejVVUGo4d1NwTTQ0Mk02UE5mRWlIZWxvVlhHamV4Y1JlZnZtSUpRZVE?oc=5",
+        "pubDate": "2026-06-26 14:17"
       },
       {
         "keyword": "英飞凌",
         "title": "Infineon Technologies Announced Deal in Feb - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1BkX0lGYkxWdVhrN3I0VVdmdFV6b0xYbWRMOFh5Zi1IVjYwM09VaDZmSl9McmpObllHS2Q2aEhRQks2RktIXzFHcUsxb0ttVE1TZWxjd2dQNGU1ZzlCOE9lSVpER3FOTEZSUHZESDc1emFreWU5MnVobFpONUE1ZjE3NEtJZWNQNXJ6YUlwSDZFMmcz?oc=5",
         "pubDate": "2026-07-01 11:49"
+      },
+      {
+        "keyword": "英飞凌",
+        "title": "德国法院在另一起针对中国英诺赛科（Innoscience）的专利侵权案中支持英飞凌（Infineon） - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkszTXJTMTR1V3IxaC1IVHR0ZFpmZXNRT21HYjItMWY2NndjMnk3RERGSDlLTlpqTUdCVnNuLUR4c2c0NXhRbmdZd1R5MDUyU2JIMUdHZmZOV2l2aXB5TXZKOUk0ZnpEOExYNEliaGZWMDhzbTlqZmlBNEhtRnZEWHJ3SUR3R2l1SXJ6ak5wYVdLRldaSVBqa3BSQnNQSTAzY05UbkNKa1BqelhvX3k5Vk1tVU9mSzRqajVj?oc=5",
+        "pubDate": "2026-07-03 15:24"
       },
       {
         "keyword": "英飞凌",
@@ -366,7 +422,7 @@
         "keyword": "意法半导体(ST)",
         "title": "巴克莱银行将意法半导体上调至均配评级，并提高目标价 - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWZzWm40a3BHMVlhaWg2N2VrcXNSWk1NMzI1NGZHcVVwZXFlVE1mRTd3UFpJWFdueDlicWItbGoycks2aURGUktodjRoRVhrRVdQMlF6M1hQT2hOLWN1alFmRWN3WDJ2OEpvNkg1NXplX3lkMnA4VE9hTUlqeVhlOWRJbFMxbGhYdjVvYTVYbDRiQjh5cndBUk5lYkg0dGZGcWRrS1BabUFrTGQt?oc=5",
-        "pubDate": "2026-06-29 12:35"
+        "pubDate": "2026-06-29 12:50"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -376,15 +432,15 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSHFORUtVdDBxc0JSQWJrU09SS0NjRnJOTm1fdlZBbzcwZ09wbzFEbzVBazNfRzZ5SFh5aHR2RERjRE5aeU5zSFY0ZEN2OW5fdmc?oc=5",
+        "title": "ADI将以15亿美元全现金交易收购Empower Semiconductor - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnEwOHhjTkZEbUQzbVFCeHN3VnJQSlFNLVhpN1pYek95ZmJneUMzS1lpSmZEVlB4ODJ1U0RZMTh3MjJPNGJ2Tk83OWdENzhwTmJFUS16cnJ1d0tGeWJqbTBhUW5jNjlEVk41c2hzb0I0WkJiR0dHSDBvbUJfMlc5Y3J5aDVUWGc?oc=5",
         "pubDate": "2026-05-20 07:00"
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "亚德诺(ADI)股票6月11日收盘上涨5.02%：背后推手曝光 - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWktNVBUT1AyWFEtQ2sxN1ZRN3hoWjNVSzE4Tk1zZmNPLXdVRkoxOTdDY2pMclFIemxVc0Zpby04eEtIQjdLakYtMXNYdW9MS0swZDRycDhTejdKdkIxdkVGYm9rZEhON2phcG9HdFpuTkNuTUd2SmFHa2VySGtjVjZZcjFJVkM0WVE3ZGdBU2ZNVHhr?oc=5",
-        "pubDate": "2026-06-11 07:00"
+        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSHFORUtVdDBxc0JSQWJrU09SS0NjRnJOTm1fdlZBbzcwZ09wbzFEbzVBazNfRzZ5SFh5aHR2RERjRE5aeU5zSFY0ZEN2OW5fdmc?oc=5",
+        "pubDate": "2026-05-20 07:00"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -414,13 +470,13 @@
         "keyword": "微芯科技(Microchip)",
         "title": "Microchip Technology股价下跌，因芯片行业疲软叠加市场对数据中心叙事的新一轮质疑 - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0VTOTJmbWNmSk0xdmV5eGRmYVRHUmFKN2RrX3BpaUVrdHpBVXJTSS1yZXI4Sk1XbUZidlZDQmFLdDFYdHhwa0VZejZ2QURYbjc3Zzc3UlVLMExnZ2hSVkRlTXR5RFcxSDNsVi1EcDFvRklEdWZYX2VFdnFoQTZkbmFyTDc2VUN2SW9rVGV6Mk5WQ0ViUnpIQk15SGFIYVYwbHljX3YxSXlBN0tsU3AyeUd2Zw?oc=5",
-        "pubDate": "2026-06-26 15:49"
+        "pubDate": "2026-06-27 02:02"
       },
       {
         "keyword": "微芯科技(Microchip)",
         "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
-        "pubDate": "2026-06-08 07:00"
+        "pubDate": "2026-06-15 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
