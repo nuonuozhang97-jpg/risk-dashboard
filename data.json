@@ -1,138 +1,142 @@
 {
-  "date": "2026-07-08",
-  "updated_at": "2026-07-08T02:21:06.379711+00:00",
+  "date": "2026-07-09",
+  "updated_at": "2026-07-09T02:34:05.820746+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.6,
-        "place": "132公里 西北偏西 Ternate 印度尼西亚",
-        "time": "2026-07-07 23:35",
-        "depth_km": 49.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tau8",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "21公里 东南偏东 Karakenja Tajikistan",
-        "time": "2026-07-07 22:42",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatn",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "13公里 南东南 Yibin 中国",
-        "time": "2026-07-07 22:22",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tati",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "13公里 西 Changning 中国",
-        "time": "2026-07-07 22:12",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatd",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "7公里 南东南 Calatagan 菲律宾",
-        "time": "2026-07-07 20:37",
-        "depth_km": 155.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tase",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "88公里 西北偏西 Hicks Bay 新西兰",
-        "time": "2026-07-07 20:33",
-        "depth_km": 121.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tasa",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "95公里 WSW Labuan 印度尼西亚",
-        "time": "2026-07-07 19:44",
+        "magnitude": 4.7,
+        "place": "134公里 东 Bitung 印度尼西亚",
+        "time": "2026-07-09 01:16",
         "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tary",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "10公里 WSW Orotina Costa Rica",
-        "time": "2026-07-07 18:11",
-        "depth_km": 47.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tarc",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz4q",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "81公里 NNE Adak Alaska",
-        "time": "2026-07-07 18:07",
-        "depth_km": 172.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tara",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "298公里 南东南 Ushuaia 阿根廷",
-        "time": "2026-07-07 17:39",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tar3",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "172公里 北西北 Tobelo 印度尼西亚",
-        "time": "2026-07-07 14:21",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tant",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "32公里 东北 Yaguaraparo Venezuela",
-        "time": "2026-07-07 08:41",
-        "depth_km": 126.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talr",
+        "place": "12公里 东北 Murghob Tajikistan",
+        "time": "2026-07-09 01:15",
+        "depth_km": 155.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz4p",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "Reykjanes Ridge",
-        "time": "2026-07-07 08:30",
+        "place": "1公里 北西北 Xunchang 中国",
+        "time": "2026-07-08 23:44",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talm",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "69公里 东北 Sulangan 菲律宾",
+        "time": "2026-07-08 20:32",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz31",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "Balleny Islands 区域",
+        "time": "2026-07-08 19:07",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "7公里 北西北 Ābdānān Iran",
+        "time": "2026-07-08 15:22",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tazy",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.3,
+        "place": "Chagos Archipelago 区域",
+        "time": "2026-07-08 13:01",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7",
         "tsunami": 0
       },
       {
         "magnitude": 5.4,
-        "place": "162公里 北西北 Tobelo 印度尼西亚",
-        "time": "2026-07-07 07:16",
-        "depth_km": 36.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg",
+        "place": "245公里 南 ‘Ohonua 汤加",
+        "time": "2026-07-08 12:18",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww",
         "tsunami": 0
       },
       {
-        "magnitude": 5.3,
-        "place": "Reykjanes Ridge",
-        "time": "2026-07-07 05:55",
+        "magnitude": 5.2,
+        "place": "109公里 西南 Isangel Vanuatu",
+        "time": "2026-07-08 11:42",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "Reykjanes Ridge",
-        "time": "2026-07-07 05:00",
+        "place": "110公里 东南 Kimbe 巴布亚新几内亚",
+        "time": "2026-07-08 11:23",
+        "depth_km": 25.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawr",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.8,
+        "place": "91公里 西南偏南 Isangel Vanuatu",
+        "time": "2026-07-08 09:50",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takw",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "64公里 西 Tobelo 印度尼西亚",
+        "time": "2026-07-08 08:36",
+        "depth_km": 141.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "8公里 东北偏东 Noda 日本",
+        "time": "2026-07-08 07:35",
+        "depth_km": 58.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavs",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "25公里 NNE Santa Rosa 秘鲁",
+        "time": "2026-07-08 05:00",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "61公里 东北偏东 Olonkinbyen Svalbard and Jan Mayen",
+        "time": "2026-07-08 04:21",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) Balleny Islands Region 08/07/2026 19:07 , 未知.",
+        "description": "On 7/8/2026 7:07:10 PM, an earthquake occurred in Balleny Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1550840",
+        "pubDate": "2026-07-08 19:29"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) Vanuatu 08/07/2026 09:50 , 10千 MMI IV.",
+        "description": "On 7/8/2026 9:50:23 AM, an earthquake occurred in Vanuatu potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1550772",
+        "pubDate": "2026-07-08 10:10"
+      },
       {
         "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 智利 07/07/2026 01:26 , Few people affected 烈度≥II级.",
         "description": "On 7/7/2026 1:26:45 AM, an earthquake occurred in Chile potentially affecting Few people affected in MMI>=II. The earthquake had Magnitude 5.8M, Depth:10km.",
@@ -141,9 +145,15 @@
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 07/07/2026, a forest fire started in Australia,  until 07/07/2026.",
+        "description": "On 07/07/2026, a forest fire started in Australia,  until 08/07/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029352",
         "pubDate": "2026-07-07 19:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 07/07/2026, a forest fire started in Angola,  until 08/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029386",
+        "pubDate": "2026-07-08 23:00"
       },
       {
         "title": "绿色（低） 地震 (震级5.8级, 深度:35公里) 菲律宾 06/07/2026 08:11 , 850千 烈度≥IV级.",
@@ -164,64 +174,46 @@
         "pubDate": "2026-07-07 11:02"
       },
       {
+        "title": "绿色（低） 森林火灾 警报 Angola, The Democratic Republic of Congo",
+        "description": "On 06/07/2026, a forest fire started in Angola, The Democratic Republic of Congo,  until 08/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029387",
+        "pubDate": "2026-07-08 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Zambia",
+        "description": "On 06/07/2026, a forest fire started in Zambia,  until 08/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029388",
+        "pubDate": "2026-07-08 23:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 06/07/2026, a forest fire started in Angola,  until 08/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029389",
+        "pubDate": "2026-07-08 23:01"
+      },
+      {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 06/07/2026, a forest fire started in Australia,  until 07/07/2026.",
+        "description": "On 06/07/2026, a forest fire started in Australia,  until 08/07/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029332",
         "pubDate": "2026-07-06 19:00"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 The Democratic Republic of Congo",
-        "description": "On 06/07/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029361",
-        "pubDate": "2026-07-07 23:00"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.8级, 深度:685.692公里) 斐济 Region 05/07/2026 14:22 , Few people affected 100km.",
-        "description": "On 7/5/2026 2:22:26 PM, an earthquake occurred in Fiji Islands Region potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.8M, Depth:685.692km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1550259",
-        "pubDate": "2026-07-05 14:43"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 新西兰",
-        "description": "On 05/07/2026, a flood started in New Zealand, lasting until 07/07/2026 (last update). The flood caused 0 deaths and 38 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104006",
-        "pubDate": "2026-07-07 06:08"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 05/07/2026, a forest fire started in Angola,  until 07/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029362",
-        "pubDate": "2026-07-07 19:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 加拿大",
-        "description": "On 05/07/2026, a forest fire started in Canada,  until 07/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029370",
-        "pubDate": "2026-07-07 23:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 加拿大",
-        "description": "On 05/07/2026, a forest fire started in Canada,  until 07/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029371",
-        "pubDate": "2026-07-07 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 05/07/2026, a forest fire started in Angola,  until 07/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029335",
-        "pubDate": "2026-07-06 19:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 加拿大",
-        "description": "On 05/07/2026, a forest fire started in Canada,  until 07/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029353",
-        "pubDate": "2026-07-07 11:07"
+        "title": "绿色（低） 森林火灾 警报 俄罗斯",
+        "description": "On 06/07/2026, a forest fire started in Russian Federation,  until 08/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029407",
+        "pubDate": "2026-07-08 23:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 05/07/2026, a forest fire started in Australia,  until 06/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029320",
-        "pubDate": "2026-07-06 07:00"
+        "description": "On 06/07/2026, a forest fire started in Australia,  until 08/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029408",
+        "pubDate": "2026-07-08 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 俄罗斯",
+        "description": "On 06/07/2026, a forest fire started in Russian Federation,  until 08/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029409",
+        "pubDate": "2026-07-08 23:01"
       }
     ],
     "typhoon": [],
@@ -233,61 +225,79 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.8,
-        "date": "2026-07-08"
+        "rate": 6.81,
+        "date": "2026-07-09"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.1416,
-        "date": "2026-07-08"
+        "date": "2026-07-09"
       },
       {
         "pair": "美元/日元",
-        "rate": 162.11,
-        "date": "2026-07-08"
+        "rate": 162.52,
+        "date": "2026-07-09"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.7626,
-        "date": "2026-07-08"
+        "rate": 7.774,
+        "date": "2026-07-09"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3369,
-        "date": "2026-07-08"
+        "date": "2026-07-09"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges",
-        "link": "https://www.eetasia.com/chipapex-strengthens-component-sourcing-services-to-address-chip-supply-challenges/",
-        "pubDate": "Tue, 07 Jul 2026 23:35:17 +0000"
+        "title": "CA Engineering Joins Morse Micro’s Wi-Fi HaLow Design Partner Program",
+        "link": "https://www.eetasia.com/ca-engineering-joins-morse-micros-wi-fi-halow-design-partner-program/",
+        "pubDate": "Thu, 09 Jul 2026 02:09:16 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Alif Semiconductor Adds Sirin Software to Partner Ecosystem",
-        "link": "https://www.eetasia.com/alif-semiconductor-adds-sirin-software-to-partner-ecosystem/",
-        "pubDate": "Tue, 07 Jul 2026 03:08:44 +0000"
+        "title": "Analog Devices Completes Acquisition of Empower Semiconductor",
+        "link": "https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/",
+        "pubDate": "Wed, 08 Jul 2026 09:09:51 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "GigaDevice Expands Non-volatile Memory Portfolio",
-        "link": "https://www.eetasia.com/gigadevice-expands-non-volatile-memory-portfolio/",
-        "pubDate": "Tue, 07 Jul 2026 03:03:28 +0000"
+        "title": "Using Boost Controller to Generate Regulated Negative Output from Negative Input",
+        "link": "https://www.eetasia.com/embeddedblog-using-boost-controller-to-generate-regulated-negative-output-from-negative-input/",
+        "pubDate": "Wed, 08 Jul 2026 08:37:28 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Global Foundry 2.0 Revenue Jumps 23% YoY in 1Q 2026",
-        "link": "https://www.eetasia.com/global-foundry-2-0-revenue-jumps-23-yoy-in-1q-2026/",
-        "pubDate": "Tue, 07 Jul 2026 02:13:19 +0000"
+        "title": "Why Real-Time LLM Performance Still Hits a Wall Despite Faster GPUs",
+        "link": "https://www.eetasia.com/embeddedblog-why-real-time-llm-performance-still-hits-a-wall-despite-faster-gpus/",
+        "pubDate": "Wed, 08 Jul 2026 08:29:46 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "AI Inference Pushes Memory Beyond DRAM and HBM",
-        "link": "https://www.eetasia.com/ai-inference-pushes-memory-beyond-dram-and-hbm/",
-        "pubDate": "Tue, 07 Jul 2026 02:04:30 +0000"
+        "title": "Breakthrough Packaging Enhances Power Density in AOS’s Latest MOSFETs",
+        "link": "https://www.eetasia.com/breakthrough-packaging-enhances-power-density-in-aoss-latest-mosfets/",
+        "pubDate": "Wed, 08 Jul 2026 03:18:55 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "MooresLabAI at DAC 2026: Why the Future of Semiconductor Engineering Is Agentic, Not Just Generative",
+        "link": "https://semiwiki.com/eda/moores-lab-ai/370928-mooreslabai-at-dac-2026-why-the-future-of-semiconductor-engineering-is-agentic-not-just-generative/",
+        "pubDate": "Wed, 08 Jul 2026 21:00:31 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Caspia Technologies is pioneering a new, agentic chip and system security approach at DAC 2026",
+        "link": "https://semiwiki.com/security/caspia-technologies/370802-caspia-dac-plan-2026/",
+        "pubDate": "Wed, 08 Jul 2026 17:00:20 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "IP Lifecycle Management in the AI Era",
+        "link": "https://semiwiki.com/artificial-intelligence/370919-ip-lifecycle-management-in-the-ai-era/",
+        "pubDate": "Wed, 08 Jul 2026 13:00:32 +0000"
       },
       {
         "source": "SemiWiki",
@@ -300,24 +310,6 @@
         "title": "The Packaging PDK Is the Missing Layer for Co-Packaged Optics",
         "link": "https://semiwiki.com/3dic/370709-the-packaging-pdk-is-the-missing-layer-for-co-packaged-optics/",
         "pubDate": "Tue, 07 Jul 2026 17:00:16 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Demonstrating the EasyAI ECO Suite – An AI-Powered Functional ECO Solution at DAC 2026",
-        "link": "https://semiwiki.com/eda/easy-logic/370861-demonstrating-the-easyai-eco-suite-an-ai-powered-functional-eco-solution-at-dac-2026/",
-        "pubDate": "Tue, 07 Jul 2026 13:00:06 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "The Accidental Infrastructure: How Crypto Miners Built the Foundation of the AI Boom",
-        "link": "https://semiwiki.com/artificial-intelligence/370845-the-accidental-infrastructure-how-crypto-miners-built-the-foundation-of-the-ai-boom/",
-        "pubDate": "Mon, 06 Jul 2026 21:00:15 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "From Detection to Safety: Reframing Fault Simulation for Functional Safety",
-        "link": "https://semiwiki.com/eda/synopsys/370624-from-detection-to-safety-reframing-fault-simulation-for-functional-safety/",
-        "pubDate": "Mon, 06 Jul 2026 17:00:26 +0000"
       }
     ],
     "china_policy": [
@@ -326,12 +318,6 @@
       }
     ],
     "competitor_news": [
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "Taiwan Semiconductor (TSM) News Flow - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQeVlSQzMtdWZYb09oZG1vU004MnRXVWs5MHFqZEEybnJfQVhnOThPTzRVSGx1cHZzQUJJS2dSQmpIaUY2SlRQbVYxeGpyZU5SY09peEJiYlNRZzdSVUdGdmtaeE1OcWtZUFF0NEpLNnZUUDFuaGsyWXh1N2hfTHowUWRCYjJOWVAxSzk3TmJZOW1uMXZLQU9xazZHWHZZUkpwcU1PNHhtcHM0ZXZPMnJBX2NEWTZUeXdSalMtSTk1dEdTQXdYZDZkTHNaNUhIVTQtODJ2NFNaVDljdHFRYlRLTzR0MVBnRTc1cTMyVk5UWTRNQ1lvSENKOEcyMEx2QjNOVFl4MDlWeFpaTGVPOTNMbUZ1SUk4ZUJDbnF4YUtOU2drTzBtTmF5c0FtSzE3cDJsTk5J?oc=5",
-        "pubDate": "2026-07-06 23:04"
-      },
       {
         "keyword": "德州仪器(TI)",
         "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
@@ -345,10 +331,16 @@
         "pubDate": "2026-06-18 07:00"
       },
       {
+        "keyword": "德州仪器(TI)",
+        "title": "TI 推出业界最高电芯数量的支持 EIS 的电池监控器，为电池管理系统注入智能 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzFicHNPMnlFWk8tNGItT1VUbEVObnp5UTc5MGVNWVVPdm5XMlBoSy1ad1RkLW9NUi1mS3BGcUNhcklKYlJnSC1YZmpLUUNFZ1JQRjFRVHJFWlliQm8xcDlacTlmUkZ4dFJjMlVKZGxybS1NLXBTYlVkcmZiX19YUGoteXlNU1hOdDc0aFVJaTFtSUFYV0lzMHhTRHJfRGVobnI0NENGUzBWLUNJQTFtelRkVlpXdw?oc=5",
+        "pubDate": "2026-06-09 07:00"
+      },
+      {
         "keyword": "恩智浦(NXP)",
         "title": "NXP Semiconductors Stock Fell 7% the Same Day Citi Raised Its Target to $370. What the Numbers Say for 2026 - TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDZyUEJLLUN0WTJvOEwxS2NQNkxqbmZGXzNBVmU4YWtfQXprWjAxclRyOXhXeFFvZTd3ay1mX1ZBcVU0NzVseEZnRzVyMVFfS3huV1lJM1gyY3NWejBGUk05dTQ5N3N3cDRpOWhTc3V4ZGJiS3B4Y3FwUkVyOG5yM0hkS3BfYlRxYnJhdXk1bjBJb0t6TnBwUTJqOV85WFZPNTh3MHZZSUNQMUFuRUQxTHhLWTNFWFhfYXFpcTJ4a2VGbHpTaXI2bzMySnBzQQ?oc=5",
-        "pubDate": "2026-06-24 14:55"
+        "pubDate": "2026-06-24 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -364,21 +356,21 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "Infineon表示，美国国际贸易委员会对Innoscience氮化镓产品的禁令已获确认 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbUZRVkZuY2NJOTI1cjAwTUt3M0xubmJwTzFJR1FxczRQQXZiT19ZMDJudnFvdXpmbENvUzg5cXU4TW0xWWdEMFk0bkZzbzhlX3VxMUJpY2x6Z18yM0RLOURNR2lRUktHZXRodmhMSjFWTDlaMnNqaThDM0s3eXlyUWtMdjdyd09QY2JSWjdjWmNwSWdpcHVVOVRnQlhvVDhGMGhIbldUS0JldFZxMkF0bk1jWHBLeVQ2a1hhTENJQnVaQTJhMTJBTDd6c05VR1pndVJiM2pDc0ZIOGM4c25wbk5YamhVYnM?oc=5",
-        "pubDate": "2026-07-07 06:32"
+        "title": "德国法院在另一起针对中国英诺赛科（Innoscience）的专利侵权案中支持英飞凌（Infineon） - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkszTXJTMTR1V3IxaC1IVHR0ZFpmZXNRT21HYjItMWY2NndjMnk3RERGSDlLTlpqTUdCVnNuLUR4c2c0NXhRbmdZd1R5MDUyU2JIMUdHZmZOV2l2aXB5TXZKOUk0ZnpEOExYNEliaGZWMDhzbTlqZmlBNEhtRnZEWHJ3SUR3R2l1SXJ6ak5wYVdLRldaSVBqa3BSQnNQSTAzY05UbkNKa1BqelhvX3k5Vk1tVU9mSzRqajVj?oc=5",
+        "pubDate": "2026-07-03 14:03"
+      },
+      {
+        "keyword": "英飞凌",
+        "title": "Infineon Technologies Announced Deal in Feb - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1BkX0lGYkxWdVhrN3I0VVdmdFV6b0xYbWRMOFh5Zi1IVjYwM09VaDZmSl9McmpObllHS2Q2aEhRQks2RktIXzFHcUsxb0ttVE1TZWxjd2dQNGU1ZzlCOE9lSVpER3FOTEZSUHZESDc1emFreWU5MnVobFpONUE1ZjE3NEtJZWNQNXJ6YUlwSDZFMmcz?oc=5",
+        "pubDate": "2026-07-01 11:49"
       },
       {
         "keyword": "英飞凌",
         "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
         "pubDate": "2026-06-15 07:00"
-      },
-      {
-        "keyword": "英飞凌",
-        "title": "英飞凌科技维持买入评级，因美国银行指出其即将启用新晶圆厂 - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFU1Vk9pMkNZdU0tQVVKaTFZM3U5aGhOb1ZHYUxCOWNQczZ1dG5wYmpzdW1zdWZocnFKcDRuM3duWjB6WnVaUndIN2xUQlY2TEN3cG1KaVEycFJCbW9saVJiUHlfOG54WTRMYmhzR0lPRENIay1fYUo0ZklGMjZ0MDZ1Qm5aZ1RVQ2l2NTJsS0dsNnRueFc2c3RiUWNoQUhjR0VxTEVSOS1WQQ?oc=5",
-        "pubDate": "2026-06-22 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -388,26 +380,26 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "法国巴黎银行维持对意法半导体的“跑赢大市”评级，并上调目标价 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORExaUXFFdkpaUHlNSjV6VHJDVGdlSXpsRTZ0eGpKQlc4UmxkU21MRWpWaG50VGVISFFrcXY1M1VVclZLdktmWDNjZ2FKLXlaTEgxZXpadjRtdHJteFVXdk9VWkx1REJYNDFGZUI1bHhnandwUkhmMjhKMVFhTkJYTFF4d1h5SVphVzBoZ2hvZHF1dlEtVHNSV0NCblh3VldndExMQ0Q3M0c4Q2c?oc=5",
-        "pubDate": "2026-07-06 12:58"
+        "title": "European Chip Stocks Rebound After Samsung-Induced Selloff -- Market Talk - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1FINGEtSXhCSkppOXhKbUZZNEtZeDQyOTZLZm5SMWExenRfQkJPTUxzaHRXaXpDdFhfRVBUb1NoWXg4TFFRbkJiVlFqR3ctUTROb1RZdlZvdnpGeE5mTHFtSVRyZkJvcGRHazVmLTNoY0ZPMmFmeThVRXlCOFJDWVpQU2dqUEhKaHZEQ2ZYWnhzTG5XZkdBVWZIa29hTDRrTjNmLVJmU3VLc0hi?oc=5",
+        "pubDate": "2026-07-08 08:44"
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "汽车半导体市场规模、份额、增长、分析（至2034年） - Straits Research",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZYmpzOFN2SklrVmc5cGZ0V1pEY0xuNXI3VUtoTG1waHJKNUxxaXpFWEJld0JFMld1aHNhYUVJWFdvVVp3ZzlYd29WR3NqZzFGLUtsakg2TkEzVFYwSG5wbkE1OGxFQ1JlZFFmVFBXcGZoOVplSE9GXw?oc=5",
-        "pubDate": "2026-06-18 07:00"
+        "title": "法国巴黎银行维持对意法半导体的“跑赢大市”评级，并上调目标价 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORExaUXFFdkpaUHlNSjV6VHJDVGdlSXpsRTZ0eGpKQlc4UmxkU21MRWpWaG50VGVISFFrcXY1M1VVclZLdktmWDNjZ2FKLXlaTEgxZXpadjRtdHJteFVXdk9VWkx1REJYNDFGZUI1bHhnandwUkhmMjhKMVFhTkJYTFF4d1h5SVphVzBoZ2hvZHF1dlEtVHNSV0NCblh3VldndExMQ0Q3M0c4Q2c?oc=5",
+        "pubDate": "2026-07-06 12:34"
+      },
+      {
+        "keyword": "亚德诺(ADI)",
+        "title": "Analog Devices完成对Empower Semiconductor的收购 - 电子工程专辑",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SNjBwSlJrUEU5M0xWUFJyc2dhMHJMYW9EdW54YmVGcjF0QXVzV3JLRWg4RTFNOEY4ZVJvQ3o5Qy00bnlTYUFVQ2VNUFp0aFpmR0hZ?oc=5",
+        "pubDate": "2026-07-08 07:15"
       },
       {
         "keyword": "亚德诺(ADI)",
         "title": "ADI将以15亿美元全现金交易收购Empower Semiconductor - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnEwOHhjTkZEbUQzbVFCeHN3VnJQSlFNLVhpN1pYek95ZmJneUMzS1lpSmZEVlB4ODJ1U0RZMTh3MjJPNGJ2Tk83OWdENzhwTmJFUS16cnJ1d0tGeWJqbTBhUW5jNjlEVk41c2hzb0I0WkJiR0dHSDBvbUJfMlc5Y3J5aDVUWGc?oc=5",
-        "pubDate": "2026-05-20 07:00"
-      },
-      {
-        "keyword": "亚德诺(ADI)",
-        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSHFORUtVdDBxc0JSQWJrU09SS0NjRnJOTm1fdlZBbzcwZ09wbzFEbzVBazNfRzZ5SFh5aHR2RERjRE5aeU5zSFY0ZEN2OW5fdmc?oc=5",
         "pubDate": "2026-05-20 07:00"
       },
       {
@@ -418,15 +410,15 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "ESC、EDA&T-Taiwan研讨会将於十七日展开:环球资源,Mark A. Saunderson - CTIMES",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGNjYnZOMVBMbmpFa3ZqREZ3SWRYWU5VS1BwcTJtbGVHLUE3VkJ0Y2lZbWNQUGlsUTc5Y3pWOU5Cc3RfRFlvY1dOZm9nR1ZPbndFZ0tPRE15WThWTExWMnlqRkVZZm4xR1czZndSdm5wTlV0cDJFa0JVbVAtbTNfZjJzSFR3LVJGLTRBNmxfQm5yUTFvTWhKdlRiSmdNNmxrX1BLSkZqNFdlZzNpN2VXbg?oc=5",
-        "pubDate": "2026-07-03 01:37"
-      },
-      {
-        "keyword": "瑞萨",
         "title": "SiC与GaN：功率半导体百年变局，2030年市场将破百亿美元 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EbjZlcFZPbUZUamN4SUtOR1FZV2lscldqbnpVbktxbG9YaFpHbTl6R1JaTHpWX1BpTjMyV2x3ZmhrUWpLVy14d1dTQTVuRWwzbEtJ?oc=5",
         "pubDate": "2026-01-12 08:00"
+      },
+      {
+        "keyword": "瑞萨",
+        "title": "ESC、EDA&T-Taiwan研讨会将於十七日展开:环球资源,Mark A. Saunderson - CTIMES",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGNjYnZOMVBMbmpFa3ZqREZ3SWRYWU5VS1BwcTJtbGVHLUE3VkJ0Y2lZbWNQUGlsUTc5Y3pWOU5Cc3RfRFlvY1dOZm9nR1ZPbndFZ0tPRE15WThWTExWMnlqRkVZZm4xR1czZndSdm5wTlV0cDJFa0JVbVAtbTNfZjJzSFR3LVJGLTRBNmxfQm5yUTFvTWhKdlRiSmdNNmxrX1BLSkZqNFdlZzNpN2VXbg?oc=5",
+        "pubDate": "2026-07-03 01:37"
       },
       {
         "keyword": "瑞萨",
