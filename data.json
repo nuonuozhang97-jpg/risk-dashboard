@@ -1,130 +1,104 @@
 {
-  "date": "2026-07-09",
-  "updated_at": "2026-07-09T02:34:05.820746+00:00",
+  "date": "2026-07-10",
+  "updated_at": "2026-07-10T02:36:23.763460+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.7,
-        "place": "134公里 东 Bitung 印度尼西亚",
-        "time": "2026-07-09 01:16",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz4q",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "12公里 东北 Murghob Tajikistan",
-        "time": "2026-07-09 01:15",
-        "depth_km": 155.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz4p",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5,
-        "place": "1公里 北西北 Xunchang 中国",
-        "time": "2026-07-08 23:44",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z",
+        "magnitude": 4.6,
+        "place": "52公里 WSW Playas Ecuador",
+        "time": "2026-07-09 23:42",
+        "depth_km": 39.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szbp",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "69公里 东北 Sulangan 菲律宾",
-        "time": "2026-07-08 20:32",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz31",
+        "place": "South Sandwich Islands 区域",
+        "time": "2026-07-09 23:31",
+        "depth_km": 31.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szbn",
         "tsunami": 0
       },
       {
-        "magnitude": 5.5,
-        "place": "Balleny Islands 区域",
-        "time": "2026-07-08 19:07",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b",
+        "magnitude": 4.6,
+        "place": "74公里 南 Panguna 巴布亚新几内亚",
+        "time": "2026-07-09 22:11",
+        "depth_km": 78.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szb1",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "7公里 北西北 Ābdānān Iran",
-        "time": "2026-07-08 15:22",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tazy",
+        "place": "145公里 北西北 Ternate 印度尼西亚",
+        "time": "2026-07-09 21:55",
+        "depth_km": 22.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szaw",
         "tsunami": 0
       },
       {
-        "magnitude": 5.3,
-        "place": "Chagos Archipelago 区域",
-        "time": "2026-07-08 13:01",
+        "magnitude": 4.5,
+        "place": "59公里 WSW Balangonan 菲律宾",
+        "time": "2026-07-09 17:50",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.4,
-        "place": "245公里 南 ‘Ohonua 汤加",
-        "time": "2026-07-08 12:18",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "109公里 西南 Isangel Vanuatu",
-        "time": "2026-07-08 11:42",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8z",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "110公里 东南 Kimbe 巴布亚新几内亚",
-        "time": "2026-07-08 11:23",
-        "depth_km": 25.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawr",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.8,
-        "place": "91公里 西南偏南 Isangel Vanuatu",
-        "time": "2026-07-08 09:50",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "64公里 西 Tobelo 印度尼西亚",
-        "time": "2026-07-08 08:36",
-        "depth_km": 141.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx",
+        "place": "19公里 东北偏东 Abuyog 菲律宾",
+        "time": "2026-07-09 16:46",
+        "depth_km": 103.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "8公里 东北偏东 Noda 日本",
-        "time": "2026-07-08 07:35",
-        "depth_km": 58.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavs",
+        "place": "70公里 北西北 Hirara 日本",
+        "time": "2026-07-09 16:21",
+        "depth_km": 104.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8f",
         "tsunami": 0
       },
       {
-        "magnitude": 4.7,
-        "place": "25公里 NNE Santa Rosa 秘鲁",
-        "time": "2026-07-08 05:00",
+        "magnitude": 4.6,
+        "place": "131公里 东北 Tadine New Caledonia",
+        "time": "2026-07-09 16:01",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauz",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8b",
         "tsunami": 0
       },
       {
-        "magnitude": 4.7,
-        "place": "61公里 东北偏东 Olonkinbyen Svalbard and Jan Mayen",
-        "time": "2026-07-08 04:21",
+        "magnitude": 5.1,
+        "place": "50公里 西南 Shirahama 日本",
+        "time": "2026-07-09 12:58",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7n",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "59公里 NNE Port-Olry Vanuatu",
+        "time": "2026-07-09 12:52",
+        "depth_km": 160.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "87公里 南 Kuril’sk 俄罗斯",
+        "time": "2026-07-09 11:58",
+        "depth_km": 110.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz66",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 09/07/2026, a forest fire started in Australia,  until 09/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029418",
+        "pubDate": "2026-07-09 15:00"
+      },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) Balleny Islands Region 08/07/2026 19:07 , 未知.",
         "description": "On 7/8/2026 7:07:10 PM, an earthquake occurred in Balleny Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
@@ -138,22 +112,64 @@
         "pubDate": "2026-07-08 10:10"
       },
       {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 08/07/2026, a forest fire started in Australia,  until 09/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029419",
+        "pubDate": "2026-07-09 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 08/07/2026, a forest fire started in Australia,  until 09/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029420",
+        "pubDate": "2026-07-09 19:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 08/07/2026, a forest fire started in Angola,  until 09/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029430",
+        "pubDate": "2026-07-09 23:00"
+      },
+      {
         "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 智利 07/07/2026 01:26 , Few people affected 烈度≥II级.",
         "description": "On 7/7/2026 1:26:45 AM, an earthquake occurred in Chile potentially affecting Few people affected in MMI>=II. The earthquake had Magnitude 5.8M, Depth:10km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1550528",
         "pubDate": "2026-07-07 01:44"
       },
       {
+        "title": "绿色（低） 洪水 警报 智利",
+        "description": "On 07/07/2026, a flood started in Chile, lasting until 09/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104010",
+        "pubDate": "2026-07-09 06:09"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 07/07/2026, a forest fire started in Angola,  until 09/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029431",
+        "pubDate": "2026-07-09 23:01"
+      },
+      {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 07/07/2026, a forest fire started in Australia,  until 08/07/2026.",
+        "description": "On 07/07/2026, a forest fire started in Australia,  until 09/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029421",
+        "pubDate": "2026-07-09 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/07/2026, a forest fire started in Australia,  until 09/07/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029422",
+        "pubDate": "2026-07-09 23:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/07/2026, a forest fire started in Australia,  until 09/07/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029352",
         "pubDate": "2026-07-07 19:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 07/07/2026, a forest fire started in Angola,  until 08/07/2026.",
+        "description": "On 07/07/2026, a forest fire started in Angola,  until 09/07/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029386",
-        "pubDate": "2026-07-08 23:00"
+        "pubDate": "2026-07-09 15:01"
       },
       {
         "title": "绿色（低） 地震 (震级5.8级, 深度:35公里) 菲律宾 06/07/2026 08:11 , 850千 烈度≥IV级.",
@@ -166,54 +182,6 @@
         "description": "Volcano Etna is emitting ash clouds according to the regional VAAC. The aviation alert level is Green.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000142",
         "pubDate": "2026-07-06 07:32"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 The Democratic Republic of Congo",
-        "description": "On 06/07/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029334",
-        "pubDate": "2026-07-07 11:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Angola, The Democratic Republic of Congo",
-        "description": "On 06/07/2026, a forest fire started in Angola, The Democratic Republic of Congo,  until 08/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029387",
-        "pubDate": "2026-07-08 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Zambia",
-        "description": "On 06/07/2026, a forest fire started in Zambia,  until 08/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029388",
-        "pubDate": "2026-07-08 23:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 06/07/2026, a forest fire started in Angola,  until 08/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029389",
-        "pubDate": "2026-07-08 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 06/07/2026, a forest fire started in Australia,  until 08/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029332",
-        "pubDate": "2026-07-06 19:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 俄罗斯",
-        "description": "On 06/07/2026, a forest fire started in Russian Federation,  until 08/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029407",
-        "pubDate": "2026-07-08 23:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 06/07/2026, a forest fire started in Australia,  until 08/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029408",
-        "pubDate": "2026-07-08 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 俄罗斯",
-        "description": "On 06/07/2026, a forest fire started in Russian Federation,  until 08/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029409",
-        "pubDate": "2026-07-08 23:01"
       }
     ],
     "typhoon": [],
@@ -225,32 +193,56 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.81,
-        "date": "2026-07-09"
+        "rate": 6.8,
+        "date": "2026-07-10"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1416,
-        "date": "2026-07-09"
+        "rate": 1.1429,
+        "date": "2026-07-10"
       },
       {
         "pair": "美元/日元",
-        "rate": 162.52,
-        "date": "2026-07-09"
+        "rate": 162.38,
+        "date": "2026-07-10"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.774,
-        "date": "2026-07-09"
+        "rate": 7.7714,
+        "date": "2026-07-10"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3369,
-        "date": "2026-07-09"
+        "rate": 1.3405,
+        "date": "2026-07-10"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "TrendForce: MLCC Book-to-Bill Ratios Reaching Post-pandemic Highs",
+        "link": "https://www.eetasia.com/trendforce-mlcc-book-to-bill-ratios-reaching-post-pandemic-highs/",
+        "pubDate": "Thu, 09 Jul 2026 03:38:56 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "MIPS Discusses RISC-V Shift",
+        "link": "https://www.eetasia.com/mips-discusses-risc-v-shift/",
+        "pubDate": "Thu, 09 Jul 2026 03:20:42 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "US ITC Upholds Import Ban on Innoscience GaN Products in Infineon Patent Case",
+        "link": "https://www.eetasia.com/us-itc-upholds-import-ban-on-innoscience-gan-products-in-infineon-patent-case/",
+        "pubDate": "Thu, 09 Jul 2026 03:01:12 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement",
+        "link": "https://www.eetasia.com/wolfspeed-suing-navitas-over-alleged-wbg-semiconductor-patent-infringement/",
+        "pubDate": "Thu, 09 Jul 2026 02:37:48 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "CA Engineering Joins Morse Micro’s Wi-Fi HaLow Design Partner Program",
@@ -258,28 +250,22 @@
         "pubDate": "Thu, 09 Jul 2026 02:09:16 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Analog Devices Completes Acquisition of Empower Semiconductor",
-        "link": "https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/",
-        "pubDate": "Wed, 08 Jul 2026 09:09:51 +0000"
+        "source": "SemiWiki",
+        "title": "Consolidation and Competition: Who is Winning the $4.5 Billion Interface IP Race?",
+        "link": "https://semiwiki.com/ip/370809-consolidation-and-competition-who-is-winning-the-4-5-billion-interface-ip-race/",
+        "pubDate": "Thu, 09 Jul 2026 21:00:18 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Using Boost Controller to Generate Regulated Negative Output from Negative Input",
-        "link": "https://www.eetasia.com/embeddedblog-using-boost-controller-to-generate-regulated-negative-output-from-negative-input/",
-        "pubDate": "Wed, 08 Jul 2026 08:37:28 +0000"
+        "source": "SemiWiki",
+        "title": "SemiAnalysis EDA Market Primer – Market Dynamics, Cadence, Synopsys, Siemens, China EDA Rise",
+        "link": "https://semiwiki.com/eda/371026-semianalysis-eda-market-primer-market-dynamics-cadence-synopsys-siemens-china-eda-rise/",
+        "pubDate": "Thu, 09 Jul 2026 17:00:46 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Why Real-Time LLM Performance Still Hits a Wall Despite Faster GPUs",
-        "link": "https://www.eetasia.com/embeddedblog-why-real-time-llm-performance-still-hits-a-wall-despite-faster-gpus/",
-        "pubDate": "Wed, 08 Jul 2026 08:29:46 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "Breakthrough Packaging Enhances Power Density in AOS’s Latest MOSFETs",
-        "link": "https://www.eetasia.com/breakthrough-packaging-enhances-power-density-in-aoss-latest-mosfets/",
-        "pubDate": "Wed, 08 Jul 2026 03:18:55 +0000"
+        "source": "SemiWiki",
+        "title": "Beyond Workflow Agents: Toward Design Intelligence in Analog EDA",
+        "link": "https://semiwiki.com/eda/370912-beyond-workflow-agents-toward-design-intelligence-in-analog-eda/",
+        "pubDate": "Thu, 09 Jul 2026 13:00:15 +0000"
       },
       {
         "source": "SemiWiki",
@@ -292,24 +278,6 @@
         "title": "Caspia Technologies is pioneering a new, agentic chip and system security approach at DAC 2026",
         "link": "https://semiwiki.com/security/caspia-technologies/370802-caspia-dac-plan-2026/",
         "pubDate": "Wed, 08 Jul 2026 17:00:20 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "IP Lifecycle Management in the AI Era",
-        "link": "https://semiwiki.com/artificial-intelligence/370919-ip-lifecycle-management-in-the-ai-era/",
-        "pubDate": "Wed, 08 Jul 2026 13:00:32 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "See Autonomous Chip Design in Action with ChipAgents at DAC 2026",
-        "link": "https://semiwiki.com/eda/chipagents-ai/370911-see-autonomous-chip-design-in-action-with-chipagents-at-dac-2026/",
-        "pubDate": "Tue, 07 Jul 2026 21:00:12 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "The Packaging PDK Is the Missing Layer for Co-Packaged Optics",
-        "link": "https://semiwiki.com/3dic/370709-the-packaging-pdk-is-the-missing-layer-for-co-packaged-optics/",
-        "pubDate": "Tue, 07 Jul 2026 17:00:16 +0000"
       }
     ],
     "china_policy": [
@@ -326,9 +294,9 @@
       },
       {
         "keyword": "德州仪器(TI)",
-        "title": "汽车半导体市场规模、份额、增长、分析（至2034年） - Straits Research",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZYmpzOFN2SklrVmc5cGZ0V1pEY0xuNXI3VUtoTG1waHJKNUxxaXpFWEJld0JFMld1aHNhYUVJWFdvVVp3ZzlYd29WR3NqZzFGLUtsakg2TkEzVFYwSG5wbkE1OGxFQ1JlZFFmVFBXcGZoOVplSE9GXw?oc=5",
-        "pubDate": "2026-06-18 07:00"
+        "title": "China Probe on US Analog Chips Could Unlock USD350 Million Market for Local Firms - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaW5CR05aMnBwbVM5S2NaZnpsQVNYVjgyM0RQdjFXaWE3bTIyU2M2V204elhUSVFkaG5HVm9ta25NTkRpMWVBSzVlUXllZGQza3FlZGFsZzJTNVFOTmdMRXlyZE9yNHRpMnpackZha19CaTBZcFliUmtzNVFoYjhyQ2VQSm9XdHg0MmdvaFNiWnIwbDQ1cVRPR1Z5NTN6SF84Y0MtQlFWOGEzQmQ4VUpGSkFkRUpFQQ?oc=5",
+        "pubDate": "2025-09-16 07:00"
       },
       {
         "keyword": "德州仪器(TI)",
@@ -338,27 +306,21 @@
       },
       {
         "keyword": "恩智浦(NXP)",
+        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我 - guancha.cn",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
+        "pubDate": "2026-03-05 08:00"
+      },
+      {
+        "keyword": "恩智浦(NXP)",
         "title": "NXP Semiconductors Stock Fell 7% the Same Day Citi Raised Its Target to $370. What the Numbers Say for 2026 - TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDZyUEJLLUN0WTJvOEwxS2NQNkxqbmZGXzNBVmU4YWtfQXprWjAxclRyOXhXeFFvZTd3ay1mX1ZBcVU0NzVseEZnRzVyMVFfS3huV1lJM1gyY3NWejBGUk05dTQ5N3N3cDRpOWhTc3V4ZGJiS3B4Y3FwUkVyOG5yM0hkS3BfYlRxYnJhdXk1bjBJb0t6TnBwUTJqOV85WFZPNTh3MHZZSUNQMUFuRUQxTHhLWTNFWFhfYXFpcTJ4a2VGbHpTaXI2bzMySnBzQQ?oc=5",
         "pubDate": "2026-06-24 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors | 4: Statement of changes in beneficial ownership of securities-Director SUMME GREGORY L - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNE5ZVzhJSTZkSWJmMjhQWWt3aVVMeU4tWkttUzg1bmdrZlJzWmUyREdMdFU1SW1VMHhjRi1MbWthS2NIbC1NZ3B5R0d2NDV4TTJTVU5mdmYwVEs3YmxuY2FGS19qSTlzZzVrOEpEM2FIelpUOHhVRnNjZXBOSzdINTBhWGtoUERSbkdJMUhHNU9yejVVUGo4d1NwTTQ0Mk02UE5mRWlIZWxvVlhHamV4Y1JlZnZtSUpRZVE?oc=5",
-        "pubDate": "2026-06-26 14:17"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
         "title": "增你强新产品线增强中国市场布局 - CTIMES",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2xpcHVkRjhIdWhGS2doeUJpMklVN3gweTRXUmFKSkZTN0tKM0xXTU12bTc0SUkwOHZRaW5welMtLTZDdnVrR2tsRmk5VE16cVo2Wk9lbG1KMkN5MERyTFNXVjQ3dDMzMzV1T3RFU1NveHFiWnJzYVNlbGpUa1luYjF2Y0xVSG44LUl3?oc=5",
         "pubDate": "2026-07-07 01:14"
-      },
-      {
-        "keyword": "英飞凌",
-        "title": "德国法院在另一起针对中国英诺赛科（Innoscience）的专利侵权案中支持英飞凌（Infineon） - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkszTXJTMTR1V3IxaC1IVHR0ZFpmZXNRT21HYjItMWY2NndjMnk3RERGSDlLTlpqTUdCVnNuLUR4c2c0NXhRbmdZd1R5MDUyU2JIMUdHZmZOV2l2aXB5TXZKOUk0ZnpEOExYNEliaGZWMDhzbTlqZmlBNEhtRnZEWHJ3SUR3R2l1SXJ6ak5wYVdLRldaSVBqa3BSQnNQSTAzY05UbkNKa1BqelhvX3k5Vk1tVU9mSzRqajVj?oc=5",
-        "pubDate": "2026-07-03 14:03"
       },
       {
         "keyword": "英飞凌",
@@ -373,6 +335,12 @@
         "pubDate": "2026-06-15 07:00"
       },
       {
+        "keyword": "英飞凌",
+        "title": "德国法院在另一起针对中国英诺赛科（Innoscience）的专利侵权案中支持英飞凌（Infineon） - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkszTXJTMTR1V3IxaC1IVHR0ZFpmZXNRT21HYjItMWY2NndjMnk3RERGSDlLTlpqTUdCVnNuLUR4c2c0NXhRbmdZd1R5MDUyU2JIMUdHZmZOV2l2aXB5TXZKOUk0ZnpEOExYNEliaGZWMDhzbTlqZmlBNEhtRnZEWHJ3SUR3R2l1SXJ6ak5wYVdLRldaSVBqa3BSQnNQSTAzY05UbkNKa1BqelhvX3k5Vk1tVU9mSzRqajVj?oc=5",
+        "pubDate": "2026-07-03 14:03"
+      },
+      {
         "keyword": "意法半导体(ST)",
         "title": "意法半导体宣布普通股回购计划的最新进展 - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZTItb3BmaVh4LUZSWE5zSmVld19leXhXYkNPYzgwSnJjZ0J0el9ZYk0xX29JdlBjLUhZd0p4S0dmUGV4VnIyNjNlc3J0bEdUUFFhWmwxeEZreWVaREo2c3hNVXVUdDk2bzUzeFpoYmxLYmNnNTRFVE84bkp5RDZVMlZnRVBWTXdHeWc2M1VyZjRvOEJlckU3Rl9hbjRxUGQ2aXV4c3BaZWVGcTFqRWpGYjdjWHlpRnUz?oc=5",
@@ -380,9 +348,9 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "European Chip Stocks Rebound After Samsung-Induced Selloff -- Market Talk - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1FINGEtSXhCSkppOXhKbUZZNEtZeDQyOTZLZm5SMWExenRfQkJPTUxzaHRXaXpDdFhfRVBUb1NoWXg4TFFRbkJiVlFqR3ctUTROb1RZdlZvdnpGeE5mTHFtSVRyZkJvcGRHazVmLTNoY0ZPMmFmeThVRXlCOFJDWVpQU2dqUEhKaHZEQ2ZYWnhzTG5XZkdBVWZIa29hTDRrTjNmLVJmU3VLc0hi?oc=5",
-        "pubDate": "2026-07-08 08:44"
+        "title": "新加坡竞争监管机构就Texas Instruments拟议收购Silicon Labs一案展开公开咨询 - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalppVFl1OUZOWGJyb2tqeVBSUHdZWDhubFhuaUozYS1GcnUxQXdqV29WajB0YmdGS2U5RnVwZWl3UUpKZTM2Mm0xU2kzSVZGS3IxTEw0V1Z2NUFwaFdCbXRVaGNYbUY2MnEzcS1CYTFKcXB1aFJOaERQS2IxSlBFa1RueEhhcmxEV05LNVVJTHlGaU9neWhqSEdrejR1NXhaZTJqMDQ2ZkxsTXpxRzdSMFVUemxFWG85UDBmOWtTODI3V290MVlGeV9jSDRFLXQzSlhUVXlVeEJFRDZydG14b1V1bmVvOFhWSHFpNUhR?oc=5",
+        "pubDate": "2026-07-09 06:51"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -398,8 +366,8 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "ADI将以15亿美元全现金交易收购Empower Semiconductor - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnEwOHhjTkZEbUQzbVFCeHN3VnJQSlFNLVhpN1pYek95ZmJneUMzS1lpSmZEVlB4ODJ1U0RZMTh3MjJPNGJ2Tk83OWdENzhwTmJFUS16cnJ1d0tGeWJqbTBhUW5jNjlEVk41c2hzb0I0WkJiR0dHSDBvbUJfMlc5Y3J5aDVUWGc?oc=5",
+        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSHFORUtVdDBxc0JSQWJrU09SS0NjRnJOTm1fdlZBbzcwZ09wbzFEbzVBazNfRzZ5SFh5aHR2RERjRE5aeU5zSFY0ZEN2OW5fdmc?oc=5",
         "pubDate": "2026-05-20 07:00"
       },
       {
@@ -422,15 +390,9 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "电动汽车半导体市场规模、份额、增长、预测（2034 年） - Straits Research",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0R0FlWXo3eFVtSXlOTU5qREM2TUxJM09seDRXdmFoOTZRaG5GR3hBcWZsMlBMSkZIWFlpYUIwSUI5VjExQ25wT0IxQ29GcVlydG9tZjEwbGtweGhUWDUzN3NPNVZnZ2tsaFh1dVlNUQ?oc=5",
-        "pubDate": "2025-12-15 08:00"
-      },
-      {
-        "keyword": "微芯科技(Microchip)",
-        "title": "Microchip Technology股价上涨，因半导体类股反弹，且投资者重新审视近期数据中心的增长前景。 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVdBSUlwaDRHeHFfQWE5LUIxTkFuLV9CTTRCZHJfQU1scWdxajVvVUFhV0hfODg0bExPSU55Rm4yVzFDUHhMM1dFak9VOXJrMWJsSnh0S1Z1U1J5Z1VMTzZ4RFdWQjYwbmR5SGZ4VERPRjI1d09aNEYwUVdYUDNlQjdBVl9wVlRyRWVLV20xYWhpNXMwMi0wUXZRVjQxX3U5SnloLTJOWE10QlJLeVZqVkdhTDZUSVBPVk9RZjRGMnhLUE5BWVE?oc=5",
-        "pubDate": "2026-06-08 07:00"
+        "title": "Global Integrated Circuit Makers Exhibit Latest Tech at 5th CIIE - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0tEQ3ljYUJuZkl5WU9PN0VMNzBfRlAwcVNPVHBTLWplRUs2R2tRQnZWVFdPSTY5T3JoWVdSakVvMlBsNjRqVldhUGp5Mm5SQ2ZSZnhkYl9NSkNtTXBIeTRaQ2lnekRtUmpOdDQ3SFVaRFcxVWxadkZJWDB0U0NadC1oeGlxcnlManFWWWJnZzIxOTRSdTFveFZBWHZoaDg?oc=5",
+        "pubDate": "2022-11-10 08:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
@@ -443,6 +405,12 @@
         "title": "伊朗局势下的避风港？这一芯片板块有望穿上“防弹衣” - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJWTFoRzNrd1o4Y1NlYXdjbl9sX29MNlNBQ19fbHNZT0tMYlhKRGZtX2wxUGZRX2VHVnNtay1YaEF3UFhLc2szYQ?oc=5",
         "pubDate": "2026-03-11 07:00"
+      },
+      {
+        "keyword": "微芯科技(Microchip)",
+        "title": "功率半导体市场规模、份额、增长、分析，2034 年 - Straits Research",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMZ19vVnFCMEdUWGlsYWhxQTR5U1RoQWQ1S09HV3ZzY0FkdW83eS1XUE5YczA4a0hrLW9fUUZIX0U0eHdXeHhvYXc3WDdHT29oWU1IUXl6blVxdEo1LXVCWTVsWEozLUJiNHBKTFllanM4Zw?oc=5",
+        "pubDate": "2026-06-18 07:00"
       }
     ]
   }
