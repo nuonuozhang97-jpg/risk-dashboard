@@ -1,130 +1,126 @@
 {
-  "date": "2026-07-15",
-  "updated_at": "2026-07-15T02:01:17.250770+00:00",
+  "date": "2026-07-16",
+  "updated_at": "2026-07-16T02:10:46.450732+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 5.1,
-        "place": "52公里 北西北 Valparaíso 智利",
-        "time": "2026-07-15 01:09",
-        "depth_km": 26.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it",
+        "magnitude": 4.7,
+        "place": "104公里 北西北 Aleknagik Alaska",
+        "time": "2026-07-16 02:07",
+        "depth_km": 0.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyeobt",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "1公里 西北偏西 Sōsa 日本",
+        "time": "2026-07-16 00:01",
+        "depth_km": 59.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.8,
+        "place": "south the 斐济",
+        "time": "2026-07-15 22:57",
+        "depth_km": 340.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "81公里 南 Severo-Kuril’sk 俄罗斯",
-        "time": "2026-07-15 01:05",
-        "depth_km": 66.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0iv",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "South Sandwich Islands 区域",
-        "time": "2026-07-15 00:35",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.5,
         "place": "斐济 区域",
-        "time": "2026-07-14 22:50",
-        "depth_km": 574.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk",
+        "time": "2026-07-15 21:58",
+        "depth_km": 625.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tz",
         "tsunami": 0
       },
       {
-        "magnitude": 5.4,
-        "place": "90公里 南东南 False Pass Alaska",
-        "time": "2026-07-14 18:51",
-        "depth_km": 47.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu",
+        "magnitude": 4.7,
+        "place": "101公里 西南 Basco 菲律宾",
+        "time": "2026-07-15 21:33",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tp",
         "tsunami": 0
       },
       {
-        "magnitude": 6.2,
-        "place": "34公里 WSW Sarangani 菲律宾",
-        "time": "2026-07-14 15:49",
-        "depth_km": 67.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "3公里 北西北 Sugal 菲律宾",
-        "time": "2026-07-14 13:15",
-        "depth_km": 24.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0bm",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "96公里 东南 False Pass Alaska",
-        "time": "2026-07-14 12:12",
-        "depth_km": 40.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.6,
-        "place": "11公里 北 Pichigua 秘鲁",
-        "time": "2026-07-14 08:21",
-        "depth_km": 140.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "50公里 东 Noda 日本",
-        "time": "2026-07-14 08:07",
-        "depth_km": 44.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09z",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5,
-        "place": "117公里 东 Noda 日本",
-        "time": "2026-07-14 07:44",
-        "depth_km": 11.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09u",
+        "magnitude": 4.7,
+        "place": "south Alaska",
+        "time": "2026-07-15 17:46",
+        "depth_km": 44.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxnvtv",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "18公里 WSW Mabiton 菲律宾",
-        "time": "2026-07-14 07:18",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09r",
+        "place": "South Sandwich Islands 区域",
+        "time": "2026-07-15 15:36",
+        "depth_km": 135.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0nx",
         "tsunami": 0
       },
       {
-        "magnitude": 5.2,
-        "place": "14公里 WSW Mabiton 菲律宾",
-        "time": "2026-07-14 07:04",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m",
+        "magnitude": 5.7,
+        "place": "east the South Sandwich Islands",
+        "time": "2026-07-15 14:51",
+        "depth_km": 13.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "48公里 NNE Kon Tum 越",
-        "time": "2026-07-14 06:48",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09h",
+        "place": "47公里 东北偏东 Noda 日本",
+        "time": "2026-07-15 12:29",
+        "depth_km": 63.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0mp",
         "tsunami": 0
       },
       {
-        "magnitude": 4.8,
-        "place": "Mid-印度n Ridge",
-        "time": "2026-07-14 06:15",
+        "magnitude": 4.7,
+        "place": "146公里 南东南 Vilyuchinsk 俄罗斯",
+        "time": "2026-07-15 03:36",
+        "depth_km": 49.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ke",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "183公里 南东南 Vilyuchinsk 俄罗斯",
+        "time": "2026-07-15 02:48",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t097",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "190公里 南东南 Vilyuchinsk 俄罗斯",
+        "time": "2026-07-15 02:42",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "110公里 西南 Santiago 秘鲁",
+        "time": "2026-07-15 02:40",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k0",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 地震 (震级5.8级, 深度:340.334公里) South Of 斐济 15/07/2026 22:57 , 未知.",
+        "description": "On 7/15/2026 10:57:11 PM, an earthquake occurred in South Of Fiji Islands potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:340.334km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552085",
+        "pubDate": "2026-07-15 23:11"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.7级, 深度:13.061公里) East Of South Sandwich Islands 15/07/2026 14:51 , 未知.",
+        "description": "On 7/15/2026 2:51:37 PM, an earthquake occurred in East Of South Sandwich Islands potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:13.061km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552027",
+        "pubDate": "2026-07-15 15:09"
+      },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:574.304公里) 斐济 14/07/2026 22:50 , Few people affected 100km.",
         "description": "On 7/14/2026 10:50:12 PM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.5M, Depth:574.304km.",
@@ -132,8 +128,8 @@
         "pubDate": "2026-07-14 23:05"
       },
       {
-        "title": "绿色（低） 警报 for 热带气旋 FIVE-E-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 14/07/2026 to 14/07/2026, a Tropical Depression (maximum wind speed of 157 km/h) FIVE-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "title": "绿色（低） 警报 for 热带气旋 ELIDA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 14/07/2026 to 15/07/2026, a Tropical Storm (maximum wind speed of 148 km/h) ELIDA-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001282",
         "pubDate": "2026-07-14 21:06"
       },
@@ -144,8 +140,8 @@
         "pubDate": "2026-07-14 16:07"
       },
       {
-        "title": "绿色（低） 地震 (震级5.6级, 深度:140.088公里) 秘鲁 14/07/2026 08:21 , 30千 MMI IV.",
-        "description": "On 7/14/2026 8:21:06 AM, an earthquake occurred in Peru potentially affecting 30 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:140.088km.",
+        "title": "绿色（低） 地震 (震级5.6级, 深度:140.088公里) 秘鲁 14/07/2026 08:21 , 20千 MMI IV.",
+        "description": "On 7/14/2026 8:21:06 AM, an earthquake occurred in Peru potentially affecting 20 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:140.088km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1551779",
         "pubDate": "2026-07-14 08:42"
       },
@@ -186,12 +182,6 @@
         "pubDate": "2026-07-14 10:09"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 13/07/2026, a forest fire started in Angola,  until 14/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029498",
-        "pubDate": "2026-07-14 11:00"
-      },
-      {
         "title": "绿色（低） 森林火灾 警报 加拿大",
         "description": "On 13/07/2026, a forest fire started in Canada,  until 14/07/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029503",
@@ -208,12 +198,6 @@
         "description": "On 13/07/2026, a forest fire started in Canada,  until 14/07/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029505",
         "pubDate": "2026-07-14 15:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 13/07/2026, a forest fire started in Australia,  until 14/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029506",
-        "pubDate": "2026-07-14 15:01"
       }
     ],
     "typhoon": [],
@@ -226,60 +210,78 @@
       {
         "pair": "美元/人民币",
         "rate": 6.78,
-        "date": "2026-07-15"
+        "date": "2026-07-16"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1416,
-        "date": "2026-07-15"
+        "rate": 1.1455,
+        "date": "2026-07-16"
       },
       {
         "pair": "美元/日元",
-        "rate": 162.17,
-        "date": "2026-07-15"
+        "rate": 162.16,
+        "date": "2026-07-16"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.7397,
-        "date": "2026-07-15"
+        "rate": 7.7663,
+        "date": "2026-07-16"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3387,
-        "date": "2026-07-15"
+        "rate": 1.3477,
+        "date": "2026-07-16"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "INFINITIX, SAINS Partner to Strengthen Malaysia’s Sovereign AI Infrastructure",
-        "link": "https://www.eetasia.com/infinitix-sains-partner-to-strengthen-malaysias-sovereign-ai-infrastructure/",
-        "pubDate": "Wed, 15 Jul 2026 01:55:59 +0000"
+        "title": "SILITH, UMC Reach Silicon Photonics Mass Production Milestone for AI Optical Interconnects",
+        "link": "https://www.eetasia.com/silith-umc-reach-silicon-photonics-mass-production-milestone-for-ai-optical-interconnects/",
+        "pubDate": "Thu, 16 Jul 2026 01:57:03 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs",
-        "link": "https://www.eetasia.com/alif-semiconductor-bets-on-edge-ai-leadership-with-next-gen-ai-mcus/",
-        "pubDate": "Wed, 15 Jul 2026 01:49:21 +0000"
+        "title": "Infineon, LS ELECTRIC Partner on DC Power Infrastructure for AI Data Centers",
+        "link": "https://www.eetasia.com/infineon-ls-electric-partner-on-dc-power-infrastructure-for-ai-data-centers/",
+        "pubDate": "Thu, 16 Jul 2026 01:46:48 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Electronic System Design Industry Revenue Up 13% in 1Q 2026",
-        "link": "https://www.eetasia.com/electronic-system-design-industry-revenue-up-13-in-1q-2026/",
-        "pubDate": "Tue, 14 Jul 2026 02:08:26 +0000"
+        "title": "AI’s Next Bottleneck is Power, Not Compute",
+        "link": "https://www.eetasia.com/ais-next-bottleneck-is-power-not-compute/",
+        "pubDate": "Thu, 16 Jul 2026 01:31:46 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "DEEPX Strengthens Presence in APAC Through Partnership with Avnet",
-        "link": "https://www.eetasia.com/deepx-strengthens-presence-in-apac-through-partnership-with-avnet/",
-        "pubDate": "Tue, 14 Jul 2026 01:56:41 +0000"
+        "title": "Rohde & Schwarz Expands GCF Validation for 5G NR-NTN Conformance Testing",
+        "link": "https://www.eetasia.com/rohde-schwarz-expands-gcf-validation-for-5g-nr-ntn-conformance-testing/",
+        "pubDate": "Wed, 15 Jul 2026 03:37:22 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "RECOM Expands Beyond Power Modules as AI Reshapes Power Management Design",
-        "link": "https://www.eetasia.com/recom-expands-beyond-power-modules-as-ai-reshapes-power-management-design/",
-        "pubDate": "Mon, 13 Jul 2026 23:26:15 +0000"
+        "title": "DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations",
+        "link": "https://www.eetasia.com/deepx-expands-physical-ai-platform-through-global-developer-ecosystem-collaborations/",
+        "pubDate": "Wed, 15 Jul 2026 02:42:23 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "DAC 2026 See Analog Bits TSMC N2P IP portfolio and meet with its engineering experts!",
+        "link": "https://semiwiki.com/ip/analog-bits/371049-dac-2026-see-analog-bits-tsmc-n2p-ip-portfolio-and-meet-with-its-engineering-experts/",
+        "pubDate": "Wed, 15 Jul 2026 21:00:04 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Perforce Enabling Innovation Without Introducing Risk at DAC 2026",
+        "link": "https://semiwiki.com/eda/371079-perforce-enabling-innovation-without-introducing-risk-at-dac-2026/",
+        "pubDate": "Wed, 15 Jul 2026 17:00:28 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Arteris at DAC 2026 Connecting Innovation for Silicon Success",
+        "link": "https://semiwiki.com/ip/arteris/371060-arteris-at-dac-2026-connecting-innovation-for-silicon-success/",
+        "pubDate": "Wed, 15 Jul 2026 13:00:43 +0000"
       },
       {
         "source": "SemiWiki",
@@ -292,24 +294,6 @@
         "title": "DAC 2026 Mach42:  A new generation of physics-driven AI models for analog circuit verification",
         "link": "https://semiwiki.com/eda/mach42/371063-dac-2026-mach42-a-new-generation-of-physics-driven-ai-models-for-analog-circuit-verification/",
         "pubDate": "Tue, 14 Jul 2026 17:00:08 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Synopsys at Design Automation Conference 2026",
-        "link": "https://semiwiki.com/eda/synopsys/371084-synopsys-at-design-automation-conference-2026/",
-        "pubDate": "Tue, 14 Jul 2026 13:00:12 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "DAC 2026: Join Accellera for a dynamic luncheon exploring how artificial intelligence is reshaping the standards landscape for design and verification.",
-        "link": "https://semiwiki.com/semiconductor-services/371018-dac-2026-join-accellera-for-a-dynamic-luncheon-exploring-how-artificial-intelligence-is-reshaping-the-standards-landscape-for-design-and-verification/",
-        "pubDate": "Mon, 13 Jul 2026 21:00:20 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Enabling AI to Understand Complex Runtime Behavior for Accurate, Automated Root Cause Analysis — DAC 2026",
-        "link": "https://semiwiki.com/eda/undo/371008-dac-2026-curious-about-how-verification-teams-at-amd-and-system-design-architects-at-nvidia-are-using-undos-technology/",
-        "pubDate": "Mon, 13 Jul 2026 13:00:13 +0000"
       }
     ],
     "china_policy": [
@@ -320,21 +304,21 @@
     "competitor_news": [
       {
         "keyword": "德州仪器(TI)",
-        "title": "详解千亿美元市值的德州仪器，模拟巨头走过怎样的成长之路？ - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGxBdmNMV2tjZFVmSjk4d0FaT2daYURWVDNPWk1nR0JFZkdXLVJHOFZoaTgyZGx6dGZVNmVlaGJvY1VnSU1VTjhzNUFNTlMyMFdJVHFkTUdCWWktcmJyRWZYQkRtdkdsbXlKdkQwWjMxR25HR2I4aVhxSnZrMk9vdGdaZmlVal8xTWxyb3ltb2xQaTRjTDFJS1p1YjNfNkdp?oc=5",
-        "pubDate": "2026-07-10 12:32"
+        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
+        "pubDate": "2026-07-15 03:54"
+      },
+      {
+        "keyword": "德州仪器(TI)",
+        "title": "AI semiconductors are still rising, why is capital starting to abandon equipment stocks? - odaily.news",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZRVBNc2xpWUxsMm1lZzNzMHR0dUpxSUxqS2pXaWZRYkJ5Z1BSUzk3NGtTNlZvbTBTbXRsdWFzY2lPdFpqZDFHc2ZQclZuUURk?oc=5",
+        "pubDate": "2026-07-14 15:18"
       },
       {
         "keyword": "德州仪器(TI)",
         "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
         "pubDate": "2026-02-04 08:00"
-      },
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "China Probe on US Analog Chips Could Unlock USD350 Million Market for Local Firms - 一财全球Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaW5CR05aMnBwbVM5S2NaZnpsQVNYVjgyM0RQdjFXaWE3bTIyU2M2V204elhUSVFkaG5HVm9ta25NTkRpMWVBSzVlUXllZGQza3FlZGFsZzJTNVFOTmdMRXlyZE9yNHRpMnpackZha19CaTBZcFliUmtzNVFoYjhyQ2VQSm9XdHg0MmdvaFNiWnIwbDQ1cVRPR1Z5NTN6SF84Y0MtQlFWOGEzQmQ4VUpGSkFkRUpFQQ?oc=5",
-        "pubDate": "2025-09-16 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -344,21 +328,21 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - 观察者",
+        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - 观察者网",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
         "pubDate": "2026-03-05 08:00"
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "大家好。我是分析美国股票热点项目的AI记者\"MK Signal\" - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yOVJVRjVWNWFIMGt2UjhqN2lZdW9oaU5VMUZraVRZa1EtTXN1cVltZkp1dHNUSU9GSmFkOVFGemRVSUNuV3p2OVpzV3BXOGc?oc=5",
-        "pubDate": "2026-06-30 07:00"
+        "title": "NXP Semiconductors Stock Fell 7% the Same Day Citi Raised Its Target to $370. What the Numbers Say for 2026 - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDZyUEJLLUN0WTJvOEwxS2NQNkxqbmZGXzNBVmU4YWtfQXprWjAxclRyOXhXeFFvZTd3ay1mX1ZBcVU0NzVseEZnRzVyMVFfS3huV1lJM1gyY3NWejBGUk05dTQ5N3N3cDRpOWhTc3V4ZGJiS3B4Y3FwUkVyOG5yM0hkS3BfYlRxYnJhdXk1bjBJb0t6TnBwUTJqOV85WFZPNTh3MHZZSUNQMUFuRUQxTHhLWTNFWFhfYXFpcTJ4a2VGbHpTaXI2bzMySnBzQQ?oc=5",
+        "pubDate": "2026-06-24 07:00"
       },
       {
         "keyword": "英飞凌",
-        "title": "全球功率半导体TOP20 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tSF9Eb1F3dkhhMGRuM1hrMEo1MXUyZDN2SjBOUUFHUzhFeVI1VWxsRFlvRXpfMWk5UHVTWTdJVEprLTExT19wV0lUMldfRTdGdnBF?oc=5",
-        "pubDate": "2026-07-10 08:01"
+        "title": "2025年全球20大功率半导体制造商，中国上榜5家 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVm1kY1pfM2R4a3ZZWVlnOHhSRDR3VnhvbjZLRy03TFBQRENla05OejJMU2YzSTV0Y1Z2Y3pmUXhxcjV4ejc1ZHRUaF92RnhBU2E5aGR3a1ktZUk0bGNDbk53dmtoUXA2MThIT1REZ1EzOFhubVhfNm4wUTZkZzVkTFNXOURfTk9fZXdITw?oc=5",
+        "pubDate": "2026-07-15 08:13"
       },
       {
         "keyword": "英飞凌",
@@ -386,9 +370,9 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "新加坡竞争监管机构就Texas Instruments拟议收购Silicon Labs一案展开公开咨询 - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalppVFl1OUZOWGJyb2tqeVBSUHdZWDhubFhuaUozYS1GcnUxQXdqV29WajB0YmdGS2U5RnVwZWl3UUpKZTM2Mm0xU2kzSVZGS3IxTEw0V1Z2NUFwaFdCbXRVaGNYbUY2MnEzcS1CYTFKcXB1aFJOaERQS2IxSlBFa1RueEhhcmxEV05LNVVJTHlGaU9neWhqSEdrejR1NXhaZTJqMDQ2ZkxsTXpxRzdSMFVUemxFWG85UDBmOWtTODI3V290MVlGeV9jSDRFLXQzSlhUVXlVeEJFRDZydG14b1V1bmVvOFhWSHFpNUhR?oc=5",
-        "pubDate": "2026-07-09 06:51"
+        "title": "系统级支付 (SIP) 市场规模、份额及展望（2035 年） - Market Research Future",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzBmRkFySGxuNW9QU3dyU0hIaWlTbThraTY2aTZtTEpPQ0VZZ0JjNWdfWlpKQWdvdW4xbUMxMncxa3EwODdCTlpwOVBzd1UyM2lETHBXV200bC1fTmp5MEszMDAybmNQS0lzMzFOU1Zmck5LUExuMGVqRWF5dC1uOEhnckl5TVk2eDR5cFlR?oc=5",
+        "pubDate": "2026-04-06 07:00"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -398,14 +382,14 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "ADI完成对Empower Semiconductor的收购 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDMUZmWDBhamRaTTFNVXJBQmhuMDF2eVI4Y0I1em9ZUHd6aHp2OW9qanhLeWt6TF9LeXZJeDROVmNZdlFUTWNFMXl2eUNzQWMyV2FwLWdtcWhSY2tmc2J0MUY3YUI1R0RjS2U1Ti02RGFPdw?oc=5",
-        "pubDate": "2026-07-08 07:29"
+        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSHFORUtVdDBxc0JSQWJrU09SS0NjRnJOTm1fdlZBbzcwZ09wbzFEbzVBazNfRzZ5SFh5aHR2RERjRE5aeU5zSFY0ZEN2OW5fdmc?oc=5",
+        "pubDate": "2026-05-20 07:00"
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSHFORUtVdDBxc0JSQWJrU09SS0NjRnJOTm1fdlZBbzcwZ09wbzFEbzVBazNfRzZ5SFh5aHR2RERjRE5aeU5zSFY0ZEN2OW5fdmc?oc=5",
+        "title": "ADI将以15亿美元收购Empower 扩展数据中心电源管理芯片组合 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tYTZPNDZCZjJZRXFFa2gzdE5PMEdpYk9XR3JQWlExYm1MNVdsUF9DMFBHYk1hUDRrRWttN18yQm5LZDhXdnNNYw?oc=5",
         "pubDate": "2026-05-20 07:00"
       },
       {
@@ -428,9 +412,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "Microchip Technology股价上涨，因半导体类股反弹，且投资者重新审视近期数据中心的增长前景。 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVdBSUlwaDRHeHFfQWE5LUIxTkFuLV9CTTRCZHJfQU1scWdxajVvVUFhV0hfODg0bExPSU55Rm4yVzFDUHhMM1dFak9VOXJrMWJsSnh0S1Z1U1J5Z1VMTzZ4RFdWQjYwbmR5SGZ4VERPRjI1d09aNEYwUVdYUDNlQjdBVl9wVlRyRWVLV20xYWhpNXMwMi0wUXZRVjQxX3U5SnloLTJOWE10QlJLeVZqVkdhTDZUSVBPVk9RZjRGMnhLUE5BWVE?oc=5",
-        "pubDate": "2026-06-08 07:00"
+        "title": "Microchip 推出 VectorBlox 3.0 加速器 SDK，推动神经网络实现 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEpnWTdpellrd0g1X1E2emxmaUpZZUVHMV9HN1k1czhSZGxlSHpxTXQ0VXBuMEdsWExHcVJtY1ozTkRiTEkzQjhTa1NLSDBaWi1WdnFfZTI4NFZQQUxIM1FKOGYxM2FnbjZWSWRPd09kcGlla2NicVVQZ1JuTFdDQ0NveWIzMFpIaC0xQ05SdHRjWTdVSDhUSDZJeE03RFllVzA0NXZCajg4eVEzb3ZNR3d5NUI2Qmx4SWFLT3hvWk84Y2hucXc?oc=5",
+        "pubDate": "2026-07-14 11:11"
       },
       {
         "keyword": "微芯科技(Microchip)",
