@@ -1,170 +1,138 @@
 {
-  "date": "2026-07-19",
-  "updated_at": "2026-07-19T02:14:58.739658+00:00",
+  "date": "2026-07-20",
+  "updated_at": "2026-07-20T02:35:08.741881+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 5.3,
-        "place": "85公里 西南 Puerto Madero 墨西哥",
-        "time": "2026-07-19 01:47",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q3",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "190公里 南东南 Vilyuchinsk 俄罗斯",
-        "time": "2026-07-19 00:39",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py",
+        "magnitude": 4.7,
+        "place": "81公里 WSW Puerto Madero 墨西哥",
+        "time": "2026-07-20 01:53",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vd",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "118公里 WSW Puerto Madero 墨西哥",
-        "time": "2026-07-18 22:49",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1p8",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.5,
-        "place": "Scotia Sea",
-        "time": "2026-07-18 19:50",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.7,
-        "place": "72公里 西南 Puerto Madero 墨西哥",
-        "time": "2026-07-18 17:26",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "South Sandwich Islands 区域",
-        "time": "2026-07-18 16:57",
-        "depth_km": 122.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n0",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "149公里 南 George Town Cayman Islands",
-        "time": "2026-07-18 16:08",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mu",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "southern East 太平洋 Rise",
-        "time": "2026-07-18 11:12",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ld",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "109公里 东北偏东 Khorugh Tajikistan",
-        "time": "2026-07-18 10:36",
-        "depth_km": 136.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1l8",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "69公里 西南 Puerto Madero 墨西哥",
-        "time": "2026-07-18 09:59",
-        "depth_km": 44.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1l4",
+        "place": "3公里 东北 Jordán Colombia",
+        "time": "2026-07-20 01:44",
+        "depth_km": 152.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vc",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "south the 斐济",
-        "time": "2026-07-18 08:28",
-        "depth_km": 529.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kh",
+        "place": "173公里 西 Fakfak 印度尼西亚",
+        "time": "2026-07-20 00:27",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "208公里 西南 Bandar Lampung 印度尼西亚",
-        "time": "2026-07-18 08:21",
-        "depth_km": 23.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "87公里 WSW Puerto Madero 墨西哥",
-        "time": "2026-07-18 06:51",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy",
+        "magnitude": 4.6,
+        "place": "203公里 东南偏东 Ozernovskiy 俄罗斯",
+        "time": "2026-07-20 00:09",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "central 中大西洋海岭",
-        "time": "2026-07-18 06:26",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw",
+        "place": "77公里 北西北 Pārūn Afghanistan",
+        "time": "2026-07-19 22:58",
+        "depth_km": 104.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1uv",
         "tsunami": 0
       },
       {
-        "magnitude": 4.6,
-        "place": "73公里 西南 Puerto Madero 墨西哥",
-        "time": "2026-07-18 06:10",
+        "magnitude": 4.5,
+        "place": "south the Kermadec Islands",
+        "time": "2026-07-19 20:23",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ue",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "81公里 西南 Puerto Madero 墨西哥",
+        "time": "2026-07-19 17:45",
         "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "66公里 西南 Brisas Barra de Suchiate 墨西哥",
+        "time": "2026-07-19 15:44",
+        "depth_km": 46.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ta",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "116公里 东北偏东 Murghob Tajikistan",
-        "time": "2026-07-18 05:47",
+        "place": "168公里 WSW San Antonio 智利",
+        "time": "2026-07-19 14:25",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jq",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1sv",
         "tsunami": 0
       },
       {
-        "magnitude": 5.2,
-        "place": "south the Kermadec Islands",
-        "time": "2026-07-18 05:46",
+        "magnitude": 4.5,
+        "place": "46公里 东北 Tulsīpur 尼泊尔",
+        "time": "2026-07-19 10:45",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1s3",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "71公里 WSW Puerto Madero 墨西哥",
-        "time": "2026-07-18 04:28",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb",
+        "magnitude": 4.6,
+        "place": "91公里 东南偏东 Hihifo 汤加",
+        "time": "2026-07-19 09:48",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rx",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "Ascension Island 区域",
-        "time": "2026-07-18 04:07",
+        "place": "83公里 南 Pelabuhanratu 印度尼西亚",
+        "time": "2026-07-19 08:11",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j4",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
         "tsunami": 0
       },
       {
-        "magnitude": 5,
-        "place": "17公里 东南 Malatya 土耳其",
-        "time": "2026-07-18 03:21",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0",
+        "magnitude": 4.6,
+        "place": "Kuril Islands",
+        "time": "2026-07-19 04:58",
+        "depth_km": 112.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:35公里) 墨西哥 19/07/2026 17:45 , 440千 MMI IV.",
+        "description": "On 7/19/2026 5:45:16 PM, an earthquake occurred in Mexico potentially affecting 440 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:35km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552874",
+        "pubDate": "2026-07-19 18:01"
+      },
+      {
+        "title": "绿色（低） 警报 for 热带气旋 TWO-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 19/07/2026 to 19/07/2026, a Tropical Depression (maximum wind speed of 93 km/h) TWO-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001290",
+        "pubDate": "2026-07-19 15:09"
+      },
+      {
+        "title": "绿色（低） 警报 for 热带气旋 FA美国TO-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 19/07/2026 to 19/07/2026, a Tropical Storm (maximum wind speed of 176 km/h) FAUSTO-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001289",
+        "pubDate": "2026-07-19 02:53"
+      },
+      {
+        "title": "橙色（中） 地震 (震级5.5级, 深度:10公里) 秘鲁 19/07/2026 02:24 , 30千 ( 烈度≥VII级).",
+        "description": "On 7/19/2026 2:24:36 AM, an earthquake occurred in Peru potentially affecting 30 thousand (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552752",
+        "pubDate": "2026-07-19 02:42"
+      },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) Scotia Sea 18/07/2026 19:50 , 未知.",
         "description": "On 7/18/2026 7:50:37 PM, an earthquake occurred in Scotia Sea potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
@@ -176,6 +144,12 @@
         "description": "On 7/18/2026 5:26:25 PM, an earthquake occurred in Mexico potentially affecting 820 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552687",
         "pubDate": "2026-07-18 17:44"
+      },
+      {
+        "title": "绿色（低） 洪水 警报 韩国",
+        "description": "On 18/07/2026, a flood started in South Korea, lasting until 20/07/2026 (last update). The flood caused 0 deaths and 95 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104032",
+        "pubDate": "2026-07-19 12:38"
       },
       {
         "title": "绿色（低） 地震 (震级6级, 深度:10公里) 墨西哥 17/07/2026 15:20 , 1.2 million MMI IV.",
@@ -208,18 +182,6 @@
         "pubDate": "2026-07-16 07:34"
       },
       {
-        "title": "绿色（低） 地震 (震级5.8级, 深度:340.334公里) South Of 斐济 15/07/2026 22:57 , 未知.",
-        "description": "On 7/15/2026 10:57:11 PM, an earthquake occurred in South Of Fiji Islands potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:340.334km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552085",
-        "pubDate": "2026-07-15 23:11"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.7级, 深度:13.061公里) East Of South Sandwich Islands 15/07/2026 14:51 , 未知.",
-        "description": "On 7/15/2026 2:51:37 PM, an earthquake occurred in East Of South Sandwich Islands potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:13.061km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552027",
-        "pubDate": "2026-07-15 15:09"
-      },
-      {
         "title": "绿色（低） 洪水 警报 法国",
         "description": "On 15/07/2026, a flood started in France, lasting until 16/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
         "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104028",
@@ -233,27 +195,9 @@
       },
       {
         "title": "绿色（低） 警报 for 热带气旋 ELIDA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 14/07/2026 to 18/07/2026, a Tropical Storm (maximum wind speed of 111 km/h) ELIDA-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "description": "From 14/07/2026 to 19/07/2026, a Tropical Storm (maximum wind speed of 111 km/h) ELIDA-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001282",
         "pubDate": "2026-07-14 21:06"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Austria",
-        "description": "On 14/07/2026, a flood started in Austria, lasting until 16/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104023",
-        "pubDate": "2026-07-16 09:39"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Czech Republic",
-        "description": "On 14/07/2026, a flood started in Czech Republic, lasting until 16/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104024",
-        "pubDate": "2026-07-16 09:39"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Poland",
-        "description": "On 14/07/2026, a flood started in Poland, lasting until 16/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104025",
-        "pubDate": "2026-07-16 09:39"
       }
     ],
     "typhoon": [],
@@ -265,32 +209,56 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.79,
-        "date": "2026-07-19"
+        "rate": 6.78,
+        "date": "2026-07-20"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1442,
-        "date": "2026-07-19"
+        "rate": 1.1429,
+        "date": "2026-07-20"
       },
       {
         "pair": "美元/日元",
-        "rate": 162.39,
-        "date": "2026-07-19"
+        "rate": 162.49,
+        "date": "2026-07-20"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.7689,
-        "date": "2026-07-19"
+        "rate": 7.7486,
+        "date": "2026-07-20"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3441,
-        "date": "2026-07-19"
+        "date": "2026-07-20"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "Technology Sovereignty will Advance Slowly through 2030",
+        "link": "https://www.eetasia.com/technology-sovereignty-will-advance-slowly-through-2030/",
+        "pubDate": "Mon, 20 Jul 2026 02:29:10 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design",
+        "link": "https://www.eetasia.com/rapidus-and-cadence-collaborate-on-agentic-ai-for-advanced-node-soc-design/",
+        "pubDate": "Mon, 20 Jul 2026 02:13:24 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue",
+        "link": "https://www.eetasia.com/melaka-strengthens-semiconductor-strategy-through-government-industry-dialogue/",
+        "pubDate": "Mon, 20 Jul 2026 01:59:52 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Thermal Imaging as Infrastructure for Physical AI",
+        "link": "https://www.eetasia.com/thermal-imaging-as-infrastructure-for-physical-ai/",
+        "pubDate": "Mon, 20 Jul 2026 01:25:00 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "esmo Expands Global Operations as It Marks 25 Years in Service",
@@ -298,28 +266,16 @@
         "pubDate": "Fri, 17 Jul 2026 09:00:14 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping",
-        "link": "https://www.eetasia.com/hanyang-university-develops-solvent-based-method-for-controlled-organic-semiconductor-doping/",
-        "pubDate": "Fri, 17 Jul 2026 06:01:42 +0000"
+        "source": "SemiWiki",
+        "title": "CEO Interview with Dr. Il Park of Primemas",
+        "link": "https://semiwiki.com/ceo-interviews/371285-ceo-interview-with-dr-il-park-of-primemas/",
+        "pubDate": "Mon, 20 Jul 2026 01:00:35 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "TetraMem, SK hynix Highlight Memristor-Based AI Computing SoC Collaboration",
-        "link": "https://www.eetasia.com/tetramem-sk-hynix-highlight-memristor-based-ai-computing-soc-collaboration/",
-        "pubDate": "Fri, 17 Jul 2026 05:47:46 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "SEMI Forecasts Global Chip Equipment Sales to Reach Record $229B in 2028",
-        "link": "https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-reach-record-229b-in-2028/",
-        "pubDate": "Fri, 17 Jul 2026 03:43:41 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "Edge AI Hits 25% of Smartwatch Shipments in 1Q 2026",
-        "link": "https://www.eetasia.com/edge-ai-hits-25-of-smartwatch-shipments-in-1q-2026/",
-        "pubDate": "Thu, 16 Jul 2026 02:27:20 +0000"
+        "source": "SemiWiki",
+        "title": "CEO Interview with Mohit Gupta of TYLsemi",
+        "link": "https://semiwiki.com/ceo-interviews/371041-ceo-interview-with-mohit-gupta-of-tylsemi/",
+        "pubDate": "Sun, 19 Jul 2026 23:00:09 +0000"
       },
       {
         "source": "SemiWiki",
@@ -338,18 +294,6 @@
         "title": "TSMC’s Raises the Bar on CAPEX!",
         "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371192-tsmcs-raises-the-bar-on-capex/",
         "pubDate": "Fri, 17 Jul 2026 13:00:27 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Agentrys a New Paradigm for Semiconductor Engineering at 2026 DAC",
-        "link": "https://semiwiki.com/eda/agentrys/370924-agentrys-a-new-paradigm-for-semiconductor-engineering-at-2026-dac/",
-        "pubDate": "Thu, 16 Jul 2026 21:00:27 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "WAVE-P: Hardware Acceleration for the APV Professional Video Codec",
-        "link": "https://semiwiki.com/ip/chipsmedia/371133-wave-p-hardware-acceleration-for-the-apv-professional-video-codec/",
-        "pubDate": "Thu, 16 Jul 2026 17:00:56 +0000"
       }
     ],
     "china_policy": [
@@ -402,9 +346,9 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "2025年全球20大功率半导体制造商，中国上榜5家 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVm1kY1pfM2R4a3ZZWVlnOHhSRDR3VnhvbjZLRy03TFBQRENla05OejJMU2YzSTV0Y1Z2Y3pmUXhxcjV4ejc1ZHRUaF92RnhBU2E5aGR3a1ktZUk0bGNDbk53dmtoUXA2MThIT1REZ1EzOFhubVhfNm4wUTZkZzVkTFNXOURfTk9fZXdITw?oc=5",
-        "pubDate": "2026-07-15 08:13"
+        "title": "2025年全球20大功率半导体制造商，中国上榜5家 | 行业榜单 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ySmdKTl9nVHk0ME5tM3R0Tk55a3NLdUE0M05CMU1Hamk1a3F6WXYxNnY4TGJQTlFVM1E1S3kxQWdZZlhRUnczX0tmWS1MampGaUh0NDA5U1paeE54a0hUaWlR?oc=5",
+        "pubDate": "2026-07-16 05:15"
       },
       {
         "keyword": "英飞凌",
@@ -414,39 +358,45 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "中压线路调节器市场规模、行业份额、到 2034 年的预测 - Fortune Business Insights",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVy1QRE1NTUM3TThHNExRNmZDVVByRlhxc2ZBTDcxWGYyX1RSdFJSUFItaGxOSDVteWt5d25BTEM1TUxidkhfYWVhMU9CdHg2Y01NMHE5NTQtS1lUa1NyYnI2UExEYlotRTVGUWlTS1FZWHJYNXdwdHdkd0tFLWxESFNBUlQtQnRSdHhFOEc5OA?oc=5",
-        "pubDate": "2026-06-15 07:00"
-      },
-      {
-        "keyword": "意法半导体(ST)",
         "title": "Banca Akros（ESN）上调意法半导体目标价，维持“累积”评级 - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVFQSmZZeEppOFFnc19SZTI3RmtLTUVZMmNJOWYwMm11M00xcS1JbDJBaWdXTm9fTmJ4RVRfZkFGTTlxRGhGcTVkMFJNWFEydkF6S3Z4Rkw2Vkx4dERYZUVzdFVHbzB5R1QtdkRjcTN2X1lWSkM3bzZfMUJOQTJCYzVUQVBEcFdhOVZZcHcyVFdQdlBIUlJLcUZFbnlxV1JWQlh2UWhBNzN5LXgzZ29fZw?oc=5",
         "pubDate": "2026-05-29 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "汽车半导体市场规模、份额、增长、分析（至2034年） - Straits Research",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZYmpzOFN2SklrVmc5cGZ0V1pEY0xuNXI3VUtoTG1waHJKNUxxaXpFWEJld0JFMld1aHNhYUVJWFdvVVp3ZzlYd29WR3NqZzFGLUtsakg2TkEzVFYwSG5wbkE1OGxFQ1JlZFFmVFBXcGZoOVplSE9GXw?oc=5",
-        "pubDate": "2026-05-25 07:00"
+        "title": "SiC/GaN功率半导体市场规模、份额报告及趋势（2035年） - Market Research Future",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlFoQU5aM3ZVMkpGdnNhakhKOUFIaGJnOHZRVVF5RXlHWHVIREQ4Z1N3QlZzZlpHYXRJOEkwZ0JOODl5VEVGVkhudGJiV3BZTi1NQ1pkU05udXNsZ2ZUYy1DN08xdTREbzNlam5xNUNBRXJ5QUVEbEJDbGRkcFRTcGg4UFlyblRncFdsdld1enZ4TjF4TGc?oc=5",
+        "pubDate": "2026-04-06 07:00"
+      },
+      {
+        "keyword": "意法半导体(ST)",
+        "title": "【AI光通信】硅光芯片中锗硅（SiGe）产能稀缺性 ——AI光模块驱动下，高端射频芯片产能被挤占 - 雪球",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLWk5seXM4TThXLWpQc05QR3owcXdjUmtFTUJ6OUpmTWxtQ3ZjYWY5UjVfUFJPN1NrVFZrQVIwbndMb3VzejhwQ2VMSGx2WlFh?oc=5",
+        "pubDate": "2026-03-10 07:00"
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices完成对Empower Semiconductor的收购 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SNjBwSlJrUEU5M0xWUFJyc2dhMHJMYW9EdW54YmVGcjF0QXVzV3JLRWg4RTFNOEY4ZVJvQ3o5Qy00bnlTYUFVQ2VNUFp0aFpmR0hZ?oc=5",
-        "pubDate": "2026-07-08 07:00"
-      },
-      {
-        "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices完成对Empower Semiconductor的收购 - 新浪财经",
+        "title": "Analog Devices完成对Empower Semiconductor的收购 - 新浪网",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IT2NRVWlKLVNLWVJxYkpWbVVvNmEyb2Q4RnZndEZ1c1FIaVpwX1g4eEFRSklxTTNEQzF0cDdJUXVDZEFtMVpNRnVQblZ0SzdrMlZGT1RoU2xJdS1YUzZiVGp6NjVydTM4U0pJZndHRkVzSkc0UV9MUTd3aEpxdXc?oc=5",
         "pubDate": "2026-07-09 07:00"
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "AI服务器电源变天，ADI豪掷15亿美元押注 - 36 Kr",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zYWI1cGN1XzJXUUZBT1ktSjFhMi0xeFA5aW0yaFU2SkVJQjJZRy1QSDh2QXJKZlg5TEd3bE41bVF6N1FUamcxU2dxMnZHZw?oc=5",
-        "pubDate": "2026-07-17 20:47"
+        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSHFORUtVdDBxc0JSQWJrU09SS0NjRnJOTm1fdlZBbzcwZ09wbzFEbzVBazNfRzZ5SFh5aHR2RERjRE5aeU5zSFY0ZEN2OW5fdmc?oc=5",
+        "pubDate": "2026-05-20 07:00"
+      },
+      {
+        "keyword": "亚德诺(ADI)",
+        "title": "ADI拟收购Empower Semiconductor，拓展面向AI时代的新一代高密度电源产品组合 - 电子工程专辑",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hR3VTMFpHMjRYTXFuTm1XdXZfTVFuLTdzWGxTeTVjV0x3dXc0NnBZdEVUY1hYYnphdFpuaUtKa25TQ1hsWWVxSHlRVGVfN0RkVHZJ?oc=5",
+        "pubDate": "2026-05-20 07:00"
+      },
+      {
+        "keyword": "瑞萨",
+        "title": "SK 海力士大涨超过 11%，美国半导体反弹带动亚洲晶片股走高 - Binance",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQakhiWExpcU5XT2dUS0pFWUZDTXJ0UWNUYnRlQUhuTjlVX3FVTWIzS1J1NTAxZzh2a2VwTmpwZ0J0VG1HVzR5RzZxRGwxTGFmZkwwb1dRTkhqR1lLOG5YTmFRLTloTzhrd0ZmdS1LX0daUS1qX3Fyb1RueW5TaU9kUmliVUNIeTJVR3Z6dUFGRy1WX01keUZhcnpqcElIbGdHOWoybzZiVVpoZjMtaG5GMDJ5RUpfMGxQMjhuc2x1UjR1azFZNnpVcGxvVXlYZU81bjdLeU83aE9CVVBhNXZLRGdqdG5yUnBlTkNr?oc=5",
+        "pubDate": "2026-07-15 00:58"
       },
       {
         "keyword": "瑞萨",
@@ -459,12 +409,6 @@
         "title": "电动汽车半导体市场规模、份额、增长、预测（2034 年） - Straits Research",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0R0FlWXo3eFVtSXlOTU5qREM2TUxJM09seDRXdmFoOTZRaG5GR3hBcWZsMlBMSkZIWFlpYUIwSUI5VjExQ25wT0IxQ29GcVlydG9tZjEwbGtweGhUWDUzN3NPNVZnZ2tsaFh1dVlNUQ?oc=5",
         "pubDate": "2025-12-15 08:00"
-      },
-      {
-        "keyword": "瑞萨",
-        "title": "Global Integrated Circuit Makers Exhibit Latest Tech at 5th CIIE - 一财全球Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0tEQ3ljYUJuZkl5WU9PN0VMNzBfRlAwcVNPVHBTLWplRUs2R2tRQnZWVFdPSTY5T3JoWVdSakVvMlBsNjRqVldhUGp5Mm5SQ2ZSZnhkYl9NSkNtTXBIeTRaQ2lnekRtUmpOdDQ3SFVaRFcxVWxadkZJWDB0U0NadC1oeGlxcnlManFWWWJnZzIxOTRSdTFveFZBWHZoaDg?oc=5",
-        "pubDate": "2022-11-10 08:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
@@ -480,9 +424,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "伊朗局势下的避风港？这一芯片板块有望穿上“防弹衣” - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJWTFoRzNrd1o4Y1NlYXdjbl9sX29MNlNBQ19fbHNZT0tMYlhKRGZtX2wxUGZRX2VHVnNtay1YaEF3UFhLc2szYQ?oc=5",
-        "pubDate": "2026-03-11 07:00"
+        "title": "Microchip Technology股价下跌，因芯片行业疲软叠加市场对数据中心叙事的新一轮质疑 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0VTOTJmbWNmSk0xdmV5eGRmYVRHUmFKN2RrX3BpaUVrdHpBVXJTSS1yZXI4Sk1XbUZidlZDQmFLdDFYdHhwa0VZejZ2QURYbjc3Zzc3UlVLMExnZ2hSVkRlTXR5RFcxSDNsVi1EcDFvRklEdWZYX2VFdnFoQTZkbmFyTDc2VUN2SW9rVGV6Mk5WQ0ViUnpIQk15SGFIYVYwbHljX3YxSXlBN0tsU3AyeUd2Zw?oc=5",
+        "pubDate": "2026-06-26 07:00"
       }
     ]
   }
