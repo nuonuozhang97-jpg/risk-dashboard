@@ -1,167 +1,211 @@
 {
-  "date": "2026-08-01",
-  "updated_at": "2026-08-01T02:25:51.410447+00:00",
+  "date": "2026-08-02",
+  "updated_at": "2026-08-02T02:23:09.703649+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.7,
-        "place": "206公里 西北 Oula Xiuma 中国",
-        "time": "2026-08-01 01:29",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "163公里 东北偏东 Tokār Sudan",
-        "time": "2026-08-01 01:24",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdb",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "40公里 东南偏东 Sulangan 菲律宾",
-        "time": "2026-07-31 23:36",
-        "depth_km": 10.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thcu",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "132公里 东北偏东 Masohi 印度尼西亚",
-        "time": "2026-07-31 23:17",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thcs",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "153公里 东北偏东 Masohi 印度尼西亚",
-        "time": "2026-07-31 23:15",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thcq",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "54公里 东北 Simao 中国",
-        "time": "2026-07-31 21:24",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thc9",
+        "magnitude": 4.8,
+        "place": "64公里 东北偏东 Noda 日本",
+        "time": "2026-08-02 00:45",
+        "depth_km": 56.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
         "tsunami": 0
       },
       {
         "magnitude": 5.2,
-        "place": "141公里 东北偏东 Masohi 印度尼西亚",
-        "time": "2026-07-31 20:19",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "South Sandwich Islands 区域",
-        "time": "2026-07-31 18:58",
-        "depth_km": 70.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thb5",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "69公里 西 Coquimbo 智利",
-        "time": "2026-07-31 17:47",
-        "depth_km": 21.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th96",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "1公里 北 Quarto 意大利",
-        "time": "2026-07-31 17:46",
-        "depth_km": 5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th99",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "85公里 西南 El Arenal 墨西哥",
-        "time": "2026-07-31 16:15",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8n",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "260公里 北西北 Puerto Ayora Ecuador",
-        "time": "2026-07-31 16:04",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8m",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "95公里 西北偏西 Amagi 日本",
-        "time": "2026-07-31 12:58",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th7y",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "31公里 西北偏西 Titahi Bay 新西兰",
-        "time": "2026-07-31 11:09",
-        "depth_km": 55.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th7q",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "37公里 西北偏西 Dāmghān Iran",
-        "time": "2026-07-31 09:08",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th6a",
+        "place": "112公里 西南 Severo-Kuril’sk 俄罗斯",
+        "time": "2026-08-02 00:13",
+        "depth_km": 80.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "287公里 西南 Banda Aceh 印度尼西亚",
-        "time": "2026-07-31 08:31",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
+        "place": "83公里 南东南 Atka Alaska",
+        "time": "2026-08-01 23:07",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thii",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "斐济 区域",
-        "time": "2026-07-31 07:32",
-        "depth_km": 581.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th63",
+        "place": "188公里 西 Abepura 印度尼西亚",
+        "time": "2026-08-01 21:26",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thi4",
         "tsunami": 0
       },
       {
-        "magnitude": 5,
-        "place": "Kermadec Islands 区域",
-        "time": "2026-07-31 06:30",
-        "depth_km": 37.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s",
+        "magnitude": 5.2,
+        "place": "160公里 西南偏南 Severo-Kuril’sk 俄罗斯",
+        "time": "2026-08-01 20:02",
+        "depth_km": 49.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhr",
         "tsunami": 0
       },
       {
-        "magnitude": 5,
-        "place": "Kermadec Islands 区域",
-        "time": "2026-07-31 04:02",
+        "magnitude": 5.2,
+        "place": "48公里 东南偏东 Tsunō 日本",
+        "time": "2026-08-01 19:10",
+        "depth_km": 26.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "14公里 WSW Honmachi 日本",
+        "time": "2026-08-01 16:07",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "south the 斐济",
+        "time": "2026-08-01 15:51",
+        "depth_km": 69.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgx",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "3公里 西 Matsubase 日本",
+        "time": "2026-08-01 12:47",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgg",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "Tristan da Cunha 区域",
+        "time": "2026-08-01 11:07",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thg5",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "Tristan da Cunha 区域",
+        "time": "2026-08-01 09:50",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thfp",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "south the 斐济",
+        "time": "2026-08-01 07:46",
+        "depth_km": 544.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thf3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "south the 斐济",
+        "time": "2026-08-01 04:50",
+        "depth_km": 493.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thel",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.6,
+        "place": "200公里 西南 Port McNeill 加拿大",
+        "time": "2026-08-01 04:49",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "25公里 南 Daliao 菲律宾",
+        "time": "2026-08-01 03:42",
         "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5f",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thef",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "44公里 西北 Te Anau 新西兰",
+        "time": "2026-08-01 03:23",
+        "depth_km": 112.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000the7",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "57公里 东 Mutsu 日本",
+        "time": "2026-08-01 02:48",
+        "depth_km": 82.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
+        "title": "绿色（低） 地震 (震级5.6级, 深度:10公里) 加拿大 01/08/2026 04:49 , 10千 烈度≥III级.",
+        "description": "On 8/1/2026 4:49:01 AM, an earthquake occurred in Canada potentially affecting 10 thousand in MMI>=III. The earthquake had Magnitude 5.6M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1555461",
+        "pubDate": "2026-08-01 05:09"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:82.29公里) 日本 01/08/2026 02:48 , 1.5 million MMI IV.",
+        "description": "On 8/1/2026 2:48:01 AM, an earthquake occurred in Japan potentially affecting 1.5 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:82.29km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1555442",
+        "pubDate": "2026-08-01 03:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Kazakhstan",
+        "description": "On 01/08/2026, a forest fire started in Kazakhstan,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030000",
+        "pubDate": "2026-08-01 15:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Kazakhstan",
+        "description": "On 01/08/2026, a forest fire started in Kazakhstan,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030001",
+        "pubDate": "2026-08-01 23:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Kazakhstan",
+        "description": "On 01/08/2026, a forest fire started in Kazakhstan,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030002",
+        "pubDate": "2026-08-01 15:00"
+      },
+      {
         "title": "绿色（低） 地震 (震级5.6级, 深度:154.355公里) 秘鲁 31/07/2026 00:58 , 210千 MMI IV.",
         "description": "On 7/31/2026 12:58:44 AM, an earthquake occurred in Peru potentially affecting 210 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:154.355km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1555237",
         "pubDate": "2026-07-31 01:19"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 俄罗斯",
+        "description": "On 31/07/2026, a forest fire started in Russian Federation,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029991",
+        "pubDate": "2026-08-01 11:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 31/07/2026, a forest fire started in Angola,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030004",
+        "pubDate": "2026-08-01 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 31/07/2026, a forest fire started in Angola,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030005",
+        "pubDate": "2026-08-01 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Greece",
+        "description": "On 31/07/2026, a forest fire started in Greece,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029987",
+        "pubDate": "2026-08-01 07:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 31/07/2026, a forest fire started in Australia,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030023",
+        "pubDate": "2026-08-01 23:00"
       },
       {
         "title": "绿色（低） 地震 (震级5.9级, 深度:34.505公里) Micronesia 30/07/2026 17:55 , 1千 烈度≥III级.",
@@ -176,76 +220,16 @@
         "pubDate": "2026-07-30 05:29"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 30/07/2026, a forest fire started in Angola,  until 30/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029938",
-        "pubDate": "2026-07-31 15:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 30/07/2026, a forest fire started in Angola,  until 31/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029969",
-        "pubDate": "2026-07-31 23:01"
-      },
-      {
         "title": "绿色（低） 森林火灾 警报 俄罗斯",
-        "description": "On 30/07/2026, a forest fire started in Russian Federation,  until 31/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029970",
-        "pubDate": "2026-07-31 19:00"
+        "description": "On 30/07/2026, a forest fire started in Russian Federation,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029992",
+        "pubDate": "2026-08-01 11:01"
       },
       {
         "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 30/07/2026, a forest fire started in Angola,  until 31/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029971",
-        "pubDate": "2026-07-31 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Greece",
-        "description": "On 30/07/2026, a forest fire started in Greece,  until 31/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029958",
-        "pubDate": "2026-07-31 11:00"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.9级, 深度:10公里) Kermadec Islands Region 29/07/2026 22:27 , 未知.",
-        "description": "On 7/29/2026 10:27:57 PM, an earthquake occurred in Kermadec Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.9M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554971",
-        "pubDate": "2026-07-29 22:44"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.6级, 深度:10公里) 太平洋-Antarctic Ridge 29/07/2026 22:08 , 未知.",
-        "description": "On 7/29/2026 10:08:07 PM, an earthquake occurred in Pacific-Antarctic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554970",
-        "pubDate": "2026-07-29 22:34"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 智利",
-        "description": "On 29/07/2026, a flood started in Chile, lasting until 29/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104063",
-        "pubDate": "2026-07-31 10:01"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Austria",
-        "description": "On 29/07/2026, a flood started in Austria, lasting until 31/07/2026 (last update). The flood caused 0 deaths and 330 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104059",
-        "pubDate": "2026-07-30 10:41"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 墨西哥",
-        "description": "On 29/07/2026, a flood started in Mexico, lasting until 31/07/2026 (last update). The flood caused 0 deaths and 30 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104061",
-        "pubDate": "2026-07-30 11:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Greece",
-        "description": "On 29/07/2026, a forest fire started in Greece,  until 30/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029959",
-        "pubDate": "2026-07-31 11:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 29/07/2026, a forest fire started in Australia,  until 31/07/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029962",
-        "pubDate": "2026-07-31 19:02"
+        "description": "On 30/07/2026, a forest fire started in Angola,  until 01/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029969",
+        "pubDate": "2026-08-01 03:01"
       }
     ],
     "typhoon": [],
@@ -257,28 +241,28 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.76,
-        "date": "2026-08-01"
+        "rate": 6.77,
+        "date": "2026-08-02"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.1507,
-        "date": "2026-08-01"
+        "date": "2026-08-02"
       },
       {
         "pair": "美元/日元",
-        "rate": 158.54,
-        "date": "2026-08-01"
+        "rate": 158.35,
+        "date": "2026-08-02"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.7791,
-        "date": "2026-08-01"
+        "rate": 7.7906,
+        "date": "2026-08-02"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3459,
-        "date": "2026-08-01"
+        "date": "2026-08-02"
       }
     ],
     "bond_yields": [],
@@ -370,27 +354,27 @@
       },
       {
         "keyword": "恩智浦(NXP)",
+        "title": "NXP Semiconductors | 10-Q: Q2 2026 Earnings Report - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDlUMEdjallSTEJlc0l2Qmh0Y2xxQ0dDZXlDcFNSZWxVMHZqVFEtYUg5NEJSYXA1ZHNXbS1EeU1BRVBGaHhxczR6bDBFSVNIZVdpRHFwZkhXVUs3ampPbXhldndFZDUtWFBhNnNMMnAwYmJKYmlCN3hSRFBkZ182THhuUTk0Tk8tNjNjeWtTcFVMUUhOaWVkQzdXbnBaUQ?oc=5",
+        "pubDate": "2026-07-28 20:16"
+      },
+      {
+        "keyword": "恩智浦(NXP)",
         "title": "NXP Semiconductors | 10-Q: Q2 2026 Earnings Report - 富途牛牛",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGRuc3dtbnI3NEtjaUdWN1pCVVl0bXpHd0ItSUVHVlJ0VXpMMHdWaTFxRjRBeUpsNWJlMmx4OTlsbmRhbDdibHE5QzhUbnVNaWQ2M3VwU19fdmtXM1ZacHJHd0laSzVnMVU0ZGNiaEVBZDdiRnN2Q19hX1F4NUxhNnRQMUl3N2lN?oc=5",
         "pubDate": "2026-07-28 21:14"
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我 - 观察者",
+        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我 - 观察者网",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
         "pubDate": "2026-03-05 08:00"
       },
       {
-        "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors Rose 8% This Week. Here’s Why 2026 Could Be a Turning Point - TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGdLaEhUTEJ4Um84Smdzd0lBX05VTmsyTW5MNDEwaU80S3AxM2FMYl8tTmo4SUdVTC1XRXVYb3ZaaTRHcTF4ZHBkc3JLMndPcE1iVXg3LTdCNkRINTVPOHR0dVVwd2VndkhwQmZ5RUI4SGpyZ3h5bGFaUjdMdkVmbUxlT3d1TnZDamFRUGFXR0lhRWRjZWdGVjcxdDhXa2pDZ1RBSmFhUQ?oc=5",
-        "pubDate": "2026-05-29 07:00"
-      },
-      {
         "keyword": "英飞凌",
         "title": "晨星公司将英飞凌科技的评级上调至持有 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzAxbGZyanE1eVBHLXRlLTc5Q3RvbWx5NVlSUUJqUXVrYjc1X3FDRWhYaWdZdFpYQmRzWVRsYjRkakI1R0RLbFUtcXJ1RG4tZzFMNTF2ei15YUxJT3hQa2szbElsZ1Y3XzRtMElSMkNTV0RZd3hhamdubTdqY3oyM3hnSHlsSlI5SFJOaU9TbHlJdkdVanU5ZE0yenZNZw?oc=5",
-        "pubDate": "2026-07-30 13:31"
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXBWN3BEenpmX3NaX1Nma1p1UWQ4UGZHRlk1Ty1MWVM0aHpoa25XRzlXMnJQY0pOUWo3dUJVbU01dkd1dnE1TGJDdTI5Z1hzaEVFZ1p4LXREY3M0VER6aV9wV2FveUlWdlpPYk1sVURoNzdZS0RQZGhVVTRVQzVranFqTEVFSGFZMjNETjE4dmg2MlE1SnZYZVV2d29LNjBJSk5lVUFHLTFJXzNZMHRpNWwtdlJoNExnRVVTMzAydGdjSC16YzcwcDh1bWc?oc=5",
+        "pubDate": "2026-07-30 12:39"
       },
       {
         "keyword": "英飞凌",
@@ -400,21 +384,9 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "AlphaValue/Baader Europe将英飞凌科技的评级上调至“增持”，并下调了目标价 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdjhEaTlXR1Z6ZWpEV0NEZWNwVFU0UDM2Q043YW1MTEp2NVBWWWgzVGktWENKOWkxNHhXUTc3cjFVWFB5UnVwdGtQMGVMVkNLZzJ0eXhoMlU1SlYyeGNKLTFBSlhWSGYwMnJoZm1RMVhORjBoWF9wcmRiVVVVMnE3eDBORnhsSXF5LXpVSDVKR0Z6TmYwX05Dc1BndXVIMVlJNldrUzVOaUs1ck1haUd1TWNlU1VqNExKLTlqdDVuT1FpSHdRU3M4ZW5hMGZLd1BnSVYyRzRUTnU4WTlteFdnc0R1aDBLc2pz?oc=5",
-        "pubDate": "2026-07-29 12:44"
-      },
-      {
-        "keyword": "意法半导体(ST)",
-        "title": "意法半导体宣布普通股回购计划的最新进展 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSE9rWWRSWDhMYm5YTjFjeFpvejR0VDQtOWFNSS13LWN5VldNamhGa2FzQmYtNXRPeGEyaHdkMXdNTXhDWUhiUjNKY2drNFFfOVRyMDhFa1dYYmlIRTI5VWFPTWFIVlZQcVVUbnNQS203bkdNTXptdE1OQmxWbzVVaUxPNTY1T2I5R1hVUzBTRmsxbVFSMFRLRWQyQjNtWnRkUkJZZnZTRW85d3BrbEwydnpZTnR2X3d6?oc=5",
-        "pubDate": "2026-07-27 04:00"
-      },
-      {
-        "keyword": "意法半导体(ST)",
-        "title": "Shares of SpaceX Supplier STMicroelectronics Slump After Guidance Quashes AI Enthusiasm -- 3rd Update - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORVZuTVRLMzgxM2plR2UwUkZmUVVDeUViZHZvSHFfWElxYjlrVlRvZDNIRi1CTHR3MFJPWmtNcEJVS2tFeWgwQVdvcDBEYjlEUmY3d1dBWGZBVE5oUTlLLXlCS3ZVUVBLWHNMQnh3WHFtUVFCM2xDenUwcnN3LXA2WUxiemJHeWdUWFN5OXFRalE4bDZRS2k2bFRmNlBNRTI3MmZ2c20yX1p3bjJBYkJ3ZlRGNW8?oc=5",
-        "pubDate": "2026-07-24 01:38"
+        "title": "2025年全球20大功率半导体制造商，中国上榜5家 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVm1kY1pfM2R4a3ZZWVlnOHhSRDR3VnhvbjZLRy03TFBQRENla05OejJMU2YzSTV0Y1Z2Y3pmUXhxcjV4ejc1ZHRUaF92RnhBU2E5aGR3a1ktZUk0bGNDbk53dmtoUXA2MThIT1REZ1EzOFhubVhfNm4wUTZkZzVkTFNXOURfTk9fZXdITw?oc=5",
+        "pubDate": "2026-07-15 08:13"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -423,8 +395,20 @@
         "pubDate": "2026-07-28 12:57"
       },
       {
+        "keyword": "意法半导体(ST)",
+        "title": "STM|意法半导体|价格:53.060|涨跌幅:+4.700 - TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoVEw2TlRBcjFENll4Rm1RcndXUUZTbWNlTy1OMlI2X2JDbDA3NkJDSWs4VFRWeU05VVRFbXA5ZVktQXhiNHF3RTNsc1puQ1dyRDlOR1RfM3h2U1V1UjBKc1NJdzdOSEw2WDV1Rk1n?oc=5",
+        "pubDate": "2026-07-24 14:35"
+      },
+      {
+        "keyword": "意法半导体(ST)",
+        "title": "意法半导体宣布普通股回购计划的最新进展 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSE9rWWRSWDhMYm5YTjFjeFpvejR0VDQtOWFNSS13LWN5VldNamhGa2FzQmYtNXRPeGEyaHdkMXdNTXhDWUhiUjNKY2drNFFfOVRyMDhFa1dYYmlIRTI5VWFPTWFIVlZQcVVUbnNQS203bkdNTXptdE1OQmxWbzVVaUxPNTY1T2I5R1hVUzBTRmsxbVFSMFRLRWQyQjNtWnRkUkJZZnZTRW85d3BrbEwydnpZTnR2X3d6?oc=5",
+        "pubDate": "2026-07-27 04:00"
+      },
+      {
         "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices完成对Empower Semiconductor的收购 - finance.sina.com.cn",
+        "title": "Analog Devices完成对Empower Semiconductor的收购 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IT2NRVWlKLVNLWVJxYkpWbVVvNmEyb2Q4RnZndEZ1c1FIaVpwX1g4eEFRSklxTTNEQzF0cDdJUXVDZEFtMVpNRnVQblZ0SzdrMlZGT1RoU2xJdS1YUzZiVGp6NjVydTM4U0pJZndHRkVzSkc0UV9MUTd3aEpxdXc?oc=5",
         "pubDate": "2026-07-09 07:00"
       },
@@ -436,21 +420,21 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 新浪财经",
+        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - finance.sina.com.cn",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ONHBFazh5ckdrMkdxX2k1X0pHYWNEcTdFVzduMUZWdWtMX1JRSU1RY1dZRGpCSUxFczdYLVlMdHVSS2M3dlJXVmpOTDl3eFY5ZnR1cDJXeUR5UmRrMVptblF6aEplOFZXZ0o5cENMa3k?oc=5",
         "pubDate": "2026-05-20 07:00"
-      },
-      {
-        "keyword": "瑞萨",
-        "title": "Kumamoto Earthquake Halts Chip Factories, Toyota, Honda and Nissan Affected - VOI.id",
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LRDcwRW8xMUxwbTFEUVpZajlkcmQySnZFX3dNY2RmaG95dVBnMXdrMV9lMENjN3VhZE9zal9qX3otQdIBQkFVX3lxTE5LRDcwRW8xMUxwbTFEUVpZajlkcmQySnZFX3dNY2RmaG95dVBnMXdrMV9lMENjN3VhZE9zal9qX3otQQ?oc=5",
-        "pubDate": "2026-07-30 07:48"
       },
       {
         "keyword": "瑞萨",
         "title": "Press Release: SiTime Completes Acquisition of Renesas' Timing Business - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeVM4TVpJcFlLbW5UemluZHowZHdCVC1xUDZSRFpiVkhqR3ZfRzZfUkdQZjU5NVdfNjRjWG5sWlhQN1dZOWtPMzRNMlFUdDBGeG1ESEJBMzVCWFNlbDVEUS1uZ0VSVUN5TGd2RjFhVTRxbS1DRUtxbG9teFpqbl93ZHQzMnhWeVpzbFAxcHlCUFRMdFQySlIwdlpueXhQbGJUb3pqeGdyUjNWVVdtbm10VjJpVm9fNVk?oc=5",
         "pubDate": "2026-07-01 07:00"
+      },
+      {
+        "keyword": "瑞萨",
+        "title": "Global Integrated Circuit Makers Exhibit Latest Tech at 5th CIIE - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0tEQ3ljYUJuZkl5WU9PN0VMNzBfRlAwcVNPVHBTLWplRUs2R2tRQnZWVFdPSTY5T3JoWVdSakVvMlBsNjRqVldhUGp5Mm5SQ2ZSZnhkYl9NSkNtTXBIeTRaQ2lnekRtUmpOdDQ3SFVaRFcxVWxadkZJWDB0U0NadC1oeGlxcnlManFWWWJnZzIxOTRSdTFveFZBWHZoaDg?oc=5",
+        "pubDate": "2022-11-10 08:00"
       },
       {
         "keyword": "瑞萨",
@@ -472,9 +456,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "MCHP|微芯科技|价格:74.960|涨跌幅:+3.590 - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hNXBrQ01qRF9BdHMzaXdESnJ5dWxfS1JBRlNTbXVadTBBUF9aRE5vSW1QTXV6bDFYR2ZOckpoWjUydVpuREd0aGN6SWlOMEhLUV9UYVN1UG53SThQRjBGMUlDcGRMRmRCWGJZbWxVYw?oc=5",
-        "pubDate": "2026-07-27 07:14"
+        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
+        "pubDate": "2026-07-06 07:00"
       }
     ]
   }
