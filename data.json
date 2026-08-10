@@ -1,219 +1,124 @@
 {
-  "date": "2026-08-09",
-  "updated_at": "2026-08-09T01:19:33.808030+00:00",
+  "date": "2026-08-10",
+  "updated_at": "2026-08-10T01:21:39.534946+00:00",
   "categories": {
     "earthquake": [
       {
+        "magnitude": 5,
+        "place": "198公里 东南 Sarangani 菲律宾",
+        "time": "2026-08-09 22:17",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tji3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "216公里 东南 Sarangani 菲律宾",
+        "time": "2026-08-09 21:42",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjhn",
+        "tsunami": 0
+      },
+      {
         "magnitude": 4.5,
-        "place": "92公里 西南偏南 Sarangani 菲律宾",
-        "time": "2026-08-08 23:12",
-        "depth_km": 9.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjbq",
+        "place": "south the 斐济",
+        "time": "2026-08-09 18:23",
+        "depth_km": 525.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgp",
         "tsunami": 0
       },
       {
-        "magnitude": 4.8,
-        "place": "northern 中大西洋海岭",
-        "time": "2026-08-08 22:09",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjbg",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "Kermadec Islands 区域",
-        "time": "2026-08-08 19:07",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjas",
+        "magnitude": 4.5,
+        "place": "123公里 西北偏西 Panguna 巴布亚新几内亚",
+        "time": "2026-08-09 18:11",
+        "depth_km": 104.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgl",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "47公里 西北偏西 Lata Solomon Islands",
-        "time": "2026-08-08 18:28",
-        "depth_km": 75.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjan",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.6,
-        "place": "42公里 东 Noda 日本",
-        "time": "2026-08-08 17:57",
-        "depth_km": 34,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "77公里 WSW San Antonio de los Cobres 阿根廷",
-        "time": "2026-08-08 12:44",
-        "depth_km": 163.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj96",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.6,
-        "place": "southeast Easter Island",
-        "time": "2026-08-08 11:41",
+        "place": "19公里 东南偏东 Metahāra Ethiopia",
+        "time": "2026-08-09 17:11",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "Vanuatu 区域",
-        "time": "2026-08-08 10:56",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8n",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgf",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "54公里 西南 Sarangani 菲律宾",
-        "time": "2026-08-08 10:20",
-        "depth_km": 10.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e",
+        "place": "7公里 东南偏东 Mabini 菲律宾",
+        "time": "2026-08-09 17:05",
+        "depth_km": 110.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd",
         "tsunami": 0
       },
       {
-        "magnitude": 4.8,
-        "place": "95公里 西南偏南 Severo-Kuril’sk 俄罗斯",
-        "time": "2026-08-08 05:39",
-        "depth_km": 82.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70",
+        "magnitude": 4.6,
+        "place": "30公里 NNE Satipo 秘鲁",
+        "time": "2026-08-09 15:40",
+        "depth_km": 95.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfr",
         "tsunami": 0
       },
       {
-        "magnitude": 5.6,
-        "place": "57公里 西北偏西 Skwentna Alaska",
-        "time": "2026-08-08 04:50",
+        "magnitude": 5.3,
+        "place": "197公里 西南偏南 Pagar Alam 印度尼西亚",
+        "time": "2026-08-09 15:15",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "68公里 南东南 Sarangani 菲律宾",
+        "time": "2026-08-09 13:47",
+        "depth_km": 162.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfb",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "Galapagos Triple Junction 区域",
+        "time": "2026-08-09 11:57",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "96公里 南 Sarangani 菲律宾",
+        "time": "2026-08-09 10:04",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tje3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "12公里 西 Chambara 秘鲁",
+        "time": "2026-08-09 04:05",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "68公里 东南偏东 Atka Alaska",
+        "time": "2026-08-09 03:36",
+        "depth_km": 60.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "Kermadec Islands 区域",
-        "time": "2026-08-08 03:59",
+        "place": "180公里 西北 Sabang 印度尼西亚",
+        "time": "2026-08-09 03:02",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "158公里 NNE Darya Boyi 中国",
-        "time": "2026-08-08 03:45",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "2公里 东南偏东 Mehmand Chak Pakistan",
-        "time": "2026-08-08 03:30",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj67",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "33公里 西南偏南 Sarangani 菲律宾",
-        "time": "2026-08-08 02:44",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj65",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
-        "title": "绿色（低） 地震 (震级5.6级, 深度:34公里) 日本 08/08/2026 17:58 , 330千 MMI IV.",
-        "description": "On 8/8/2026 5:58:00 PM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:34km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556955",
-        "pubDate": "2026-08-08 18:17"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.6级, 深度:10公里) Southeast Of Easter Island 08/08/2026 11:41 , 未知.",
-        "description": "On 8/8/2026 11:41:27 AM, an earthquake occurred in Southeast Of Easter Island potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556897",
-        "pubDate": "2026-08-08 12:01"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.6级, 深度:10公里) 美国 08/08/2026 04:50 , 2千 烈度≥IV级.",
-        "description": "On 8/8/2026 4:50:34 AM, an earthquake occurred in United States potentially affecting 2 thousand in MMI>=IV. The earthquake had Magnitude 5.6M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556854",
-        "pubDate": "2026-08-08 04:56"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 加拿大",
-        "description": "On 08/08/2026, a forest fire started in Canada,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030240",
-        "pubDate": "2026-08-08 11:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Botswana",
-        "description": "On 08/08/2026, a forest fire started in Botswana,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030247",
-        "pubDate": "2026-08-08 19:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 西班牙",
-        "description": "On 07/08/2026, a forest fire started in Spain,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030237",
-        "pubDate": "2026-08-08 07:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 07/08/2026, a forest fire started in Angola,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030208",
-        "pubDate": "2026-08-08 15:00"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 CHAN-HOM-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 07/08/2026 to 08/08/2026, a Tropical Storm (maximum wind speed of 93 km/h) CHAN-HOM-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001299",
-        "pubDate": "2026-08-07 02:37"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 西班牙",
-        "description": "On 06/08/2026, a flood started in Spain, lasting until 08/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104080",
-        "pubDate": "2026-08-07 11:16"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 巴西",
-        "description": "On 06/08/2026, a forest fire started in Brazil,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030269",
-        "pubDate": "2026-08-08 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 06/08/2026, a forest fire started in Australia,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030241",
-        "pubDate": "2026-08-08 19:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 06/08/2026, a forest fire started in Australia,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030200",
-        "pubDate": "2026-08-07 19:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 美国",
-        "description": "On 06/08/2026, a forest fire started in United States,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030201",
-        "pubDate": "2026-08-07 15:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 巴西",
-        "description": "On 06/08/2026, a forest fire started in Brazil,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030233",
-        "pubDate": "2026-08-08 07:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 06/08/2026, a forest fire started in Angola,  until 08/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030248",
-        "pubDate": "2026-08-08 23:02"
+        "error": "GDACS 解析失败"
       }
     ],
     "typhoon": [],
@@ -225,28 +130,28 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.77,
-        "date": "2026-08-09"
+        "rate": 6.75,
+        "date": "2026-08-10"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.1547,
-        "date": "2026-08-09"
+        "date": "2026-08-10"
       },
       {
         "pair": "美元/日元",
-        "rate": 157.93,
-        "date": "2026-08-09"
+        "rate": 157.88,
+        "date": "2026-08-10"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.8176,
-        "date": "2026-08-09"
+        "rate": 7.7945,
+        "date": "2026-08-10"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3477,
-        "date": "2026-08-09"
+        "date": "2026-08-10"
       }
     ],
     "bond_yields": [],
@@ -283,6 +188,24 @@
       },
       {
         "source": "SemiWiki",
+        "title": "ChipAgent Raises $130 Million and Why it Matters",
+        "link": "https://semiwiki.com/eda/chipagents-ai/372067-chipagent-raises-130-million-and-why-it-matters/",
+        "pubDate": "Sun, 09 Aug 2026 17:00:25 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "CEO Interview with Brendan Emery of iQ Sense",
+        "link": "https://semiwiki.com/semiconductor-services/372028-ceo-interview-with-brendan-emery-of-iq-sense/",
+        "pubDate": "Sun, 09 Aug 2026 15:00:30 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "CEO Interview with David Reeder from Entegris",
+        "link": "https://semiwiki.com/ceo-interviews/371583-ceo-interview-with-david-reeder-from-entegris/",
+        "pubDate": "Sun, 09 Aug 2026 13:00:04 +0000"
+      },
+      {
+        "source": "SemiWiki",
         "title": "Intel and TSMC Take Different Paths to High-NA EUV",
         "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371838-intel-and-tsmc-take-different-paths-to-high-na-euv/",
         "pubDate": "Fri, 07 Aug 2026 15:00:10 +0000"
@@ -292,24 +215,6 @@
         "title": "Intel Foundry and the DAC2026 Ecosystem",
         "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372019-intel-foundry-and-the-dac2026-ecosystem/",
         "pubDate": "Fri, 07 Aug 2026 13:00:42 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "New Audio SoCs Combine Bluetooth HDT with Dual-RF Technology",
-        "link": "https://semiwiki.com/ip/ceva/372013-new-audio-socs-combine-bluetooth-hdt-with-dual-rf-technology/",
-        "pubDate": "Thu, 06 Aug 2026 21:00:22 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "White Paper: The Semiconductor Foundation of Modern AI Data Centers",
-        "link": "https://semiwiki.com/artificial-intelligence/370090-white-paper-the-semiconductor-foundation-of-modern-ai-data-centers/",
-        "pubDate": "Thu, 06 Aug 2026 17:00:18 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Mach42 Delivers a Different Take on AI in the Design Flow at DAC 2026",
-        "link": "https://semiwiki.com/eda/mach42/371812-mach42-delivers-a-different-take-on-ai-in-the-design-flow-at-dac-2026/",
-        "pubDate": "Thu, 06 Aug 2026 13:00:42 +0000"
       }
     ],
     "china_policy": [
@@ -338,12 +243,6 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "诺基亚收购恩智浦北美工厂，布局磷化铟光芯片产线 - news.futunn.com",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pZThrLVhwM21IWE9fTEJwWGw1RzJqTzdqSE9aYXFZNkJyVm1uX2pTOXhFTVRnUXJkeHhPOEJRLWEyMWEyUHZiNEZ1a2dXMDZOR0E?oc=5",
-        "pubDate": "2026-08-06 02:00"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
         "title": "NXP Semiconductors | SCHEDULE 13G/A: Others - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDc3bGs1ZUJvbUZkN3ZpdFVkNW5VZkhyblJoMDF6VGx6MUJvYUFQVUI3S2VpNkxKSlhaMWxpam43Qk1xOUM1UVJfUThDYTcwMGxnQzhZemRnT2U2bERFTk9faWRXV0ZldkFOT0JYQ1Z1VG5Mam1paDYwd0JySkF6Y3dCWWFiQ01FeWVvalphSnM0Rzg5?oc=5",
         "pubDate": "2026-07-27 07:00"
@@ -355,6 +254,12 @@
         "pubDate": "2026-07-27 06:56"
       },
       {
+        "keyword": "恩智浦(NXP)",
+        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - 观察者网",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
+        "pubDate": "2026-03-05 08:00"
+      },
+      {
         "keyword": "英飞凌",
         "title": "沃伯格研究公司下调INFINEON TECHNOLOGIES AG(IFNNF.US)至持有评级，上调目标价至96.85美元 - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdDlLTzNFeGN6dFI0d2x4VjZYT3JELVZhQlNWU25CemEzME9HZnJmWjdXTDZDc3VieDJZQlhXWHROR1BLTUdsdEVybWdoaFhWRWhaYllyTW5oR2szMFV2WGw0T0VrNDVxNTRnWVc3WEpVQzNaOHlBNDdsWng1bHVRZVBldVJhcFMxNU1pTlFKM3J3NzY5eEpvdnZ5Z0lBcWREZnQyNlJ2bU81TDJJcnJaODlkSGlKd19vMEhxTktZSQ?oc=5",
@@ -362,7 +267,7 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "一图速览INFINEON TECHNOLOGIES AG(IFNNF.US)今日评级，最高看至117.88美元 - news.futunn.com",
+        "title": "一图速览INFINEON TECHNOLOGIES AG(IFNNF.US)今日评级，最高看至117.88美元 - 富途牛牛",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNnRBeEtrOVNmXzJRbUtYVkg2VWtsN0lZb0pPNXdmM0VQNWRVWGlVTllzUjVEaUdhUC1ubTN0U0tfX1I2a19TTVYyTzE4VGowcWtkYU9TOGlOMlhxV2IxUlJtUTU3Nk5jYVloQWd4dEs2MkN6UEgtZHF1dF9NNkoyOUVxb2R2NUx6dy1wQ0FCNUpaajkyV0kxQ1dzWQ?oc=5",
         "pubDate": "2026-08-06 13:00"
       },
@@ -386,7 +291,7 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "【AI光通信】硅光芯片中锗硅（SiGe）产能稀缺性 ——AI光模块驱动下，高端射频芯片产能被挤占 - 雪球",
+        "title": "【AI光通信】硅光芯片中锗硅（SiGe）产能稀缺性 ——AI光模块驱动下，高端射频芯片产能被挤占 - xueqiu.com",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLWk5seXM4TThXLWpQc05QR3owcXdjUmtFTUJ6OUpmTWxtQ3ZjYWY5UjVfUFJPN1NrVFZrQVIwbndMb3VzejhwQ2VMSGx2WlFh?oc=5",
         "pubDate": "2026-03-10 07:00"
       },
@@ -404,7 +309,7 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - sohu.com",
+        "title": "模拟芯片大厂ADI宣布以15亿美元收购Empower Semiconductor - 搜狐网",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSHFORUtVdDBxc0JSQWJrU09SS0NjRnJOTm1fdlZBbzcwZ09wbzFEbzVBazNfRzZ5SFh5aHR2RERjRE5aeU5zSFY0ZEN2OW5fdmc?oc=5",
         "pubDate": "2026-05-20 07:00"
       },
@@ -422,15 +327,15 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "瑞萨宣布马来西亚工厂已恢复有限度的生产 - view.inews.qq.com",
+        "title": "瑞萨宣布马来西亚工厂已恢复有限度的生产 - 腾讯新闻",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QbEc4UWJkREh6MG9RM2hIUUpvRE0yUDFNS251N1BuS29MblVTd0JUN3ROVE5YLTIwY09kZjBDWEtWRHA2SGs5OXFpT2xIUzh0NERXSnZuOA?oc=5",
         "pubDate": "2020-03-27 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "摩根士丹利将Microchip Technology的目标价从$94调整至$103，维持均配评级。 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTE5DaDd4UzdBMDBvamlGNk5HYnhsYU9SbXFpcVBPZ180Nzd3cXRWLWUzMjRYN0xSb0plS094OGdja2FTZHN3cUtPRmUyYXNsa2ZRNG9SMVJNbjYyNVh0cThQZWQtWFFMVDZwdnN2ZzQwR3ZTWnFjdGxsSHFuNnBONHBwckFsZWRZMDdwZHBsbkQ0bHRXUkxxNnp3WnhYUVpkSS1nWEpzMUpXOTA0?oc=5",
-        "pubDate": "2026-08-08 06:25"
+        "title": "Microchip Technology与美光科技合作，展示了面向人工智能和数据中心基础设施的高性能PCIe Gen 6存储架构 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0lPNHk2WVgzUTM4bjNndGk1N2J6T05HcFpENFYzUlBLN0QtOFJlTGw5SzVPN18tdDFpa0hiSTl6UHM4YzgzSklEeDJxbjBhRWtsZlVKd0pBcVEwNWtnRXdiVnV0Z19kVzVsc0ZxYTRnclNwTGwtREJ2WkVhTVl2djNJSEFlaVdERklFM25OUXVmTlk0TzYxeHdJb09QMWJONFZQYW5QRVpkRlhHWV95WnpZMURfa2M3WmYwNFVha2ZWWV84SUU3MWlhN0lDeE5iekpF?oc=5",
+        "pubDate": "2026-08-04 11:16"
       },
       {
         "keyword": "微芯科技(Microchip)",
@@ -440,9 +345,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "Microchip Technology与美光科技合作，展示了面向人工智能和数据中心基础设施的高性能PCIe Gen 6存储架构 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0lPNHk2WVgzUTM4bjNndGk1N2J6T05HcFpENFYzUlBLN0QtOFJlTGw5SzVPN18tdDFpa0hiSTl6UHM4YzgzSklEeDJxbjBhRWtsZlVKd0pBcVEwNWtnRXdiVnV0Z19kVzVsc0ZxYTRnclNwTGwtREJ2WkVhTVl2djNJSEFlaVdERklFM25OUXVmTlk0TzYxeHdJb09QMWJONFZQYW5QRVpkRlhHWV95WnpZMURfa2M3WmYwNFVha2ZWWV84SUU3MWlhN0lDeE5iekpF?oc=5",
-        "pubDate": "2026-08-04 11:16"
+        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
+        "pubDate": "2026-07-20 07:00"
       }
     ]
   }
