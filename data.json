@@ -1,124 +1,203 @@
 {
-  "date": "2026-08-10",
-  "updated_at": "2026-08-10T01:21:39.534946+00:00",
+  "date": "2026-08-11",
+  "updated_at": "2026-08-11T01:19:26.743074+00:00",
   "categories": {
     "earthquake": [
       {
+        "magnitude": 5.1,
+        "place": "232公里 西南偏南 Pagar Alam 印度尼西亚",
+        "time": "2026-08-10 17:08",
+        "depth_km": 21.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjqj",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "55公里 西北 Shahrak-e Kūlūrī Iran",
+        "time": "2026-08-10 15:01",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjmt",
+        "tsunami": 0
+      },
+      {
         "magnitude": 5,
-        "place": "198公里 东南 Sarangani 菲律宾",
-        "time": "2026-08-09 22:17",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tji3",
+        "place": "16公里 西 San José del Palmar Colombia",
+        "time": "2026-08-10 13:18",
+        "depth_km": 98.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "216公里 东南 Sarangani 菲律宾",
-        "time": "2026-08-09 21:42",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjhn",
+        "place": "173公里 东北偏东 Sola Vanuatu",
+        "time": "2026-08-10 12:46",
+        "depth_km": 655.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjls",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "south the 斐济",
-        "time": "2026-08-09 18:23",
-        "depth_km": 525.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgp",
+        "magnitude": 7.4,
+        "place": "5公里 南 San José del Palmar Colombia",
+        "time": "2026-08-10 12:34",
+        "depth_km": 110.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "123公里 西北偏西 Panguna 巴布亚新几内亚",
-        "time": "2026-08-09 18:11",
-        "depth_km": 104.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgl",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "19公里 东南偏东 Metahāra Ethiopia",
-        "time": "2026-08-09 17:11",
+        "magnitude": 5,
+        "place": "northern 中大西洋海岭",
+        "time": "2026-08-10 12:12",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgf",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "180公里 东北 Sola Vanuatu",
+        "time": "2026-08-10 11:50",
+        "depth_km": 640.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjku",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "66公里 东北偏东 Shikotan 俄罗斯",
+        "time": "2026-08-10 10:36",
+        "depth_km": 66.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjkl",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "7公里 东南偏东 Mabini 菲律宾",
-        "time": "2026-08-09 17:05",
-        "depth_km": 110.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "30公里 NNE Satipo 秘鲁",
-        "time": "2026-08-09 15:40",
-        "depth_km": 95.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfr",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "197公里 西南偏南 Pagar Alam 印度尼西亚",
-        "time": "2026-08-09 15:15",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "68公里 南东南 Sarangani 菲律宾",
-        "time": "2026-08-09 13:47",
-        "depth_km": 162.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfb",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "Galapagos Triple Junction 区域",
-        "time": "2026-08-09 11:57",
+        "place": "80公里 东南偏东 Isangel Vanuatu",
+        "time": "2026-08-10 08:34",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjk6",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "46公里 西北偏西 Hicks Bay 新西兰",
+        "time": "2026-08-10 07:17",
+        "depth_km": 71.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjjz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "east central 太平洋 Ocean",
+        "time": "2026-08-10 05:41",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjjj",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "96公里 南 Sarangani 菲律宾",
-        "time": "2026-08-09 10:04",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tje3",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "12公里 西 Chambara 秘鲁",
-        "time": "2026-08-09 04:05",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr",
+        "place": "13公里 东南偏东 San Miguel 菲律宾",
+        "time": "2026-08-10 05:35",
+        "depth_km": 103.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjjh",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "68公里 东南偏东 Atka Alaska",
-        "time": "2026-08-09 03:36",
-        "depth_km": 60.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5,
-        "place": "180公里 西北 Sabang 印度尼西亚",
-        "time": "2026-08-09 03:02",
+        "place": "88公里 东北偏东 Hihifo 汤加",
+        "time": "2026-08-10 01:20",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
-        "error": "GDACS 解析失败"
+        "title": "橙色（中） 地震 (震级7.4级, 深度:110.285公里) Colombia 10/08/2026 12:34 , 1.5 million ( 烈度≥VII级).",
+        "description": "On 8/10/2026 12:34:28 PM, an earthquake occurred in Colombia potentially affecting 1.5 million (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:110.285km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1557236",
+        "pubDate": "2026-08-10 12:50"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) East Central 太平洋 Ocean 10/08/2026 05:41 , 未知.",
+        "description": "On 8/10/2026 5:41:44 AM, an earthquake occurred in East Central Pacific Ocean potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1557201",
+        "pubDate": "2026-08-10 06:02"
+      },
+      {
+        "title": "绿色（低） 警报 for 热带气旋 FIFTEEN-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 10/08/2026 to 10/08/2026, a Tropical Depression (maximum wind speed of 65 km/h) FIFTEEN-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001300",
+        "pubDate": "2026-08-10 02:21"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 10/08/2026, a forest fire started in Australia,  until 10/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030307",
+        "pubDate": "2026-08-10 19:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 10/08/2026, a forest fire started in Angola,  until 10/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030314",
+        "pubDate": "2026-08-10 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Tanzania",
+        "description": "On 09/08/2026, a forest fire started in Tanzania,  until 10/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030315",
+        "pubDate": "2026-08-10 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 09/08/2026, a forest fire started in Australia,  until 10/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030281",
+        "pubDate": "2026-08-09 19:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 09/08/2026, a forest fire started in Australia,  until 10/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030272",
+        "pubDate": "2026-08-09 11:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 09/08/2026, a forest fire started in Australia,  until 09/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030271",
+        "pubDate": "2026-08-09 19:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 09/08/2026, a forest fire started in Angola,  until 09/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030282",
+        "pubDate": "2026-08-10 23:01"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.6级, 深度:34公里) 日本 08/08/2026 17:58 , 310千 MMI IV.",
+        "description": "On 8/8/2026 5:58:00 PM, an earthquake occurred in Japan potentially affecting 310 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:34km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556955",
+        "pubDate": "2026-08-08 18:17"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.6级, 深度:10公里) Southeast Of Easter Island 08/08/2026 11:41 , 未知.",
+        "description": "On 8/8/2026 11:41:27 AM, an earthquake occurred in Southeast Of Easter Island potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556897",
+        "pubDate": "2026-08-08 12:01"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.6级, 深度:10公里) 美国 08/08/2026 04:50 , 2千 烈度≥IV级.",
+        "description": "On 8/8/2026 4:50:34 AM, an earthquake occurred in United States potentially affecting 2 thousand in MMI>=IV. The earthquake had Magnitude 5.6M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556854",
+        "pubDate": "2026-08-08 04:56"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 08/08/2026, a forest fire started in Australia,  until 09/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030273",
+        "pubDate": "2026-08-10 07:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 08/08/2026, a forest fire started in Australia,  until 10/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030274",
+        "pubDate": "2026-08-09 19:01"
       }
     ],
     "typhoon": [],
@@ -130,32 +209,44 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.75,
-        "date": "2026-08-10"
+        "rate": 6.76,
+        "date": "2026-08-11"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.1547,
-        "date": "2026-08-10"
+        "date": "2026-08-11"
       },
       {
         "pair": "美元/日元",
-        "rate": 157.88,
-        "date": "2026-08-10"
+        "rate": 158.95,
+        "date": "2026-08-11"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.7945,
-        "date": "2026-08-10"
+        "rate": 7.806,
+        "date": "2026-08-11"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3477,
-        "date": "2026-08-10"
+        "rate": 1.3514,
+        "date": "2026-08-11"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI",
+        "link": "https://www.eetasia.com/embeddednews-aai-2026-amd-introduces-open-turnkey-integrated-platform-for-physical-ai/",
+        "pubDate": "Mon, 10 Aug 2026 15:16:28 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "CXMT’s Rise: China’s Memory Champion Challenging Global Leaders",
+        "link": "https://www.eetasia.com/cxmts-rise-chinas-memory-champion-challenging-global-leaders/",
+        "pubDate": "Mon, 10 Aug 2026 02:16:00 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect",
@@ -175,16 +266,22 @@
         "pubDate": "Fri, 07 Aug 2026 04:10:07 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Counterpoint: Component Cost Dynamics Amid Memory Price Spikes",
-        "link": "https://www.eetasia.com/counterpoint-component-cost-dynamics-amid-memory-price-spikes/",
-        "pubDate": "Thu, 06 Aug 2026 01:46:23 +0000"
+        "source": "SemiWiki",
+        "title": "NVIDIA Brings Agentic AI Toolkit to EDA",
+        "link": "https://semiwiki.com/eda/372113-nvidia-brings-agentic-ai-toolkit-to-eda/",
+        "pubDate": "Mon, 10 Aug 2026 21:00:53 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "ST’s Galvanically Isolated Gate Drivers Simplify Power Design",
-        "link": "https://www.eetasia.com/sts-galvanically-isolated-gate-drivers-simplify-power-design/",
-        "pubDate": "Thu, 06 Aug 2026 01:27:17 +0000"
+        "source": "SemiWiki",
+        "title": "Synopsys and Intel Foundry Enable System-Level Design on Intel 14A",
+        "link": "https://semiwiki.com/ip/371846-synopsys-and-intel-foundry-enable-system-level-design-on-intel-14a/",
+        "pubDate": "Mon, 10 Aug 2026 17:00:00 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "DAC 2026: How Undo Makes AI for Chip Design Work Better",
+        "link": "https://semiwiki.com/eda/undo/372034-dac-2026-how-undo-makes-ai-for-chip-design-work-better/",
+        "pubDate": "Mon, 10 Aug 2026 13:00:30 +0000"
       },
       {
         "source": "SemiWiki",
@@ -197,24 +294,6 @@
         "title": "CEO Interview with Brendan Emery of iQ Sense",
         "link": "https://semiwiki.com/semiconductor-services/372028-ceo-interview-with-brendan-emery-of-iq-sense/",
         "pubDate": "Sun, 09 Aug 2026 15:00:30 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "CEO Interview with David Reeder from Entegris",
-        "link": "https://semiwiki.com/ceo-interviews/371583-ceo-interview-with-david-reeder-from-entegris/",
-        "pubDate": "Sun, 09 Aug 2026 13:00:04 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Intel and TSMC Take Different Paths to High-NA EUV",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371838-intel-and-tsmc-take-different-paths-to-high-na-euv/",
-        "pubDate": "Fri, 07 Aug 2026 15:00:10 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Intel Foundry and the DAC2026 Ecosystem",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372019-intel-foundry-and-the-dac2026-ecosystem/",
-        "pubDate": "Fri, 07 Aug 2026 13:00:42 +0000"
       }
     ],
     "china_policy": [
@@ -223,12 +302,6 @@
       }
     ],
     "competitor_news": [
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "德州仪器拟议收购Silicon Labs获新加坡竞争监管机构批准 - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQak42SE5vNDBSbUJmdVFLWS1FZUVBdHZZRFo3aWRidE44dHhtbjdSdEJlWXhYTUlDZV9EVFhVTWIzYnJtQ0ZJNlpwdVRNR2M3UVFxUlJDTnVHZjMyRmlob0NlTC1DQnptaEpRSk9PeXRhQ2NpSWk1ZHNvNzFmQ1JKTzNYWnQwNTFZUjkybVFCbzhzcGJxclhzeXlkQ3EyMFZwUFJYc0VRN2VHd2xaMHd4R1l1TXIxN1FIdGVFeG1oZ21KWTQ0WF9YclY4cmFqbnhUTUNnSTlaTGFTR2ZocWlHazllOA?oc=5",
-        "pubDate": "2026-08-07 07:45"
-      },
       {
         "keyword": "德州仪器(TI)",
         "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
@@ -240,6 +313,12 @@
         "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
         "pubDate": "2026-02-04 08:00"
+      },
+      {
+        "keyword": "德州仪器(TI)",
+        "title": "碳化硅功率半导体市场规模、份额，2034 年 - Straits Research",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGZVUzA3QUp3M1h5cWJ5WC1lQ1dkN0U3dmVURVBjZnNPa2R3bzN2MDVyMTFSbWR6NVJ2RWNXb2tsSFZwVEVOUnlHMC1sQ2xDTXU2M3E5TDVQTVlHWVZnUmdId2V6VExxUmVoMElHQ0dFeGtJcWFaaFdlTVdiUTBCUjJKZEF2cVk?oc=5",
+        "pubDate": "2026-05-25 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -255,7 +334,7 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - 观察者网",
+        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - 观察者",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
         "pubDate": "2026-03-05 08:00"
       },
@@ -267,21 +346,21 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "一图速览INFINEON TECHNOLOGIES AG(IFNNF.US)今日评级，最高看至117.88美元 - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNnRBeEtrOVNmXzJRbUtYVkg2VWtsN0lZb0pPNXdmM0VQNWRVWGlVTllzUjVEaUdhUC1ubTN0U0tfX1I2a19TTVYyTzE4VGowcWtkYU9TOGlOMlhxV2IxUlJtUTU3Nk5jYVloQWd4dEs2MkN6UEgtZHF1dF9NNkoyOUVxb2R2NUx6dy1wQ0FCNUpaajkyV0kxQ1dzWQ?oc=5",
-        "pubDate": "2026-08-06 13:00"
-      },
-      {
-        "keyword": "英飞凌",
-        "title": "英飞凌AI芯片被客户“包年”，Q4指引超预期 - 凤凰网",
+        "title": "英飞凌AI芯片被客户“包年”，Q4指引超预期 - 凤凰网财经",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQ01sb2RiRXQtZzBod05LR1hqWlJDdjJXTUlXb0lVR0pxZmh5ZEc5Zk5fWUVnUkVYazBDaWIzOHdlN3RvaDRiMEoybVdlbnl2?oc=5",
         "pubDate": "2026-08-05 06:38"
       },
       {
+        "keyword": "英飞凌",
+        "title": "功率半导体巨头英飞凌宣布涨价 国产厂商有望迎来盈利改善空间 - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHRfdk1DYXVrcUJ4Q3VzZ3dsZHlaQnVYbDRiQWpzWkdpU3hWai1QZTFFT2FfMnJHV1ZZVmgxVnd3M0stMnFtVXFHbElraFBwQV9uVXJiX0p4R3lQSjRXRmJJMFpPRU5MdV9SSERfMEVBOGJzaWhQRFh5S2phYUlhM3NwcWVzM0gyYkw3VzJXREtHNG9wdi1kMnFyYnBmMFEzR3A2U253ZV9WU2JaRHlhOWNZOU9XNHV3?oc=5",
+        "pubDate": "2026-08-08 15:43"
+      },
+      {
         "keyword": "意法半导体(ST)",
-        "title": "European Chip Stocks Rise After Pause in Mideast Fighting -- Market Talk - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUG9wWUg5bjRDcHdSeVlta0RlTjlMM2x2YTAyVzl3c3NkVy14VFk0TnhJazBFQUo2NndqdmJ5eFR3Z3lzSzVtX09HU0t2c0ZFZHJNZmR3MmxHQ2o4OFFYVlZTLTRYM3MyZktLY1huWFpjeXZtR242clI5RkQzVUNIdGc2bjVLRjNFYlhpR0IxUHp1TXA5SGpFRGlNQ3puSnF3dGMxUWxrRWRVaVlwOTJoNQ?oc=5",
-        "pubDate": "2026-07-27 07:00"
+        "title": "意法半导体宣布普通股回购计划的最新进展 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREJMZzFUMmFMUkxjbVJMa0VtSEN1eGNRR3N6c1NGYWRWZTFJVmgtZGM1MXhjdEFPU3NsX09fNzR6cXlPcmJMci1NSWhrd0V6eXhlRF95SC1udXhZNXVxWTJob2xRYzBYZ1pQRko2emdnRFVZS1czM1R3eVBCU1ZLMHRJemRoNy1OdENuV3MyRVUxYXVlMDZiTTQ5QkU5UVp1M3UwcVdQQjVKT0ZYcTdTZlJsM2ZtMDZB?oc=5",
+        "pubDate": "2026-08-10 13:00"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -291,7 +370,7 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "【AI光通信】硅光芯片中锗硅（SiGe）产能稀缺性 ——AI光模块驱动下，高端射频芯片产能被挤占 - xueqiu.com",
+        "title": "【AI光通信】硅光芯片中锗硅（SiGe）产能稀缺性 ——AI光模块驱动下，高端射频芯片产能被挤占 - 雪球",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLWk5seXM4TThXLWpQc05QR3owcXdjUmtFTUJ6OUpmTWxtQ3ZjYWY5UjVfUFJPN1NrVFZrQVIwbndMb3VzejhwQ2VMSGx2WlFh?oc=5",
         "pubDate": "2026-03-10 07:00"
       },
@@ -333,15 +412,15 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "Microchip Technology与美光科技合作，展示了面向人工智能和数据中心基础设施的高性能PCIe Gen 6存储架构 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0lPNHk2WVgzUTM4bjNndGk1N2J6T05HcFpENFYzUlBLN0QtOFJlTGw5SzVPN18tdDFpa0hiSTl6UHM4YzgzSklEeDJxbjBhRWtsZlVKd0pBcVEwNWtnRXdiVnV0Z19kVzVsc0ZxYTRnclNwTGwtREJ2WkVhTVl2djNJSEFlaVdERklFM25OUXVmTlk0TzYxeHdJb09QMWJONFZQYW5QRVpkRlhHWV95WnpZMURfa2M3WmYwNFVha2ZWWV84SUU3MWlhN0lDeE5iekpF?oc=5",
-        "pubDate": "2026-08-04 11:16"
+        "title": "摩根士丹利将Microchip Technology的目标价从$94调整至$103，维持均配评级。 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTE5DaDd4UzdBMDBvamlGNk5HYnhsYU9SbXFpcVBPZ180Nzd3cXRWLWUzMjRYN0xSb0plS094OGdja2FTZHN3cUtPRmUyYXNsa2ZRNG9SMVJNbjYyNVh0cThQZWQtWFFMVDZwdnN2ZzQwR3ZTWnFjdGxsSHFuNnBONHBwckFsZWRZMDdwZHBsbkQ0bHRXUkxxNnp3WnhYUVpkSS1nWEpzMUpXOTA0?oc=5",
+        "pubDate": "2026-08-08 06:25"
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "Microchip Technology签署协议收购边缘AI芯片商Hailo-芯片 - 至顶网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OUW9rQUlFbEdSTFUxUFZHRGEwZ3VMQjNrZjJMQWpiVDJ3RldNeXA3LXQ2RGI3R1FSMzk4ZC1JOFYyWXZrTW9CdGdaOHlIVWY3aGYtdi1wcWUwTUtUQmkwN3hB?oc=5",
-        "pubDate": "2026-07-29 23:04"
+        "title": "什么信号？事关半导体行业，大摩上调多家公司目标股价！ - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa09HRkJnejV2SVdZM3N1RW82b2YyQnhQYS1IenV5WW41WmZFYmVMU1JxWWM4THlMVHl1R09WdEt0REZWX3JIdGMtUlNfbjdfbFNXajhJeGFSUTdtWmVqN3pFR00tRnh0V09PNTgzci04dmRXM2pHX1c0VUFJcDVlM21ueWpGZ25uM2RBYWdOa0N1cktvYm1UaFdOdlA0Y18tdWNnUTl6WHVhaDc4eVpCS1dGcE02WFdMMThOX2FR?oc=5",
+        "pubDate": "2026-08-10 03:23"
       },
       {
         "keyword": "微芯科技(Microchip)",
