@@ -1,154 +1,188 @@
 {
-  "date": "2026-08-15",
-  "updated_at": "2026-08-15T00:58:50.803128+00:00",
+  "date": "2026-08-16",
+  "updated_at": "2026-08-16T01:02:02.959650+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 5.4,
-        "place": "38公里 南东南 Severo-Kuril’sk 俄罗斯",
-        "time": "2026-08-15 00:43",
-        "depth_km": 79.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvj",
-        "tsunami": 0
-      },
-      {
         "magnitude": 5,
-        "place": "65公里 北西北 Ende 印度尼西亚",
-        "time": "2026-08-14 23:17",
+        "place": "80公里 北 Ruteng 印度尼西亚",
+        "time": "2026-08-15 23:12",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv9",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl44",
         "tsunami": 0
       },
       {
-        "magnitude": 5.1,
-        "place": "49公里 北 Ruteng 印度尼西亚",
-        "time": "2026-08-14 23:12",
+        "magnitude": 5.4,
+        "place": "19公里 东北 Colonia Micronesia",
+        "time": "2026-08-15 22:52",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv7",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "1公里 西南 Otura 西班牙",
-        "time": "2026-08-14 23:04",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv2",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "49公里 东北 Labuan Bajo 印度尼西亚",
-        "time": "2026-08-14 22:53",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuw",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.5,
-        "place": "49公里 东北 Labuan Bajo 印度尼西亚",
-        "time": "2026-08-14 22:37",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuf",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 6.1,
-        "place": "58公里 北 Ende 印度尼西亚",
-        "time": "2026-08-14 22:28",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuc",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.6,
-        "place": "61公里 北西北 Ende 印度尼西亚",
-        "time": "2026-08-14 22:18",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.9,
-        "place": "36公里 东北 Labuan Bajo 印度尼西亚",
-        "time": "2026-08-14 22:13",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 7.7,
-        "place": "68公里 北西北 Ende 印度尼西亚",
-        "time": "2026-08-14 21:58",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "15公里 西北偏西 Kirakira Solomon Islands",
-        "time": "2026-08-14 20:23",
-        "depth_km": 69.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tksg",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "165公里 北 Sola Vanuatu",
-        "time": "2026-08-14 18:33",
-        "depth_km": 369.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrw",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl43",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "283公里 北 Tobelo 印度尼西亚",
-        "time": "2026-08-14 18:03",
+        "place": "86公里 北 Ruteng 印度尼西亚",
+        "time": "2026-08-15 21:08",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrs",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl3n",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "165公里 东 Ozernovskiy 俄罗斯",
-        "time": "2026-08-14 17:47",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq",
+        "place": "63公里 北 Ruteng 印度尼西亚",
+        "time": "2026-08-15 20:29",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl3k",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "Volcano Islands 日本 区域",
+        "time": "2026-08-15 19:32",
+        "depth_km": 40.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "47公里 NNE Ruteng 印度尼西亚",
+        "time": "2026-08-15 18:40",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl31",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "96公里 NNE Ruteng 印度尼西亚",
+        "time": "2026-08-15 17:51",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "76公里 北 Ruteng 印度尼西亚",
+        "time": "2026-08-15 17:44",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2t",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "192公里 南东南 Vilyuchinsk 俄罗斯",
+        "time": "2026-08-15 17:41",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2s",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "54公里 北西北 Ende 印度尼西亚",
+        "time": "2026-08-15 17:21",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2p",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "93公里 NNE Ruteng 印度尼西亚",
+        "time": "2026-08-15 16:58",
+        "depth_km": 9.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2c",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.7,
+        "place": "125公里 NNE Palu 印度尼西亚",
+        "time": "2026-08-15 16:25",
+        "depth_km": 72.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1s",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "19公里 WSW Divichibazar Azerbaijan",
-        "time": "2026-08-14 16:56",
+        "place": "76公里 北西北 Ende 印度尼西亚",
+        "time": "2026-08-15 15:52",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrg",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1p",
         "tsunami": 0
       },
       {
-        "magnitude": 4.8,
-        "place": "207公里 东南 Katsuura 日本",
-        "time": "2026-08-14 09:58",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy",
+        "magnitude": 4.5,
+        "place": "Banda Sea",
+        "time": "2026-08-15 13:56",
+        "depth_km": 171.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl19",
         "tsunami": 0
       },
       {
-        "magnitude": 4.8,
-        "place": "Bonin Islands 日本 区域",
-        "time": "2026-08-14 04:53",
-        "depth_km": 516.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc",
+        "magnitude": 5.2,
+        "place": "78公里 西北 Ende 印度尼西亚",
+        "time": "2026-08-15 12:14",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0v",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "29公里 西南 Balangonan 菲律宾",
-        "time": "2026-08-14 01:14",
-        "depth_km": 92.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw",
+        "place": "63公里 东南偏东 Yilan 台湾",
+        "time": "2026-08-15 11:30",
+        "depth_km": 66.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0a",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.4,
+        "place": "41公里 西南偏南 Angoram 巴布亚新几内亚",
+        "time": "2026-08-15 11:10",
+        "depth_km": 120.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 6.9,
+        "place": "15公里 北西北 Pematangsiantar 印度尼西亚",
+        "time": "2026-08-15 10:54",
+        "depth_km": 172.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "39公里 北西北 Ruteng 印度尼西亚",
+        "time": "2026-08-15 10:31",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "122公里 西北 Luwuk 印度尼西亚",
+        "time": "2026-08-15 09:51",
+        "depth_km": 272.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkya",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:39.954公里) 日本 15/08/2026 19:32 , 2千 MMI III.",
+        "description": "On 8/15/2026 7:32:30 PM, an earthquake occurred in Japan potentially affecting 2 thousand in MMI III. The earthquake had Magnitude 5.5M, Depth:39.954km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558582",
+        "pubDate": "2026-08-15 19:51"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.7级, 深度:72.495公里) 印度尼西亚 15/08/2026 16:25 , 650千 MMI IV.",
+        "description": "On 8/15/2026 4:25:18 PM, an earthquake occurred in Indonesia potentially affecting 650 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:72.495km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558505",
+        "pubDate": "2026-08-15 16:43"
+      },
+      {
+        "title": "绿色（低） 地震 (震级6.9级, 深度:172.526公里) 印度尼西亚 15/08/2026 10:54 , 10.8 million MMI V.",
+        "description": "On 8/15/2026 10:54:52 AM, an earthquake occurred in Indonesia potentially affecting 10.8 million in MMI V. The earthquake had Magnitude 6.9M, Depth:172.526km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558363",
+        "pubDate": "2026-08-15 11:14"
+      },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) 印度尼西亚 14/08/2026 22:37 , 8千 MMI V.",
         "description": "On 8/14/2026 10:37:17 PM, an earthquake occurred in Indonesia potentially affecting 8 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:10km.",
@@ -174,16 +208,28 @@
         "pubDate": "2026-08-14 22:43"
       },
       {
-        "title": "红色（高） 地震 (震级7.7级, 深度:10公里) 印度尼西亚 14/08/2026 21:58 , 550千 ( 烈度≥VII级).",
-        "description": "On 8/14/2026 9:58:21 PM, an earthquake occurred in Indonesia potentially affecting 550 thousand (in MMI>=VII). The earthquake had Magnitude 7.7M, Depth:10km.",
+        "title": "红色（高） 地震 (震级7.7级, 深度:10公里) 印度尼西亚 14/08/2026 21:58 , 1.2 million ( 烈度≥VII级).",
+        "description": "On 8/14/2026 9:58:21 PM, an earthquake occurred in Indonesia potentially affecting 1.2 million (in MMI>=VII). The earthquake had Magnitude 7.7M, Depth:10km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558059",
         "pubDate": "2026-08-14 22:21"
       },
       {
         "title": "绿色（低） 森林火灾 警报 Kazakhstan",
-        "description": "On 14/08/2026, a forest fire started in Kazakhstan,  until 14/08/2026.",
+        "description": "On 14/08/2026, a forest fire started in Kazakhstan,  until 15/08/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030489",
         "pubDate": "2026-08-14 23:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Belgium",
+        "description": "On 14/08/2026, a forest fire started in Belgium,  until 15/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030534",
+        "pubDate": "2026-08-15 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 The Democratic Republic of Congo",
+        "description": "On 14/08/2026, a forest fire started in The Democratic Republic of Congo,  until 15/08/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030535",
+        "pubDate": "2026-08-15 23:01"
       },
       {
         "title": "绿色（低） 地震 (震级5.6级, 深度:10公里) Kermadec Islands Region 13/08/2026 16:11 , 未知.",
@@ -193,51 +239,21 @@
       },
       {
         "title": "绿色（低） 警报 for 热带气旋 HERNAN-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 13/08/2026 to 14/08/2026, a Tropical Depression (maximum wind speed of 74 km/h) HERNAN-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "description": "From 13/08/2026 to 15/08/2026, a Tropical Depression (maximum wind speed of 74 km/h) HERNAN-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001304",
         "pubDate": "2026-08-13 03:09"
+      },
+      {
+        "title": "绿色（低） 洪水 警报 日本",
+        "description": "On 13/08/2026, a flood started in Japan, lasting until 15/08/2026 (last update). The flood caused 8 deaths and 7359 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104090",
+        "pubDate": "2026-08-15 06:04"
       },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:56.794公里) 萨尔瓦多 13/08/2026 00:30 , 230千 MMI IV.",
         "description": "On 8/13/2026 12:30:04 AM, an earthquake occurred in El Salvador potentially affecting 230 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:56.794km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1557728",
         "pubDate": "2026-08-13 00:42"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Greece",
-        "description": "On 13/08/2026, a forest fire started in Greece,  until 13/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030487",
-        "pubDate": "2026-08-14 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Namibia",
-        "description": "On 13/08/2026, a forest fire started in Namibia,  until 14/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030490",
-        "pubDate": "2026-08-14 23:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Namibia",
-        "description": "On 13/08/2026, a forest fire started in Namibia,  until 14/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030491",
-        "pubDate": "2026-08-14 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 13/08/2026, a forest fire started in Australia,  until 14/08/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030515",
-        "pubDate": "2026-08-14 23:01"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 ONE-C-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 10726 .",
-        "description": "From 12/08/2026 to 14/08/2026, a Tropical Storm (maximum wind speed of 130 km/h) ONE-C-26 was active in CentralPacific. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 10726 .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001303",
-        "pubDate": "2026-08-13 14:50"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 CRISTOBAL-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 12/08/2026 to 13/08/2026, a Tropical Depression (maximum wind speed of 74 km/h) CRISTOBAL-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001302",
-        "pubDate": "2026-08-12 15:06"
       }
     ],
     "typhoon": [],
@@ -250,27 +266,27 @@
       {
         "pair": "美元/人民币",
         "rate": 6.76,
-        "date": "2026-08-15"
+        "date": "2026-08-16"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.1561,
-        "date": "2026-08-15"
+        "date": "2026-08-16"
       },
       {
         "pair": "美元/日元",
-        "rate": 159.24,
-        "date": "2026-08-15"
+        "rate": 159.23,
+        "date": "2026-08-16"
       },
       {
         "pair": "欧元/人民币",
         "rate": 7.815,
-        "date": "2026-08-15"
+        "date": "2026-08-16"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3532,
-        "date": "2026-08-15"
+        "date": "2026-08-16"
       }
     ],
     "bond_yields": [],
@@ -344,7 +360,7 @@
     "competitor_news": [
       {
         "keyword": "德州仪器(TI)",
-        "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - eet-china.com",
+        "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
         "pubDate": "2026-02-04 08:00"
       },
@@ -362,15 +378,15 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors Breaks Ground on Site Expansion Project in Malaysia - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnpldkdRTkU5M3pfci1qYnJZa1I0MGUyMzU1NE9rSXRqOHJhYmNlMFl4QjdfNXEzcWI1LWhSb1h2WTdTYzE1SVhzMFJYemJwc0NQd1FUYUZINTVfZDI2NmdIeWhtdTVQckJidzhfT2Z4ejV2dmlNQjlYNFBJczUyamQ2c1hXQy05ZXpKWmFzX2JfVkFOUE90UXdRdk5TcnIyem4ydFZRTnRQMm93NHpGckRB?oc=5",
-        "pubDate": "2026-08-12 14:15"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
         "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我-观察者网 - 观察者",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
         "pubDate": "2026-03-05 08:00"
+      },
+      {
+        "keyword": "恩智浦(NXP)",
+        "title": "诺基亚收购恩智浦北美工厂，布局磷化铟光芯片产线 - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pZThrLVhwM21IWE9fTEJwWGw1RzJqTzdqSE9aYXFZNkJyVm1uX2pTOXhFTVRnUXJkeHhPOEJRLWEyMWEyUHZiNEZ1a2dXMDZOR0E?oc=5",
+        "pubDate": "2026-08-05 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -392,7 +408,7 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "2025年全球20大功率半导体制造商，中国上榜5家 - sohu.com",
+        "title": "2025年全球20大功率半导体制造商，中国上榜5家 - Sohu",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVm1kY1pfM2R4a3ZZWVlnOHhSRDR3VnhvbjZLRy03TFBQRENla05OejJMU2YzSTV0Y1Z2Y3pmUXhxcjV4ejc1ZHRUaF92RnhBU2E5aGR3a1ktZUk0bGNDbk53dmtoUXA2MThIT1REZ1EzOFhubVhfNm4wUTZkZzVkTFNXOURfTk9fZXdITw?oc=5",
         "pubDate": "2026-07-15 07:00"
       },
@@ -410,9 +426,15 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "【AI光通信】硅光芯片中锗硅（SiGe）产能稀缺性 ——AI光模块驱动下，高端射频芯片产能被挤占 - 雪球",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLWk5seXM4TThXLWpQc05QR3owcXdjUmtFTUJ6OUpmTWxtQ3ZjYWY5UjVfUFJPN1NrVFZrQVIwbndMb3VzejhwQ2VMSGx2WlFh?oc=5",
-        "pubDate": "2026-03-10 07:00"
+        "title": "重磅！Aliro 1.0智能锁标准正式发布 - rfidworld.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kS2VZQk51MFh4UkpfWWgtczdpdk1ySXo3aFhyMWxXNXBKOWtfSTBFaWR5aGVtbXN0NnNhQ1FMTlJiUE9RdjhJTVB6Mmc4Y0hvcFg0VF8xbHRCOEI1a1hXVjdvNHFESzBtX1E?oc=5",
+        "pubDate": "2026-02-28 08:00"
+      },
+      {
+        "keyword": "亚德诺(ADI)",
+        "title": "AI服务器电源变天，ADI豪掷15亿美元押注 - 36 Kr",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zYWI1cGN1XzJXUUZBT1ktSjFhMi0xeFA5aW0yaFU2SkVJQjJZRy1QSDh2QXJKZlg5TEd3bE41bVF6N1FUamcxU2dxMnZHZw?oc=5",
+        "pubDate": "2026-08-15 14:19"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -422,19 +444,13 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "模拟芯片涨价潮再起，ADI年内第二轮价格调整 - eet-china.com",
+        "title": "模拟芯片涨价潮再起，ADI年内第二轮价格调整 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uN29YYllENjItUE9EamJFbXFuYUdiSUxaVDVNSl94dndiTUk3V1FENU1sdFgyNXBhSC00V2JTTlFieEY4bTJDbFg4WFBjaElVRVVSaGJTZWV2UzRv?oc=5",
         "pubDate": "2026-08-12 06:36"
       },
       {
-        "keyword": "亚德诺(ADI)",
-        "title": "热门板块速睇：美股盘中功率半导体走弱，安森美半导体领跌 - news.futunn.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWF9lUzJmZi1KUEhWUmdJLUxzWnF3Rk9GYkVWZWViU1o5T3JDZmozZUo1a2FGMElsRmF1TjJpbXEtb2VYY1I1Y1Y4QmFIUFVNZ1dDdGlxUy1KeEl1dV9aU1o4QzJXTm9zc2x2dkVmSnZsaUZfdmloOUZpejlFU1FwZEctX3RNNEk4YTcxYXd5aGRock9hRTRxbDBGbXlQRFNYci1RQU9nVG9KS253WGJ5c3ZPZkdWUzZW?oc=5",
-        "pubDate": "2026-08-09 21:57"
-      },
-      {
         "keyword": "瑞萨",
-        "title": "SiC与GaN：功率半导体百年变局，2030年市场将破百亿美元 - eet-china.com",
+        "title": "SiC与GaN：功率半导体百年变局，2030年市场将破百亿美元 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EbjZlcFZPbUZUamN4SUtOR1FZV2lscldqbnpVbktxbG9YaFpHbTl6R1JaTHpWX1BpTjMyV2x3ZmhrUWpLVy14d1dTQTVuRWwzbEtJ?oc=5",
         "pubDate": "2026-01-12 08:00"
       },
@@ -446,7 +462,7 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "“智”燃盛夏，贸泽电子即将亮相2023慕尼黑上海电子展 - sohu.com",
+        "title": "“智”燃盛夏，贸泽电子即将亮相2023慕尼黑上海电子展 - Sohu",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyc2JZZ2pZZmNuaGp5QmlhejRtSVFmN2drZlpfZW9qUDhRV2hoalEwY0JSVC1oRWcwYjdNbXUxZGx6bmZLMXMxQnZ5RW9XSXRo?oc=5",
         "pubDate": "2023-07-03 07:00"
       },
@@ -458,15 +474,15 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "什么信号？事关半导体行业，大摩上调多家公司目标股价！ - news.futunn.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa09HRkJnejV2SVdZM3N1RW82b2YyQnhQYS1IenV5WW41WmZFYmVMU1JxWWM4THlMVHl1R09WdEt0REZWX3JIdGMtUlNfbjdfbFNXajhJeGFSUTdtWmVqN3pFR00tRnh0V09PNTgzci04dmRXM2pHX1c0VUFJcDVlM21ueWpGZ25uM2RBYWdOa0N1cktvYm1UaFdOdlA0Y18tdWNnUTl6WHVhaDc4eVpCS1dGcE02WFdMMThOX2FR?oc=5",
-        "pubDate": "2026-08-10 03:23"
+        "title": "伊朗局势下的避风港？这一芯片板块有望穿上“防弹衣” - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJWTFoRzNrd1o4Y1NlYXdjbl9sX29MNlNBQ19fbHNZT0tMYlhKRGZtX2wxUGZRX2VHVnNtay1YaEF3UFhLc2szYQ?oc=5",
+        "pubDate": "2026-03-11 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "伊朗局势下的避风港？这一芯片板块有望穿上“防弹衣” - cls.cn",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJWTFoRzNrd1o4Y1NlYXdjbl9sX29MNlNBQ19fbHNZT0tMYlhKRGZtX2wxUGZRX2VHVnNtay1YaEF3UFhLc2szYQ?oc=5",
-        "pubDate": "2026-03-11 07:00"
+        "title": "什么信号？事关半导体行业，大摩上调多家公司目标股价！ - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa09HRkJnejV2SVdZM3N1RW82b2YyQnhQYS1IenV5WW41WmZFYmVMU1JxWWM4THlMVHl1R09WdEt0REZWX3JIdGMtUlNfbjdfbFNXajhJeGFSUTdtWmVqN3pFR00tRnh0V09PNTgzci04dmRXM2pHX1c0VUFJcDVlM21ueWpGZ25uM2RBYWdOa0N1cktvYm1UaFdOdlA0Y18tdWNnUTl6WHVhaDc4eVpCS1dGcE02WFdMMThOX2FR?oc=5",
+        "pubDate": "2026-08-10 03:23"
       }
     ]
   }
