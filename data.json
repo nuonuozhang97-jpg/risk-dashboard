@@ -1,150 +1,94 @@
 {
-  "date": "2026-09-21",
-  "updated_at": "2026-09-21T03:03:17.555174+00:00",
+  "date": "2026-09-22",
+  "updated_at": "2026-09-22T03:02:45.188275+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 5.5,
-        "place": "35公里 NNE Ruteng 印度尼西亚",
-        "time": "2026-09-21 01:41",
+        "magnitude": 5.2,
+        "place": "92公里 南 Sarangani 菲律宾",
+        "time": "2026-09-21 23:48",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "26公里 东南 Saimbeyli 土耳其",
-        "time": "2026-09-21 01:02",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1s",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "16公里 WSW Shikotan 俄罗斯",
-        "time": "2026-09-20 23:25",
-        "depth_km": 64.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiu3",
+        "place": "South Sandwich Islands 区域",
+        "time": "2026-09-21 21:37",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0z",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "172公里 南东南 Lata Solomon Islands",
-        "time": "2026-09-20 22:51",
+        "magnitude": 4.5,
+        "place": "5公里 西南 San Antonio Colombia",
+        "time": "2026-09-21 18:48",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000titz",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tizt",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "southeast the Loyalty Islands",
-        "time": "2026-09-20 22:09",
+        "magnitude": 4.5,
+        "place": "Izu Islands 日本 区域",
+        "time": "2026-09-21 15:56",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000titt",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiya",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "248公里 南东南 False Pass Alaska",
-        "time": "2026-09-20 21:06",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit6",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.7,
-        "place": "south Africa",
-        "time": "2026-09-20 20:54",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "102公里 WSW Nikolski Alaska",
-        "time": "2026-09-20 13:55",
-        "depth_km": 87.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirv",
+        "place": "38公里 东 Nobeoka 日本",
+        "time": "2026-09-21 13:38",
+        "depth_km": 42.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixp",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "54公里 东南 Shima 日本",
-        "time": "2026-09-20 13:54",
-        "depth_km": 354.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirt",
+        "place": "76公里 西 Ollagüe 智利",
+        "time": "2026-09-21 12:17",
+        "depth_km": 121.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixg",
         "tsunami": 0
       },
       {
         "magnitude": 5.2,
-        "place": "109公里 西 Hihifo 汤加",
-        "time": "2026-09-20 13:00",
+        "place": "167公里 西北偏西 Mejillones 智利",
+        "time": "2026-09-21 11:48",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirq",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc",
         "tsunami": 0
       },
       {
-        "magnitude": 5.4,
-        "place": "68公里 NNE Kainantu 巴布亚新几内亚",
-        "time": "2026-09-20 12:45",
-        "depth_km": 116.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirh",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "92公里 西 Lata Solomon Islands",
-        "time": "2026-09-20 12:24",
-        "depth_km": 33.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirf",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 6.4,
-        "place": "49公里 NNE Kainantu 巴布亚新几内亚",
-        "time": "2026-09-20 09:17",
-        "depth_km": 104.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "64公里 西 Cafayate 阿根廷",
-        "time": "2026-09-20 08:47",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "14公里 西北偏西 Naze 日本",
-        "time": "2026-09-20 07:28",
-        "depth_km": 68.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "93公里 东南偏东 Yigo Village Guam",
-        "time": "2026-09-20 06:47",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi",
+        "magnitude": 4.7,
+        "place": "95公里 东北偏东 Khorugh Tajikistan",
+        "time": "2026-09-21 10:48",
+        "depth_km": 129.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiwz",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "103公里 西 Hihifo 汤加",
-        "time": "2026-09-20 05:07",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
+        "place": "34公里 西北偏西 Luwuk 印度尼西亚",
+        "time": "2026-09-21 07:31",
+        "depth_km": 9.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4",
         "tsunami": 0
       },
       {
-        "magnitude": 5.3,
-        "place": "108公里 东南偏东 Yigo Village Guam",
-        "time": "2026-09-20 03:43",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
+        "magnitude": 4.7,
+        "place": "156公里 北西北 Hicks Bay 新西兰",
+        "time": "2026-09-21 04:28",
+        "depth_km": 213.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "4公里 西 Victor Raul 秘鲁",
+        "time": "2026-09-21 03:58",
+        "depth_km": 73.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
         "tsunami": 0
       }
     ],
@@ -156,88 +100,88 @@
         "pubDate": "2026-09-18 06:16"
       },
       {
-        "title": "绿色（低） 地震 (震级6.4级, 深度:104.329公里) 巴布亚新几内亚 20/09/2026 09:17 , 50千 MMI V.",
-        "description": "On 9/20/2026 9:17:35 AM, an earthquake occurred in Papua New Guinea potentially affecting 50 thousand in MMI V. The earthquake had Magnitude 6.4M, Depth:104.329km.",
+        "title": "绿色（低） 警报 for 热带气旋 POLO-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 21/09/2026 to 21/09/2026, a Tropical Storm (maximum wind speed of 259 km/h) POLO-26 was active in EastPacific. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001325",
+        "pubDate": "2026-09-21 06:39"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) 印度尼西亚 21/09/2026 01:41 , 2千 ( 烈度≥VII级).",
+        "description": "On 9/21/2026 1:41:36 AM, an earthquake occurred in Indonesia potentially affecting 2 thousand (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1567198",
+        "pubDate": "2026-09-21 06:18"
+      },
+      {
+        "title": "Volcanic eruption is on going for Chikurachki 俄罗斯",
+        "description": "Volcano Chikurachki is emitting ash clouds according to the regional VAAC. The aviation alert level is Green.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000149",
+        "pubDate": "2026-09-21 12:48"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.7级, 深度:10公里) South Of Africa 20/09/2026 20:54 , 未知.",
+        "description": "On 9/20/2026 8:54:37 PM, an earthquake occurred in South Of Africa potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1567176",
+        "pubDate": "2026-09-21 06:19"
+      },
+      {
+        "title": "绿色（低） 地震 (震级6.4级, 深度:104.329公里) 巴布亚新几内亚 20/09/2026 09:17 , 90千 MMI V.",
+        "description": "On 9/20/2026 9:17:35 AM, an earthquake occurred in Papua New Guinea potentially affecting 90 thousand in MMI V. The earthquake had Magnitude 6.4M, Depth:104.329km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1567112",
         "pubDate": "2026-09-20 09:35"
       },
       {
         "title": "绿色（低） 警报 for 热带气旋 ODALYS-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 20/09/2026 to 20/09/2026, a Tropical Storm (maximum wind speed of 139 km/h) ODALYS-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "description": "From 20/09/2026 to 21/09/2026, a Tropical Storm (maximum wind speed of 130 km/h) ODALYS-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001324",
         "pubDate": "2026-09-20 09:08"
       },
       {
+        "title": "绿色（低） 森林火灾 警报 Namibia",
+        "description": "On 20/09/2026, a forest fire started in Namibia,  until 21/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032303",
+        "pubDate": "2026-09-21 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 巴西",
+        "description": "On 20/09/2026, a forest fire started in Brazil,  until 21/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032304",
+        "pubDate": "2026-09-21 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 美国",
+        "description": "On 20/09/2026, a forest fire started in United States,  until 20/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032281",
+        "pubDate": "2026-09-21 23:01"
+      },
+      {
         "title": "绿色（低） 警报 for 热带气旋 FAY-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 19/09/2026 to 20/09/2026, a Tropical Storm (maximum wind speed of 111 km/h) FAY-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "description": "From 19/09/2026 to 22/09/2026, a Tropical Storm (maximum wind speed of 111 km/h) FAY-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001323",
         "pubDate": "2026-09-19 15:06"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 19/09/2026, a forest fire started in Australia,  until 20/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032260",
-        "pubDate": "2026-09-20 19:47"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Zimbabwe",
-        "description": "On 19/09/2026, a forest fire started in Zimbabwe,  until 20/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032271",
-        "pubDate": "2026-09-20 19:47"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Vanuatu",
-        "description": "On 19/09/2026, a forest fire started in Vanuatu,  until 19/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032229",
-        "pubDate": "2026-09-19 23:00"
+        "title": "绿色（低） 森林火灾 警报 巴西",
+        "description": "On 19/09/2026, a forest fire started in Brazil,  until 21/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032305",
+        "pubDate": "2026-09-21 23:02"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 19/09/2026, a forest fire started in Australia,  until 19/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032221",
-        "pubDate": "2026-09-19 11:00"
+        "description": "On 19/09/2026, a forest fire started in Australia,  until 21/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032295",
+        "pubDate": "2026-09-21 15:05"
       },
       {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:94.054公里) Kermadec Islands Region 18/09/2026 23:18 , 未知.",
-        "description": "On 9/18/2026 11:18:28 PM, an earthquake occurred in Kermadec Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:94.054km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1566905",
-        "pubDate": "2026-09-18 23:36"
+        "title": "绿色（低） 森林火灾 警报 巴西",
+        "description": "On 19/09/2026, a forest fire started in Brazil,  until 21/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032296",
+        "pubDate": "2026-09-21 11:04"
       },
       {
-        "title": "绿色（低） 洪水 警报 菲律宾",
-        "description": "On 18/09/2026, a flood started in Philippines, lasting until 19/09/2026 (last update). The flood caused 1 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104176",
-        "pubDate": "2026-09-20 07:18"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 Cyprus",
-        "description": "On 18/09/2026, a flood started in Cyprus, lasting until 20/09/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104175",
-        "pubDate": "2026-09-20 07:18"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 几内亚",
-        "description": "On 18/09/2026, a flood started in Guinea, lasting until 20/09/2026 (last update). The flood caused 1 deaths and 269 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104178",
-        "pubDate": "2026-09-20 11:22"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Namibia",
-        "description": "On 18/09/2026, a forest fire started in Namibia,  until 20/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032259",
-        "pubDate": "2026-09-20 07:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 18/09/2026, a forest fire started in Australia,  until 20/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032261",
-        "pubDate": "2026-09-20 19:48"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 18/09/2026, a forest fire started in Australia,  until 20/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032262",
-        "pubDate": "2026-09-20 19:48"
+        "title": "绿色（低） 森林火灾 警报 巴西",
+        "description": "On 19/09/2026, a forest fire started in Brazil,  until 20/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032282",
+        "pubDate": "2026-09-21 06:19"
       }
     ],
     "typhoon": [],
@@ -249,61 +193,79 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.7,
-        "date": "2026-09-21"
+        "rate": 6.71,
+        "date": "2026-09-22"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1481,
-        "date": "2026-09-21"
+        "rate": 1.1468,
+        "date": "2026-09-22"
       },
       {
         "pair": "美元/日元",
-        "rate": 156.92,
-        "date": "2026-09-21"
+        "rate": 157.35,
+        "date": "2026-09-22"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.6923,
-        "date": "2026-09-21"
+        "rate": 7.695,
+        "date": "2026-09-22"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3387,
-        "date": "2026-09-21"
+        "rate": 1.3369,
+        "date": "2026-09-22"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture",
-        "link": "https://www.eetasia.com/mediatek-moves-dimensity-flagship-to-2nm-with-new-ai-architecture/",
-        "pubDate": "Sun, 20 Sep 2026 23:59:55 +0000"
+        "title": "Choosing Bidirectional Isolated DC/DC Topologies for Energy Storage Systems",
+        "link": "https://www.eetasia.com/embeddedblog-choosing-bidirectional-isolated-dc-dc-topologies-for-energy-storage-systems/",
+        "pubDate": "Tue, 22 Sep 2026 01:36:06 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "MIPI Group Targets Common Data Format for Radar and Lidar Streams",
-        "link": "https://www.eetasia.com/mipi-group-targets-common-data-format-for-radar-and-lidar-streams/",
-        "pubDate": "Sun, 20 Sep 2026 23:52:50 +0000"
+        "title": "Are Analog Circuit Schematics Still Essential in Modern Design?",
+        "link": "https://www.eetasia.com/embeddedblog-are-analog-circuit-schematics-still-essential-in-modern-design/",
+        "pubDate": "Tue, 22 Sep 2026 01:31:46 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Advantech Expands Edge AI Ecosystem with Intel, Qualcomm and AMD",
-        "link": "https://www.eetasia.com/advantech-expands-edge-ai-ecosystem-with-intel-qualcomm-and-amd/",
-        "pubDate": "Sun, 20 Sep 2026 23:45:20 +0000"
+        "title": "Large-Generation Panel Fab Utilization Down to 79.6% in October",
+        "link": "https://www.eetasia.com/large-generation-panel-fab-utilization-down-to-79-6-in-october/",
+        "pubDate": "Mon, 21 Sep 2026 23:44:26 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Connectivity Moves to the Core of Edge AI System Design",
-        "link": "https://www.eetasia.com/connectivity-moves-to-the-core-of-edge-ai-system-design/",
-        "pubDate": "Sun, 20 Sep 2026 23:24:56 +0000"
+        "title": "NanoBridge Adopts Siemens FPGA Synthesis Flow for Low-power, Rugged-environment Designs",
+        "link": "https://www.eetasia.com/nanobridge-adopts-siemens-fpga-synthesis-flow-for-low-power-rugged-environment-designs/",
+        "pubDate": "Mon, 21 Sep 2026 23:37:04 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Counterpoint: Global Cellular IoT Module Shipments Up 11% YoY in 2Q 2026",
-        "link": "https://www.eetasia.com/counterpoint-global-cellular-iot-module-shipments-up-11-yoy-in-2q-2026/",
-        "pubDate": "Sun, 20 Sep 2026 23:12:14 +0000"
+        "title": "TI Multiaxial Hall-Effect Current Sensor Targeted at Traction Inverters",
+        "link": "https://www.eetasia.com/ti-multiaxial-hall-effect-current-sensor-targeted-at-traction-inverters/",
+        "pubDate": "Mon, 21 Sep 2026 23:32:57 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Agentic AI Is Reshaping Semiconductor Design",
+        "link": "https://semiwiki.com/eda/chipagents-ai/373561-agentic-ai-is-reshaping-semiconductor-design/",
+        "pubDate": "Mon, 21 Sep 2026 17:00:10 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "The Future of CPO May Be a Glass Integration Platform",
+        "link": "https://semiwiki.com/3dic/373619-the-future-of-cpo-may-be-a-glass-integration-platform/",
+        "pubDate": "Mon, 21 Sep 2026 15:00:10 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Analog Bits Targets the Power Challenge at the Heart of Next-Generation Chips",
+        "link": "https://semiwiki.com/ip/analog-bits/373744-analog-bits-targets-the-power-challenge-at-the-heart-of-next-generation-chips/",
+        "pubDate": "Mon, 21 Sep 2026 13:00:07 +0000"
       },
       {
         "source": "SemiWiki",
@@ -316,24 +278,6 @@
         "title": "Broadcom’s AI Engine Shifts Into Overdrive",
         "link": "https://semiwiki.com/semiconductor-manufacturers/373540-broadcoms-ai-engine-shifts-into-overdrive/",
         "pubDate": "Sun, 20 Sep 2026 15:00:43 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Executive Interview with Raghu Belur, Co-Founder of Enphase Energy",
-        "link": "https://semiwiki.com/ceo-interviews/373657-executive-interview-with-raghu-belur-co-founder-of-enphase-energy/",
-        "pubDate": "Sun, 20 Sep 2026 13:00:59 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "TSMC’s CoWoS Capacity to Double by 2028—and Rivals Will Still Win Orders",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/373574-tsmcs-cowos-capacity-to-double-by-2028-and-rivals-will-still-win-orders/",
-        "pubDate": "Fri, 18 Sep 2026 15:00:39 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "CEO Interview with Charlie Cheng of CEO of TeRAM",
-        "link": "https://semiwiki.com/ip/teram/373367-ceo-interview-with-charlie-cheng-of-ceo-of-teram/",
-        "pubDate": "Fri, 18 Sep 2026 13:00:54 +0000"
       }
     ],
     "china_policy": [
@@ -344,15 +288,15 @@
     "competitor_news": [
       {
         "keyword": "德州仪器(TI)",
-        "title": "Press Release: TI Increases Dividend 7% to $1.52 per Share, Marking 23 Consecutive Years of Increases - moomoo.com",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMXZ3dFh0elJOSXNaUmVRRDZiTWtXQVJoOG1BVUZtRFRMT09iTzRnQ1BFdVVVMTRzTFU3eEhweWRURjRwZ3JxVXVtcXR1bHBtb3dKU2ZKaXI5R3hyNGtKZkNaSmVJenN0cG1UNlZtZDcwa0oyekQ2d2gzUGZzLUdkcERvMEV3RXhIaThBREdkMEdGUVQ0RHdiRnlNQVpzc01YQjNRSUVYZ2FSUFpjYWJjb0xYTFc1UnRoUjlITWEtT2pVakY5eVIycGUtcw?oc=5",
-        "pubDate": "2026-09-17 23:36"
-      },
-      {
-        "keyword": "德州仪器(TI)",
         "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
         "pubDate": "2026-02-04 08:00"
+      },
+      {
+        "keyword": "德州仪器(TI)",
+        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
+        "pubDate": "2026-07-14 07:00"
       },
       {
         "keyword": "德州仪器(TI)",
@@ -368,7 +312,7 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors | 4: Statement of changes in beneficial ownership of securities-Officer Micallef Andrew - moomoo.com",
+        "title": "NXP Semiconductors | 4: Statement of changes in beneficial ownership of securities-Officer Micallef Andrew - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWVfZjVTRk5OZWp6Q2NtdUJkWElOU09xb3EtemhMZWVUTVNvYlQwaDZoUG5abW9GS0JncUxIZG54WG9IWXJSN3hJN2hzVXZMV1RFMkdENnBjVGRKbml3cGJ2Mk1xel9jYnB2QTRvWHF4Vkh2WDVqQ0p3RklrTVFjM0pTX3FnTjhQakpQTlRmSGF4R1BZV3A3Ny0tNENJd0t0cnJOUF9pMHRmd1I1Yy1rc0FDaUdGVktIN3c?oc=5",
         "pubDate": "2026-09-18 06:50"
       },
@@ -398,15 +342,15 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "油价上涨、中东紧张与人工智能利空拖累，欧洲股市在央行决策前下跌 - 新闻和统计 - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9FbVpxNndDNHhjdlRrRkt6SWxaOTlPSTdiZUhZVER3UExINjZQcklDTURxVUNnUzVPNWU0b0ZjRnlvV3hGNkkxYVd0SlFILVh0YnhrS29vRHJEbHg3UERiNDNuR3l0b1h4MFVlZXgtdENYLVZuN2dWN1RUWGxrNmVZLUJ3OXBNQUxrb2E2VHpVZS1lY19xVEpTZlZKX1NSVkdIdmQ2bEpYSURhelNnQTlpY3c0a0J4elZ3SEJRWFlISDg?oc=5",
-        "pubDate": "2026-09-14 11:00"
+        "title": "欧洲半导体股票上涨2-3%，STMicroelectronics、ASML和ASMI表现突 - news.futunn.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFN6LWU4OVhfY0d2cFJtNDVTcjN6SjFCZE45bkgtTVEyMXBwY2hKSUpxQ0dlX3JIZkVUcV9aeHRMM2tCUGYxSzZBYzR4aG9LUFE1eUlUVVgxOEo1MkJXeThmN0h5S3djSWNSUVVHNUZWa0NJQlQ1ZEtISWpRZEJIYXhmbVp6bDYtYmZFRHEybWIyUzhZQldEQlplR3BjeC0zQmVUdEIwZjlLYTBMc0tN?oc=5",
+        "pubDate": "2026-09-21 07:07"
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "European Chip Stocks Mixed Ahead of Nvidia Earnings -- Market Talk - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2R3cGpFeW56WVBNRm95cDcwa2wxTkRMcllfNkZZRElFMVNoVDF1NWZUMTlPSlZJWWc5Vkg5UnpyVWdJX1p0dkI1S3JSaTc4UkVuWC14MFgxQlZkelRfbGRTQkphRW5iRDBJbnE5cDFIMXMxNDRPVjdhc3VqWFRXbzJ0T1htWnhxNm9RYU9JV1J3cENQZGQzeWIwUUo1NVp4UEpz?oc=5",
-        "pubDate": "2026-08-26 08:38"
+        "title": "油价上涨、中东紧张与人工智能利空拖累，欧洲股市在央行决策前下跌 - 新闻和统计 - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9FbVpxNndDNHhjdlRrRkt6SWxaOTlPSTdiZUhZVER3UExINjZQcklDTURxVUNnUzVPNWU0b0ZjRnlvV3hGNkkxYVd0SlFILVh0YnhrS29vRHJEbHg3UERiNDNuR3l0b1h4MFVlZXgtdENYLVZuN2dWN1RUWGxrNmVZLUJ3OXBNQUxrb2E2VHpVZS1lY19xVEpTZlZKX1NSVkdIdmQ2bEpYSURhelNnQTlpY3c0a0J4elZ3SEJRWFlISDg?oc=5",
+        "pubDate": "2026-09-14 11:00"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -422,25 +366,19 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "13.5亿美元！模拟芯片制造商ADI将收购Alif Semiconductor - 集微网",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZUhsb1k5ZWRVbUVmNnZPeG1icGhzMTYtRS15WUpwcGc4bmFicnNnd0lkcW5ENFFoOGhnYmotWXZzS29aT1VHNF9RTDVTczU1UnNjRGxQVXlIY1VDby1ZRmpaSGhJaVRIVzB5c2dKX3MwUQ?oc=5",
-        "pubDate": "2026-09-19 05:29"
-      },
-      {
-        "keyword": "亚德诺(ADI)",
         "title": "Analog Devices拟收购Alif Semiconductor，引入AI原生处理平台，推动面向下一代现实世界系统的物理智能发展 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wcTdOdHJxUUFadjlCRE1XMEFzZ3VlUVBCZGRibEdDSkxRUF9NRGVHOVhoTGhtd3FFQi11cHk3NW5tUU5MYzY0dHRzMHB5N25wQ1Fz?oc=5",
         "pubDate": "2026-09-11 07:00"
       },
       {
-        "keyword": "瑞萨",
-        "title": "功率大厂瑞萨电子再发涨价函 AI机柜功率跃升打开行业成长空间 - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlRXSkk1VDhaT1JJV2RqMFpMeUtpWjNYRXRJUDZEWWh4NU9XT3RHdko5RXlHeFFhS29NRjA4OUZHZ2lOd1V1dUhSSFRuRzJ3bmF0VDNLVUVQVlkyQ0g5Z0E5NnppSkR2S0c3MVA4NFJNYWt4RW8yZVgxY0JnSDRuUlJJclI3MExwa2w1S2dNUGZ4N2VjOUVReXNGR0NUTzh0OS0wSDk3cUZMSjVablJPUFo1UVFPZEF3?oc=5",
-        "pubDate": "2026-09-09 23:48"
+        "keyword": "亚德诺(ADI)",
+        "title": "13.5亿美元！模拟芯片制造商ADI将收购Alif Semiconductor - 集微网",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZUhsb1k5ZWRVbUVmNnZPeG1icGhzMTYtRS15WUpwcGc4bmFicnNnd0lkcW5ENFFoOGhnYmotWXZzS29aT1VHNF9RTDVTczU1UnNjRGxQVXlIY1VDby1ZRmpaSGhJaVRIVzB5c2dKX3MwUQ?oc=5",
+        "pubDate": "2026-09-19 05:29"
       },
       {
         "keyword": "瑞萨",
-        "title": "功率半导体涨价潮延续，瑞萨电子新一轮调价明年起生效 - 富途牛牛",
+        "title": "功率半导体涨价潮延续，瑞萨电子新一轮调价明年起生效 - news.futunn.com",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUx2czV5NVNVOTVRSWlDbFVYdE9Mam1JS0VxVmw3Tl83eE9DZXZCdnlCWVBTQ2tkUHZkdjBhTWtHV18zdFdPenR0ZTVYTTh5UTlqc0hfR0ZmeGtZcU9hZGtrWkdHOVdBTExaS24tWjY2SFpBdDF5Z3N3dWJvNzlWTGhuLTItbVpNb196bzY4SU5Ld1A2R1h4QmMtU0lBSEU3ckxNaUx1OUdQM0dEVzhqTkh3?oc=5",
         "pubDate": "2026-09-10 07:00"
       },
@@ -449,6 +387,12 @@
         "title": "自动驾驶芯片市场规模及预测报告，2034年 - Global Market Insights Inc.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHhKVVVYMU41MWlIQnNNNzlISTdFSXhaSS1tenR6d1ZMUkxITld2enMzSk12VDBoNHNmVUZVRnlrdUI0b055dDM3VXhtYmpvM00xaWp6bnVvNkxUQ3lnWVNLT3NjcEtLZlB6dUZRYUtvZEJRSXNsNGtkWFRab3NScHVpekFFUQ?oc=5",
         "pubDate": "2025-12-08 03:35"
+      },
+      {
+        "keyword": "瑞萨",
+        "title": "瑞萨MCU业务活得好好的，关厂只是淘汰旧产线 - 电子工程专辑",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03Y2hoUmpTVzZTQi1BSGQ5NEV4SjdtNWFqUmZYWDBRZDBrN05KalkzMTVObUlFMTBZVy05VHRDdlhERHA5RXpmSmhvTHF4V0QxX1hkckpaM1VzelNI?oc=5",
+        "pubDate": "2018-06-05 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
@@ -464,9 +408,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "伊朗局势下的避风港？这一芯片板块有望穿上“防弹衣” - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJWTFoRzNrd1o4Y1NlYXdjbl9sX29MNlNBQ19fbHNZT0tMYlhKRGZtX2wxUGZRX2VHVnNtay1YaEF3UFhLc2szYQ?oc=5",
-        "pubDate": "2026-03-11 07:00"
+        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
+        "pubDate": "2026-08-31 07:00"
       }
     ]
   }
