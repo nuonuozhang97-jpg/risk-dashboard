@@ -1,150 +1,166 @@
 {
-  "date": "2026-09-26",
-  "updated_at": "2026-09-26T03:14:33.045267+00:00",
+  "date": "2026-09-27",
+  "updated_at": "2026-09-27T03:22:22.693854+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.5,
-        "place": "冰岛 区域",
-        "time": "2026-09-26 02:52",
+        "magnitude": 5.1,
+        "place": "90公里 东北偏东 Tadine New Caledonia",
+        "time": "2026-09-27 02:22",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "58公里 东北偏东 Tadine New Caledonia",
-        "time": "2026-09-26 01:10",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "15公里 北西北 Xunchang 中国",
-        "time": "2026-09-25 23:57",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.4,
-        "place": "69公里 东北偏东 Tadine New Caledonia",
-        "time": "2026-09-25 23:52",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqk",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.5,
         "place": "61公里 东北偏东 Tadine New Caledonia",
-        "time": "2026-09-25 23:39",
+        "time": "2026-09-27 01:18",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "78公里 东北 Tadine New Caledonia",
-        "time": "2026-09-25 23:32",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqf",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "78公里 东北偏东 Tadine New Caledonia",
-        "time": "2026-09-25 22:07",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txq2",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 6.6,
-        "place": "80公里 东北偏东 Tadine New Caledonia",
-        "time": "2026-09-25 21:23",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi",
+        "place": "78公里 东南偏东 Kokopo 巴布亚新几内亚",
+        "time": "2026-09-26 21:49",
+        "depth_km": 63.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txv7",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "13公里 北 Xunchang 中国",
-        "time": "2026-09-25 21:01",
+        "place": "52公里 北西北 Ruteng 印度尼西亚",
+        "time": "2026-09-26 19:37",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpf",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "south the 斐济",
-        "time": "2026-09-25 20:43",
-        "depth_km": 482.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpa",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "144公里 东南 Lata Solomon Islands",
-        "time": "2026-09-25 20:41",
-        "depth_km": 223.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txp8",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "42公里 北 Ruteng 印度尼西亚",
-        "time": "2026-09-25 19:39",
-        "depth_km": 14.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txnq",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "62公里 西南 San Antonio 智利",
-        "time": "2026-09-25 15:29",
-        "depth_km": 29.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txur",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "80公里 西南 Labuan 印度尼西亚",
-        "time": "2026-09-25 13:47",
+        "place": "5公里 北 Bowangshan 中国",
+        "time": "2026-09-26 18:31",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txkc",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "Drake Passage",
-        "time": "2026-09-25 12:37",
+        "magnitude": 4.8,
+        "place": "74公里 东北偏东 Tadine New Caledonia",
+        "time": "2026-09-26 18:25",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txk8",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuf",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "72公里 东 Thang 印度",
-        "time": "2026-09-25 11:53",
+        "magnitude": 4.6,
+        "place": "south Africa",
+        "time": "2026-09-26 17:50",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txk0",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuc",
         "tsunami": 0
       },
       {
-        "magnitude": 5.3,
-        "place": "Vanuatu 区域",
-        "time": "2026-09-25 11:12",
-        "depth_km": 24.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txjy",
+        "magnitude": 5.2,
+        "place": "148公里 西北 Kilmia Yemen",
+        "time": "2026-09-26 16:33",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "72公里 东 Tadine New Caledonia",
+        "time": "2026-09-26 16:06",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txty",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "74公里 东北偏东 Tadine New Caledonia",
+        "time": "2026-09-26 15:01",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtn",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.6,
+        "place": "74公里 东南偏东 Kokopo 巴布亚新几内亚",
+        "time": "2026-09-26 14:08",
+        "depth_km": 57.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "86公里 东北 Tadine New Caledonia",
+        "time": "2026-09-26 13:48",
+        "depth_km": 14.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txt9",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "145公里 东北 Maumere 印度尼西亚",
+        "time": "2026-09-26 13:38",
+        "depth_km": 235.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txt8",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "58公里 东北 Tadine New Caledonia",
+        "time": "2026-09-26 12:14",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txt0",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "124公里 北 Metinaro Timor Leste",
-        "time": "2026-09-25 04:27",
+        "place": "76公里 东北 Tadine New Caledonia",
+        "time": "2026-09-26 12:14",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "73公里 东北偏东 Tadine New Caledonia",
+        "time": "2026-09-26 12:11",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsy",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "North 印度n Ocean",
+        "time": "2026-09-26 10:53",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "73公里 东北偏东 Tadine New Caledonia",
+        "time": "2026-09-26 10:21",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txse",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "78公里 东北偏东 Tadine New Caledonia",
+        "time": "2026-09-26 09:10",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "97公里 东北 Tadine New Caledonia",
+        "time": "2026-09-26 09:08",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2",
         "tsunami": 0
       }
     ],
@@ -153,7 +169,25 @@
         "title": "绿色（低） 洪水 警报 泰国",
         "description": "On 05/10/2026, a flood started in Thailand, lasting until 07/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
         "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104169",
-        "pubDate": "2026-09-18 06:16"
+        "pubDate": "2026-09-26 22:12"
+      },
+      {
+        "title": "绿色（低） 洪水 警报 墨西哥",
+        "description": "On 05/10/2026, a flood started in Mexico, lasting until 07/10/2026 (last update). The flood caused 0 deaths and 51 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104191",
+        "pubDate": "2026-09-26 06:33"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.6级, 深度:57.78公里) 巴布亚新几内亚 26/09/2026 14:08 , 170千 MMI IV.",
+        "description": "On 9/26/2026 2:08:17 PM, an earthquake occurred in Papua New Guinea potentially affecting 170 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:57.78km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1568187",
+        "pubDate": "2026-09-26 14:26"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 26/09/2026, a forest fire started in Australia,  until 26/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032414",
+        "pubDate": "2026-09-26 19:00"
       },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) New Caledonia 25/09/2026 23:39 , 2千 MMI IV.",
@@ -174,70 +208,52 @@
         "pubDate": "2026-09-25 03:13"
       },
       {
+        "title": "绿色（低） 森林火灾 警报 Paraguay",
+        "description": "On 25/09/2026, a forest fire started in Paraguay,  until 26/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032421",
+        "pubDate": "2026-09-26 23:00"
+      },
+      {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 25/09/2026, a forest fire started in Australia,  until 25/09/2026.",
+        "description": "On 25/09/2026, a forest fire started in Australia,  until 26/09/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032403",
-        "pubDate": "2026-09-26 03:00"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 智利",
-        "description": "On 24/09/2026, a flood started in Chile, lasting until 26/09/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104190",
-        "pubDate": "2026-09-25 06:13"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.7级, 深度:10公里) 汤加 23/09/2026 14:41 , 1千 MMI IV.",
-        "description": "On 9/23/2026 2:41:02 PM, an earthquake occurred in Tonga potentially affecting 1 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1567678",
-        "pubDate": "2026-09-23 15:01"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 SURIGAE-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 23/09/2026 to 26/09/2026, a Tropical Storm (maximum wind speed of 157 km/h) SURIGAE-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001327",
-        "pubDate": "2026-09-23 08:23"
+        "pubDate": "2026-09-26 07:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 23/09/2026, a forest fire started in Australia,  until 25/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032404",
-        "pubDate": "2026-09-26 03:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 巴西",
-        "description": "On 23/09/2026, a forest fire started in Brazil,  until 25/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032405",
-        "pubDate": "2026-09-26 03:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 巴西",
-        "description": "On 23/09/2026, a forest fire started in Brazil,  until 25/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032383",
-        "pubDate": "2026-09-25 07:00"
+        "description": "On 25/09/2026, a forest fire started in Australia,  until 26/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032408",
+        "pubDate": "2026-09-26 11:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 23/09/2026, a forest fire started in Australia,  until 25/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032384",
-        "pubDate": "2026-09-25 03:01"
+        "description": "On 24/09/2026, a forest fire started in Australia,  until 26/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032409",
+        "pubDate": "2026-09-26 11:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 24/09/2026, a forest fire started in Australia,  until 26/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032422",
+        "pubDate": "2026-09-27 03:02"
       },
       {
         "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 23/09/2026, a forest fire started in Angola,  until 25/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032395",
-        "pubDate": "2026-09-25 19:00"
+        "description": "On 24/09/2026, a forest fire started in Angola,  until 26/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032415",
+        "pubDate": "2026-09-27 03:02"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 Kenya",
-        "description": "On 23/09/2026, a forest fire started in Kenya,  until 24/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032376",
-        "pubDate": "2026-09-26 03:01"
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 24/09/2026, a forest fire started in Angola,  until 26/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032416",
+        "pubDate": "2026-09-27 03:02"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 23/09/2026, a forest fire started in Australia,  until 24/09/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032363",
-        "pubDate": "2026-09-24 15:00"
+        "title": "绿色（低） 森林火灾 警报 Zambia",
+        "description": "On 24/09/2026, a forest fire started in Zambia,  until 26/09/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032417",
+        "pubDate": "2026-09-27 03:02"
       }
     ],
     "typhoon": [],
@@ -249,28 +265,28 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.72,
-        "date": "2026-09-26"
+        "rate": 6.73,
+        "date": "2026-09-27"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1403,
-        "date": "2026-09-26"
+        "rate": 1.139,
+        "date": "2026-09-27"
       },
       {
         "pair": "美元/日元",
-        "rate": 157.54,
-        "date": "2026-09-26"
+        "rate": 157.45,
+        "date": "2026-09-27"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.6625,
-        "date": "2026-09-26"
+        "rate": 7.6651,
+        "date": "2026-09-27"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3245,
-        "date": "2026-09-26"
+        "date": "2026-09-27"
       }
     ],
     "bond_yields": [],
@@ -362,15 +378,15 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors | 144: Notice of proposed sale of securities pursuant to Rule 144 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTU1fc051aDQ1dkhTNEV0Rm9fQXVyem5USW5jR3RmVG9QSHJrWUVUdS1wbHh0TldJdEUySm9XTXptSG9lT18xOWxLNmlQOThnaUpnaHpZNC0tN1F3WGRlZlVjWFpzNDRNODNWd0htUmRBZ01qZFdpWEgwbGhiaVRQSWVKcWxSa0N3Y0dRT1NnTGtBR28zdXFodFFEdmNkUnotTkFYMkhhcGxaR2tU?oc=5",
-        "pubDate": "2026-09-15 20:20"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
         "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我 - 观察者网",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
         "pubDate": "2026-03-05 08:00"
+      },
+      {
+        "keyword": "恩智浦(NXP)",
+        "title": "NXP Semiconductors Rose 8% This Week. Here’s Why 2026 Could Be a Turning Point - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGdLaEhUTEJ4Um84Smdzd0lBX05VTmsyTW5MNDEwaU80S3AxM2FMYl8tTmo4SUdVTC1XRXVYb3ZaaTRHcTF4ZHBkc3JLMndPcE1iVXg3LTdCNkRINTVPOHR0dVVwd2VndkhwQmZ5RUI4SGpyZ3h5bGFaUjdMdkVmbUxlT3d1TnZDamFRUGFXR0lhRWRjZWdGVjcxdDhXa2pDZ1RBSmFhUQ?oc=5",
+        "pubDate": "2026-05-29 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -380,21 +396,21 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "华邦电子11.2亿美元收购英飞凌NOR Flash与F-RAM业务，重启Spansion品牌 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0tOUlE2WW1qbmRfS0VSdkpBbjh1dTNNRVJITW03WnpNV3hlb0VEUEhRV25YN0FOeDYzeWIybm9Lek9EN2xqb0NHYUNMaEtMU081UEF5YS1PTzVE?oc=5",
-        "pubDate": "2026-09-17 01:55"
-      },
-      {
-        "keyword": "英飞凌",
-        "title": "原创 斥资11.2亿美元，华邦电子为何复活“Spansion”？ - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmkwV3YzZkZzbksza0hVWFJsbkpsZVctQXFZTXJmSmxNdVJhQk9rRVR5emNCOFlGUXdIWjQ2UkxScGhNaldVczNrUGNSRXJSa3pNbWVURlhjc041RHRPZFpwaEw1NEhYeEFlSDhkNmxtZXAtYktJQzZOMDNwaWRERnJ3cXBwMTZ2MFNJ?oc=5",
-        "pubDate": "2026-09-16 23:08"
+        "title": "斥资11.2亿美元，华邦电子为何复活“Spansion”？ - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzZ041WF9pSnN2Q01CTnlFckFWWE42MUsyZ3ltLVM0WjBiNUJGaGlVakMzTjlDMlhPT1hrT2FsV2N0c3BmTkF6SA?oc=5",
+        "pubDate": "2026-09-17 07:00"
       },
       {
         "keyword": "英飞凌",
         "title": "Infineon Technologies Tokenized Stock (xStock)(IFXx) 币价，图表，市值以及其他指标 - CoinMarketCap",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUTg1Rnd6U3ZFSHhfYjJ4Zk1VMUNWRTNYNW9HUTNBWFUxQmg3LTU2dlYzNWtETjItWEVxZl9IV21xZFpRNUNJd19KLUpNNF9tTlNrVUNOM2U4UDBHWWlNXzRRc0NSaFB1WC1tSVVnZ2pVWU1nekQ3cjZCODFlUFhmbjR2ZUlOVWNFSm1yaVFn?oc=5",
         "pubDate": "2026-09-08 05:06"
+      },
+      {
+        "keyword": "英飞凌",
+        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
+        "pubDate": "2026-08-31 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -410,15 +426,9 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "GaN 功率晶体管市场规模与增长展望，2026～2035 年 - Global Market Insights Inc.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc1BWTjgzRHV5OFgyYTFPMVVJaDJwNGpWaS1oQll3OUkyUjFUX2EyZFItM1FSZzlVVW1ZZG5wa205aTJPdkVQbkQ1SUVOd2FkbGNSS29zRkc0dTlJTUhqRkx4S1NLb19qVFdRcjRIWnZtNzhic2NEZEo2WW1qY1N4Smt3?oc=5",
-        "pubDate": "2026-03-17 19:15"
-      },
-      {
-        "keyword": "亚德诺(ADI)",
-        "title": "亚德诺(ADI)股票9月25日盘中上涨3.18%：背后推手曝光 - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUJ4LXpEOGlLSEpCQ2ExbUh2Vnl2b3JxVDd6QkZQUnU3czZLbzRTSmxKaEx4SjFMdERlMlVQLUhiMDAtSXVIVjRROTdteDVPcFdJU3FraGw0eGl2MjhlZjJiYS16ZUJZU1p6Z1VWcUVDdDVVZDRUdzBSTHpBdzlyUmJtTTVWQmN4NERiUjZmcHd2Ukxn?oc=5",
-        "pubDate": "2026-09-25 14:16"
+        "title": "功率半导体市场规模| 2026～2035年预测报告 - Global Market Insights Inc.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRcTM1ZDJHZ2prRDJGQ0xjM3J1VnhOTW5MTG5IVG1Za29hWXo2ZlhmdWZuaFZzNmJqX1FrVTMtbVVCZ0ZVVlhReU9nRmlkZXJWcHpPSXNZSHVGTFA1NEh0ZDZIR24taWpQekpEU2xBNlBXa0pSeFZ0dDEyMThMeDQ?oc=5",
+        "pubDate": "2026-03-15 11:23"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -428,9 +438,15 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices拟收购Alif Semiconductor，引入AI原生处理平台， 推动面向下一代现实世界系统的物理智能发展 - 美通社",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GQlEyXzdROWpGS0dQSG5YY2Z6ZWswanBuMkhnd1lsUFdLRVJpNVFHMURLM09lSDF2WFA1U1RNQlpWLUstRklqOWRfUEhScE1IMzMtOGFQdw?oc=5",
-        "pubDate": "2026-09-11 08:22"
+        "title": "Analog Devices拟以13.5亿美元收购Alif，补强端侧AI处理能力 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2xRYnY4WE14R2FBaThtbHVBRkRlZm5zN3hQb1R2c0pEVmFOcWpwOU1lSU5OYzI4Y1VfZndHeUE1LUpHdmhUSjlINXVGMnZBTjFMQVA3d05WS1h2bkNJX24wRGVPeUdoS2hkbHNiNEg2SzRnWktadFB2MVRLWUdieUVqaEd4dUkwaE1JTUxsNDNGTHFzbU9fd2oybWhDLWlfc1FBV3lsR1dHdFBlcHhhVHljaHdMRk11NUNmMVEyQlV0X0puOExucHhZUlM5Q2V4Z2dmWkxKTnBaLVBoU0I0?oc=5",
+        "pubDate": "2026-09-10 07:06"
+      },
+      {
+        "keyword": "亚德诺(ADI)",
+        "title": "ADI亚德诺半导体13.5亿美元收购Alif Semiconductor，布局边缘AI物理智能 - 电子工程专辑",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ha3dCNzlSQTFxTzlCVVRQQmdMNHdkY1c2eGhDZzRYUWVQbHJMbE1aMEZ1Rkp1R045YmhFTkQwbXdiZ2VmNnJud203R25NNEdFSVBjVVRKOGhFQU1Z?oc=5",
+        "pubDate": "2026-09-11 07:00"
       },
       {
         "keyword": "瑞萨",
@@ -452,9 +468,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "射频功率半导体市场2035年预测：GaN加速渗透与5G/6G部署驱动增长- 新闻和统计 - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUpOVDB5cnJiVXJTYkpkTmk0UE5UR3lFbXJaN3ZqcWNjdDRpamlYS281NXNhZ011dFdOOW45YTRaeUMzMm4zd01STjJmVEFlU21hQWZxTU5JWTU4ZG8wS21BWnFla1V4VkVHVUdfcE5pSDN2LWp4VTV2ZV93bFdidDhvN3VJaVc3QjE1OVNFcTc1T20wWVRod0hpZWtfd2ZIYUJ2NnZpYXZpSVpTU2NlZzUyeUloNXpzTlprWlR1RFNEeWRSRXgxOQ?oc=5",
-        "pubDate": "2026-09-25 17:26"
+        "title": "现场可编程门阵列（FPGA）市场展望2035：AI与数据中心需求驱动扩张 - 新闻和统计 - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelV3VkNadEdXZjNfOWpWeVpJTFgwTklYMTNTWGRwOVhjQWdaUDFWdXdhS2ZQNjQ4eWlaVzR5NVpZUlY3Zl9Wcl9PN0ZWUW5qX0ZiV195anl4a2NKWkxIREZaNzRKVmVjRFJOSm1nTzBsRUtxUDNzYU05YjkwWjdZLUQ1SHVna1ZrendwUTRRVHpmV3cxb0pZOXc1OFZiSnc1bGpONGtCenB0Nk83M0V4bnZzb0swSEQzZEo4Tk9tRXZDWXcwNFYzMS1tUkM5bE5ENWxpaXIzYV94RHNv?oc=5",
+        "pubDate": "2026-09-23 16:31"
       },
       {
         "keyword": "微芯科技(Microchip)",
@@ -464,9 +480,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "现场可编程门阵列（FPGA）市场展望2035：AI与数据中心需求驱动扩张 - 新闻和统计 - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelV3VkNadEdXZjNfOWpWeVpJTFgwTklYMTNTWGRwOVhjQWdaUDFWdXdhS2ZQNjQ4eWlaVzR5NVpZUlY3Zl9Wcl9PN0ZWUW5qX0ZiV195anl4a2NKWkxIREZaNzRKVmVjRFJOSm1nTzBsRUtxUDNzYU05YjkwWjdZLUQ1SHVna1ZrendwUTRRVHpmV3cxb0pZOXc1OFZiSnc1bGpONGtCenB0Nk83M0V4bnZzb0swSEQzZEo4Tk9tRXZDWXcwNFYzMS1tUkM5bE5ENWxpaXIzYV94RHNv?oc=5",
-        "pubDate": "2026-09-23 16:31"
+        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
+        "pubDate": "2026-08-31 07:00"
       }
     ]
   }
