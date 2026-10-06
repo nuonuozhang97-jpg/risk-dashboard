@@ -1,102 +1,110 @@
 {
-  "date": "2026-10-05",
-  "updated_at": "2026-10-05T03:47:03.829411+00:00",
+  "date": "2026-10-06",
+  "updated_at": "2026-10-06T04:35:10.475853+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 5.3,
-        "place": "central 中大西洋海岭",
-        "time": "2026-10-05 01:18",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
-        "tsunami": 0
-      },
-      {
         "magnitude": 4.8,
-        "place": "32公里 南东南 Jurm Afghanistan",
-        "time": "2026-10-04 20:27",
-        "depth_km": 248.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5,
-        "place": "295公里 南 Burica Panama",
-        "time": "2026-10-04 14:06",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
+        "place": "86公里 北 Ruteng 印度尼西亚",
+        "time": "2026-10-06 03:42",
+        "depth_km": 8.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "110公里 南 Dampit 印度尼西亚",
-        "time": "2026-10-04 12:36",
-        "depth_km": 52.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
+        "place": "31公里 南 Tezpur 印度",
+        "time": "2026-10-05 22:53",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzth",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "146公里 西北偏西 Panguna 巴布亚新几内亚",
+        "time": "2026-10-05 22:48",
+        "depth_km": 142.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tztg",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "39公里 西南 Tambolaka 印度尼西亚",
+        "time": "2026-10-05 21:38",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzss",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "21公里 东南偏东 Feke 土耳其",
-        "time": "2026-10-04 11:43",
+        "place": "south the 斐济",
+        "time": "2026-10-05 20:22",
+        "depth_km": 518.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzsc",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "12公里 东北偏东 Metahāra Ethiopia",
+        "time": "2026-10-05 19:47",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzry",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "22公里 东 Feke 土耳其",
-        "time": "2026-10-04 11:36",
+        "place": "105公里 西北偏西 Höfn 冰岛",
+        "time": "2026-10-05 17:28",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzil",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzpq",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "21公里 南东南 Saimbeyli 土耳其",
-        "time": "2026-10-04 11:19",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzif",
+        "place": "75公里 NNE Yonakuni 日本",
+        "time": "2026-10-05 13:30",
+        "depth_km": 156.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznu",
         "tsunami": 0
       },
       {
-        "magnitude": 5.5,
+        "magnitude": 4.6,
+        "place": "21公里 南 Luganville Vanuatu",
+        "time": "2026-10-05 11:47",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznh",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "187公里 东北偏东 Saipan Northern Mariana Islands",
+        "time": "2026-10-05 10:52",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzna",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
         "place": "Volcano Islands 日本 区域",
-        "time": "2026-10-04 11:12",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzid",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "121公里 西南 Kokopo 巴布亚新几内亚",
-        "time": "2026-10-04 11:09",
-        "depth_km": 162.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzic",
+        "time": "2026-10-05 07:13",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "43公里 北 Ruteng 印度尼西亚",
-        "time": "2026-10-04 10:52",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi8",
+        "place": "191公里 东南偏东 Sarangani 菲律宾",
+        "time": "2026-10-05 06:14",
+        "depth_km": 51.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "37公里 北 Ruteng 印度尼西亚",
-        "time": "2026-10-04 10:13",
+        "place": "71公里 东 ‘Ohonua 汤加",
+        "time": "2026-10-05 05:26",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "121公里 西北偏西 Chauk Burma (缅甸)",
-        "time": "2026-10-04 05:55",
-        "depth_km": 58.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzh0",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
         "tsunami": 0
       }
     ],
@@ -105,7 +113,7 @@
         "title": "绿色（低） 洪水 警报 泰国",
         "description": "On 05/10/2026, a flood started in Thailand, lasting until 07/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
         "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104169",
-        "pubDate": "2026-10-04 22:10"
+        "pubDate": "2026-10-05 22:09"
       },
       {
         "title": "绿色（低） 洪水 警报 墨西哥",
@@ -115,21 +123,21 @@
       },
       {
         "title": "绿色（低） 警报 for 热带气旋 KOGUMA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 05/10/2026 to 05/10/2026, a Tropical Depression (maximum wind speed of 194 km/h) KOGUMA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "description": "From 05/10/2026 to 06/10/2026, a Tropical Storm (maximum wind speed of 204 km/h) KOGUMA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001333",
         "pubDate": "2026-10-05 02:11"
       },
       {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) 火山 Islands, 日本 Region 04/10/2026 11:12 , 未知.",
-        "description": "On 10/4/2026 11:12:48 AM, an earthquake occurred in Volcano Islands, Japan Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569426",
-        "pubDate": "2026-10-04 11:33"
+        "title": "绿色（低） 森林火灾 警报 Angola",
+        "description": "On 04/10/2026, a forest fire started in Angola,  until 05/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032571",
+        "pubDate": "2026-10-05 23:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 Ethiopia",
         "description": "On 04/10/2026, a forest fire started in Ethiopia,  until 04/10/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032562",
-        "pubDate": "2026-10-05 03:00"
+        "pubDate": "2026-10-05 23:00"
       },
       {
         "title": "绿色（低） 地震 (震级5.9级, 深度:45.951公里) 印度尼西亚 03/10/2026 22:55 , 130千 MMI V.",
@@ -138,58 +146,58 @@
         "pubDate": "2026-10-03 23:14"
       },
       {
+        "title": "绿色（低） 森林火灾 警报 巴西",
+        "description": "On 03/10/2026, a forest fire started in Brazil,  until 05/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032572",
+        "pubDate": "2026-10-05 23:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 03/10/2026, a forest fire started in Australia,  until 05/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032565",
+        "pubDate": "2026-10-05 19:01"
+      },
+      {
         "title": "绿色（低） 地震 (震级5.8级, 深度:29.477公里) 俄罗斯 02/10/2026 16:34 , Few people affected MMI III.",
         "description": "On 10/2/2026 4:34:41 PM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.8M, Depth:29.477km.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569129",
         "pubDate": "2026-10-02 16:56"
       },
       {
+        "title": "绿色（低） 洪水 警报 洪都拉斯",
+        "description": "On 02/10/2026, a flood started in Honduras, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 32 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104209",
+        "pubDate": "2026-10-05 05:54"
+      },
+      {
+        "title": "绿色（低） 洪水 警报 尼加拉瓜",
+        "description": "On 02/10/2026, a flood started in Nicaragua, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 1 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104210",
+        "pubDate": "2026-10-05 06:14"
+      },
+      {
+        "title": "绿色（低） 洪水 警报 Portugal",
+        "description": "On 02/10/2026, a flood started in Portugal, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104212",
+        "pubDate": "2026-10-05 06:53"
+      },
+      {
         "title": "绿色（低） 森林火灾 警报 Kazakhstan",
         "description": "On 02/10/2026, a forest fire started in Kazakhstan,  until 02/10/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032535",
-        "pubDate": "2026-10-05 03:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Sudan",
-        "description": "On 02/10/2026, a forest fire started in Sudan,  until 04/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032563",
-        "pubDate": "2026-10-05 03:00"
+        "pubDate": "2026-10-05 23:01"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 02/10/2026, a forest fire started in Australia,  until 04/10/2026.",
+        "description": "On 02/10/2026, a forest fire started in Australia,  until 05/10/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032556",
         "pubDate": "2026-10-04 15:00"
       },
       {
-        "title": "绿色（低） 洪水 警报 Malaysia",
-        "description": "On 01/10/2026, a flood started in Malaysia, lasting until 03/10/2026 (last update). The flood caused 0 deaths and 199 displaced .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104207",
-        "pubDate": "2026-10-03 06:54"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 The Democratic Republic of Congo",
-        "description": "On 01/10/2026, a forest fire started in The Democratic Republic of Congo,  until 04/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032552",
-        "pubDate": "2026-10-04 15:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 30/09/2026, a forest fire started in Australia,  until 04/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032553",
-        "pubDate": "2026-10-04 07:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Angola",
-        "description": "On 30/09/2026, a forest fire started in Angola,  until 04/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032564",
-        "pubDate": "2026-10-05 03:01"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 CHOI-WAN-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 30/09/2026 to 05/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 250 km/h) CHOI-WAN-26 was active in NWPacific. The cyclone affects these countries: Guam, Northern Mariana Islands, United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001332",
-        "pubDate": "2026-09-30 02:12"
+        "title": "绿色（低） 森林火灾 警报 巴西",
+        "description": "On 02/10/2026, a forest fire started in Brazil,  until 05/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032573",
+        "pubDate": "2026-10-05 23:01"
       }
     ],
     "typhoon": [],
@@ -202,60 +210,60 @@
       {
         "pair": "美元/人民币",
         "rate": 6.71,
-        "date": "2026-10-05"
+        "date": "2026-10-06"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1249,
-        "date": "2026-10-05"
+        "rate": 1.1211,
+        "date": "2026-10-06"
       },
       {
         "pair": "美元/日元",
-        "rate": 157.73,
-        "date": "2026-10-05"
+        "rate": 157.98,
+        "date": "2026-10-06"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.5478,
-        "date": "2026-10-05"
+        "rate": 7.5224,
+        "date": "2026-10-06"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3228,
-        "date": "2026-10-05"
+        "date": "2026-10-06"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips",
-        "link": "https://www.eetasia.com/mips-xcelsa-target-faster-optimization-of-workload-specific-custom-chips/",
-        "pubDate": "Mon, 05 Oct 2026 02:00:52 +0000"
+        "title": "AI Drives Semiconductor Innovation Beyond Scaling Into Advanced Packaging and Photonics",
+        "link": "https://www.eetasia.com/ai-drives-semiconductor-innovation-beyond-scaling-into-advanced-packaging-and-photonics/",
+        "pubDate": "Tue, 06 Oct 2026 04:08:55 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Efinix Adds 64-Bit RISC-V SoC for FPGA-Based Embedded Systems",
-        "link": "https://www.eetasia.com/efinix-adds-64-bit-risc-v-soc-for-fpga-based-embedded-systems/",
-        "pubDate": "Sun, 04 Oct 2026 23:51:40 +0000"
+        "title": "JEDEC Sets Reliability Requirements for Silicon Photonics",
+        "link": "https://www.eetasia.com/jedec-sets-reliability-requirements-for-silicon-photonics/",
+        "pubDate": "Mon, 05 Oct 2026 23:45:34 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Lattice to Demo AI-enabled FPGA Design at FPGA Horizons Conference",
-        "link": "https://www.eetasia.com/lattice-to-demo-ai-enabled-fpga-design-at-fpga-horizons-conference/",
-        "pubDate": "Sun, 04 Oct 2026 23:27:00 +0000"
+        "title": "TrendForce Raises 2027 HBM Price Forecast as Supply Constraints Persist",
+        "link": "https://www.eetasia.com/trendforce-raises-2027-hbm-price-forecast-as-supply-constraints-persist/",
+        "pubDate": "Mon, 05 Oct 2026 23:40:41 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027",
-        "link": "https://www.eetasia.com/ai-infrastructure-demand-keeps-dram-supply-tight-through-2027/",
-        "pubDate": "Sun, 04 Oct 2026 23:15:19 +0000"
+        "title": "E&R Engineering Expands Packaging Materials Production in Malaysia",
+        "link": "https://www.eetasia.com/er-engineering-expands-packaging-materials-production-in-malaysia/",
+        "pubDate": "Mon, 05 Oct 2026 23:20:05 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "DigiKey’s Factory Tomorrow Season 6 Explores AI Infra, Industrial Connectivity, Smart Manufacturing",
-        "link": "https://www.eetasia.com/digikeys-factory-tomorrow-season-6-explores-ai-infra-industrial-connectivity-smart-manufacturing/",
-        "pubDate": "Thu, 01 Oct 2026 23:57:04 +0000"
+        "title": "Infineon, Eaton Target 800VDC AI Data Centers with SiC Solid-state Transformers",
+        "link": "https://www.eetasia.com/infineon-eaton-target-800vdc-ai-data-centers-with-sic-solid-state-transformers/",
+        "pubDate": "Mon, 05 Oct 2026 23:18:05 +0000"
       }
     ],
     "china_policy": [
@@ -278,15 +286,15 @@
       },
       {
         "keyword": "德州仪器(TI)",
-        "title": "功率半导体市场规模| 2026～2035年预测报告 - Global Market Insights Inc.",
+        "title": "功率半导体市场规模| 2026～2035年预测报告 - gminsights.com",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRcTM1ZDJHZ2prRDJGQ0xjM3J1VnhOTW5MTG5IVG1Za29hWXo2ZlhmdWZuaFZzNmJqX1FrVTMtbVVCZ0ZVVlhReU9nRmlkZXJWcHpPSXNZSHVGTFA1NEh0ZDZIR24taWpQekpEU2xBNlBXa0pSeFZ0dDEyMThMeDQ?oc=5",
         "pubDate": "2026-03-15 11:23"
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "VSMC在新加坡启用85亿新元半导体工厂 - ua.news",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGktZnR6VFFab2FNbkFlMFdfV1Q1dnh1MmRLdWttMGV6d25fVWNVRmlMTWhNTmpxeFRZR0hVRDBtVXBnQ1dhOGpXdG9UWUx1UXU0eVJsdTE3VXozUm0xekdoZGJ1WHhvRXZhUF8wSURiZTF0c3p6UjgzOVdKdzRhd2puWFllMmtsTGlzUVpxWDFsUm9iNTRuN05lT0VNaHZqZmFZUHpBc1RDQlVqZ0EzeGhNcXlQeHNIM3VtY2ZRZWU0MmQ1?oc=5",
-        "pubDate": "2026-09-28 03:58"
+        "title": "NXP Semiconductors Is Maintained at Hold by Stifel - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWYxeUlBMzRmS1dLTGliLUoyamQxc1ZmVGN3aUx6dVVPdHNOc25PRGpnTU91bU9RYXJtSWJZbU1rcVFxdDJjTHByRFRGelZGSFREa09sSHdjTGtOQVhQbjBPZ2NQTzFUTGhzWUpTcm0tZFFtNHJCOUdYTWw3SHZsTkVEc3hvQjRWcXcxZnB0MFZGS19B?oc=5",
+        "pubDate": "2026-10-05 11:27"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -302,15 +310,15 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "富瑞集团维持INFINEON TECHNOLOGIES AG(IFNNF.US)买入评级，下调目标价至108.82美元 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3Q4bmFldUk5RnpJdk9YLS05WUtmb2huMGstS1ctVTctczB4WnJKcWpXLVBNM2N5LUVSU3ZJMU13WXJNWFFHcU5xSlhpc2ZJX1RsOEFUUWhfVkdIY3RYb3QzODFlSmpBbE4tcHpRMGctLUwwcE1lcTBWYUtibG9YYVVOcHZBMVpWQ19MWS1yNUwtdjlFeGxlSHBVRXlseVg3dEs5TlR5Qkl2RnNkS2Qxbno3VWprY2daLXIwUi1xNA?oc=5",
-        "pubDate": "2026-09-30 17:44"
+        "title": "Infineon Technologies Tokenized Stock (xStock)(IFXx) 币价，图表，市值以及其他指标 - CoinMarketCap",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUTg1Rnd6U3ZFSHhfYjJ4Zk1VMUNWRTNYNW9HUTNBWFUxQmg3LTU2dlYzNWtETjItWEVxZl9IV21xZFpRNUNJd19KLUpNNF9tTlNrVUNOM2U4UDBHWWlNXzRRc0NSaFB1WC1tSVVnZ2pVWU1nekQ3cjZCODFlUFhmbjR2ZUlOVWNFSm1yaVFn?oc=5",
+        "pubDate": "2026-10-03 07:00"
       },
       {
         "keyword": "英飞凌",
-        "title": "宽禁带半导体市场规模与份额，2026～2035年 - Global Market Insights Inc.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWkNXVk0yZi1YblVpcG5vOU1zSW5MbmJwRnNaQzFOWWloTHlfRTl2dkZGXzBwWU5wUGpDOWp2cWNweENqeGd3TzlZdVFvanNKRFJwd1VVUzNHNVh0TVk5TTZUdTlwSHRCSUxCWHZzSUdqM2lZcjhkLVBLUEFaeFVlaFZhakVJaEVuOVE?oc=5",
-        "pubDate": "2026-09-30 07:00"
+        "title": "富瑞集团维持INFINEON TECHNOLOGIES AG(IFNNF.US)买入评级，下调目标价至108.82美元 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3Q4bmFldUk5RnpJdk9YLS05WUtmb2huMGstS1ctVTctczB4WnJKcWpXLVBNM2N5LUVSU3ZJMU13WXJNWFFHcU5xSlhpc2ZJX1RsOEFUUWhfVkdIY3RYb3QzODFlSmpBbE4tcHpRMGctLUwwcE1lcTBWYUtibG9YYVVOcHZBMVpWQ19MWS1yNUwtdjlFeGxlSHBVRXlseVg3dEs5TlR5Qkl2RnNkS2Qxbno3VWprY2daLXIwUi1xNA?oc=5",
+        "pubDate": "2026-09-30 17:44"
       },
       {
         "keyword": "英飞凌",
@@ -320,21 +328,21 @@
       },
       {
         "keyword": "意法半导体(ST)",
+        "title": "Semiconductor Stocks Rebound. The Case for Buying Micron and STMicroelectronics. -- Barrons.com - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek9fekFIYk9vRVJQbDRfUi1kLTdCUHl6SXNoQzlONUJzYWVObk5Vc3pxd3hSN2FieVVCdlpsaDc1WGw1SXd2aFdDODMtenZoWXdScHA1cER6WUJoMHNOZ1locmR2cVA5Q1R0aXpNMlhuZnV0SGdJYnFpR1ZUSXJIZ1pJY3hjME5VdjBZVWdZVWJpRG85bngyOTdNZVhLaXRnTWlWX2hlUDJVSXgtZTQ1VVB6c2ZHb1lvbEE?oc=5",
+        "pubDate": "2026-10-05 17:56"
+      },
+      {
+        "keyword": "意法半导体(ST)",
+        "title": "Semiconductor Stocks Rebound. The Case for Buying Micron and STMicroelectronics. -- Barrons.com - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTG83VERXWTl4a0ZpbjVCb3pwN2NaWmg4dFp1Tlc4Nm12dTJ2Sm44OW1VN1hGOHdYTTNRTWwtRjJ6a1NlenUwQTI4by1JeHpPQ1JtTWo2YkVkaWQ4UmlPaHkxdlQwbTZHRkc4ajM1cjNmQTNDbzRPeHVkaWFqdlc3MG9HaGpUSE54dzllbVZWUDR1Z1kxZS0zc1VSV2dhZlV4UVRKb2pqR1VqMm15MzdkZFRRcF93OFlOdGhiQkRjcTBZd05haXc?oc=5",
+        "pubDate": "2026-10-05 17:44"
+      },
+      {
+        "keyword": "意法半导体(ST)",
         "title": "European Chip Stocks Rise as AI Rally Gains Strength -- Market Talk - 富途牛牛",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUVLcXVxWE9pZTl1SmZsSXRyNGNrUldIZ3NhT1c1YklVOVozLXFRdkhLT01sajY0TlE5OFU2YmdVaFFUa29oU0Fhc1VGRkoxX0ZiSENkNXNGdnM1M0h6YnpudHZpSHRBelRNbFlsYkNTcmwtQy02eE1yUTVhV1FuWWVwbGp3elhVclpFRDNFRWJnb3g2SFZQT3IyaE02VzJI?oc=5",
         "pubDate": "2026-10-02 08:24"
-      },
-      {
-        "keyword": "意法半导体(ST)",
-        "title": "European Chip Stocks Open Week With Early Gains -- Market Talk - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRTROalVmVFVKdEszX1ZER3FsenQxb3dkMmhFQWhkYURKQVd1cU1HZVh3cmRUd3NvZEc2ZHRGQlExYXB5SzIyNWpNMjBWczZvN2xKZnQyVWg3elQ0bkVTdlF6Q295RVRsSFNZbXByTDNDX1VPZklldzVDN0JkVnpqTXp3UXBNczd2bER1LXd3N0lBWUpvenN5ZjM5Ri1CUHBGVmx5VDl0NlJKUQ?oc=5",
-        "pubDate": "2026-09-21 08:13"
-      },
-      {
-        "keyword": "意法半导体(ST)",
-        "title": "功率半导体市场规模| 2026～2035年预测报告 - Global Market Insights Inc.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRcTM1ZDJHZ2prRDJGQ0xjM3J1VnhOTW5MTG5IVG1Za29hWXo2ZlhmdWZuaFZzNmJqX1FrVTMtbVVCZ0ZVVlhReU9nRmlkZXJWcHpPSXNZSHVGTFA1NEh0ZDZIR24taWpQekpEU2xBNlBXa0pSeFZ0dDEyMThMeDQ?oc=5",
-        "pubDate": "2026-03-15 11:23"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -350,9 +358,9 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "亚德诺(ADI)股票10月2日盘中上涨3.22%：背后推手曝光 - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenlkRXRVTlNScjN0cEZ6LXdZVVFNbFhIc2ZnVHBCdEE4MEpZWW92NGNWQkZGeEtnN2NZYVE0UTdkV2dqb0dQVHlaWjExRTZRek9ibkVEa3lXYjg2d2EyTXJ2VW53RTNlMDNnYWY3UmRZQ2lsb0RIb2NkWE1VaVAxVEtCWWZ3Rk1zRUg5SUFHYWxEMVJU?oc=5",
-        "pubDate": "2026-10-02 15:16"
+        "title": "13.5亿美元！ADI收购Alif - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBySEpRWUt3bkZlLXpmXzlHeXduNlhHNkxmTTBhb1BNODhPX2VtcEJ4OVpZdTU0R294am80eWpoWWdRakZTc0NuVA?oc=5",
+        "pubDate": "2026-09-10 07:00"
       },
       {
         "keyword": "瑞萨",
