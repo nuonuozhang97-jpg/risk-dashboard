@@ -1,170 +1,182 @@
 {
-  "date": "2026-10-11",
-  "updated_at": "2026-10-11T03:40:03.233855+00:00",
+  "date": "2026-10-12",
+  "updated_at": "2026-10-12T04:03:34.529301+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.6,
-        "place": "109公里 南东南 Pondaguitan 菲律宾",
-        "time": "2026-10-11 02:35",
-        "depth_km": 121.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
+        "magnitude": 4.5,
+        "place": "7公里 东北偏东 Lajamina Panama",
+        "time": "2026-10-12 02:22",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ny",
         "tsunami": 0
       },
       {
-        "magnitude": 5,
-        "place": "3公里 西北 Flores Panama",
-        "time": "2026-10-11 01:50",
+        "magnitude": 4.8,
+        "place": "southern East 太平洋 Rise",
+        "time": "2026-10-12 01:59",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "56公里 东 Yairipok 印度",
+        "time": "2026-10-12 01:28",
+        "depth_km": 78.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "18公里 西北偏西 Río Grande Panama",
-        "time": "2026-10-11 00:06",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj",
+        "place": "Volcano Islands 日本 区域",
+        "time": "2026-10-12 00:53",
+        "depth_km": 199.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nn",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "171公里 西南偏南 Pagar Alam 印度尼西亚",
-        "time": "2026-10-10 21:38",
-        "depth_km": 29.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu",
+        "place": "103公里 西南偏南 La Libertad 萨尔瓦多",
+        "time": "2026-10-11 23:20",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1n6",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "0公里 东北 Leones Arriba Panama",
+        "time": "2026-10-11 22:40",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mz",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "116公里 东南 Nabire 印度尼西亚",
+        "time": "2026-10-11 22:07",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mv",
         "tsunami": 0
       },
       {
         "magnitude": 5.3,
-        "place": "southeast Easter Island",
-        "time": "2026-10-10 21:34",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gs",
+        "place": "150公里 西 Gorontalo 印度尼西亚",
+        "time": "2026-10-11 21:34",
+        "depth_km": 110.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "Kermadec Islands 区域",
-        "time": "2026-10-10 20:35",
-        "depth_km": 117.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gm",
+        "magnitude": 4.5,
+        "place": "27公里 西 Río Grande Panama",
+        "time": "2026-10-11 21:19",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1me",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "2公里 西北偏西 El Cacao Panama",
-        "time": "2026-10-10 16:05",
-        "depth_km": 13.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fk",
+        "place": "156公里 东南偏东 Neiafu 汤加",
+        "time": "2026-10-11 18:06",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lk",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "11公里 西南偏南 Tebario Panama",
-        "time": "2026-10-10 15:58",
+        "place": "31公里 西 Río Grande Panama",
+        "time": "2026-10-11 17:11",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fj",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lf",
         "tsunami": 0
       },
       {
-        "magnitude": 4.6,
-        "place": "51公里 北西北 Rabaul 巴布亚新几内亚",
-        "time": "2026-10-10 15:10",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fa",
+        "magnitude": 5.2,
+        "place": "101公里 西南偏南 Severo-Kuril’sk 俄罗斯",
+        "time": "2026-10-11 17:00",
+        "depth_km": 83.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "5公里 西北偏西 Guarumal Panama",
-        "time": "2026-10-10 14:59",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1f6",
+        "magnitude": 4.7,
+        "place": "6公里 东南偏东 Tōgane 日本",
+        "time": "2026-10-11 16:24",
+        "depth_km": 55.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1l7",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "10公里 北西北 El Cortezo Panama",
-        "time": "2026-10-10 14:51",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1f3",
+        "magnitude": 6.2,
+        "place": "79公里 南东南 Panguna 巴布亚新几内亚",
+        "time": "2026-10-11 14:07",
+        "depth_km": 53.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "18公里 南东南 Camaná 秘鲁",
+        "time": "2026-10-11 13:42",
+        "depth_km": 44.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "12公里 东北 La Tronosa Panama",
-        "time": "2026-10-10 13:46",
+        "place": "165公里 南东南 Miyakojima 日本",
+        "time": "2026-10-11 12:13",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ex",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
+        "place": "82公里 东 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-10-11 11:18",
+        "depth_km": 68.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "260公里 西北偏西 Houma 汤加",
+        "time": "2026-10-11 10:05",
+        "depth_km": 512.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
         "place": "south the 斐济",
-        "time": "2026-10-10 13:40",
-        "depth_km": 587.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ew",
+        "time": "2026-10-11 07:28",
+        "depth_km": 546.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "4公里 西北 Los Asientos Panama",
-        "time": "2026-10-10 13:22",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ev",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "268公里 西北偏西 Houma 汤加",
-        "time": "2026-10-10 12:21",
-        "depth_km": 560.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ej",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "4公里 东北 Río Grande Panama",
-        "time": "2026-10-10 10:35",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1e5",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "31公里 东南 Vanimo 巴布亚新几内亚",
-        "time": "2026-10-10 09:42",
-        "depth_km": 30.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dy",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "61公里 北 Hihifo 汤加",
-        "time": "2026-10-10 08:38",
-        "depth_km": 79.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "6公里 南东南 Llano de Piedra Panama",
-        "time": "2026-10-10 07:13",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dc",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "10公里 东南 Pedasí Panama",
-        "time": "2026-10-10 06:47",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1db",
+        "magnitude": 4.7,
+        "place": "110公里 南东南 Sola Vanuatu",
+        "time": "2026-10-11 05:07",
+        "depth_km": 10.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 警报 for 热带气旋 TWENTYEIGHT-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 12/10/2026 to 12/10/2026, a Tropical Depression (maximum wind speed of 56 km/h) TWENTYEIGHT-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001336",
+        "pubDate": "2026-10-12 02:43"
+      },
+      {
+        "title": "绿色（低） 地震 (震级6.2级, 深度:53.473公里) 巴布亚新几内亚 11/10/2026 14:07 , 3千 MMI V.",
+        "description": "On 10/11/2026 2:07:23 PM, an earthquake occurred in Papua New Guinea potentially affecting 3 thousand in MMI V. The earthquake had Magnitude 6.2M, Depth:53.473km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570810",
+        "pubDate": "2026-10-11 14:25"
+      },
       {
         "title": "绿色（低） 地震 (震级6级, 深度:10公里) Panama 10/10/2026 04:14 , 4千 ( 烈度≥VII级).",
         "description": "On 10/10/2026 4:14:01 AM, an earthquake occurred in Panama potentially affecting 4 thousand (in MMI>=VII). The earthquake had Magnitude 6M, Depth:10km.",
@@ -173,9 +185,39 @@
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 10/10/2026, a forest fire started in Australia,  until 10/10/2026.",
+        "description": "On 10/10/2026, a forest fire started in Australia,  until 11/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032725",
+        "pubDate": "2026-10-11 11:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Mongolia, 中国",
+        "description": "On 10/10/2026, a forest fire started in Mongolia, China,  until 11/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032726",
+        "pubDate": "2026-10-11 11:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 10/10/2026, a forest fire started in Australia,  until 11/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032728",
+        "pubDate": "2026-10-11 15:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Mongolia, 中国",
+        "description": "On 10/10/2026, a forest fire started in Mongolia, China,  until 11/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032729",
+        "pubDate": "2026-10-11 11:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Mongolia, 中国",
+        "description": "On 10/10/2026, a forest fire started in Mongolia, China,  until 11/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032730",
+        "pubDate": "2026-10-11 11:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 10/10/2026, a forest fire started in Australia,  until 11/10/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032709",
-        "pubDate": "2026-10-11 03:00"
+        "pubDate": "2026-10-11 07:00"
       },
       {
         "title": "绿色（低） 地震 (震级6.6级, 深度:10公里) Panama 09/10/2026 20:25 , 10千 ( 烈度≥VII级).",
@@ -208,52 +250,10 @@
         "pubDate": "2026-10-09 15:09"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 09/10/2026, a forest fire started in Australia,  until 10/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032710",
-        "pubDate": "2026-10-11 03:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Bolivia",
-        "description": "On 09/10/2026, a forest fire started in Bolivia,  until 10/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032697",
-        "pubDate": "2026-10-10 07:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 09/10/2026, a forest fire started in Australia,  until 10/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032702",
-        "pubDate": "2026-10-10 11:00"
-      },
-      {
         "title": "绿色（低） 森林火灾 警报 Mongolia, 中国",
         "description": "On 09/10/2026, a forest fire started in Mongolia, China,  until 10/10/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032703",
-        "pubDate": "2026-10-11 03:01"
-      },
-      {
-        "title": "Volcanic eruption is on going for Taal 菲律宾",
-        "description": "Volcano Taal is emitting ash clouds according to the regional VAAC. The aviation alert level is Orange.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000151",
-        "pubDate": "2026-10-08 13:00"
-      },
-      {
-        "title": "橙色（中） 地震 (震级6.3级, 深度:10公里) Vanuatu 08/10/2026 09:00 , 10千 ( 烈度≥VII级).",
-        "description": "On 10/8/2026 9:00:07 AM, an earthquake occurred in Vanuatu potentially affecting 10 thousand (in MMI>=VII). The earthquake had Magnitude 6.3M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570077",
-        "pubDate": "2026-10-08 09:09"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:52.054公里) 菲律宾 08/10/2026 08:07 , 80千 MMI V.",
-        "description": "On 10/8/2026 8:07:59 AM, an earthquake occurred in Philippines potentially affecting 80 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:52.054km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570075",
-        "pubDate": "2026-10-08 08:27"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) West Of Macquarie Island 08/10/2026 06:46 , 未知.",
-        "description": "On 10/8/2026 6:46:47 AM, an earthquake occurred in West Of Macquarie Island potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570064",
-        "pubDate": "2026-10-08 07:04"
+        "pubDate": "2026-10-12 03:01"
       }
     ],
     "typhoon": [],
@@ -265,91 +265,91 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.71,
-        "date": "2026-10-11"
+        "rate": 6.7,
+        "date": "2026-10-12"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1211,
-        "date": "2026-10-11"
+        "rate": 1.1198,
+        "date": "2026-10-12"
       },
       {
         "pair": "美元/日元",
-        "rate": 158.29,
-        "date": "2026-10-11"
+        "rate": 158.23,
+        "date": "2026-10-12"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.5224,
-        "date": "2026-10-11"
+        "rate": 7.5028,
+        "date": "2026-10-12"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3228,
-        "date": "2026-10-11"
+        "date": "2026-10-12"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "SPA Warns of Supply Chain Pressures on Payment Card Production",
-        "link": "https://www.eetasia.com/spa-warns-of-supply-chain-pressures-on-payment-card-production/",
-        "pubDate": "Fri, 09 Oct 2026 01:30:17 +0000"
+        "title": "Huawei’s Tau Scaling Law Moves Into Commercial Silicon",
+        "link": "https://www.eetasia.com/huaweis-tau-scaling-law-moves-into-commercial-silicon/",
+        "pubDate": "Sun, 11 Oct 2026 23:53:32 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "DigiKey Strengthens Presence in India with New Bengaluru GCC Office",
-        "link": "https://www.eetasia.com/digikey-strengthens-presence-in-india-with-new-bengaluru-gcc-office/",
-        "pubDate": "Fri, 09 Oct 2026 01:25:18 +0000"
+        "title": "PUFsecurity Puts Silicon Root of Trust at the Center of AI Agent Security",
+        "link": "https://www.eetasia.com/pufsecurity-puts-silicon-root-of-trust-at-the-center-of-ai-agent-security/",
+        "pubDate": "Sun, 11 Oct 2026 23:23:55 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Lattice Collaborates with Arm to Integrate FPGA-based Control for AI Servers",
-        "link": "https://www.eetasia.com/lattice-collaborates-with-arm-to-integrate-fpga-based-control-for-ai-servers/",
-        "pubDate": "Fri, 09 Oct 2026 01:23:35 +0000"
+        "title": "Global Semiconductor Sales Hit $1T Milestone in August",
+        "link": "https://www.eetasia.com/global-semiconductor-sales-hit-1t-milestone-in-august/",
+        "pubDate": "Sun, 11 Oct 2026 23:09:59 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Hong Kong Electronics Fairs and electronicAsia: Cutting-edge Technologies on Display this October",
-        "link": "https://www.eetasia.com/hong-kong-electronics-fairs-and-electronicasia-cutting-edge-technologies-on-display-this-october/",
-        "pubDate": "Thu, 08 Oct 2026 09:49:21 +0000"
+        "title": "GlobalFoundries Expands Dresden Fab",
+        "link": "https://www.eetasia.com/globalfoundries-expands-dresden-fab/",
+        "pubDate": "Sun, 11 Oct 2026 23:02:27 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "VSMC Starts Risk Production at First 300mm Fab in Singapore",
-        "link": "https://www.eetasia.com/vsmc-starts-risk-production-at-first-300mm-fab-in-singapore/",
-        "pubDate": "Wed, 07 Oct 2026 23:57:06 +0000"
+        "title": "DigiKey Webinar to Cover Parts Management and Quoting Tool",
+        "link": "https://www.eetasia.com/digikey-webinar-to-cover-parts-management-and-quoting-tool/",
+        "pubDate": "Sun, 11 Oct 2026 17:43:51 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "DAC 2027 Opens Call for Contributions as AI Reshapes Chip Design",
+        "link": "https://semiwiki.com/events/374512-dac-2027-opens-call-for-contributions-as-ai-reshapes-chip-design/",
+        "pubDate": "Sun, 11 Oct 2026 19:00:56 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "CEO Interview with Alex Higginbottom of Zenithon",
+        "link": "https://semiwiki.com/ceo-interviews/374398-ceo-interview-with-alex-higginbottom-of-zenithon/",
+        "pubDate": "Sun, 11 Oct 2026 17:00:22 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "From 25 Million Pixels to a Six-Ounce Product: Engineering Visor for Manufacturing",
+        "link": "https://semiwiki.com/semiconductor-manufacturers/374425-from-25-million-pixels-to-a-six-ounce-product-engineering-visor-for-manufacturing/",
+        "pubDate": "Sun, 11 Oct 2026 15:00:14 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "CEO Interview with Lieuwke de Jong of Sweet Atoms",
+        "link": "https://semiwiki.com/ceo-interviews/374595-ceo-interview-with-lieuwke-de-jong-of-sweet-atoms/",
+        "pubDate": "Sun, 11 Oct 2026 13:00:11 +0000"
       },
       {
         "source": "SemiWiki",
         "title": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036",
         "link": "https://semiwiki.com/lithography/374764-hyper-na-euv-the-next-frontier-in-chipmaking-could-arrive-in-2036/",
         "pubDate": "Sat, 10 Oct 2026 12:00:54 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "TSMC 2026 OIP Ecosystem Forum Summary",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374104-tsmc-2026-oip-ecosystem-forum-summary/",
-        "pubDate": "Fri, 09 Oct 2026 15:00:13 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "CASPA CEO Summit and Why it Matters",
-        "link": "https://semiwiki.com/events/374362-caspa-ceo-summit-and-why-it-matters/",
-        "pubDate": "Fri, 09 Oct 2026 13:00:18 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Data Center Energy Trends Force a Rethink of Chip Power Delivery",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/intel/374308-data-center-energy-trends-force-a-rethink-of-chip-power-delivery/",
-        "pubDate": "Thu, 08 Oct 2026 17:00:53 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "WEBINAR: The Convergence of Edge Accelerators",
-        "link": "https://semiwiki.com/ip/imagination-technologies/374484-webinar-the-convergence-of-edge-accelerators/",
-        "pubDate": "Thu, 08 Oct 2026 15:00:08 +0000"
       }
     ],
     "china_policy": [
@@ -357,133 +357,6 @@
         "error": "工信部RSS暂不可用"
       }
     ],
-    "competitor_news": [
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
-        "pubDate": "2026-02-04 08:00"
-      },
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
-        "pubDate": "2026-07-14 07:00"
-      },
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "功率半导体市场规模 | 2026～2035年预测报告 - Global Market Insights Inc.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRcTM1ZDJHZ2prRDJGQ0xjM3J1VnhOTW5MTG5IVG1Za29hWXo2ZlhmdWZuaFZzNmJqX1FrVTMtbVVCZ0ZVVlhReU9nRmlkZXJWcHpPSXNZSHVGTFA1NEh0ZDZIR24taWpQekpEU2xBNlBXa0pSeFZ0dDEyMThMeDQ?oc=5",
-        "pubDate": "2026-03-15 11:23"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors Price Target Cut to $260.00/Share From $370.00 by Citigroup - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGV2WlpyWHhkQjZTSWROcnR0Tks4VkFWQlhNOEFGbjV2UGxZSEoxdEZzMldvNFY2WHIzUDZUR19Zc19GOTJZSnFwTFlSY0dOVmlzM2V3U19vYVFzVVZDTGVHNmJocnRTTjJHTWxnd3VadUt5XzhCLWdHOHNyMzBURnJwWmxDOGpuNS1QYUg3OXRTNTg2MkxpU25BQnlYWm5RcEJfUjJIb0dQZ0xBMzE4cDEtdWFCSGozNmw3WlFNejAyWUdVUXg0dV9CT3VudUs5WUE4am1ocw?oc=5",
-        "pubDate": "2026-10-09 02:40"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors Stock Fell 7% the Same Day Citi Raised Its Target to $370. What the Numbers Say for 2026 - TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDZyUEJLLUN0WTJvOEwxS2NQNkxqbmZGXzNBVmU4YWtfQXprWjAxclRyOXhXeFFvZTd3ay1mX1ZBcVU0NzVseEZnRzVyMVFfS3huV1lJM1gyY3NWejBGUk05dTQ5N3N3cDRpOWhTc3V4ZGJiS3B4Y3FwUkVyOG5yM0hkS3BfYlRxYnJhdXk1bjBJb0t6TnBwUTJqOV85WFZPNTh3MHZZSUNQMUFuRUQxTHhLWTNFWFhfYXFpcTJ4a2VGbHpTaXI2bzMySnBzQQ?oc=5",
-        "pubDate": "2026-06-24 07:00"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
-        "title": "VSMC斥资78亿美元在新加坡开设晶圆厂，押注“实体人工智能”需求 - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGNxSVdaNWdERGJzN2ZIUXIwalhtUjNrM3I1cWNvNzNfNnVDQWpNRVJRQWVKcHpkUmdqQXM4SUQxZkQ3aEI4N0Z6dDZ6b3pZQ2Z4X0pXRUxHSy1heWc1b0dTZGVpUFU0aWUxVi1QVEZISkRGdXNOTDlSUFY3OFluZVlvR21jYUxCS2lYbXhfRzNvNXE5SEh2SXVDNlprR0ZsMDRpTWJkN2RpNGZRRHcyY2pQVThRT0RIVkE?oc=5",
-        "pubDate": "2026-09-28 07:00"
-      },
-      {
-        "keyword": "英飞凌",
-        "title": "华邦电子11.2亿美元收购英飞凌NOR Flash与F-RAM业务，重启Spansion品牌 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0tOUlE2WW1qbmRfS0VSdkpBbjh1dTNNRVJITW03WnpNV3hlb0VEUEhRV25YN0FOeDYzeWIybm9Lek9EN2xqb0NHYUNMaEtMU081UEF5YS1PTzVE?oc=5",
-        "pubDate": "2026-09-17 07:00"
-      },
-      {
-        "keyword": "英飞凌",
-        "title": "原创 斥资11.2亿美元，华邦电子为何复活“Spansion”？ - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmkwV3YzZkZzbksza0hVWFJsbkpsZVctQXFZTXJmSmxNdVJhQk9rRVR5emNCOFlGUXdIWjQ2UkxScGhNaldVczNrUGNSRXJSa3pNbWVURlhjc041RHRPZFpwaEw1NEhYeEFlSDhkNmxtZXAtYktJQzZOMDNwaWRERnJ3cXBwMTZ2MFNJ?oc=5",
-        "pubDate": "2026-09-16 23:08"
-      },
-      {
-        "keyword": "英飞凌",
-        "title": "Infineon Technologies Tokenized Stock (xStock)(IFXx) 币价，图表，市值以及其他指标 - CoinMarketCap",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUTg1Rnd6U3ZFSHhfYjJ4Zk1VMUNWRTNYNW9HUTNBWFUxQmg3LTU2dlYzNWtETjItWEVxZl9IV21xZFpRNUNJd19KLUpNNF9tTlNrVUNOM2U4UDBHWWlNXzRRc0NSaFB1WC1tSVVnZ2pVWU1nekQ3cjZCODFlUFhmbjR2ZUlOVWNFSm1yaVFn?oc=5",
-        "pubDate": "2026-09-08 05:06"
-      },
-      {
-        "keyword": "意法半导体(ST)",
-        "title": "Semiconductor Stocks Rebound. The Case for Buying Micron and STMicroelectronics. -- Barrons.com - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek9fekFIYk9vRVJQbDRfUi1kLTdCUHl6SXNoQzlONUJzYWVObk5Vc3pxd3hSN2FieVVCdlpsaDc1WGw1SXd2aFdDODMtenZoWXdScHA1cER6WUJoMHNOZ1locmR2cVA5Q1R0aXpNMlhuZnV0SGdJYnFpR1ZUSXJIZ1pJY3hjME5VdjBZVWdZVWJpRG85bngyOTdNZVhLaXRnTWlWX2hlUDJVSXgtZTQ1VVB6c2ZHb1lvbEE?oc=5",
-        "pubDate": "2026-10-05 17:56"
-      },
-      {
-        "keyword": "意法半导体(ST)",
-        "title": "European Chip Stocks Open Week With Early Gains -- Market Talk - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRTROalVmVFVKdEszX1ZER3FsenQxb3dkMmhFQWhkYURKQVd1cU1HZVh3cmRUd3NvZEc2ZHRGQlExYXB5SzIyNWpNMjBWczZvN2xKZnQyVWg3elQ0bkVTdlF6Q295RVRsSFNZbXByTDNDX1VPZklldzVDN0JkVnpqTXp3UXBNczd2bER1LXd3N0lBWUpvenN5ZjM5Ri1CUHBGVmx5VDl0NlJKUQ?oc=5",
-        "pubDate": "2026-09-21 08:13"
-      },
-      {
-        "keyword": "意法半导体(ST)",
-        "title": "功率半导体市场规模 | 2026～2035年预测报告 - Global Market Insights Inc.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRcTM1ZDJHZ2prRDJGQ0xjM3J1VnhOTW5MTG5IVG1Za29hWXo2ZlhmdWZuaFZzNmJqX1FrVTMtbVVCZ0ZVVlhReU9nRmlkZXJWcHpPSXNZSHVGTFA1NEh0ZDZIR24taWpQekpEU2xBNlBXa0pSeFZ0dDEyMThMeDQ?oc=5",
-        "pubDate": "2026-03-15 11:23"
-      },
-      {
-        "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices拟斥资13.5亿美元收购Alif Semiconductor - cnBeta.COM",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CMV9Oa3JZNENyaGp4dmZYc04tbVNDVTRXak9NaEJNUmY2ZktNVE93NVhleW9KckpBNEVTMlAwU3Y4TFZRT2Z1MEIzQ2l4OUgxeVNrcWRfZlYtWEFTQVZlMw?oc=5",
-        "pubDate": "2026-09-09 07:00"
-      },
-      {
-        "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices拟以13.5亿美元收购Alif，补强端侧AI处理能力 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2xRYnY4WE14R2FBaThtbHVBRkRlZm5zN3hQb1R2c0pEVmFOcWpwOU1lSU5OYzI4Y1VfZndHeUE1LUpHdmhUSjlINXVGMnZBTjFMQVA3d05WS1h2bkNJX24wRGVPeUdoS2hkbHNiNEg2SzRnWktadFB2MVRLWUdieUVqaEd4dUkwaE1JTUxsNDNGTHFzbU9fd2oybWhDLWlfc1FBV3lsR1dHdFBlcHhhVHljaHdMRk11NUNmMVEyQlV0X0puOExucHhZUlM5Q2V4Z2dmWkxKTnBaLVBoU0I0?oc=5",
-        "pubDate": "2026-09-10 07:06"
-      },
-      {
-        "keyword": "亚德诺(ADI)",
-        "title": "亚德诺(ADI)股票10月7日盘中下跌3.50%：真相来了 - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWC1LQ1lwLUhHWWZsNWZTZVJrMmZfeHJIZG14VERKUjNXSEg0VEZQOGxUaUlNU0JSaUhKSHJWcklBUlZWaTZQdWhHcG5hX0xQemhLVGlXUFlLVTNLUFhFQ1ZTZkJaVjl6T1d3WmRzSnJxLUFySWVqd0dJcmh3blg1dU9ZZjh0aktBbFFzdEpqVTd0NWRm?oc=5",
-        "pubDate": "2026-10-07 14:16"
-      },
-      {
-        "keyword": "瑞萨",
-        "title": "功率半导体涨价潮延续，瑞萨电子新一轮调价明年起生效 - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUx2czV5NVNVOTVRSWlDbFVYdE9Mam1JS0VxVmw3Tl83eE9DZXZCdnlCWVBTQ2tkUHZkdjBhTWtHV18zdFdPenR0ZTVYTTh5UTlqc0hfR0ZmeGtZcU9hZGtrWkdHOVdBTExaS24tWjY2SFpBdDF5Z3N3dWJvNzlWTGhuLTItbVpNb196bzY4SU5Ld1A2R1h4QmMtU0lBSEU3ckxNaUx1OUdQM0dEVzhqTkh3?oc=5",
-        "pubDate": "2026-09-09 07:00"
-      },
-      {
-        "keyword": "瑞萨",
-        "title": "雪州商家未收取20仙塑料袋费 嘉玛莉亚：未来营业执照或受影响 | 中马 | 地方 - 马来西亚东方日报",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGFnUnF4d0p2czhZTVpSYkV3Um9PS2tWM3NJQklFdk1fOFlFbDBwOWRtZUtSNTUwdm5OZ3VjV0dmNWxHYjVsR2Z0Q2hPT3FVXzJTYTIzcjNMZVNUTS1yc0RWdjhhMm15U25QT09tOU4?oc=5",
-        "pubDate": "2026-09-29 07:00"
-      },
-      {
-        "keyword": "瑞萨",
-        "title": "59亿美元！瑞萨正式宣布收购Dialog - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55dzcwMVlSSzUwNzR4dlBzdi1QZmlJM242N2VwNjVQNTJJUHV5T2tuWXk2c080RnMxaWd2b1FrS2tjUVFlUUlmdVZCaFRHZDFRSFE?oc=5",
-        "pubDate": "2021-02-09 08:00"
-      },
-      {
-        "keyword": "微芯科技(Microchip)",
-        "title": "电容式触觉传感器市场展望2035：汽车数字座舱驱动扩张 - 新闻和统计 - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ2ZLQTFwdXJQbk9wRFZoUUdjQng4WVphY1k0WlZPY0FKVmlkMThRNjdFQjZ3OE5zVTZKRUNBVl9EckhwSHUwd2VkY1NrbU9pSnp1YkExSndicDY4Ti1CajZJSVIxaUFMbmxPNDNtU190aDhQNnRTMk44X3hselgwTDdDN1BWWlZHZFFJek5yaWh2bEkyVnRQd0FsR3Z5VFNiS3E5OWpUY2FZSE5BNXRIdnhSZG1TY3NOMDNHRVEzOENvM2tWdXN3?oc=5",
-        "pubDate": "2026-10-10 19:21"
-      },
-      {
-        "keyword": "微芯科技(Microchip)",
-        "title": "微芯科技股价下跌，芯片股在更广泛的市场避险情绪中下挫 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUJVZW9QZ3dzbHIzTDh2SGVDdENuYnJlaTA0Z1VaWmRUcThzeHV5U3pjOWZkU2JDRVg3cnVDVE02YkY5Q0VUV0E0TFJvSldOUXB0MHRnWE9XY3JuYnlxM2ZIR3NHNV96RkpjRWRWNzZrdzdzUkhTNVVHZzJKNnZONklIcmtwSTk3MDFiOFhCODh0LWQyc010bmlyUEdHRXRMOXBFeU95MDEtd3BqM3Rqa24zQkI?oc=5",
-        "pubDate": "2026-10-07 16:18"
-      },
-      {
-        "keyword": "微芯科技(Microchip)",
-        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
-        "pubDate": "2026-08-31 07:00"
-      }
-    ]
+    "competitor_news": []
   }
 }
