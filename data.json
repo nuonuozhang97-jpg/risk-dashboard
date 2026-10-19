@@ -1,82 +1,88 @@
 {
-  "date": "2026-10-18",
-  "updated_at": "2026-10-18T02:47:39.828742+00:00",
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19T03:00:53.744869+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.8,
-        "place": "31公里 东南 Kainantu 巴布亚新几内亚",
-        "time": "2026-10-18 00:28",
-        "depth_km": 124.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r",
+        "magnitude": 4.5,
+        "place": "斐济 区域",
+        "time": "2026-10-18 22:34",
+        "depth_km": 551.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38i",
         "tsunami": 0
       },
       {
-        "magnitude": 4.6,
-        "place": "88公里 西南偏南 Uyuni Bolivia",
-        "time": "2026-10-17 16:52",
-        "depth_km": 189.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x",
+        "magnitude": 5.1,
+        "place": "129公里 南东南 Kokopo 巴布亚新几内亚",
+        "time": "2026-10-18 22:31",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "147公里 西南偏南 Kokopo 巴布亚新几内亚",
+        "time": "2026-10-18 22:06",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
         "tsunami": 0
       },
       {
         "magnitude": 5.2,
-        "place": "86公里 西南 Brisas Barra de Suchiate 墨西哥",
-        "time": "2026-10-17 13:59",
+        "place": "71公里 东南偏东 ‘Ohonua 汤加",
+        "time": "2026-10-18 19:32",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "0公里 东北 Río Grande Panama",
+        "time": "2026-10-18 16:12",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36m",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "20公里 西南 Sandy Point Town Saint Kitts and Nevis",
+        "time": "2026-10-18 15:35",
+        "depth_km": 150.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "51公里 北 Pante Makasar Timor Leste",
-        "time": "2026-10-17 09:07",
-        "depth_km": 90.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zb",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "110公里 东北 Norsup Vanuatu",
-        "time": "2026-10-17 08:59",
+        "place": "Carlsberg Ridge",
+        "time": "2026-10-18 14:30",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u366",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "80公里 西北 Sola Vanuatu",
-        "time": "2026-10-17 07:40",
-        "depth_km": 145.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yz",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "59公里 北西北 Ruteng 印度尼西亚",
-        "time": "2026-10-17 07:20",
+        "place": "Kermadec Islands 新西兰",
+        "time": "2026-10-18 12:42",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
         "tsunami": 0
       },
       {
-        "magnitude": 5.7,
-        "place": "48公里 西北偏西 Khuzdar Pakistan",
-        "time": "2026-10-17 05:06",
+        "magnitude": 5.2,
+        "place": "55公里 北西北 Ruteng 印度尼西亚",
+        "time": "2026-10-18 08:00",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "196公里 南东南 Alo Wallis and Futuna",
-        "time": "2026-10-17 04:19",
-        "depth_km": 439.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 18/10/2026, a forest fire started in Australia,  until 18/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032908",
+        "pubDate": "2026-10-18 23:00"
+      },
       {
         "title": "绿色（低） 地震 (震级5.7级, 深度:10公里) Pakistan 17/10/2026 05:06 , 2千 ( 烈度≥VII级).",
         "description": "On 10/17/2026 5:06:57 AM, an earthquake occurred in Pakistan potentially affecting 2 thousand (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:10km.",
@@ -84,8 +90,26 @@
         "pubDate": "2026-10-17 05:26"
       },
       {
-        "title": "橙色（中） 警报 for 热带气旋 WATI-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 4982 .",
-        "description": "From 16/10/2026 to 17/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 130 km/h) WATI-26 was active in SEPacific. The cyclone affects these countries: Cook Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 4982 .",
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 17/10/2026, a forest fire started in Australia,  until 18/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032909",
+        "pubDate": "2026-10-18 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 17/10/2026, a forest fire started in Australia,  until 18/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032891",
+        "pubDate": "2026-10-18 11:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 17/10/2026, a forest fire started in Australia,  until 18/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032892",
+        "pubDate": "2026-10-18 11:00"
+      },
+      {
+        "title": "绿色（低） 警报 for 热带气旋 WATI-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 16/10/2026 to 18/10/2026, a Tropical Storm (maximum wind speed of 120 km/h) WATI-26 was active in SEPacific. The cyclone affects these countries: Cook Islands, French Polynesia (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
         "pubDate": "2026-10-16 07:39"
       },
@@ -96,20 +120,32 @@
         "pubDate": "2026-10-16 03:48"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 16/10/2026, a forest fire started in Australia,  until 17/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032862",
-        "pubDate": "2026-10-17 07:00"
+        "title": "绿色（低） 森林火灾 警报 Namibia",
+        "description": "On 16/10/2026, a forest fire started in Namibia,  until 18/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032898",
+        "pubDate": "2026-10-18 23:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Nigeria",
+        "description": "On 16/10/2026, a forest fire started in Nigeria,  until 18/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032899",
+        "pubDate": "2026-10-18 19:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 16/10/2026, a forest fire started in Australia,  until 17/10/2026.",
+        "description": "On 16/10/2026, a forest fire started in Australia,  until 18/10/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032865",
         "pubDate": "2026-10-17 11:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 16/10/2026, a forest fire started in Australia,  until 17/10/2026.",
+        "description": "On 16/10/2026, a forest fire started in Australia,  until 18/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032862",
+        "pubDate": "2026-10-17 07:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 16/10/2026, a forest fire started in Australia,  until 18/10/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032870",
         "pubDate": "2026-10-17 19:00"
       },
@@ -122,50 +158,14 @@
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 15/10/2026, a forest fire started in Australia,  until 17/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032857",
-        "pubDate": "2026-10-16 23:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 15/10/2026, a forest fire started in Australia,  until 17/10/2026.",
         "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032846",
         "pubDate": "2026-10-16 19:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 15/10/2026, a forest fire started in Australia,  until 17/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032883",
-        "pubDate": "2026-10-17 23:01"
-      },
-      {
-        "title": "红色（高） 警报 for 热带气旋 CHAMPI-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0.175 million .",
-        "description": "From 14/10/2026 to 18/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 259 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Guam, Northern Mariana Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.175 million .",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338",
-        "pubDate": "2026-10-14 14:31"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.9级, 深度:585.07公里) 斐济 14/10/2026 10:49 , Few people affected 100km.",
-        "description": "On 10/14/2026 10:49:47 AM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.9M, Depth:585.07km.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571524",
-        "pubDate": "2026-10-14 11:07"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 中国",
-        "description": "On 14/10/2026, a forest fire started in China,  until 16/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032850",
-        "pubDate": "2026-10-17 23:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 14/10/2026, a forest fire started in Australia,  until 17/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032806",
-        "pubDate": "2026-10-15 11:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 14/10/2026, a forest fire started in Australia,  until 17/10/2026.",
-        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032863",
-        "pubDate": "2026-10-17 07:01"
+        "description": "On 15/10/2026, a forest fire started in Australia,  until 18/10/2026.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032857",
+        "pubDate": "2026-10-16 23:00"
       }
     ],
     "typhoon": [],
@@ -177,32 +177,56 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.7,
-        "date": "2026-10-18"
+        "rate": 6.69,
+        "date": "2026-10-19"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1236,
-        "date": "2026-10-18"
+        "rate": 1.1223,
+        "date": "2026-10-19"
       },
       {
         "pair": "美元/日元",
-        "rate": 158,
-        "date": "2026-10-18"
+        "rate": 157.91,
+        "date": "2026-10-19"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.5281,
-        "date": "2026-10-18"
+        "rate": 7.5084,
+        "date": "2026-10-19"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3316,
-        "date": "2026-10-18"
+        "rate": 1.3333,
+        "date": "2026-10-19"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "Flip Electronics Adds Synaptics to Authorized Distribution Network",
+        "link": "https://www.eetasia.com/flip-electronics-adds-synaptics-to-authorized-distribution-network/",
+        "pubDate": "Mon, 19 Oct 2026 02:46:56 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Cellid Joins Qualcomm Program to Develop Snapdragon-based AR Glasses",
+        "link": "https://www.eetasia.com/cellid-joins-qualcomm-program-to-develop-snapdragon-based-ar-glasses/",
+        "pubDate": "Mon, 19 Oct 2026 02:42:02 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "TI Adds 3-GSPS ADC for Nanosecond-level Data Center Power Monitoring",
+        "link": "https://www.eetasia.com/ti-adds-3-gsps-adc-for-nanosecond-level-data-center-power-monitoring/",
+        "pubDate": "Mon, 19 Oct 2026 02:32:53 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "FICG Strengthens Presence in Singapore and Malaysia with New Facility in Johor",
+        "link": "https://www.eetasia.com/ficg-strengthens-presence-in-singapore-and-malaysia-with-new-facility-in-johor/",
+        "pubDate": "Mon, 19 Oct 2026 02:21:15 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "DEEPX Brings 25-TOPS NPU to Raspberry Pi 5 Edge AI Development",
@@ -210,28 +234,22 @@
         "pubDate": "Fri, 16 Oct 2026 09:27:32 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Elektrobit, Microchip Pre-Integrate AUTOSAR Software for Automotive Platforms",
-        "link": "https://www.eetasia.com/elektrobit-microchip-pre-integrate-autosar-software-for-automotive-platforms/",
-        "pubDate": "Fri, 16 Oct 2026 09:03:31 +0000"
+        "source": "SemiWiki",
+        "title": "CEO Interview with Francisco Almada Lobo of Critical Manufacturing",
+        "link": "https://semiwiki.com/ceo-interviews/374517-ceo-interview-with-francisco-almada-lobo-of-critical-manufacturing/",
+        "pubDate": "Sun, 18 Oct 2026 17:00:15 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Cincoze Adds External EMC Protection Modules for Industrial Computers",
-        "link": "https://www.eetasia.com/cincoze-adds-external-emc-protection-modules-for-industrial-computers/",
-        "pubDate": "Fri, 16 Oct 2026 03:19:09 +0000"
+        "source": "SemiWiki",
+        "title": "Maskless EUV Lithography: An Alternative to E-Beam",
+        "link": "https://semiwiki.com/lithography/373583-maskless-euv-lithography-an-alternative-to-e-beam/",
+        "pubDate": "Sun, 18 Oct 2026 15:00:21 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "TrendForce Forecasts VCSEL Demand to Reach 650 Million Units by 2031",
-        "link": "https://www.eetasia.com/trendforce-forecasts-vcsel-demand-to-reach-650-million-units-by-2031/",
-        "pubDate": "Thu, 15 Oct 2026 02:43:59 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "MacDermid Alpha to Highlight Metallization Technologies at IMPACT and TPCA Show 2026",
-        "link": "https://www.eetasia.com/macdermid-alpha-to-highlight-metallization-technologies-at-impact-and-tpca-show-2026/",
-        "pubDate": "Thu, 15 Oct 2026 02:22:36 +0000"
+        "source": "SemiWiki",
+        "title": "CEO Interview with Dr. Raj Talluri of Kulicke & Soffa",
+        "link": "https://semiwiki.com/ceo-interviews/373948-ceo-interview-with-dr-raj-talluri-of-kulicke-soffa/",
+        "pubDate": "Sun, 18 Oct 2026 13:00:13 +0000"
       },
       {
         "source": "SemiWiki",
@@ -244,24 +262,6 @@
         "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
         "link": "https://semiwiki.com/semiconductor-manufacturers/374838-terafabs-single-roof-why-packaging-not-lithography-decides-high-volume/",
         "pubDate": "Fri, 16 Oct 2026 13:00:13 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Design the Right Chip: Why Prototyping Has to Be Easy",
-        "link": "https://semiwiki.com/prototyping/s2c-eda/374637-design-the-right-chip-why-prototyping-has-to-be-easy/",
-        "pubDate": "Thu, 15 Oct 2026 17:00:53 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Why Semiconductor AI Starts with Data, Not Algorithms",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/374900-why-semiconductor-ai-starts-with-data-not-algorithms/",
-        "pubDate": "Thu, 15 Oct 2026 15:00:29 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Why AI Security Starts at the Chip Level",
-        "link": "https://semiwiki.com/eda/synopsys/374743-why-ai-security-starts-at-the-chip-level/",
-        "pubDate": "Thu, 15 Oct 2026 13:00:07 +0000"
       }
     ],
     "china_policy": [
@@ -302,9 +302,9 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "VSMC在新加坡启用85亿新元半导体工厂 - UA.NEWS",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGktZnR6VFFab2FNbkFlMFdfV1Q1dnh1MmRLdWttMGV6d25fVWNVRmlMTWhNTmpxeFRZR0hVRDBtVXBnQ1dhOGpXdG9UWUx1UXU0eVJsdTE3VXozUm0xekdoZGJ1WHhvRXZhUF8wSURiZTF0c3p6UjgzOVdKdzRhd2puWFllMmtsTGlzUVpxWDFsUm9iNTRuN05lT0VNaHZqZmFZUHpBc1RDQlVqZ0EzeGhNcXlQeHNIM3VtY2ZRZWU0MmQ1?oc=5",
-        "pubDate": "2026-09-28 07:00"
+        "title": "Tradr推出针对个股Microchip、NXP和ON Semi的杠杆ETF - NAI500",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJiR3VFLU5yaGpBTWtseTlRNmo5ZElIWW9DTFhRc0hxMXJSQmRPb21yZ1Bxamp3Nmt4SHpnUHA4OVBqS0ZNdzJhM0lPMi0xQlRtMmUtenBjTnQ5LTNnZmN4SUNCRVZsZXpzVUpQbWFqd1hkVlVjOG1Ma3kzZEdqb3EwZ1BBWUtCd1hiVGcxamFQaUdXR0g5elcxbER4T041eGdaM1FMeThzaEprZ0xYR0JIcjAwSEtiVU1MS0VRalo3UEZuX1k5THJKcExVamRjY3c?oc=5",
+        "pubDate": "2026-05-28 07:00"
       },
       {
         "keyword": "英飞凌",
@@ -320,15 +320,15 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "华邦电子11.2亿美元收购英飞凌NOR Flash与F-RAM业务，重启Spansion品牌 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0tOUlE2WW1qbmRfS0VSdkpBbjh1dTNNRVJITW03WnpNV3hlb0VEUEhRV25YN0FOeDYzeWIybm9Lek9EN2xqb0NHYUNMaEtMU081UEF5YS1PTzVE?oc=5",
-        "pubDate": "2026-09-17 07:00"
+        "title": "Infineon Technologies Tokenized Stock (xStock)(IFXx) 币价，图表，市值以及其他指标 - CoinMarketCap",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUTg1Rnd6U3ZFSHhfYjJ4Zk1VMUNWRTNYNW9HUTNBWFUxQmg3LTU2dlYzNWtETjItWEVxZl9IV21xZFpRNUNJd19KLUpNNF9tTlNrVUNOM2U4UDBHWWlNXzRRc0NSaFB1WC1tSVVnZ2pVWU1nekQ3cjZCODFlUFhmbjR2ZUlOVWNFSm1yaVFn?oc=5",
+        "pubDate": "2026-09-08 05:06"
       },
       {
         "keyword": "意法半导体(ST)",
         "title": "AlphaValue/Baader Europe将意法半导体评级上调至买入 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWUdWdHlJOHBnT1VXSWctUXhLS1A5a2dZeTFtSndkblBtNFE1akZHVklQNzQ5MlJROFJOb2hZUTdkcHhzX2NodnRsUjNkZ01mYk5xNnp5UV9iX2MtYWZ6cmd2QjhkRDFzTlBMMGw0blFFUko0OFFzVGpOdmR2Rll0S0Q4XzhocktjWjJJZ2xFTDRUQi1WeHM0c0dpRWlqclhpam9maXZucXg2UnBnaGo4eFA0MWc2cDdyeExDeFlZUUlreXV6dm9EemNpSFg3Ul8yc2JaRDVFWXQ3bnM?oc=5",
-        "pubDate": "2026-10-14 15:06"
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9wUTRtckVFaC1haVdsUGdaSjZhNURUX3Q2YWd5ZnAxZUEwSTRFNHhJLTA2WVppR1JFNmdQOVpTMVg2ZlFvN1dYdThNcmNHbzY1N29HSHFMTWJ6aUN6ekpodWRzSDNDSHl3dlZVLXAzUmRIM2EwYWxvdDkyNWJhZzc2MHU5X1FCRS0xUDJxWHBlOGk3a0VZdUU2eU9ONEZ4aXMxaE9RQzVpMWhR?oc=5",
+        "pubDate": "2026-10-14 12:36"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -338,9 +338,9 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "功率半导体市场规模| 2026～2035年预测报告 - Global Market Insights Inc.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRcTM1ZDJHZ2prRDJGQ0xjM3J1VnhOTW5MTG5IVG1Za29hWXo2ZlhmdWZuaFZzNmJqX1FrVTMtbVVCZ0ZVVlhReU9nRmlkZXJWcHpPSXNZSHVGTFA1NEh0ZDZIR24taWpQekpEU2xBNlBXa0pSeFZ0dDEyMThMeDQ?oc=5",
-        "pubDate": "2026-03-15 11:23"
+        "title": "Semiconductor Stocks Rebound. The Case for Buying Micron and STMicroelectronics. -- Barrons.com - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTG83VERXWTl4a0ZpbjVCb3pwN2NaWmg4dFp1Tlc4Nm12dTJ2Sm44OW1VN1hGOHdYTTNRTWwtRjJ6a1NlenUwQTI4by1JeHpPQ1JtTWo2YkVkaWQ4UmlPaHkxdlQwbTZHRkc4ajM1cjNmQTNDbzRPeHVkaWFqdlc3MG9HaGpUSE54dzllbVZWUDR1Z1kxZS0zc1VSV2dhZlV4UVRKb2pqR1VqMm15MzdkZFRRcF93OFlOdGhiQkRjcTBZd05haXc?oc=5",
+        "pubDate": "2026-10-05 17:38"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -380,15 +380,15 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "AI数据中心迈向800V直流机架电源架构：Microchip与Navitas合作助力推动电源转型 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sVWp5TGdpMXhpSXFGM0Y4dWhLWDdkZW5ST0I0ZlcxTE1DTEVmV3A2cnd4NFE4U0ZJNXhFSTFGaTN2SlNuYTJlQjhabXpPS19QM2xB?oc=5",
-        "pubDate": "2026-10-12 08:10"
+        "title": "微芯科技收购VORAGO Technologies，以扩展抗辐射半导体产品组合 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGNyNW4zVGo4LVpQODRaUnlPMnVubXRHTHBlaFJfSzB6NUQ2TjMtYTFwbmpHZUlLaEJlMjdqUHp1UG1YZTJyU0NBVHN3ZVk0bkRDMklteFY0ekhYd3NxVU9xbkYtakhJaTVZekJkVFo4a1BoWVlGS3RxTko4dVVXRVJ1R0FHeDBMdnY3MjRTX0x2eXFUTDVjYnlUSThqZGVvU0tSMUh6dXE3VklreUdxSUl1a2RCcVdpZVNRT1hGMndUcmlod3dEWUJUaDg1aU5nTDlvbWRzVEg?oc=5",
+        "pubDate": "2026-10-09 13:12"
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "AI数据中心迈向800V直流机架电源架构：Microchip与Navitas合作助力推动 电源转型 - 电子工程世界（EEWorld）",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92TEtWQnlVQjVPWmdQUi1lQnB4ZjBTcDl5cGpoUDl1NkVsUW5vVTNGdGZZQXBCTjc0QWx0dzg1dTVfS2M4U1NEVW5aT0txLU9iU1YyMFd2eldDQQ?oc=5",
-        "pubDate": "2026-10-12 10:16"
+        "title": "AI数据中心迈向800V直流机架电源架构：Microchip与Navitas合作助力推动电源转型 - 电子工程专辑",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sVWp5TGdpMXhpSXFGM0Y4dWhLWDdkZW5ST0I0ZlcxTE1DTEVmV3A2cnd4NFE4U0ZJNXhFSTFGaTN2SlNuYTJlQjhabXpPS19QM2xB?oc=5",
+        "pubDate": "2026-10-12 08:10"
       },
       {
         "keyword": "微芯科技(Microchip)",
