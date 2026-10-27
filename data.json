@@ -1,163 +1,197 @@
 {
-  "date": "2026-10-26",
-  "updated_at": "2026-10-26T02:56:32.903417+00:00",
+  "date": "2026-10-27",
+  "updated_at": "2026-10-27T03:29:09.906517+00:00",
   "categories": {
     "earthquake": [
       {
         "magnitude": 4.9,
-        "place": "205公里 西北 Port-Olry Vanuatu",
-        "time": "2026-10-26 01:22",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
+        "place": "69公里 WSW Kirakira Solomon Islands",
+        "time": "2026-10-27 02:02",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "203公里 南东南 Tateyama 日本",
+        "time": "2026-10-27 01:17",
+        "depth_km": 66.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "Bonin Islands 日本 区域",
-        "time": "2026-10-25 22:16",
-        "depth_km": 482.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wi",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "Bonin Islands 日本 区域",
-        "time": "2026-10-25 22:14",
-        "depth_km": 485.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "170公里 东北偏东 Nagqu 中国",
-        "time": "2026-10-25 22:01",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wc",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "167公里 西北偏西 Port-Olry Vanuatu",
-        "time": "2026-10-25 20:30",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vy",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "153公里 西北偏西 Adak Alaska",
-        "time": "2026-10-25 17:49",
-        "depth_km": 152.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "59公里 西南 Ashkāsham Afghanistan",
-        "time": "2026-10-25 17:44",
-        "depth_km": 110.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "19公里 东北 Atico 秘鲁",
-        "time": "2026-10-25 17:11",
-        "depth_km": 62.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.9,
-        "place": "218公里 东北偏东 Nagqu 中国",
-        "time": "2026-10-25 11:25",
-        "depth_km": 7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "199公里 东北偏东 Nagqu 中国",
-        "time": "2026-10-25 11:24",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.4,
-        "place": "33公里 东南偏东 Ambunti 巴布亚新几内亚",
-        "time": "2026-10-25 10:30",
-        "depth_km": 72.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "Volcano Islands 日本 区域",
-        "time": "2026-10-25 09:11",
-        "depth_km": 133.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.4,
-        "place": "205公里 西北 Port-Olry Vanuatu",
-        "time": "2026-10-25 08:41",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "82公里 南东南 Akutan Alaska",
-        "time": "2026-10-25 07:44",
-        "depth_km": 35.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t8",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "50公里 西南 Atiquipa 秘鲁",
-        "time": "2026-10-25 07:11",
-        "depth_km": 26.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
+        "place": "54公里 东 Tomioka 日本",
+        "time": "2026-10-27 00:25",
+        "depth_km": 48.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "74公里 南东南 Onagawa Chō 日本",
-        "time": "2026-10-25 06:04",
-        "depth_km": 52.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
+        "place": "98公里 北西北 Tobelo 印度尼西亚",
+        "time": "2026-10-26 22:52",
+        "depth_km": 88.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "96公里 东北偏东 Pamandzi Mayotte",
+        "time": "2026-10-26 22:33",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd1",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "98公里 南 Encounter Bay 澳大利亚",
+        "time": "2026-10-26 21:18",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttci",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "20公里 北西北 La Ligua 智利",
+        "time": "2026-10-26 20:52",
+        "depth_km": 47.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc8",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "89公里 南东南 Pondaguitan 菲律宾",
+        "time": "2026-10-26 20:41",
+        "depth_km": 75.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc6",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "17公里 东南 Ambelókipoi Greece",
-        "time": "2026-10-25 05:15",
+        "place": "100公里 东 La Tirana 智利",
+        "time": "2026-10-26 19:36",
+        "depth_km": 119.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "74公里 东南 Rasht Tajikistan",
+        "time": "2026-10-26 18:07",
+        "depth_km": 47.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "154公里 西北 Port-Olry Vanuatu",
+        "time": "2026-10-26 15:08",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttby",
         "tsunami": 0
       },
       {
         "magnitude": 5.2,
-        "place": "63公里 NNE Lae 巴布亚新几内亚",
-        "time": "2026-10-25 03:29",
-        "depth_km": 80.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+        "place": "205公里 西北 Port-Olry Vanuatu",
+        "time": "2026-10-26 12:13",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "81公里 南东南 Akutan Alaska",
+        "time": "2026-10-26 11:38",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "218公里 西北 Port-Olry Vanuatu",
+        "time": "2026-10-26 11:17",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "South Sandwich Islands 区域",
+        "time": "2026-10-26 11:01",
+        "depth_km": 173.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "283公里 东 Levuka 斐济",
+        "time": "2026-10-26 10:13",
+        "depth_km": 641.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "56公里 南 Kuril’sk 俄罗斯",
+        "time": "2026-10-26 08:10",
+        "depth_km": 139.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yj",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "107公里 西北偏西 Tumxuk 中国",
+        "time": "2026-10-26 07:48",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yi",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "45公里 北西北 Ende 印度尼西亚",
+        "time": "2026-10-26 04:53",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "182公里 西北 Port-Olry Vanuatu",
+        "time": "2026-10-26 04:53",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
-        "title": "橙色（中） 警报 for 热带气旋 TWO-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0.356 million .",
-        "description": "From 26/10/2026 to 26/10/2026, a Tropical Storm (maximum wind speed of 120 km/h) TWO-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+        "title": "绿色（低） 地震 (震级5.5级, 深度:641.812公里) 斐济 26/10/2026 10:13 , 2千 100km.",
+        "description": "On 10/26/2026 10:13:01 AM, an earthquake occurred in Fiji potentially affecting 2 thousand in 100km. The earthquake had Magnitude 5.5M, Depth:641.812km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573942",
+        "pubDate": "2026-10-26 10:30"
+      },
+      {
+        "title": "红色（高） 警报 for 热带气旋 ARNAB-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 4.667 million .",
+        "description": "From 26/10/2026 to 27/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 185 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 4.667 million .",
         "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001345",
         "pubDate": "2026-10-26 01:51"
       },
       {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 26/10/2026, a forest fire started in Australia,  until 26/10/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033244",
+        "pubDate": "2026-10-27 00:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 26/10/2026, a forest fire started in Australia,  until 26/10/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033224",
+        "pubDate": "2026-10-26 20:00"
+      },
+      {
         "title": "绿色（低） 警报 for 热带气旋 THREE-C-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 25/10/2026 to 26/10/2026, a Tropical Storm (maximum wind speed of 74 km/h) THREE-C-26 was active in CentralPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "description": "From 25/10/2026 to 27/10/2026, a Tropical Depression (maximum wind speed of 65 km/h) THREE-C-26 was active in CentralPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001344",
         "pubDate": "2026-10-25 15:05"
       },
@@ -169,7 +203,7 @@
       },
       {
         "title": "绿色（低） 警报 for 热带气旋 IN-FA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 25/10/2026 to 26/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 222 km/h) IN-FA-26 was active in NWPacific. The cyclone affects these countries: Marshall Islands (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "description": "From 25/10/2026 to 27/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 241 km/h) IN-FA-26 was active in NWPacific. The cyclone affects these countries: Marshall Islands (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001343",
         "pubDate": "2026-10-25 11:52"
       },
@@ -189,17 +223,29 @@
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 25/10/2026, a forest fire started in Australia,  until 25/10/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033202",
-        "pubDate": "2026-10-26 00:00"
+        "pubDate": "2026-10-26 08:01"
       },
       {
         "title": "绿色（低） 森林火灾 警报 Mali",
         "description": "On 25/10/2026, a forest fire started in Mali,  until 25/10/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033203",
-        "pubDate": "2026-10-26 00:01"
+        "pubDate": "2026-10-27 00:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 25/10/2026, a forest fire started in Australia,  until 26/10/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033226",
+        "pubDate": "2026-10-26 20:03"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 25/10/2026, a forest fire started in Australia,  until 26/10/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033217",
+        "pubDate": "2026-10-26 12:01"
       },
       {
         "title": "绿色（低） 森林火灾 警报 中国",
-        "description": "On 25/10/2026, a forest fire started in China,  until 25/10/2026.",
+        "description": "On 25/10/2026, a forest fire started in China,  until 26/10/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033175",
         "pubDate": "2026-10-25 20:00"
       },
@@ -208,36 +254,6 @@
         "description": "On 10/24/2026 3:24:19 PM, an earthquake occurred in Bouvet Island Region potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:12.486km.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573640",
         "pubDate": "2026-10-24 15:45"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.9级, 深度:10公里) Vanuatu 24/10/2026 08:56 , Few people affected MMI III.",
-        "description": "On 10/24/2026 8:56:28 AM, an earthquake occurred in Vanuatu potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.9M, Depth:10km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573578",
-        "pubDate": "2026-10-24 09:07"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:194.632公里) Vanuatu 24/10/2026 06:43 , 60千 MMI III.",
-        "description": "On 10/24/2026 6:43:09 AM, an earthquake occurred in Vanuatu potentially affecting 60 thousand in MMI III. The earthquake had Magnitude 5.5M, Depth:194.632km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573554",
-        "pubDate": "2026-10-24 07:03"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) Vanuatu 24/10/2026 05:23 , 2千 烈度≥III级.",
-        "description": "On 10/24/2026 5:23:40 AM, an earthquake occurred in Vanuatu potentially affecting 2 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:10km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573536",
-        "pubDate": "2026-10-24 05:42"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) Vanuatu Islands 24/10/2026 04:12 , 未知.",
-        "description": "On 10/24/2026 4:12:05 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:10km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573528",
-        "pubDate": "2026-10-24 04:26"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.7级, 深度:10公里) Vanuatu Islands 24/10/2026 04:05 , 未知.",
-        "description": "On 10/24/2026 4:05:36 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573526",
-        "pubDate": "2026-10-24 04:20"
       }
     ],
     "typhoon": [],
@@ -250,31 +266,49 @@
       {
         "pair": "美元/人民币",
         "rate": 6.68,
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1211,
-        "date": "2026-10-26"
+        "rate": 1.1186,
+        "date": "2026-10-27"
       },
       {
         "pair": "美元/日元",
-        "rate": 156.87,
-        "date": "2026-10-26"
+        "rate": 157.44,
+        "date": "2026-10-27"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.4888,
-        "date": "2026-10-26"
+        "rate": 7.472,
+        "date": "2026-10-27"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3369,
-        "date": "2026-10-26"
+        "rate": 1.3351,
+        "date": "2026-10-27"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "ITRI and eJoule Collaborate on NCM Batteries for EVs and Drones",
+        "link": "https://www.eetasia.com/itri-and-ejoule-collaborate-on-ncm-batteries-for-evs-and-drones/",
+        "pubDate": "Tue, 27 Oct 2026 03:00:15 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue",
+        "link": "https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/",
+        "pubDate": "Tue, 27 Oct 2026 02:51:59 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Beyond Innovation: Southeast Asia’s Next Technology Challenge",
+        "link": "https://www.eetasia.com/beyond-innovation-southeast-asias-next-technology-challenge/",
+        "pubDate": "Tue, 27 Oct 2026 02:35:02 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "ACM Research Targets Panel-level Packaging with Horizontal Plating and Specialized Cleaning",
@@ -288,22 +322,22 @@
         "pubDate": "Thu, 22 Oct 2026 03:05:33 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Global Smartphone Shipments Drop 22% in 3Q 2026 as Memory Crisis Hits Hard",
-        "link": "https://www.eetasia.com/global-smartphone-shipments-drop-22-in-3q-2026-as-memory-crisis-hits-hard/",
-        "pubDate": "Thu, 22 Oct 2026 03:00:38 +0000"
+        "source": "SemiWiki",
+        "title": "Accellera’s FSL 1.0 Gives Functional Safety Data a Common Language",
+        "link": "https://semiwiki.com/semiconductor-services/accellera/375280-accelleras-fsl-1-0-gives-functional-safety-data-a-common-language/",
+        "pubDate": "Mon, 26 Oct 2026 17:00:32 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Infineon and Wolfspeed Ink Multi-year 200mm SiC Wafer Supply Deal",
-        "link": "https://www.eetasia.com/infineon-and-wolfspeed-ink-multi-year-200mm-sic-wafer-supply-deal/",
-        "pubDate": "Thu, 22 Oct 2026 02:48:52 +0000"
+        "source": "SemiWiki",
+        "title": "Inside the Package Powering Modern AI",
+        "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371610-inside-the-package-powering-modern-ai/",
+        "pubDate": "Mon, 26 Oct 2026 15:00:03 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "STMicroelectronics Looks to Memory-centric Designs for Physical AI",
-        "link": "https://www.eetasia.com/stmicroelectronics-looks-to-memory-centric-designs-for-physical-ai/",
-        "pubDate": "Thu, 22 Oct 2026 02:13:13 +0000"
+        "source": "SemiWiki",
+        "title": "SEMICON West 2026: After the Toast, the Hard Questions",
+        "link": "https://semiwiki.com/semiconductor-services/375275-semicon-west-2026-after-the-toast-the-hard-questions/",
+        "pubDate": "Mon, 26 Oct 2026 13:00:04 +0000"
       },
       {
         "source": "SemiWiki",
@@ -316,24 +350,6 @@
         "title": "CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts",
         "link": "https://semiwiki.com/ceo-interviews/375036-ceo-interview-with-dr-gleb-tsipursky-of-disaster-avoidance-experts/",
         "pubDate": "Sun, 25 Oct 2026 17:00:53 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "AJ Cooper is the Co-Founder and CEO of Itera",
-        "link": "https://semiwiki.com/ceo-interviews/374969-aj-cooper-is-the-co-founder-and-ceo-of-itera/",
-        "pubDate": "Sun, 25 Oct 2026 16:00:53 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Executive Interview with Victor Lopez of RaiderChip",
-        "link": "https://semiwiki.com/ceo-interviews/374846-executive-interview-with-victor-lopez-of-raiderchip/",
-        "pubDate": "Sun, 25 Oct 2026 15:00:28 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "CEO Interview with Vincent Cobée of ITEN",
-        "link": "https://semiwiki.com/ceo-interviews/373751-ceo-interview-with-vincent-cobee-of-iten/",
-        "pubDate": "Sun, 25 Oct 2026 14:00:38 +0000"
       }
     ],
     "china_policy": [
@@ -344,27 +360,21 @@
     "competitor_news": [
       {
         "keyword": "德州仪器(TI)",
-        "title": "TXN Stock Price Today - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BaW9HMURmVHFrTmU4RlQyd0Q2MTdjTkF4TTdoUHYxUG0tWmd1a1Nvb0F6dDZ6blY1eGVLc24xN3FYSC1VTUxWdGJpdl84VEQ2dnlKbkN3?oc=5",
-        "pubDate": "2026-09-15 18:20"
-      },
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
-        "pubDate": "2026-07-14 07:00"
-      },
-      {
-        "keyword": "德州仪器(TI)",
         "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
         "pubDate": "2026-02-04 08:00"
       },
       {
-        "keyword": "恩智浦(NXP)",
-        "title": "Morgan Stanley Maintains NXP Semiconductors(NXPI.US) With Buy Rating, Maintains Target Price $338 - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUlfYlhERG9PWkQ3M0YydTdtNkstajFTYzFVMkxuWUJHVE9QYzNkeDF4dW9kMURZbnhId0NzRlcxeXZmWHE2a1dVdVlzakJPT291ZDdDTVpxa1k3Z3lJQXdIWmpPTTFTN0lBVkNIV1p6RGZwb3pqaWNHb0RZVTB1eEIxNXNnamktY3BKTml6VTVqcmJEQ0FjQVBaa1M4UUc1ZF9ySk9WNDRfMlhST25BaGZUMnlzZkZfSC04?oc=5",
-        "pubDate": "2026-10-22 00:58"
+        "keyword": "德州仪器(TI)",
+        "title": "新加坡竞争监管机构就Texas Instruments拟议收购Silicon Labs一事征求公众意见 - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalppVFl1OUZOWGJyb2tqeVBSUHdZWDhubFhuaUozYS1GcnUxQXdqV29WajB0YmdGS2U5RnVwZWl3UUpKZTM2Mm0xU2kzSVZGS3IxTEw0V1Z2NUFwaFdCbXRVaGNYbUY2MnEzcS1CYTFKcXB1aFJOaERQS2IxSlBFa1RueEhhcmxEV05LNVVJTHlGaU9neWhqSEdrejR1NXhaZTJqMDQ2ZkxsTXpxRzdSMFVUemxFWG85UDBmOWtTODI3V290MVlGeV9jSDRFLXQzSlhUVXlVeEJFRDZydG14b1V1bmVvOFhWSHFpNUhR?oc=5",
+        "pubDate": "2026-07-09 07:00"
+      },
+      {
+        "keyword": "德州仪器(TI)",
+        "title": "Texas Instruments Hasn’t Axed Any China Staff, Will Continue to Invest in China, Unit Says - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3A3SEkxdGJnam0yaURjVkJEcnlNblo1OWpwZjQ4cWh6N3RwU05DYlllNVZ5NGVENTl5WklrcFlfX3k4Q2pFdkUzZFVHR0NnTE9nZy1jWTZiYVQ0cThvWDlpelM4cDRCaFFCM3k3dWdLUC14U2V3cGk5MGR4MHRJOVRFUHR4ZEltcDBBQ3RoSlhtVkxKYlRCWWlXMy04aHQyemN1N04xOTI2LU55ZjhwZUY3a1ZCVnNNRjlQcg?oc=5",
+        "pubDate": "2022-05-09 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -379,6 +389,12 @@
         "pubDate": "2026-09-09 07:00"
       },
       {
+        "keyword": "恩智浦(NXP)",
+        "title": "VSMC斥资78亿美元在新加坡开设晶圆厂，押注“实体人工智能”需求 - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGNxSVdaNWdERGJzN2ZIUXIwalhtUjNrM3I1cWNvNzNfNnVDQWpNRVJRQWVKcHpkUmdqQXM4SUQxZkQ3aEI4N0Z6dDZ6b3pZQ2Z4X0pXRUxHSy1heWc1b0dTZGVpUFU0aWUxVi1QVEZISkRGdXNOTDlSUFY3OFluZVlvR21jYUxCS2lYbXhfRzNvNXE5SEh2SXVDNlprR0ZsMDRpTWJkN2RpNGZRRHcyY2pQVThRT0RIVkE?oc=5",
+        "pubDate": "2026-09-28 07:00"
+      },
+      {
         "keyword": "英飞凌",
         "title": "英飞凌科技与英伟达、微软合作推出人工智能初创企业加速器 - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaExYWDhrdjctS2JyQlBuRnZ1Y01UQkRpRXNmZFNmZ1dyeXpabjRyUF9WTzIwdDNYODRlWUEtQkkwQTZHUS1EcnprMTFVU1o2RUUyQ281SE15WVBMbnJwTVhPZWc5eXBYR2tNb0pfYy03REZ1ZnhmQ2sxQzR1RXFWQVVNV1VKM2NzSF9kdkJ6S01SN3JhTVFEb2llU3d5dXFrWng1LVNNMFg3ODEzRDFUd3JmMGxWUk5UVGc?oc=5",
@@ -386,8 +402,8 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "英飞凌与英伟达合作开发数据中心电源架构 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXFRVWdKRWxDOWFERm5uNjF6RkNsOW94S3pPTGJhT1djZGVJMXRVVzFzQktBQkp3T1pJT0JSWVRUTjkzUG9ZV3Z0am14M19URVE2azJYaHloR2RmSExYR2htbGdObWpBYzRDZE1SUkh3cGJuQXBRakVLSkRpUU50SkNFbFotX2VJT3BtUnVZTXN4ZHM2Y0JadzZpUzl6UTFDMnJnUHloT1N0UWdRY0Z5d1pR?oc=5",
+        "title": "英飞凌与英伟达合作开发数据中心电源架构 - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1Nsa25KeGs2QXotVlJjTDBXQmxoVzdSRUd1Q1VONWFiN21ON1cwUmNLNXhNSmREZDNNLW5ZT3NmT3BFY3ZrUzgwMkpldmIwYjd2RlNzVFI4dTI5bFdmajl3VGZEemFvWGxfME9EVDJsSUpObnkzeDEwc0xUYVhmY3I2T1VleTYzaDJJRkg5NkFpbzZDTFI2RFVpOGcwZ3YxRVEtZHRB?oc=5",
         "pubDate": "2026-10-21 12:50"
       },
       {
@@ -446,14 +462,14 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "雪州商家未收取20仙塑料袋费 嘉玛莉亚：未来营业执照或受影响 | 中马 | 地方 - 马来西亚东方日报",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGFnUnF4d0p2czhZTVpSYkV3Um9PS2tWM3NJQklFdk1fOFlFbDBwOWRtZUtSNTUwdm5OZ3VjV0dmNWxHYjVsR2Z0Q2hPT3FVXzJTYTIzcjNMZVNUTS1yc0RWdjhhMm15U25QT09tOU4?oc=5",
-        "pubDate": "2026-09-29 07:00"
+        "title": "半导体行业整合潮持续 瑞萨电子宣布59亿美元收购苹果供应商Dialog - 财联社电报",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BWF9LWHpQZ2VPcE5ES3JiaXFNRmN5NmtDbXVVb0stVkJ0Yl93OU00MWtRNS1aRVRsWWFhYnhQczZsYVpa?oc=5",
+        "pubDate": "2021-02-08 08:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
         "title": "AI数据中心迈向800V直流机架电源架构：Microchip与Navitas合作助力推动电源转型 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sVWp5TGdpMXhpSXFGM0Y4dWhLWDdkZW5ST0I0ZlcxTE1DTEVmV3A2cnd4NFE4U0ZJNXhFSTFGaTN2SlNuYTJlQjhabXpPS19QM2xB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2UU05SXRRMlNBLVY2OXRyYXlOOUdTR2IwZ1RaaEZIejl1Z092Z3lBZV84X09JT05BbkxmczJia0xnanMxSWFiVkRMdFhxX0xlMGZz?oc=5",
         "pubDate": "2026-10-12 07:00"
       },
       {
@@ -464,9 +480,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "Navitas, Microchip Tech Work Together on Reference Design for AI Data Centers - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVR1MzhMWlc3RlFNRG91U0dGTTdfQzBSR2d6UVNTd19Ob09heERDbnpYYzlzelJwaHNKdjVXWV9MM3JkTjZFN3JGME5FejJLSTBmWGh5OXJ3X1pBc19HcjNpWlVad3UxV1B1UjRlSTNuRkMyZlZ5aGlueUdDMWljazcxQTNXVFhTSWVORTF5a25jd21MdW5FcjFQd1BjMHdfa1hPa0pIQ2did2lncExkXzVR?oc=5",
-        "pubDate": "2026-10-05 07:00"
+        "title": "Microchip Technology 股票价格：MCHP股票走势图、市值与今日新闻 - CoinGecko",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96MTJlc21KZlpqbE5xYk9lZ19OalhvQ2EwWWlKTmViTDYtQ0lLaml4aWVsMDUyQkNvWnVJMUZCVGs4ZjhoMlFKZ0Eyc1dXYVFBWXd4MDk4T0VGQXlBWl9SX3J4bDloeDg?oc=5",
+        "pubDate": "2026-10-11 11:24"
       }
     ]
   }
