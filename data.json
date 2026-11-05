@@ -1,106 +1,70 @@
 {
-  "date": "2026-11-04",
-  "updated_at": "2026-11-04T04:37:58.686131+00:00",
+  "date": "2026-11-05",
+  "updated_at": "2026-11-05T04:53:06.785036+00:00",
   "categories": {
     "earthquake": [
       {
         "magnitude": 4.6,
-        "place": "斐济 区域",
-        "time": "2026-11-04 00:32",
-        "depth_km": 556.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+        "place": "south the 斐济",
+        "time": "2026-11-04 21:24",
+        "depth_km": 502.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw43",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "99公里 东南偏东 Kyzyl-Eshme Kyrgyzstan",
-        "time": "2026-11-03 22:50",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvu9",
+        "place": "2公里 西 中国ndega 尼加拉瓜",
+        "time": "2026-11-04 19:55",
+        "depth_km": 159.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k",
         "tsunami": 0
       },
       {
-        "magnitude": 5.2,
-        "place": "91公里 东南偏东 Kyzyl-Eshme Kyrgyzstan",
-        "time": "2026-11-03 21:34",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvtj",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8869503562808,
-        "place": "9公里 北 Delta B.C. MX",
-        "time": "2026-11-03 18:27",
-        "depth_km": 15.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572064",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "Mid-印度n Ridge",
-        "time": "2026-11-03 18:21",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs3",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.2,
-        "place": "Volcano Islands 日本 区域",
-        "time": "2026-11-03 16:48",
-        "depth_km": 139.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "85公里 南 Gorontalo 印度尼西亚",
-        "time": "2026-11-03 15:37",
-        "depth_km": 136.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tva7",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "South Sandwich Islands 区域",
-        "time": "2026-11-03 13:34",
-        "depth_km": 152.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "101公里 南东南 Palekastro Greece",
-        "time": "2026-11-03 11:03",
-        "depth_km": 45.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv51",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.4,
-        "place": "24公里 北西北 Rioblanco Colombia",
-        "time": "2026-11-03 09:13",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "6公里 南 Asahi 日本",
-        "time": "2026-11-03 05:40",
-        "depth_km": 52.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv3q",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "31公里 东 Mawlaik Burma (缅甸)",
-        "time": "2026-11-03 05:23",
-        "depth_km": 116.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv3l",
+        "magnitude": 5,
+        "place": "207公里 东南偏东 Sarangani 菲律宾",
+        "time": "2026-11-04 07:40",
+        "depth_km": 49.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 森林火灾 警报 Botswana",
+        "description": "On 04/11/2026, a forest fire started in Botswana,  until 04/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033483",
+        "pubDate": "2026-11-04 20:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Botswana",
+        "description": "On 04/11/2026, a forest fire started in Botswana,  until 04/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033484",
+        "pubDate": "2026-11-04 20:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Botswana",
+        "description": "On 03/11/2026, a forest fire started in Botswana,  until 04/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033485",
+        "pubDate": "2026-11-05 04:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 03/11/2026, a forest fire started in Australia,  until 04/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033486",
+        "pubDate": "2026-11-04 20:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 South Sudan",
+        "description": "On 03/11/2026, a forest fire started in South Sudan,  until 04/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033479",
+        "pubDate": "2026-11-04 08:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 03/11/2026, a forest fire started in Australia,  until 04/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033480",
+        "pubDate": "2026-11-04 20:01"
+      },
       {
         "title": "绿色（低） 洪水 警报 Bulgaria",
         "description": "On 02/11/2026, a flood started in Bulgaria, lasting until 04/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
@@ -108,8 +72,20 @@
         "pubDate": "2026-11-03 10:19"
       },
       {
+        "title": "绿色（低） 森林火灾 警报 Botswana",
+        "description": "On 02/11/2026, a forest fire started in Botswana,  until 04/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033487",
+        "pubDate": "2026-11-04 20:02"
+      },
+      {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 02/11/2026, a forest fire started in Australia,  until 03/11/2026.",
+        "description": "On 02/11/2026, a forest fire started in Australia,  until 04/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033481",
+        "pubDate": "2026-11-04 16:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 02/11/2026, a forest fire started in Australia,  until 04/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033450",
         "pubDate": "2026-11-03 16:00"
       },
@@ -132,24 +108,6 @@
         "pubDate": "2026-11-01 02:23"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 01/11/2026, a forest fire started in Australia,  until 03/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033451",
-        "pubDate": "2026-11-03 16:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Botswana",
-        "description": "On 01/11/2026, a forest fire started in Botswana,  until 03/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033460",
-        "pubDate": "2026-11-04 04:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Botswana",
-        "description": "On 01/11/2026, a forest fire started in Botswana,  until 03/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033427",
-        "pubDate": "2026-11-03 16:01"
-      },
-      {
         "title": "绿色（低） 森林火灾 警报 Botswana",
         "description": "On 01/11/2026, a forest fire started in Botswana,  until 03/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033428",
@@ -159,37 +117,7 @@
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 01/11/2026, a forest fire started in Australia,  until 02/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033414",
-        "pubDate": "2026-11-04 04:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 01/11/2026, a forest fire started in Australia,  until 02/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033415",
-        "pubDate": "2026-11-04 04:01"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6级, 深度:352.449公里) 日本 31/10/2026 22:15 , 60千 MMI III.",
-        "description": "On 10/31/2026 10:15:02 PM, an earthquake occurred in Japan potentially affecting 60 thousand in MMI III. The earthquake had Magnitude 6M, Depth:352.449km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574997",
-        "pubDate": "2026-10-31 22:31"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Botswana",
-        "description": "On 31/10/2026, a forest fire started in Botswana,  until 01/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033379",
-        "pubDate": "2026-11-01 04:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 中国",
-        "description": "On 31/10/2026, a forest fire started in China,  until 01/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033390",
-        "pubDate": "2026-11-04 04:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 中国",
-        "description": "On 31/10/2026, a forest fire started in China,  until 01/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033391",
-        "pubDate": "2026-11-01 16:00"
+        "pubDate": "2026-11-05 04:01"
       }
     ],
     "typhoon": [],
@@ -201,91 +129,91 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.68,
-        "date": "2026-11-04"
+        "rate": 6.69,
+        "date": "2026-11-05"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1198,
-        "date": "2026-11-04"
+        "rate": 1.1236,
+        "date": "2026-11-05"
       },
       {
         "pair": "美元/日元",
-        "rate": 158.4,
-        "date": "2026-11-04"
+        "rate": 158.38,
+        "date": "2026-11-05"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.4804,
-        "date": "2026-11-04"
+        "rate": 7.5169,
+        "date": "2026-11-05"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3423,
-        "date": "2026-11-04"
+        "rate": 1.3477,
+        "date": "2026-11-05"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "Taiwan’s AI Expansion Hinges on Systems Talent and Advanced Packaging",
-        "link": "https://www.eetasia.com/taiwans-ai-expansion-hinges-on-systems-talent-and-advanced-packaging/",
-        "pubDate": "Wed, 04 Nov 2026 02:44:01 +0000"
+        "title": "Global Smartphone SoC Shipments Fall 21% YoY in 3Q 2026",
+        "link": "https://www.eetasia.com/global-smartphone-soc-shipments-fall-21-yoy-in-3q-2026/",
+        "pubDate": "Thu, 05 Nov 2026 03:14:37 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Wolfspeed Intros Transparent SiC Substrates for AR, Quantum Computing",
-        "link": "https://www.eetasia.com/wolfspeed-intros-transparent-sic-substrates-for-ar-quantum-computing/",
-        "pubDate": "Tue, 03 Nov 2026 23:53:08 +0000"
+        "title": "Seoul Semiconductor Begins Mass Production of Rare-earth-free White Micro LEDs",
+        "link": "https://www.eetasia.com/seoul-semiconductor-begins-mass-production-of-rare-earth-free-white-micro-leds/",
+        "pubDate": "Thu, 05 Nov 2026 03:00:08 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Global Semiconductor Sales Up 24% to $517.7B in 3Q 2026",
-        "link": "https://www.eetasia.com/global-semiconductor-sales-up-24-to-517-7b-in-3q-2026/",
-        "pubDate": "Tue, 03 Nov 2026 23:42:41 +0000"
+        "title": "Keysight to Demo AI Infrastructure and High-Speed Test Solutions at electronica 2026",
+        "link": "https://www.eetasia.com/keysight-to-demo-ai-infrastructure-and-high-speed-test-solutions-at-electronica-2026/",
+        "pubDate": "Thu, 05 Nov 2026 02:42:21 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Altera Expands FPGA Lineup with Agilex 2X Portfolio for AI and Embedded Systems",
-        "link": "https://www.eetasia.com/altera-expands-fpga-lineup-with-agilex-2x-portfolio-for-ai-and-embedded-systems/",
-        "pubDate": "Tue, 03 Nov 2026 23:12:14 +0000"
+        "title": "Engineering Physical AI for Real-World Deployment",
+        "link": "https://www.eetasia.com/engineering-physical-ai-for-real-world-deployment/",
+        "pubDate": "Thu, 05 Nov 2026 02:16:16 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Marvell to Expand AI Connectivity Portfolio with Lumentum Acquisition",
-        "link": "https://www.eetasia.com/marvell-to-expand-ai-connectivity-portfolio-with-lumentum-acquisition/",
-        "pubDate": "Tue, 03 Nov 2026 23:10:39 +0000"
+        "title": "Renesas Adds Low-power RL78 MCU for Smart Appliance Control",
+        "link": "https://www.eetasia.com/renesas-adds-low-power-rl78-mcu-for-smart-appliance-control/",
+        "pubDate": "Wed, 04 Nov 2026 07:42:56 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "CTO Interview with Ed Plowman of Imagination Technologies",
-        "link": "https://semiwiki.com/ip/imagination-technologies/375737-cto-interview-with-ed-plowman-of-imagination-technologies/",
-        "pubDate": "Tue, 03 Nov 2026 20:00:56 +0000"
+        "title": "CTO Interview with Taylor Barton of Certus Semiconductor",
+        "link": "https://semiwiki.com/ip/certus-semiconductor/374963-cto-interview-with-taylor-barton-of-certus-semiconductor/",
+        "pubDate": "Wed, 04 Nov 2026 20:00:45 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "IP update from Alphacore at DAC 2026",
-        "link": "https://semiwiki.com/ip/375751-ip-update-from-alphacore-at-dac-2026/",
-        "pubDate": "Tue, 03 Nov 2026 18:00:33 +0000"
+        "title": "Generating Chip Subsystems Automatically: A New Answer to Manage Chip Design Complexity",
+        "link": "https://semiwiki.com/eda/defacto-technologies/375844-generating-chip-subsystems-automatically-a-new-answer-to-manage-chip-design-complexity/",
+        "pubDate": "Wed, 04 Nov 2026 18:00:16 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "Ceva’s next NeuPro generation opens new possibilities across AI",
-        "link": "https://semiwiki.com/ip/ceva/375670-cevas-next-neupro-generation-opens-new-possibilities-across-ai/",
-        "pubDate": "Tue, 03 Nov 2026 16:00:58 +0000"
+        "title": "Reimagining 3D IC Design: From Architecture to Signoff",
+        "link": "https://semiwiki.com/eda/siemens-eda/375653-reimagining-3d-ic-design-from-architecture-to-signoff/",
+        "pubDate": "Wed, 04 Nov 2026 16:00:31 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "How Allegro MicroSystems Increased OEE by Several Percentage Points with yieldHUB Live",
-        "link": "https://semiwiki.com/eda/yieldhub/374503-how-allegro-microsystems-increased-oee-by-several-percentage-points-with-yieldhub-live/",
-        "pubDate": "Tue, 03 Nov 2026 14:00:46 +0000"
+        "title": "GSA Honors Sanjay Mehrotra as Memory Takes Center Stage in Computing",
+        "link": "https://semiwiki.com/events/375599-gsa-honors-sanjay-mehrotra-as-memory-takes-center-stage-in-computing/",
+        "pubDate": "Wed, 04 Nov 2026 15:00:18 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "Interview with Sweta Gupta, VP of Engineering of Analog Bits",
-        "link": "https://semiwiki.com/ip/analog-bits/375709-cto-interview-with-sweta-gupta-of-analog-bits/",
-        "pubDate": "Mon, 02 Nov 2026 20:00:41 +0000"
+        "title": "NIST Sets a Clearer Course for the Post-Quantum Security Transition",
+        "link": "https://semiwiki.com/security/pqshield/375585-nist-sets-a-clearer-course-for-the-post-quantum-security-transition/",
+        "pubDate": "Wed, 04 Nov 2026 14:00:53 +0000"
       }
     ],
     "china_policy": [
@@ -296,39 +224,39 @@
     "competitor_news": [
       {
         "keyword": "德州仪器(TI)",
-        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
-        "pubDate": "2026-07-14 07:00"
-      },
-      {
-        "keyword": "德州仪器(TI)",
-        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
-        "pubDate": "2026-10-19 07:00"
-      },
-      {
-        "keyword": "德州仪器(TI)",
         "title": "Texas Instruments Hasn’t Axed Any China Staff, Will Continue to Invest in China, Unit Says - 一财全球Yicai Global",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3A3SEkxdGJnam0yaURjVkJEcnlNblo1OWpwZjQ4cWh6N3RwU05DYlllNVZ5NGVENTl5WklrcFlfX3k4Q2pFdkUzZFVHR0NnTE9nZy1jWTZiYVQ0cThvWDlpelM4cDRCaFFCM3k3dWdLUC14U2V3cGk5MGR4MHRJOVRFUHR4ZEltcDBBQ3RoSlhtVkxKYlRCWWlXMy04aHQyemN1N04xOTI2LU55ZjhwZUY3a1ZCVnNNRjlQcg?oc=5",
         "pubDate": "2022-05-09 07:00"
       },
       {
-        "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors Price Target Raised to $245.00/Share From $235.00 by Wells Fargo - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUwxUEhiWE9lZlotY0UzVlVUZnBRZFEwbHk2N1VGQS1jTmhkR2xpYVpDajR2R3hxQUFnTHVWcFMteFk1MWlTOS1mWVN6MnVaMFdNN21SZmVnbjd4S3dLV2lhb0l1d0pON1hhR3hjdWpVWWJUd0pZYVRkRXl1ckhhMVp5S0pfOF9WSW1TT09MdDZweFd6NXczSWZDZHNGb2o0QTRYSWR4eGJGZHot?oc=5",
-        "pubDate": "2026-10-28 17:05"
+        "keyword": "德州仪器(TI)",
+        "title": "德州仪器拟议收购Silicon Labs获新加坡竞争监管机构批准 - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQak42SE5vNDBSbUJmdVFLWS1FZUVBdHZZRFo3aWRidE44dHhtbjdSdEJlWXhYTUlDZV9EVFhVTWIzYnJtQ0ZJNlpwdVRNR2M3UVFxUlJDTnVHZjMyRmlob0NlTC1DQnptaEpRSk9PeXRhQ2NpSWk1ZHNvNzFmQ1JKTzNYWnQwNTFZUjkybVFCbzhzcGJxclhzeXlkQ3EyMFZwUFJYc0VRN2VHd2xaMHd4R1l1TXIxN1FIdGVFeG1oZ21KWTQ0WF9YclY4cmFqbnhUTUNnSTlaTGFTR2ZocWlHazllOA?oc=5",
+        "pubDate": "2026-08-07 07:00"
+      },
+      {
+        "keyword": "德州仪器(TI)",
+        "title": "Texas Instruments Reports Earnings Today. China Is a Wildcard. -- Barrons.com - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVJHbHJBQkp0RnZPUmxzcXI0WEtGejBvV25XY284WFpNUGh2NjF4dGxudk5HWUNyZjlwSkJnZ0dZN3lDRVhnTDdYYXZnWEp2X1JxM0V4Uy1KaEVhTkZHYXRRb0RqcWNUN29rdEMxazhQdjFKX0FTQU5GMlZUa1ZhXzZpbzh1S3ZpUkFrRnZCcTN0UzFaNmtaaEwzMTE2Ti1RUjl4ODZfbHhMOGRwYlE?oc=5",
+        "pubDate": "2026-01-26 08:00"
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "VSMC斥资78亿美元在新加坡开设晶圆厂，押注“实体人工智能”需求 - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGNxSVdaNWdERGJzN2ZIUXIwalhtUjNrM3I1cWNvNzNfNnVDQWpNRVJRQWVKcHpkUmdqQXM4SUQxZkQ3aEI4N0Z6dDZ6b3pZQ2Z4X0pXRUxHSy1heWc1b0dTZGVpUFU0aWUxVi1QVEZISkRGdXNOTDlSUFY3OFluZVlvR21jYUxCS2lYbXhfRzNvNXE5SEh2SXVDNlprR0ZsMDRpTWJkN2RpNGZRRHcyY2pQVThRT0RIVkE?oc=5",
-        "pubDate": "2026-09-28 07:00"
+        "title": "Press Release: NXP Semiconductors Reports Third Quarter 2026 Results - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVk0QmNqU0RWQUxJMlVadkZWNDZYQXVHR1Z6ZXIyS2xleUdtZVhiMDV3QmtrOXByLXVkUWFSb0F0WV9UN1lmQjRQbkVZRjQzTHZENlVTSExIMHlERG13ZV9Ec1BmMWRuZlAwcWVfYU80eUVOeE5RMnpUVjdIS0RRVURWeEsyRjVGenJ6bnN5Skk1S3c3UTRZX0o1RFI5aHA4U0MzOFM5SGxjLWtqSVpQb1R6ak9SX0k?oc=5",
+        "pubDate": "2026-10-27 20:10"
       },
       {
         "keyword": "恩智浦(NXP)",
         "title": "NXP Semiconductors Price Target Cut to $250.00/Share From $260.00 by Citigroup - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0RWcHlhLTVQazVVMERreUhucm9hNnMybFBKczlsYW0wT1FiN1RHM0ZWbnJ2aUNlUExoN1BsTnYtNjMtOS0xVzdlWGN2YWp2QjBPdHF5YmNSdjdnUVhBMVFfUERLVy1uYTlrS1RneXNQai1STFY1OWh6Q2c1eU9DcHNfMkxpRFJYUkI2MGU0YTR5a3FZTWRFVXdiSXNRbVFKZGlyaFctckg?oc=5",
         "pubDate": "2026-10-28 20:14"
+      },
+      {
+        "keyword": "恩智浦(NXP)",
+        "title": "VSMC斥资78亿美元在新加坡开设晶圆厂，押注“实体人工智能”需求 - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGNxSVdaNWdERGJzN2ZIUXIwalhtUjNrM3I1cWNvNzNfNnVDQWpNRVJRQWVKcHpkUmdqQXM4SUQxZkQ3aEI4N0Z6dDZ6b3pZQ2Z4X0pXRUxHSy1heWc1b0dTZGVpUFU0aWUxVi1QVEZISkRGdXNOTDlSUFY3OFluZVlvR21jYUxCS2lYbXhfRzNvNXE5SEh2SXVDNlprR0ZsMDRpTWJkN2RpNGZRRHcyY2pQVThRT0RIVkE?oc=5",
+        "pubDate": "2026-09-28 07:00"
       },
       {
         "keyword": "英飞凌",
@@ -338,15 +266,15 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "陈立武投资的印度芯片公司，被英飞凌收购了 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUVWa2ZmaFpzSTc5VHJCY1hwei02bm5MNXZPYUY5cVB6UjZYRlBTMzktdVU1UFRhZ05BM2hzVmJQb0s1T2NWcGR1ZUZaQWV3N0I3Yk4xSHJlNU1RQlhIdFVERklSVUxlNjFDYlNzeEpFUnF5a0hBY2hBV0ZrNjNzX292LVo5T1RL?oc=5",
-        "pubDate": "2026-08-26 07:00"
+        "title": "附初裁┃ITC就英飞凌（德）诉英诺赛科（中）337调查案作出初裁 - 知产财经",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OQWRqSEx4TlRNS0FTS2ZzbTgtdEhKZFlJcnozbHF4cGEycTRDU2x6amp5WEFfYXlJZjRleXQwSGFmVEw1NmFtbGxXUzItelhnaTVWS21tY2hoTnJr?oc=5",
+        "pubDate": "2025-12-04 08:00"
       },
       {
         "keyword": "英飞凌",
-        "title": "[生成式AI分析] 英飞凌面向SDV开发的系统解决方案布局战略 - Automotive Industry Portal MarkLines",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaGNSZWRudUN0TTRSV1hLV2FqQ3ozOWRpNGs2SS1XenJwX0pqRHRoNTJSWGJmZmFBZXVYMWs4c3ZhLWlYTHJfN284MnFfZ3BxU05LSnFwaXEtNlFaeFNEY0dLYmgwQQ?oc=5",
-        "pubDate": "2026-05-26 07:00"
+        "title": "英飞凌在泰国开设全新后道制造中心，为未来发展增添稳健产能 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlhZQXhQZTg2NVNLb0dQaXRMMnFwWTVUb0syUTlKVlJXUk81VHh6bzF6RFp3RVkyQXVhTjhUS3BCcWx5QzFSNS1LMnlZWFAwOVktZDhBWGdNVGZkVi05Y3drWkNHSVRBV0FhN25JTjI4RnZEc2FrNF9KZWpnRW5wWmxMS2FaVnlUZmh4MkNldjBIeWprRXhuMUdJX3dUUGkydGotaUUtQ3FHMFlXZzh2LUdoUUNFYzFqMUw3d3Nxaw?oc=5",
+        "pubDate": "2026-10-01 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -374,15 +302,15 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "Press Release: Analog Devices Completes Acquisition of Alif Semiconductor - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEdsdFZCazhRVTE3SXhxNUFQdHlpS2pFRlBNdm9nRWJkZkJDRzNHZ1FVLVIxanVyX3R3M2NaczFodi0zdjlqcm5zZHdDR3JYckpwYXBpVGtwUExUVWMzaDdoNjVnZHZMUVA0N0s3bzIzUkFLMFF5b2M2bWpjSkZTVll2N2xRdkttT3NFS3R0UGk4ZmlXQVZIeEZFYnAxX1kxUzY2UWVLcFBzT1JmYmoyNU9R?oc=5",
-        "pubDate": "2026-11-03 21:05"
+        "title": "Analog Devices Completes Acquisition Of Alif Semiconductor >ADI - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTF6dzhjVTFxaTdZSWo1eVVyNElSRmM1M1ByNGg0bVUwejNYMEN1bGszbm1nSXJwdGVtVE9CR2xucGQyX1ZzS3h1VVZjZW95OU04Zm9qRldQcVR4ekpvVHFSRS1nSzU5aHJDWjZ0c1g4eFRmUmhXZDN4VkdTMnQ0UU8ydFl2eGhfOEd3OTl1VGQ1ZTlNMW5JVGwtdFp2dnJleTkzWnh2andvdw?oc=5",
+        "pubDate": "2026-11-03 21:28"
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices Completes Acquisition Of Alif Semiconductor >ADI - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjdUZWRwdmx4cW5UUmFieERyaUg3X1RuTS13V21hSjYwdDFjQ1dfY2RqaHVMZHdUVWtsYnNMMVQ1T0hDQ1V5dnlOaHJoNTlnVlZ6Z0tjbThvQUVfUzZjLXVjdDlicFotSTBkVmxWcjlIME9qeEJJMFp1NVFWQXRLMnNIY3A2NWh1UDN1ZmtPb01qLUVMOFlwS1o0d0NaLVI2ZGdEY2ZSSzYzaVJkV0NrcA?oc=5",
-        "pubDate": "2026-11-03 21:05"
+        "title": "美国亚德诺半导体签署13.5亿美元收购Alif Semiconductor协议 - 维度网",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iNHFJeDBpZGcwQlVFS1FOd2UxUXd0Z2FoejZubFh6Y1F5UTlHT1NUclpDRkNtR1oyRktFdlZ2SlRGeWt3YmROekN1TWhQYlRWRW5wQW1KOGQ?oc=5",
+        "pubDate": "2026-09-11 07:00"
       },
       {
         "keyword": "瑞萨",
@@ -392,21 +320,15 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "SiC与GaN：功率半导体百年变局，2030年市场将破百亿美元 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EbjZlcFZPbUZUamN4SUtOR1FZV2lscldqbnpVbktxbG9YaFpHbTl6R1JaTHpWX1BpTjMyV2x3ZmhrUWpLVy14d1dTQTVuRWwzbEtJ?oc=5",
-        "pubDate": "2026-01-12 08:00"
-      },
-      {
-        "keyword": "瑞萨",
         "title": "半导体行业整合潮持续 瑞萨电子宣布59亿美元收购苹果供应商Dialog - 财联社电报",
         "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BWF9LWHpQZ2VPcE5ES3JiaXFNRmN5NmtDbXVVb0stVkJ0Yl93OU00MWtRNS1aRVRsWWFhYnhQczZsYVpa?oc=5",
         "pubDate": "2021-02-08 08:00"
       },
       {
-        "keyword": "微芯科技(Microchip)",
-        "title": "AI数据中心迈向800V直流机架电源架构：Microchip与Navitas合作助力推动电源转型 - 电子工程专辑",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sVWp5TGdpMXhpSXFGM0Y4dWhLWDdkZW5ST0I0ZlcxTE1DTEVmV3A2cnd4NFE4U0ZJNXhFSTFGaTN2SlNuYTJlQjhabXpPS19QM2xB?oc=5",
-        "pubDate": "2026-10-12 07:00"
+        "keyword": "瑞萨",
+        "title": "消息称苹果芯片供应商Dialog正与日本瑞萨电子进行出售谈判 - 维科号",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14UFBoc2poYVp3RUFiZVV4UGVoQUNwbkxUV3UzeG9fRlVfRVQtYWZkU0ZKV2pkTjYtUEx4Q3lockZQem4zaWw0YlFIa0xkS0k?oc=5",
+        "pubDate": "2021-02-08 08:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
@@ -419,6 +341,12 @@
         "title": "MICROCHIP TECHNOLOGY DEP SHS REPSTG 1/20TH PFD CONV SER A(MCHPP)股票期权链, 期权价格 - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xbmF1RXVObU02WVk5X09xSjhxZVZ1Rl9ZeUVuM013d0didFg3M2VyRjVobnNpbDNhdHlWRHh4RHg5YU5vcGkyOHJLUFg0RFowbjlfTFBVWjlvNllTVWR4NlRDMFJIb2M?oc=5",
         "pubDate": "2025-07-09 01:51"
+      },
+      {
+        "keyword": "微芯科技(Microchip)",
+        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
+        "pubDate": "2026-10-19 07:00"
       }
     ]
   }
