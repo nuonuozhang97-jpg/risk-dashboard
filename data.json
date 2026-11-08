@@ -1,139 +1,235 @@
 {
-  "date": "2026-11-07",
-  "updated_at": "2026-11-07T04:23:42.069546+00:00",
+  "date": "2026-11-08",
+  "updated_at": "2026-11-08T04:06:24.934893+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.8,
-        "place": "36公里 西北偏西 Poso 印度尼西亚",
-        "time": "2026-11-06 19:07",
+        "magnitude": 4.5,
+        "place": "11公里 西 Honmachi 日本",
+        "time": "2026-11-08 01:53",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "101公里 南东南 Palekastro Greece",
-        "time": "2026-11-06 15:26",
-        "depth_km": 40.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twhq",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 6.1,
-        "place": "144公里 东南 Hasaki 日本",
-        "time": "2026-11-06 10:39",
-        "depth_km": 29,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "87公里 北 Isangel Vanuatu",
-        "time": "2026-11-06 08:14",
-        "depth_km": 246.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
+        "magnitude": 5.1,
+        "place": "91公里 东北偏东 Hihifo 汤加",
+        "time": "2026-11-07 23:27",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "41公里 西南 Balangonan 菲律宾",
-        "time": "2026-11-06 06:28",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk",
+        "place": "41公里 WSW Gadung 菲律宾",
+        "time": "2026-11-07 23:25",
+        "depth_km": 607.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twur",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "77公里 西南 La Gomera Guatemala",
+        "time": "2026-11-07 23:22",
+        "depth_km": 34.2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twuq",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.9,
+        "place": "central 中大西洋海岭",
+        "time": "2026-11-07 23:17",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "43公里 东南偏东 Ambon 印度尼西亚",
+        "time": "2026-11-07 20:55",
+        "depth_km": 136.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu1",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "65公里 WSW Masachapa 尼加拉瓜",
+        "time": "2026-11-07 19:55",
+        "depth_km": 37.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twtv",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "45公里 北西北 Salinas Ecuador",
+        "time": "2026-11-07 17:17",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt8",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "10公里 西北 Hamakita 日本",
+        "time": "2026-11-07 16:04",
+        "depth_km": 38.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "11公里 东南偏东 Pedasí Panama",
+        "time": "2026-11-07 16:01",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsy",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "77公里 北西北 Khorixas Namibia",
+        "time": "2026-11-07 15:22",
+        "depth_km": 8.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "斐济 区域",
+        "time": "2026-11-07 15:05",
+        "depth_km": 571.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsp",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "southern 中大西洋海岭",
+        "time": "2026-11-07 11:35",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.5,
+        "place": "74公里 东北 Hasaki 日本",
+        "time": "2026-11-07 11:07",
+        "depth_km": 31.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "57公里 西南 Ollagüe 智利",
+        "time": "2026-11-07 10:53",
+        "depth_km": 110.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "156公里 东南偏东 Modisi 印度尼西亚",
+        "time": "2026-11-07 09:47",
+        "depth_km": 38.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrh",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "South Sandwich Islands 区域",
+        "time": "2026-11-07 07:14",
+        "depth_km": 103.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
-        "title": "绿色（低） 警报 for 热带气旋 PENA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 06/11/2026 to 07/11/2026, a Tropical Storm (maximum wind speed of 120 km/h) PENA-26 was active in CentralPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001348",
-        "pubDate": "2026-11-06 21:20"
+        "title": "绿色（低） 地震 (震级5.9级, 深度:10公里) Central 中大西洋海岭 07/11/2026 23:17 , 未知.",
+        "description": "On 11/7/2026 11:17:06 PM, an earthquake occurred in Central Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.9M, Depth:10km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576162",
+        "pubDate": "2026-11-07 23:36"
       },
       {
-        "title": "绿色（低） 地震 (震级6.1级, 深度:29公里) Off East Coast Of Honshu, 日本 06/11/2026 10:39 , 未知.",
-        "description": "On 11/6/2026 10:39:24 AM, an earthquake occurred in Off East Coast Of Honshu, Japan potentially affecting [unknown]. The earthquake had Magnitude 6.1M, Depth:29km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1575911",
-        "pubDate": "2026-11-06 10:56"
+        "title": "绿色（低） 地震 (震级5.5级, 深度:38.081公里) 日本 07/11/2026 16:04 , 630千 MMI V.",
+        "description": "On 11/7/2026 4:04:35 PM, an earthquake occurred in Japan potentially affecting 630 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:38.081km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576118",
+        "pubDate": "2026-11-07 16:22"
       },
       {
-        "title": "绿色（低） 警报 for 热带气旋 THIRTYONE-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 06/11/2026 to 07/11/2026, a Tropical Storm (maximum wind speed of 176 km/h) THIRTYONE-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001347",
-        "pubDate": "2026-11-06 07:50"
+        "title": "绿色（低） 地震 (震级5.5级, 深度:31.748公里) 日本 07/11/2026 11:07 , 1.8 million MMI IV.",
+        "description": "On 11/7/2026 11:07:43 AM, an earthquake occurred in Japan potentially affecting 1.8 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:31.748km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576071",
+        "pubDate": "2026-11-07 11:24"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 06/11/2026, a forest fire started in Australia,  until 06/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033558",
-        "pubDate": "2026-11-07 04:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 06/11/2026, a forest fire started in Australia,  until 06/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033559",
-        "pubDate": "2026-11-07 04:01"
+        "title": "绿色（低） 警报 for 热带气旋 02-20262027-27. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 07/11/2026 to 08/11/2026, a Tropical Depression (maximum wind speed of 63 km/h) 02-20262027-27 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001349",
+        "pubDate": "2026-11-07 07:05"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 06/11/2026, a forest fire started in Australia,  until 06/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033560",
-        "pubDate": "2026-11-07 04:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Burkina Faso",
-        "description": "On 06/11/2026, a forest fire started in Burkina Faso,  until 06/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033542",
-        "pubDate": "2026-11-06 20:00"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6.1级, 深度:535公里) 斐济 05/11/2026 17:21 , Few people affected 100km.",
-        "description": "On 11/5/2026 5:21:45 PM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 6.1M, Depth:535km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1575788",
-        "pubDate": "2026-11-05 17:39"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 法国",
-        "description": "On 05/11/2026, a flood started in France, lasting until 07/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104270",
-        "pubDate": "2026-11-06 11:36"
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033564",
+        "pubDate": "2026-11-07 16:01"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 05/11/2026, a forest fire started in Australia,  until 06/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033561",
-        "pubDate": "2026-11-07 04:01"
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033565",
+        "pubDate": "2026-11-07 20:01"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 05/11/2026, a forest fire started in Australia,  until 05/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033539",
-        "pubDate": "2026-11-06 00:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 05/11/2026, a forest fire started in Australia,  until 05/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033511",
-        "pubDate": "2026-11-05 20:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Burkina Faso",
-        "description": "On 05/11/2026, a forest fire started in Burkina Faso,  until 05/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033512",
-        "pubDate": "2026-11-06 12:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 05/11/2026, a forest fire started in Australia,  until 05/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033513",
-        "pubDate": "2026-11-05 20:01"
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033566",
+        "pubDate": "2026-11-07 20:02"
       },
       {
         "title": "绿色（低） 森林火灾 警报 Botswana",
-        "description": "On 04/11/2026, a forest fire started in Botswana,  until 05/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033514",
-        "pubDate": "2026-11-06 12:01"
+        "description": "On 07/11/2026, a forest fire started in Botswana,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033582",
+        "pubDate": "2026-11-08 00:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033600",
+        "pubDate": "2026-11-08 04:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033601",
+        "pubDate": "2026-11-08 00:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033602",
+        "pubDate": "2026-11-08 04:03"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033603",
+        "pubDate": "2026-11-08 04:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033604",
+        "pubDate": "2026-11-08 00:03"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033605",
+        "pubDate": "2026-11-08 00:04"
+      },
+      {
+        "title": "绿色（低） 警报 for 热带气旋 PENA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 06/11/2026 to 08/11/2026, a Tropical Storm (maximum wind speed of 120 km/h) PENA-26 was active in CentralPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001348",
+        "pubDate": "2026-11-06 21:20"
       }
     ],
     "typhoon": [],
@@ -146,27 +242,27 @@
       {
         "pair": "美元/人民币",
         "rate": 6.69,
-        "date": "2026-11-07"
+        "date": "2026-11-08"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.1161,
-        "date": "2026-11-07"
+        "date": "2026-11-08"
       },
       {
         "pair": "美元/日元",
-        "rate": 158.37,
-        "date": "2026-11-07"
+        "rate": 158.32,
+        "date": "2026-11-08"
       },
       {
         "pair": "欧元/人民币",
         "rate": 7.4665,
-        "date": "2026-11-07"
+        "date": "2026-11-08"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3369,
-        "date": "2026-11-07"
+        "rate": 1.3387,
+        "date": "2026-11-08"
       }
     ],
     "bond_yields": [],
@@ -270,9 +366,9 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors (NXPI) Stock Forecast & Analyst Ratings - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TTzRyS2wxNGJJNWlmTWVwUEZaeF9VaW1HMHJ1cUVYcGVoUkprN2p1YlNUOUlzLXBNWUhicXFSaXVWeXRLb2dLeEtER04ycFZvNlBGNHdJbVA?oc=5",
-        "pubDate": "2025-07-06 09:13"
+        "title": "Stocks to Watch: Seagate, Robinhood, NXP Semiconductors, Ultralife - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUlmcXRINThHMXlvaFdXNVFxd1d0RmtPV1B4cEtRQ1UtQVRya1Fvd3kyaFh3WnJDQnNtdzdnWm9EaHFySjFHZnNyQXpESFcxVmllTU5rQ2pmek1sSkhvM1hPSmJXX2Nlb1ZGZXEwMUQ2cGNaLVpGeTVYemVCaGExbXJXbmNJZTh4MEZUUGlUVElYY3pnOVFKdDVFWUNUWGtaNnJFZQ?oc=5",
+        "pubDate": "2026-10-27 07:00"
       },
       {
         "keyword": "英飞凌",
@@ -288,27 +384,27 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "附初裁┃ITC就英飞凌（德）诉英诺赛科（中）337调查案作出初裁 - 知产财经",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OQWRqSEx4TlRNS0FTS2ZzbTgtdEhKZFlJcnozbHF4cGEycTRDU2x6amp5WEFfYXlJZjRleXQwSGFmVEw1NmFtbGxXUzItelhnaTVWS21tY2hoTnJr?oc=5",
-        "pubDate": "2025-12-04 08:00"
+        "title": "德国半导体公司英飞凌准备启用耗资50亿欧元的半导体工厂，7月2日正式投产 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPX2dXWjVMMGIwc2xaM09IMFdnT2dUdTFhXzFzemNtNDBORjJCUnpSVzhEZUtvaFlUN0hJTF9rWjI1UHlZTDRZNGlqTU1BdlpBWEZWX3NXaHRrVUZaTGxud2NBV3BLMGM?oc=5",
+        "pubDate": "2026-06-12 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "意法半导体宣布普通股回购计划进展 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaG02SC03UjV1bUNwSS05eFFBMDR5UWJ4YnlFZUVVSGtPWURDR1dHSWszYTNBb3I1M1paSTlhZ0FSTlBYd3loVFNvMUhVMEZOUXJpTUVjQnQ0b01VYm10dWNfMFVrYmhVT2xxeFRvN0tyZGhDS2ZlendEOXN4UVpkNHNSS0xfczFCUF9XbEEzM2Jidno5TlpxY1h1eDloOTg3Vk5NS3RvdUFNcHJuMVZrWU12dTVIclpja3ZR?oc=5",
-        "pubDate": "2026-11-02 13:00"
+        "title": "AlphaValue/Baader Europe将意法半导体评级上调至买入 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9wUTRtckVFaC1haVdsUGdaSjZhNURUX3Q2YWd5ZnAxZUEwSTRFNHhJLTA2WVppR1JFNmdQOVpTMVg2ZlFvN1dYdThNcmNHbzY1N29HSHFMTWJ6aUN6ekpodWRzSDNDSHl3dlZVLXAzUmRIM2EwYWxvdDkyNWJhZzc2MHU5X1FCRS0xUDJxWHBlOGk3a0VZdUU2eU9ONEZ4aXMxaE9RQzVpMWhR?oc=5",
+        "pubDate": "2026-10-14 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "新一轮半导体涨价潮将至！意法半导体拟于8月23日宣布提价 - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3FzeEI3TWVJM3NJc0xjd19XdEVnZ05IamZWak9rZl96VGVQZXN2dW5FX191VFQ0Sklndl8zQ2dONUNxNXAyUDdIR2t2aFVZeVM3YkRsWDhwZkdtRGNIeG95NlRPb3lHZ3JUcjJOLUx3R0cybnc1NkwxR0ZGQTAyZUNsNDBMU0F1UHpNeGdiOUZHSE0zaTZ3Qy1LT0dkZ25PbU1LNHZhcnEwSHcyMkltbUhR?oc=5",
-        "pubDate": "2026-08-21 07:00"
+        "title": "STMicroelectronics Shares Rally After Chip Maker Raises Data-Center Revenue Target - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUNrVHduSVdmR01DVTZUUGlnS0N0VWtNRnVIbmNIcDhsYU9kcjVMZ1RkU0Mxa3A3NElnM1FJSEE1cW5aekF0QVNLbkJGVmowTGUwMjFzelE2UURMSGdvS05FNzBOMXhkNUJvb2pjQnJoWktnWHRUNEc3a0hRa0c0RHh5VDh4VUkwOVRVeU12LXZoV3dpWlNWMVVVWWRYMFE2OHFFR25PM3JFdXU0bWVPZ05xNA?oc=5",
+        "pubDate": "2026-06-02 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "STMicroelectronics Expected to Benefit From Strengthening Demand -- Market Talk - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkNCLWhtV2xzUF9BREI5S3c4b1ZLZkdDQmdoZndDOWYwWUZEOXF1b29YMFJxdDNMNHhmeEVNVFN4cU50UUFlYWp0Sl9LTWhpVjIwSnhmbXhqTFhyWGhkV2hxSWRiX0xVMGdsbjZ6RzlfMWZGSmpHRUowNGlxZzQ3ckVjNWI4MkpTQzQ3S2wzdkFwaFd6Y0U5QzRfRzdMcGZXbmQ1SWExQ0ZJOUpOM2R0YzJmU1EySW9YaFZHSVBRem5ETU0?oc=5",
-        "pubDate": "2026-10-29 09:24"
+        "title": "Sanan-STMicro JV Finishes Building USD3 Billion SiC Wafer Factory in Chongqing - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tQbTc4X1ZBM2s0TjBKZUpmQjR4VEZnWmZzeEVvN0djZXBaNWxfejE2Z3k3amtYU21Rb01COEZPMHFUdVNDYWxXVEJPMV83UXl6emdQZ3F3Y1kxd282TXUzUGprT0ZKMXpNRnFnLUl6OFR0dlFzcUhGLUFWeXJDNVlaOXpZTEpncXd6dFJORlhvdG9GeVNHaks3X1FEdWZWd3hudDF5YVE0cnNUVkY3OQ?oc=5",
+        "pubDate": "2025-02-28 08:00"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -324,9 +420,9 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices完成对Alif Semiconductor的收购 - 荣格工业传媒",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11S29VNXp6Q1NLQXFZd3RrMmFTMTlQWVh0RWZ6b0xYaU9SbGdUc1ZNa1NtT21NTUhta3oxNFlJamh4Qmxzbi1yV1MzZHFwY3pEal9aNzVqZ3hJUQ?oc=5",
-        "pubDate": "2026-11-05 08:39"
+        "title": "Analog Devices完成收购Alif Semiconductor - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc2NQQ1haY0NKaTlTaWNuTnNKMUtNb2hNRXZ5VlVRQWhOSGo2bXFiQ1ZjOVNhbi1mbEphczJSSGFTMDhHaDhxQkRnT0lNT3Z1eXhxTDZHXzV1bVBPZ3BZc2ltNUI3enFYWVZENnlzaHhPOW83dTBJNmF1WjRuYlFobHhFSzJmQ212cmJjbw?oc=5",
+        "pubDate": "2026-11-05 09:47"
       },
       {
         "keyword": "瑞萨",
