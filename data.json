@@ -1,149 +1,111 @@
 {
-  "date": "2026-11-08",
-  "updated_at": "2026-11-08T04:06:24.934893+00:00",
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09T04:21:46.631397+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.5,
-        "place": "11公里 西 Honmachi 日本",
-        "time": "2026-11-08 01:53",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.1,
-        "place": "91公里 东北偏东 Hihifo 汤加",
-        "time": "2026-11-07 23:27",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus",
+        "magnitude": 6.4,
+        "place": "30公里 WSW Lata Solomon Islands",
+        "time": "2026-11-09 03:34",
+        "depth_km": 17,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "41公里 WSW Gadung 菲律宾",
-        "time": "2026-11-07 23:25",
-        "depth_km": 607.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twur",
+        "place": "south the 斐济",
+        "time": "2026-11-09 02:21",
+        "depth_km": 136.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "77公里 西南 La Gomera Guatemala",
-        "time": "2026-11-07 23:22",
-        "depth_km": 34.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twuq",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.9,
-        "place": "central 中大西洋海岭",
-        "time": "2026-11-07 23:17",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun",
+        "magnitude": 5.3,
+        "place": "south the 斐济",
+        "time": "2026-11-09 00:46",
+        "depth_km": 538.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
         "tsunami": 0
       },
       {
         "magnitude": 4.7,
-        "place": "43公里 东南偏东 Ambon 印度尼西亚",
-        "time": "2026-11-07 20:55",
-        "depth_km": 136.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu1",
+        "place": "119公里 西南 Kokopo 巴布亚新几内亚",
+        "time": "2026-11-08 22:30",
+        "depth_km": 120.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twzn",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "65公里 WSW Masachapa 尼加拉瓜",
-        "time": "2026-11-07 19:55",
-        "depth_km": 37.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twtv",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "45公里 北西北 Salinas Ecuador",
-        "time": "2026-11-07 17:17",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt8",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.5,
-        "place": "10公里 西北 Hamakita 日本",
-        "time": "2026-11-07 16:04",
-        "depth_km": 38.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "11公里 东南偏东 Pedasí Panama",
-        "time": "2026-11-07 16:01",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsy",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "77公里 北西北 Khorixas Namibia",
-        "time": "2026-11-07 15:22",
-        "depth_km": 8.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "斐济 区域",
-        "time": "2026-11-07 15:05",
-        "depth_km": 571.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsp",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "southern 中大西洋海岭",
-        "time": "2026-11-07 11:35",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.5,
-        "place": "74公里 东北 Hasaki 日本",
-        "time": "2026-11-07 11:07",
-        "depth_km": 31.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "57公里 西南 Ollagüe 智利",
-        "time": "2026-11-07 10:53",
-        "depth_km": 110.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "156公里 东南偏东 Modisi 印度尼西亚",
-        "time": "2026-11-07 09:47",
-        "depth_km": 38.5,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrh",
+        "place": "43公里 东 Onagawa Chō 日本",
+        "time": "2026-11-08 20:16",
+        "depth_km": 55.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twz2",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "South Sandwich Islands 区域",
-        "time": "2026-11-07 07:14",
-        "depth_km": 103.7,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw",
+        "place": "117公里 东北 Tobelo 印度尼西亚",
+        "time": "2026-11-08 16:45",
+        "depth_km": 224.6,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "central 中大西洋海岭",
+        "time": "2026-11-08 16:33",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyc",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "Southwest 印度n Ridge",
+        "time": "2026-11-08 12:29",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxn",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "46公里 西北 Huara 智利",
+        "time": "2026-11-08 11:58",
+        "depth_km": 68.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "137公里 东 Miyako 日本",
+        "time": "2026-11-08 09:23",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
-        "title": "绿色（低） 地震 (震级5.9级, 深度:10公里) Central 中大西洋海岭 07/11/2026 23:17 , 未知.",
-        "description": "On 11/7/2026 11:17:06 PM, an earthquake occurred in Central Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.9M, Depth:10km.",
+        "title": "绿色（低） 地震 (震级6.4级, 深度:17公里) Solomon Is. 09/11/2026 03:34 , 8千 MMI VI.",
+        "description": "On 11/9/2026 3:34:59 AM, an earthquake occurred in Solomon Is. potentially affecting 8 thousand in MMI VI. The earthquake had Magnitude 6.4M, Depth:17km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576364",
+        "pubDate": "2026-11-09 03:45"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 08/11/2026, a forest fire started in Australia,  until 08/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033644",
+        "pubDate": "2026-11-09 00:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 08/11/2026, a forest fire started in Australia,  until 08/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033645",
+        "pubDate": "2026-11-09 04:00"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) Central 中大西洋海岭 07/11/2026 23:17 , 未知.",
+        "description": "On 11/7/2026 11:17:05 PM, an earthquake occurred in Central Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:10km.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576162",
         "pubDate": "2026-11-07 23:36"
       },
@@ -161,75 +123,57 @@
       },
       {
         "title": "绿色（低） 警报 for 热带气旋 02-20262027-27. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 07/11/2026 to 08/11/2026, a Tropical Depression (maximum wind speed of 63 km/h) 02-20262027-27 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "description": "From 07/11/2026 to 08/11/2026, a Low (maximum wind speed of 63 km/h) 02-20262027-27 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
         "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001349",
         "pubDate": "2026-11-07 07:05"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033564",
-        "pubDate": "2026-11-07 16:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033565",
-        "pubDate": "2026-11-07 20:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033566",
-        "pubDate": "2026-11-07 20:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Botswana",
-        "description": "On 07/11/2026, a forest fire started in Botswana,  until 07/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033582",
-        "pubDate": "2026-11-08 00:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033600",
-        "pubDate": "2026-11-08 04:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033601",
-        "pubDate": "2026-11-08 00:02"
+        "pubDate": "2026-11-08 08:04"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033602",
-        "pubDate": "2026-11-08 04:03"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033603",
-        "pubDate": "2026-11-08 04:01"
+        "pubDate": "2026-11-08 08:06"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033604",
-        "pubDate": "2026-11-08 00:03"
+        "pubDate": "2026-11-08 08:07"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 08/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033646",
+        "pubDate": "2026-11-09 04:04"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 08/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033647",
+        "pubDate": "2026-11-09 04:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 08/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033648",
+        "pubDate": "2026-11-09 00:04"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 07/11/2026, a forest fire started in Australia,  until 08/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033649",
+        "pubDate": "2026-11-09 04:02"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 07/11/2026, a forest fire started in Australia,  until 07/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033605",
-        "pubDate": "2026-11-08 00:04"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 PENA-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
-        "description": "From 06/11/2026 to 08/11/2026, a Tropical Storm (maximum wind speed of 120 km/h) PENA-26 was active in CentralPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001348",
-        "pubDate": "2026-11-06 21:20"
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033564",
+        "pubDate": "2026-11-07 16:01"
       }
     ],
     "typhoon": [],
@@ -241,32 +185,56 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.69,
-        "date": "2026-11-08"
+        "rate": 6.68,
+        "date": "2026-11-09"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1161,
-        "date": "2026-11-08"
+        "rate": 1.1148,
+        "date": "2026-11-09"
       },
       {
         "pair": "美元/日元",
-        "rate": 158.32,
-        "date": "2026-11-08"
+        "rate": 158.33,
+        "date": "2026-11-09"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.4665,
-        "date": "2026-11-08"
+        "rate": 7.447,
+        "date": "2026-11-09"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3387,
-        "date": "2026-11-08"
+        "rate": 1.3369,
+        "date": "2026-11-09"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "STMicroelectronics Unifies STM32 MCU Platform Across Industrial, Automotive and Robotics Markets",
+        "link": "https://www.eetasia.com/stmicroelectronics-unifies-stm32-mcu-platform-across-industrial-automotive-and-robotics-markets/",
+        "pubDate": "Mon, 09 Nov 2026 03:09:28 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "AI Demand Tightens High-capacitance MLCC Supply Through 1H27",
+        "link": "https://www.eetasia.com/ai-demand-tightens-high-capacitance-mlcc-supply-through-1h27/",
+        "pubDate": "Mon, 09 Nov 2026 02:58:39 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Ceva Retains Leadership in Wireless Connectivity IP Market",
+        "link": "https://www.eetasia.com/ceva-retains-leadership-in-wireless-connectivity-ip-market/",
+        "pubDate": "Mon, 09 Nov 2026 02:49:31 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "US Semiconductor Expansion Hinges on Fab Efficiency, Supply Chain Coordination",
+        "link": "https://www.eetasia.com/us-semiconductor-expansion-hinges-on-fab-efficiency-supply-chain-coordination/",
+        "pubDate": "Mon, 09 Nov 2026 02:11:00 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "Streamlined Development Platforms Are Now Critical to Edge AI Deployment",
@@ -274,58 +242,34 @@
         "pubDate": "Fri, 06 Nov 2026 13:12:01 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "Building More with Less: How to Navigate the Memory Chip Shortage",
-        "link": "https://www.eetasia.com/embeddedblog-building-more-with-less-how-to-navigate-the-memory-chip-shortage/",
-        "pubDate": "Fri, 06 Nov 2026 12:48:06 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "Enabling Physical AI Agents with Lemonade",
-        "link": "https://www.eetasia.com/embeddedblog-enabling-physical-ai-agents-with-lemonade/",
-        "pubDate": "Fri, 06 Nov 2026 12:32:18 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "Lower-Cost IMUs Could Expand Optical Image Stabilization Across Smartphones",
-        "link": "https://www.eetasia.com/embeddedblog-lower-cost-imus-could-expand-optical-image-stabilization-across-smartphones/",
-        "pubDate": "Fri, 06 Nov 2026 12:08:15 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "AMD Brings the Power of Agentic AI to Embedded Design and Development Cycle",
-        "link": "https://www.eetasia.com/embeddedblog-amd-brings-the-power-of-agentic-ai-to-embedded-design-and-development-cycle/",
-        "pubDate": "Fri, 06 Nov 2026 12:05:00 +0000"
+        "source": "SemiWiki",
+        "title": "CEO Interview with Mark Rushworth of Finchetto",
+        "link": "https://semiwiki.com/ceo-interviews/375759-ceo-interview-with-mark-rushworth-of-finchetto/",
+        "pubDate": "Sun, 08 Nov 2026 20:00:11 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "ChipNexus Brings Agentic AI into Established Analog Design Flows",
-        "link": "https://semiwiki.com/eda/chipnexus/375471-chipnexus-brings-agentic-ai-into-established-analog-design-flows/",
-        "pubDate": "Fri, 06 Nov 2026 18:00:17 +0000"
+        "title": "CEO Interview With Trey Closson of Amplio",
+        "link": "https://semiwiki.com/ceo-interviews/375744-ceo-interview-with-trey-closson-of-amplio/",
+        "pubDate": "Sun, 08 Nov 2026 19:00:04 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "Delivering Silicon Systems Through AI Disruption, Part 2: The Conductor",
-        "link": "https://semiwiki.com/semiconductor-services/flow-accel/376003-delivering-silicon-systems-through-ai-disruption-part-2-the-conductor/",
-        "pubDate": "Fri, 06 Nov 2026 16:00:32 +0000"
+        "title": "CEO Interview with Albert Liu of Kneron",
+        "link": "https://semiwiki.com/ceo-interviews/375923-ceo-interview-with-albert-liu-of-kneron/",
+        "pubDate": "Sun, 08 Nov 2026 18:00:25 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "WEBINAR: Porting, Analysing & Optimising AI Models onto Edge GPUs",
-        "link": "https://semiwiki.com/ip/imagination-technologies/375817-webinar-porting-analysing-optimising-ai-models-onto-edge-gpus/",
-        "pubDate": "Fri, 06 Nov 2026 14:00:38 +0000"
+        "title": "CEO Interview with Moshiel Biton of Addionics",
+        "link": "https://semiwiki.com/ceo-interviews/375857-ceo-interview-with-mishiel-biton-of-addionics/",
+        "pubDate": "Sun, 08 Nov 2026 17:00:37 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "Interview with David Tester VP of Engineering Mach42",
-        "link": "https://semiwiki.com/eda/mach42/375789-interview-with-david-tester-vp-of-engineering-mach42/",
-        "pubDate": "Thu, 05 Nov 2026 20:00:05 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Glass Is Becoming an AI Infrastructure Platform",
-        "link": "https://semiwiki.com/3dic/375726-glass-is-becoming-an-ai-infrastructure-platform/",
-        "pubDate": "Thu, 05 Nov 2026 18:00:10 +0000"
+        "title": "CEO Interview with Brett Walker of Electroninks",
+        "link": "https://semiwiki.com/ceo-interviews/375666-ceo-interview-with-brett-walker-of-electroninks-2/",
+        "pubDate": "Sun, 08 Nov 2026 16:00:52 +0000"
       }
     ],
     "china_policy": [
@@ -342,33 +286,33 @@
       },
       {
         "keyword": "德州仪器(TI)",
+        "title": "德州仪器拟议收购Silicon Labs获新加坡竞争监管机构批准 - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQak42SE5vNDBSbUJmdVFLWS1FZUVBdHZZRFo3aWRidE44dHhtbjdSdEJlWXhYTUlDZV9EVFhVTWIzYnJtQ0ZJNlpwdVRNR2M3UVFxUlJDTnVHZjMyRmlob0NlTC1DQnptaEpRSk9PeXRhQ2NpSWk1ZHNvNzFmQ1JKTzNYWnQwNTFZUjkybVFCbzhzcGJxclhzeXlkQ3EyMFZwUFJYc0VRN2VHd2xaMHd4R1l1TXIxN1FIdGVFeG1oZ21KWTQ0WF9YclY4cmFqbnhUTUNnSTlaTGFTR2ZocWlHazllOA?oc=5",
+        "pubDate": "2026-08-07 07:00"
+      },
+      {
+        "keyword": "德州仪器(TI)",
         "title": "Texas Instruments Hasn’t Axed Any China Staff, Will Continue to Invest in China, Unit Says - 一财全球Yicai Global",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3A3SEkxdGJnam0yaURjVkJEcnlNblo1OWpwZjQ4cWh6N3RwU05DYlllNVZ5NGVENTl5WklrcFlfX3k4Q2pFdkUzZFVHR0NnTE9nZy1jWTZiYVQ0cThvWDlpelM4cDRCaFFCM3k3dWdLUC14U2V3cGk5MGR4MHRJOVRFUHR4ZEltcDBBQ3RoSlhtVkxKYlRCWWlXMy04aHQyemN1N04xOTI2LU55ZjhwZUY3a1ZCVnNNRjlQcg?oc=5",
         "pubDate": "2022-05-09 07:00"
       },
       {
-        "keyword": "德州仪器(TI)",
-        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
-        "pubDate": "2026-07-14 07:00"
+        "keyword": "恩智浦(NXP)",
+        "title": "贸泽开售NXP Semiconductors全新Ara240独立神经处理单元 - 电子工程世界（EEWorld）",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RHJMcXd2ZFd5akZXTk1hVTlBQzVDNGtxMFFMVVhmSDRfaWJuNmpSUTZZSGlnYjZib1VkSnlqbWZrTlNXaWdJYWZrWG90SEJHS3RMRGFJNVA?oc=5",
+        "pubDate": "2026-10-29 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "VSMC斥资78亿美元在新加坡开设晶圆厂，押注“实体人工智能”需求 - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGNxSVdaNWdERGJzN2ZIUXIwalhtUjNrM3I1cWNvNzNfNnVDQWpNRVJRQWVKcHpkUmdqQXM4SUQxZkQ3aEI4N0Z6dDZ6b3pZQ2Z4X0pXRUxHSy1heWc1b0dTZGVpUFU0aWUxVi1QVEZISkRGdXNOTDlSUFY3OFluZVlvR21jYUxCS2lYbXhfRzNvNXE5SEh2SXVDNlprR0ZsMDRpTWJkN2RpNGZRRHcyY2pQVThRT0RIVkE?oc=5",
-        "pubDate": "2026-09-28 07:00"
+        "title": "Press Release: NXP Semiconductors Reports Third Quarter 2026 Results - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVk0QmNqU0RWQUxJMlVadkZWNDZYQXVHR1Z6ZXIyS2xleUdtZVhiMDV3QmtrOXByLXVkUWFSb0F0WV9UN1lmQjRQbkVZRjQzTHZENlVTSExIMHlERG13ZV9Ec1BmMWRuZlAwcWVfYU80eUVOeE5RMnpUVjdIS0RRVURWeEsyRjVGenJ6bnN5Skk1S3c3UTRZX0o1RFI5aHA4U0MzOFM5SGxjLWtqSVpQb1R6ak9SX0k?oc=5",
+        "pubDate": "2026-10-27 20:10"
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors to Focus on Auto Electronics, IoT Businesses in China, Local Head Says - 一财全球Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXRJak1QY1RGSjJpUUNOVzYxaFpMd3M2Q09TSGpkVktTRTZTUmxzVDhQeFh5UkZCdng3d2RDalhqY1BCVmJXalBoRXJoM0w4VlIzSTM5RVhUcksxanQwLVFDOE9jbm5pVkhyYUl6MHQwZEpIdTdta1FpUWxQUWVrNjA3U29IcUdJUUR3NmpwTjZQdEZ0RU5BNm5aN0dSbnRXNWE4VEpzQXJ1M1ViQnp4RC1HNUxYcFpob3lQTA?oc=5",
-        "pubDate": "2018-09-05 07:00"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
-        "title": "Stocks to Watch: Seagate, Robinhood, NXP Semiconductors, Ultralife - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUlmcXRINThHMXlvaFdXNVFxd1d0RmtPV1B4cEtRQ1UtQVRya1Fvd3kyaFh3WnJDQnNtdzdnWm9EaHFySjFHZnNyQXpESFcxVmllTU5rQ2pmek1sSkhvM1hPSmJXX2Nlb1ZGZXEwMUQ2cGNaLVpGeTVYemVCaGExbXJXbmNJZTh4MEZUUGlUVElYY3pnOVFKdDVFWUNUWGtaNnJFZQ?oc=5",
-        "pubDate": "2026-10-27 07:00"
+        "title": "NXP Semiconductors (NXPI) Stock Forecast & Analyst Ratings - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUWpXN3UzSzFDOGxTQTFORlIyVDFRb3QyRFhmUy1tXzRoeV8xOUpNQWlaRDlPakZIY1JKZmthMnJ5aXVYdUg2alRvbWMyNEVLRWtxZUJnZzY2MGk2NFdIeTVyeGI2RWRKWHp0dzNMNEw2STVLQUVCTEpzRGdrLWFvcFNjTXVRbVdRSy1ITUxWX0xudHM1YVNHM2x5cWcweF9ZXzZoN242UDY5eHM2RTE0RkJuMTBTdHFVcXU5OHROU3NLVkxlUUsxcVRVRVMzVk5uTmNVNDNaQ01UblliSGJVT2VwYTQ4Tlh2ODJreEFRaHVJQlozeHgwVWVUamEyVzc3MnZqcVpuQjdjZHhZV3hHOHRJaXNscEhlOXF6NUhuMGNtVEVLdmJCV2FiZ0tWQWNzdUNEcjVR?oc=5",
+        "pubDate": "2026-11-01 00:57"
       },
       {
         "keyword": "英飞凌",
@@ -402,9 +346,9 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "Sanan-STMicro JV Finishes Building USD3 Billion SiC Wafer Factory in Chongqing - 一财全球Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tQbTc4X1ZBM2s0TjBKZUpmQjR4VEZnWmZzeEVvN0djZXBaNWxfejE2Z3k3amtYU21Rb01COEZPMHFUdVNDYWxXVEJPMV83UXl6emdQZ3F3Y1kxd282TXUzUGprT0ZKMXpNRnFnLUl6OFR0dlFzcUhGLUFWeXJDNVlaOXpZTEpncXd6dFJORlhvdG9GeVNHaks3X1FEdWZWd3hudDF5YVE0cnNUVkY3OQ?oc=5",
-        "pubDate": "2025-02-28 08:00"
+        "title": "意法半导体股价下跌，因芯片股在行业冲击后普遍回落，交易员在近期人工智能数据中心乐观情绪后获利了结。 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3g2MEZobUdhSEhtd2ZZY2pkemttQlB4aGo4UTR6SnlGN0VrOG9kU1BNYjZEVkloQkxmajdDaGg4VlBtaVEwN3gzMlZNaTJiZzJlaWI3UmYzSENpLS13bjIwWFgwaVU1VERUeHRlX0pPSVRGMUxzRms4NXhyV2xTcWdsUnRhY3otMkhyZTRjYlNzOXQwblN5MFRDNkdDS0xyME9yWmlWeGk2d2o1aFhKRzk5RXROdHh5dE1Z?oc=5",
+        "pubDate": "2026-06-04 07:00"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -420,9 +364,9 @@
       },
       {
         "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices完成收购Alif Semiconductor - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc2NQQ1haY0NKaTlTaWNuTnNKMUtNb2hNRXZ5VlVRQWhOSGo2bXFiQ1ZjOVNhbi1mbEphczJSSGFTMDhHaDhxQkRnT0lNT3Z1eXhxTDZHXzV1bVBPZ3BZc2ltNUI3enFYWVZENnlzaHhPOW83dTBJNmF1WjRuYlFobHhFSzJmQ212cmJjbw?oc=5",
-        "pubDate": "2026-11-05 09:47"
+        "title": "Analog Devices完成对Alif Semiconductor的收购 - 荣格工业传媒",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11S29VNXp6Q1NLQXFZd3RrMmFTMTlQWVh0RWZ6b0xYaU9SbGdUc1ZNa1NtT21NTUhta3oxNFlJamh4Qmxzbi1yV1MzZHFwY3pEal9aNzVqZ3hJUQ?oc=5",
+        "pubDate": "2026-11-05 08:39"
       },
       {
         "keyword": "瑞萨",
@@ -432,15 +376,15 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "59亿美元！瑞萨正式宣布收购Dialog - 电子工程专辑EE Times China",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55dzcwMVlSSzUwNzR4dlBzdi1QZmlJM242N2VwNjVQNTJJUHV5T2tuWXk2c080RnMxaWd2b1FrS2tjUVFlUUlmdVZCaFRHZDFRSFE?oc=5",
-        "pubDate": "2021-02-09 08:00"
+        "title": "Press Release: Renesas Reports Financial Results for the Third Quarter Ended September 30, 2026 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGhuWGNRYU1iRTJyaWd5OWN1QnhzNURkdVBlMzJoa3ExQldlNUJpRFpUOU8wWmh6WlZqOV9OUzVRcWd4OVR4am95UVVyazNUMF9NYnlIOWZvTG5GVXhCa05Val83MEFfVFIxTk5GQ3B3bGNTWDA4MFJyaU9CWDEyekpBeXZWN1FTOHdMczVEX1IxbUNoTncwenFWMzdwQk9uTVNXVEdoRWptdWxqME81V0VmSWJZZzdaNEE?oc=5",
+        "pubDate": "2026-10-28 07:00"
       },
       {
         "keyword": "瑞萨",
-        "title": "半导体行业整合潮持续 瑞萨电子宣布59亿美元收购苹果供应商Dialog - 财联社电报",
-        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BWF9LWHpQZ2VPcE5ES3JiaXFNRmN5NmtDbXVVb0stVkJ0Yl93OU00MWtRNS1aRVRsWWFhYnhQczZsYVpa?oc=5",
-        "pubDate": "2021-02-08 08:00"
+        "title": "59亿美元！瑞萨正式宣布收购Dialog - 电子工程专辑EE Times China",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55dzcwMVlSSzUwNzR4dlBzdi1QZmlJM242N2VwNjVQNTJJUHV5T2tuWXk2c080RnMxaWd2b1FrS2tjUVFlUUlmdVZCaFRHZDFRSFE?oc=5",
+        "pubDate": "2021-02-09 08:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
