@@ -1,95 +1,241 @@
 {
-  "date": "2026-11-13",
-  "updated_at": "2026-11-13T04:49:38.473476+00:00",
+  "date": "2026-11-14",
+  "updated_at": "2026-11-14T04:43:09.050321+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.9,
-        "place": "Pagan 区域 Northern Mariana Islands",
-        "time": "2026-11-13 02:55",
-        "depth_km": 219.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy",
+        "magnitude": 4.7,
+        "place": "54公里 西北 San Antonio de los Cobres 阿根廷",
+        "time": "2026-11-14 03:18",
+        "depth_km": 216.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p",
         "tsunami": 0
       },
       {
-        "magnitude": 5,
-        "place": "85公里 西 Mwene-Ditu Democratic Republic the Congo",
-        "time": "2026-11-13 01:12",
+        "magnitude": 5.2,
+        "place": "off the west coast northern Sumatra",
+        "time": "2026-11-14 02:59",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n",
         "tsunami": 0
       },
       {
-        "magnitude": 5.1,
-        "place": "39公里 南 Moíres Greece",
-        "time": "2026-11-13 00:05",
-        "depth_km": 43.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.8,
-        "place": "148公里 西北 Kavieng 巴布亚新几内亚",
-        "time": "2026-11-12 22:04",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp",
+        "magnitude": 4.5,
+        "place": "斐济 区域",
+        "time": "2026-11-14 02:21",
+        "depth_km": 587.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e",
         "tsunami": 0
       },
       {
         "magnitude": 4.6,
-        "place": "117公里 南 Akureyri 冰岛",
-        "time": "2026-11-12 21:53",
+        "place": "100公里 WSW Lebu 智利",
+        "time": "2026-11-13 23:55",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwi",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty59",
         "tsunami": 0
       },
       {
         "magnitude": 5.1,
-        "place": "western 印度n-Antarctic Ridge",
-        "time": "2026-11-12 21:09",
+        "place": "153公里 西北 Kavieng 巴布亚新几内亚",
+        "time": "2026-11-13 23:30",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txw9",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "74公里 南 Yudomari 日本",
+        "time": "2026-11-13 23:22",
+        "depth_km": 40.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty53",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "41公里 北 Weining 中国",
-        "time": "2026-11-12 20:03",
+        "place": "south the Kermadec Islands",
+        "time": "2026-11-13 22:10",
+        "depth_km": 36.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty4w",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "33公里 西南偏南 La Libertad 萨尔瓦多",
+        "time": "2026-11-13 21:19",
+        "depth_km": 59.1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty4n",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "153公里 西北 Kavieng 巴布亚新几内亚",
+        "time": "2026-11-13 19:49",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty43",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "115公里 东南偏东 Bitung 印度尼西亚",
-        "time": "2026-11-12 14:58",
-        "depth_km": 39.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txtd",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "3公里 东 Tako 日本",
-        "time": "2026-11-12 13:27",
-        "depth_km": 73.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txsr",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "off the coast Oregon",
-        "time": "2026-11-12 08:17",
+        "place": "9公里 WSW Chaparral Colombia",
+        "time": "2026-11-13 19:43",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3x",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "South Sandwich Islands 区域",
+        "time": "2026-11-13 19:04",
+        "depth_km": 63.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3q",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "south the 斐济",
+        "time": "2026-11-13 18:55",
+        "depth_km": 563.3,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3g",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.8,
+        "place": "79公里 WSW Changuillo 秘鲁",
+        "time": "2026-11-13 16:43",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "10公里 西南 Guaymate Dominican Republic",
+        "time": "2026-11-13 16:35",
+        "depth_km": 136.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty16",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "79公里 东北 Kuqa 中国",
+        "time": "2026-11-13 16:17",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty14",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.2,
+        "place": "West 智利 Rise",
+        "time": "2026-11-13 14:12",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.8,
+        "place": "59公里 WSW Houma 汤加",
+        "time": "2026-11-13 11:18",
+        "depth_km": 162.8,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txzd",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.5,
+        "place": "86公里 NNE Lagunas 秘鲁",
+        "time": "2026-11-13 10:55",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txza",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.9,
+        "place": "southeast the Loyalty Islands",
+        "time": "2026-11-13 09:55",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "84公里 东 Barcelona 菲律宾",
+        "time": "2026-11-13 09:40",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz0",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
+        "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 秘鲁 13/11/2026 16:43 , 100千 MMI IV.",
+        "description": "On 11/13/2026 4:43:02 PM, an earthquake occurred in Peru potentially affecting 100 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577195",
+        "pubDate": "2026-11-13 17:03"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 13/11/2026, a forest fire started in Australia,  until 13/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033825",
+        "pubDate": "2026-11-14 04:01"
+      },
+      {
         "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 巴布亚新几内亚 12/11/2026 22:04 , Few people affected ( 烈度≥VII级).",
         "description": "On 11/12/2026 10:04:06 PM, an earthquake occurred in Papua New Guinea potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.8M, Depth:10km.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577060",
         "pubDate": "2026-11-12 22:20"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Burkina Faso",
+        "description": "On 12/11/2026, a forest fire started in Burkina Faso,  until 13/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033826",
+        "pubDate": "2026-11-14 04:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Burkina Faso",
+        "description": "On 12/11/2026, a forest fire started in Burkina Faso,  until 13/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033817",
+        "pubDate": "2026-11-13 20:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 12/11/2026, a forest fire started in Australia,  until 14/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033830",
+        "pubDate": "2026-11-14 04:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 11/11/2026, a forest fire started in Australia,  until 14/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033831",
+        "pubDate": "2026-11-14 04:03"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 11/11/2026, a forest fire started in Australia,  until 13/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033787",
+        "pubDate": "2026-11-13 12:03"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 11/11/2026, a forest fire started in Australia,  until 13/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033818",
+        "pubDate": "2026-11-13 20:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 11/11/2026, a forest fire started in Australia,  until 13/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033827",
+        "pubDate": "2026-11-14 04:04"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Central African Republic",
+        "description": "On 11/11/2026, a forest fire started in Central African Republic,  until 13/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033810",
+        "pubDate": "2026-11-13 16:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 11/11/2026, a forest fire started in Australia,  until 13/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033786",
+        "pubDate": "2026-11-14 04:03"
       },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:59.652公里) Guatemala 10/11/2026 14:54 , 1.2 million MMI IV.",
@@ -104,76 +250,10 @@
         "pubDate": "2026-11-12 07:27"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 South Sudan",
-        "description": "On 10/11/2026, a forest fire started in South Sudan,  until 11/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033740",
-        "pubDate": "2026-11-11 20:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 South Sudan",
-        "description": "On 10/11/2026, a forest fire started in South Sudan,  until 11/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033741",
-        "pubDate": "2026-11-11 20:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 10/11/2026, a forest fire started in Australia,  until 11/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033694",
-        "pubDate": "2026-11-11 00:00"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 South Sudan",
-        "description": "On 10/11/2026, a forest fire started in South Sudan,  until 11/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033695",
-        "pubDate": "2026-11-11 16:00"
-      },
-      {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 10/11/2026, a forest fire started in Australia,  until 11/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033727",
         "pubDate": "2026-11-11 16:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 10/11/2026, a forest fire started in Australia,  until 11/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033737",
-        "pubDate": "2026-11-11 20:01"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 10/11/2026, a forest fire started in Australia,  until 10/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033687",
-        "pubDate": "2026-11-10 12:01"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.7级, 深度:24.173公里) 日本 09/11/2026 04:52 , 230千 MMI IV.",
-        "description": "On 11/9/2026 4:52:51 AM, an earthquake occurred in Japan potentially affecting 230 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:24.173km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576372",
-        "pubDate": "2026-11-09 05:03"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6.4级, 深度:17公里) Solomon Is. 09/11/2026 03:34 , 8千 MMI VI.",
-        "description": "On 11/9/2026 3:34:59 AM, an earthquake occurred in Solomon Is. potentially affecting 8 thousand in MMI VI. The earthquake had Magnitude 6.4M, Depth:17km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576364",
-        "pubDate": "2026-11-09 03:45"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 South Sudan",
-        "description": "On 09/11/2026, a forest fire started in South Sudan,  until 09/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033673",
-        "pubDate": "2026-11-11 20:03"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 09/11/2026, a forest fire started in Australia,  until 10/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033691",
-        "pubDate": "2026-11-11 20:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 09/11/2026, a forest fire started in Australia,  until 10/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033698",
-        "pubDate": "2026-11-11 20:02"
       }
     ],
     "typhoon": [],
@@ -185,32 +265,56 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.69,
-        "date": "2026-11-13"
+        "rate": 6.68,
+        "date": "2026-11-14"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1074,
-        "date": "2026-11-13"
+        "rate": 1.1038,
+        "date": "2026-11-14"
       },
       {
         "pair": "美元/日元",
         "rate": 159.8,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.4086,
-        "date": "2026-11-13"
+        "rate": 7.3731,
+        "date": "2026-11-14"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3245,
-        "date": "2026-11-13"
+        "rate": 1.3228,
+        "date": "2026-11-14"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
+      {
+        "source": "EET Asia",
+        "title": "Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law",
+        "link": "https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/",
+        "pubDate": "Fri, 13 Nov 2026 07:37:16 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "Lattice, NXP Pair i.MX 95 Processors With Nexus FPGAs for Industrial Edge",
+        "link": "https://www.eetasia.com/lattice-nxp-pair-i-mx-95-processors-with-nexus-fpgas-for-industrial-edge/",
+        "pubDate": "Fri, 13 Nov 2026 06:39:47 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "FiRa Consortium Sets Up Japan Committee to Support UWB Technology Adoption",
+        "link": "https://www.eetasia.com/fira-consortium-sets-up-japan-committee-to-support-uwb-technology-adoption/",
+        "pubDate": "Fri, 13 Nov 2026 06:23:58 +0000"
+      },
+      {
+        "source": "EET Asia",
+        "title": "PsiQuantum, AMD Expand Partnership on Quantum Computing Infrastructure",
+        "link": "https://www.eetasia.com/psiquantum-amd-expand-partnership-on-quantum-computing-infrastructure/",
+        "pubDate": "Fri, 13 Nov 2026 06:14:04 +0000"
+      },
       {
         "source": "EET Asia",
         "title": "Siemens, NVIDIA Develop AI-Based Virtual PCB Inspection Workflow",
@@ -218,28 +322,16 @@
         "pubDate": "Thu, 12 Nov 2026 04:34:17 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "MIPS Combines Motor Control and Edge Processing in Actus Robotics Platform",
-        "link": "https://www.eetasia.com/mips-combines-motor-control-and-edge-processing-in-actus-robotics-platform/",
-        "pubDate": "Thu, 12 Nov 2026 04:22:16 +0000"
+        "source": "SemiWiki",
+        "title": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout",
+        "link": "https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/",
+        "pubDate": "Fri, 13 Nov 2026 17:00:32 +0000"
       },
       {
-        "source": "EET Asia",
-        "title": "TrendForce Forecasts OLED Notebook Shipments to Grow by Over 40% in 2027",
-        "link": "https://www.eetasia.com/trendforce-forecasts-oled-notebook-shipments-to-grow-by-over-40-in-2027/",
-        "pubDate": "Thu, 12 Nov 2026 04:16:05 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "Singapore’s Symatics Launches MPU Architecture for Faster AI Processing",
-        "link": "https://www.eetasia.com/singapores-symatics-launches-mpu-architecture-for-faster-ai-processing/",
-        "pubDate": "Thu, 12 Nov 2026 02:32:35 +0000"
-      },
-      {
-        "source": "EET Asia",
-        "title": "Wooptix Targets Advanced Logic with Proprietary Metrology Technology",
-        "link": "https://www.eetasia.com/wooptix-targets-advanced-logic-with-proprietary-metrology-technology/",
-        "pubDate": "Thu, 12 Nov 2026 02:20:17 +0000"
+        "source": "SemiWiki",
+        "title": "Jensen Huang and the Cost of Unchecked Influence",
+        "link": "https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/",
+        "pubDate": "Fri, 13 Nov 2026 13:00:18 +0000"
       },
       {
         "source": "SemiWiki",
@@ -258,18 +350,6 @@
         "title": "Bring Your Innovation to Silicon Valley at DAC 2027",
         "link": "https://semiwiki.com/events/375295-bring-your-innovation-to-silicon-valley-at-dac-2027/",
         "pubDate": "Thu, 12 Nov 2026 14:00:40 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB",
-        "link": "https://semiwiki.com/eda/yieldhub/375794-cto-interview-kevin-robinson-vp-of-operations-yieldhub/",
-        "pubDate": "Wed, 11 Nov 2026 20:00:08 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Semiconductors and SOI: From Bulk Wafers to Engineered Substrates",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/soitec/376187-semiconductors-and-soi-from-bulk-wafers-to-engineered-substrates/",
-        "pubDate": "Wed, 11 Nov 2026 18:00:58 +0000"
       }
     ],
     "china_policy": [
@@ -304,15 +384,15 @@
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "Press Release: NXP Semiconductors Reports Third Quarter 2026 Results - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVk0QmNqU0RWQUxJMlVadkZWNDZYQXVHR1Z6ZXIyS2xleUdtZVhiMDV3QmtrOXByLXVkUWFSb0F0WV9UN1lmQjRQbkVZRjQzTHZENlVTSExIMHlERG13ZV9Ec1BmMWRuZlAwcWVfYU80eUVOeE5RMnpUVjdIS0RRVURWeEsyRjVGenJ6bnN5Skk1S3c3UTRZX0o1RFI5aHA4U0MzOFM5SGxjLWtqSVpQb1R6ak9SX0k?oc=5",
-        "pubDate": "2026-10-27 07:00"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
         "title": "VSMC斥资78亿美元在新加坡开设晶圆厂，押注“实体人工智能”需求 - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGNxSVdaNWdERGJzN2ZIUXIwalhtUjNrM3I1cWNvNzNfNnVDQWpNRVJRQWVKcHpkUmdqQXM4SUQxZkQ3aEI4N0Z6dDZ6b3pZQ2Z4X0pXRUxHSy1heWc1b0dTZGVpUFU0aWUxVi1QVEZISkRGdXNOTDlSUFY3OFluZVlvR21jYUxCS2lYbXhfRzNvNXE5SEh2SXVDNlprR0ZsMDRpTWJkN2RpNGZRRHcyY2pQVThRT0RIVkE?oc=5",
         "pubDate": "2026-09-28 07:00"
+      },
+      {
+        "keyword": "恩智浦(NXP)",
+        "title": "NXP Semiconductors to Focus on Auto Electronics, IoT Businesses in China, Local Head Says - 一财全球Yicai Global",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXRJak1QY1RGSjJpUUNOVzYxaFpMd3M2Q09TSGpkVktTRTZTUmxzVDhQeFh5UkZCdng3d2RDalhqY1BCVmJXalBoRXJoM0w4VlIzSTM5RVhUcksxanQwLVFDOE9jbm5pVkhyYUl6MHQwZEpIdTdta1FpUWxQUWVrNjA3U29IcUdJUUR3NmpwTjZQdEZ0RU5BNm5aN0dSbnRXNWE4VEpzQXJ1M1ViQnp4RC1HNUxYcFpob3lQTA?oc=5",
+        "pubDate": "2018-09-05 07:00"
       },
       {
         "keyword": "英飞凌",
@@ -322,15 +402,15 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "Infineon Technologies Raised to Buy From Hold by Mwb Research - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTlzVjJ5SHExd1VHc0ZuUVpYdjlmLWFJY0ZvSjVldlU5cXY4S1h2dTl4aFV5MlB6UWlzWktyUVFpNGJRa3NvemVsNEI2TXNwLUY1Rk1BcDNjNDZxOG53OFZKa0hscmZWbktFUmpoVEZaWjc4QThQLTd1VWpVWHRkVjFDYXZmeVdKZHpRWHNxS2tfQ0JyZTg3Q2VwUk5nWUo1NkNR?oc=5",
-        "pubDate": "2026-11-10 15:12"
+        "title": "Infineon Technologies Raised to Buy From Hold by Mwb Research - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWVpCZ25TZFZJSnhLNHJqblFlelNqSXE0Nmpqb2N1dUVVWnZ1WEcySXQzZkVuanBwemV0Ujd4ZTNFVmFFWGVQTGx1eGczZVJWb3AyUGE5bWRRQXRKblVGRGJtUGNESHhkRmkxNU9fSnJGejhObjVxdExVSFlSOGUteW5UMmNFeU1ocTBQTDNjNkNaOW1CZktwVjZ0T3VWM2NYTmcyaUZteUgzZUM2NnlWa0R2bVRHME5IbWNZb0NsZUQyWTlFQnBhYndQU1FURTR3RDZmSXVNNzUtb1BZMHc?oc=5",
+        "pubDate": "2026-11-10 14:04"
       },
       {
         "keyword": "英飞凌",
-        "title": "陈立武投资的印度芯片公司，被英飞凌收购了 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUVWa2ZmaFpzSTc5VHJCY1hwei02bm5MNXZPYUY5cVB6UjZYRlBTMzktdVU1UFRhZ05BM2hzVmJQb0s1T2NWcGR1ZUZaQWV3N0I3Yk4xSHJlNU1RQlhIdFVERklSVUxlNjFDYlNzeEpFUnF5a0hBY2hBV0ZrNjNzX292LVo5T1RL?oc=5",
-        "pubDate": "2026-08-26 07:00"
+        "title": "Infineon Technologies Raised to Buy From Hold by Mwb Research - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTlzVjJ5SHExd1VHc0ZuUVpYdjlmLWFJY0ZvSjVldlU5cXY4S1h2dTl4aFV5MlB6UWlzWktyUVFpNGJRa3NvemVsNEI2TXNwLUY1Rk1BcDNjNDZxOG53OFZKa0hscmZWbktFUmpoVEZaWjc4QThQLTd1VWpVWHRkVjFDYXZmeVdKZHpRWHNxS2tfQ0JyZTg3Q2VwUk5nWUo1NkNR?oc=5",
+        "pubDate": "2026-11-10 15:12"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -376,15 +456,15 @@
       },
       {
         "keyword": "瑞萨",
-        "title": "Press Release: Renesas Reports Financial Results for the Third Quarter Ended September 30, 2026 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGhuWGNRYU1iRTJyaWd5OWN1QnhzNURkdVBlMzJoa3ExQldlNUJpRFpUOU8wWmh6WlZqOV9OUzVRcWd4OVR4am95UVVyazNUMF9NYnlIOWZvTG5GVXhCa05Val83MEFfVFIxTk5GQ3B3bGNTWDA4MFJyaU9CWDEyekpBeXZWN1FTOHdMczVEX1IxbUNoTncwenFWMzdwQk9uTVNXVEdoRWptdWxqME81V0VmSWJZZzdaNEE?oc=5",
-        "pubDate": "2026-10-28 07:00"
-      },
-      {
-        "keyword": "瑞萨",
         "title": "59亿美元！瑞萨正式宣布收购Dialog - 电子工程专辑EE Times China",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55dzcwMVlSSzUwNzR4dlBzdi1QZmlJM242N2VwNjVQNTJJUHV5T2tuWXk2c080RnMxaWd2b1FrS2tjUVFlUUlmdVZCaFRHZDFRSFE?oc=5",
         "pubDate": "2021-02-09 08:00"
+      },
+      {
+        "keyword": "瑞萨",
+        "title": "Press Release: Renesas Reports Financial Results for the Third Quarter Ended September 30, 2026 - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGhuWGNRYU1iRTJyaWd5OWN1QnhzNURkdVBlMzJoa3ExQldlNUJpRFpUOU8wWmh6WlZqOV9OUzVRcWd4OVR4am95UVVyazNUMF9NYnlIOWZvTG5GVXhCa05Val83MEFfVFIxTk5GQ3B3bGNTWDA4MFJyaU9CWDEyekpBeXZWN1FTOHdMczVEX1IxbUNoTncwenFWMzdwQk9uTVNXVEdoRWptdWxqME81V0VmSWJZZzdaNEE?oc=5",
+        "pubDate": "2026-10-28 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
