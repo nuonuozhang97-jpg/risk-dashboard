@@ -1,127 +1,141 @@
 {
-  "date": "2026-11-15",
-  "updated_at": "2026-11-15T04:34:23.332981+00:00",
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16T04:30:53.803692+00:00",
   "categories": {
     "earthquake": [
       {
         "magnitude": 4.8,
-        "place": "19公里 西北 Albardón 阿根廷",
-        "time": "2026-11-15 03:59",
-        "depth_km": 108.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "east central 太平洋 Ocean",
-        "time": "2026-11-14 22:23",
+        "place": "141公里 东南偏东 Petropavlovsk-Kamchatsky 俄罗斯",
+        "time": "2026-11-15 22:38",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyay",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "25公里 北 Ruteng 印度尼西亚",
-        "time": "2026-11-14 21:24",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyan",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "24公里 南 Yacuiba Bolivia",
-        "time": "2026-11-14 18:04",
-        "depth_km": 506.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "96公里 南东南 Pondaguitan 菲律宾",
-        "time": "2026-11-14 16:56",
-        "depth_km": 65.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9v",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.6,
-        "place": "62公里 西北偏西 San Antonio de los Cobres 阿根廷",
-        "time": "2026-11-14 16:36",
-        "depth_km": 197.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tygk",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "7公里 东南 Tagbina 菲律宾",
-        "time": "2026-11-14 16:04",
-        "depth_km": 154.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l",
+        "place": "44公里 南 Jurm Afghanistan",
+        "time": "2026-11-15 21:37",
+        "depth_km": 191.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "south the Kermadec Islands",
-        "time": "2026-11-14 13:17",
-        "depth_km": 12.0,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty90",
+        "magnitude": 5,
+        "place": "256公里 南东南 Ambon 印度尼西亚",
+        "time": "2026-11-15 20:51",
+        "depth_km": 306.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6",
         "tsunami": 0
       },
       {
-        "magnitude": 4.5,
-        "place": "137公里 东南 Petropavlovsk-Kamchatsky 俄罗斯",
-        "time": "2026-11-14 12:28",
-        "depth_km": 17.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty8u",
+        "magnitude": 5,
+        "place": "74公里 北 Pārūn Afghanistan",
+        "time": "2026-11-15 17:48",
+        "depth_km": 100.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.1,
+        "place": "169公里 西北 Gorontalo 印度尼西亚",
+        "time": "2026-11-15 15:41",
+        "depth_km": 487.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.6,
+        "place": "27公里 东南偏东 Union 菲律宾",
+        "time": "2026-11-15 14:17",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyes",
         "tsunami": 0
       },
       {
         "magnitude": 5.5,
-        "place": "northern 中大西洋海岭",
-        "time": "2026-11-14 09:26",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
+        "place": "9公里 东 Union 菲律宾",
+        "time": "2026-11-15 13:41",
+        "depth_km": 10.0,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
         "tsunami": 0
       },
       {
-        "magnitude": 4.6,
-        "place": "102公里 NNE Hihifo 汤加",
-        "time": "2026-11-14 07:02",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7h",
+        "magnitude": 4.7,
+        "place": "92公里 西北 Houma 汤加",
+        "time": "2026-11-15 07:36",
+        "depth_km": 177.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
         "tsunami": 0
       },
       {
-        "magnitude": 5.2,
-        "place": "State Yap Federated States Micronesia",
-        "time": "2026-11-14 06:52",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "West 智利 Rise",
-        "time": "2026-11-14 06:33",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "western 印度n-Antarctic Ridge",
-        "time": "2026-11-14 04:59",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
+        "magnitude": 5.5,
+        "place": "斐济 区域",
+        "time": "2026-11-15 05:15",
+        "depth_km": 469.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
         "tsunami": 0
       }
     ],
     "gdacs": [
       {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:9.971公里) 菲律宾 15/11/2026 13:41 , 30千 MMI VI.",
+        "description": "On 11/15/2026 1:41:35 PM, an earthquake occurred in Philippines potentially affecting 30 thousand in MMI VI. The earthquake had Magnitude 5.5M, Depth:9.971km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577487",
+        "pubDate": "2026-11-15 13:55"
+      },
+      {
+        "title": "绿色（低） 警报 for 热带气旋 XAVIER-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (0 Tropical Storm).",
+        "description": "From 15/11/2026 to 15/11/2026, a Tropical Storm (maximum wind speed of 167 km/h) XAVIER-26 was active in SEPacific. The cyclone affects these countries: Cook Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001350",
+        "pubDate": "2026-11-15 08:51"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.5级, 深度:469.881公里) 斐济 15/11/2026 05:15 , Few people affected 100km.",
+        "description": "On 11/15/2026 5:15:02 AM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.5M, Depth:469.881km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577445",
+        "pubDate": "2026-11-15 05:31"
+      },
+      {
         "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) Northern 中大西洋海岭 14/11/2026 09:26 , 未知.",
         "description": "On 11/14/2026 9:26:13 AM, an earthquake occurred in Northern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577321",
         "pubDate": "2026-11-14 09:43"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 South Sudan",
+        "description": "On 14/11/2026, a forest fire started in South Sudan,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033877",
+        "pubDate": "2026-11-16 04:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 14/11/2026, a forest fire started in Australia,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033878",
+        "pubDate": "2026-11-16 04:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Burkina Faso",
+        "description": "On 14/11/2026, a forest fire started in Burkina Faso,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033853",
+        "pubDate": "2026-11-15 08:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 14/11/2026, a forest fire started in Australia,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033858",
+        "pubDate": "2026-11-15 12:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 14/11/2026, a forest fire started in Australia,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033859",
+        "pubDate": "2026-11-15 12:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Niger, Burkina Faso",
+        "description": "On 14/11/2026, a forest fire started in Niger, Burkina Faso,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033869",
+        "pubDate": "2026-11-15 20:01"
       },
       {
         "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 秘鲁 13/11/2026 16:43 , 100千 MMI IV.",
@@ -130,82 +144,28 @@
         "pubDate": "2026-11-13 17:03"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 13/11/2026, a forest fire started in Australia,  until 13/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033825",
-        "pubDate": "2026-11-14 08:02"
+        "title": "绿色（低） 森林火灾 警报 South Sudan",
+        "description": "On 13/11/2026, a forest fire started in South Sudan,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033870",
+        "pubDate": "2026-11-16 04:03"
       },
       {
-        "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 巴布亚新几内亚 12/11/2026 22:04 , Few people affected ( 烈度≥VII级).",
-        "description": "On 11/12/2026 10:04:06 PM, an earthquake occurred in Papua New Guinea potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.8M, Depth:10km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577060",
-        "pubDate": "2026-11-12 22:20"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Burkina Faso",
-        "description": "On 12/11/2026, a forest fire started in Burkina Faso,  until 13/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033826",
-        "pubDate": "2026-11-14 04:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Burkina Faso",
-        "description": "On 12/11/2026, a forest fire started in Burkina Faso,  until 13/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033817",
-        "pubDate": "2026-11-13 20:01"
+        "title": "绿色（低） 森林火灾 警报 Chad",
+        "description": "On 13/11/2026, a forest fire started in Chad,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033871",
+        "pubDate": "2026-11-16 04:08"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 12/11/2026, a forest fire started in Australia,  until 14/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033833",
-        "pubDate": "2026-11-15 04:04"
+        "description": "On 13/11/2026, a forest fire started in Australia,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033860",
+        "pubDate": "2026-11-16 00:02"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 12/11/2026, a forest fire started in Australia,  until 14/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033830",
-        "pubDate": "2026-11-14 08:03"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 11/11/2026, a forest fire started in Australia,  until 14/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033831",
-        "pubDate": "2026-11-14 08:03"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 11/11/2026, a forest fire started in Australia,  until 14/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033834",
-        "pubDate": "2026-11-15 04:07"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Bolivia",
-        "description": "On 11/11/2026, a forest fire started in Bolivia,  until 14/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033835",
-        "pubDate": "2026-11-14 20:03"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 11/11/2026, a forest fire started in Australia,  until 14/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033836",
-        "pubDate": "2026-11-15 04:13"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 Sudan, South Sudan",
-        "description": "On 11/11/2026, a forest fire started in Sudan, South Sudan,  until 14/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033842",
-        "pubDate": "2026-11-14 17:06"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 11/11/2026, a forest fire started in Australia,  until 13/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033818",
-        "pubDate": "2026-11-13 20:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 11/11/2026, a forest fire started in Australia,  until 13/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033827",
-        "pubDate": "2026-11-14 08:04"
+        "title": "绿色（低） 森林火灾 警报 Nigeria",
+        "description": "On 13/11/2026, a forest fire started in Nigeria,  until 15/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033879",
+        "pubDate": "2026-11-16 04:08"
       }
     ],
     "typhoon": [],
@@ -217,91 +177,91 @@
     "forex": [
       {
         "pair": "美元/人民币",
-        "rate": 6.69,
-        "date": "2026-11-15"
+        "rate": 6.68,
+        "date": "2026-11-16"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1038,
-        "date": "2026-11-15"
+        "rate": 1.1025,
+        "date": "2026-11-16"
       },
       {
         "pair": "美元/日元",
         "rate": 159.78,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.3841,
-        "date": "2026-11-15"
+        "rate": 7.3649,
+        "date": "2026-11-16"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3228,
-        "date": "2026-11-15"
+        "rate": 1.321,
+        "date": "2026-11-16"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law",
-        "link": "https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/",
-        "pubDate": "Fri, 13 Nov 2026 07:37:16 +0000"
+        "title": "DRAM Revenue Nears $200B as AI Demand Drives Pricing Surge",
+        "link": "https://www.eetasia.com/dram-revenue-nears-200b-as-ai-demand-drives-pricing-surge/",
+        "pubDate": "Mon, 16 Nov 2026 04:07:43 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Lattice, NXP Pair i.MX 95 Processors With Nexus FPGAs for Industrial Edge",
-        "link": "https://www.eetasia.com/lattice-nxp-pair-i-mx-95-processors-with-nexus-fpgas-for-industrial-edge/",
-        "pubDate": "Fri, 13 Nov 2026 06:39:47 +0000"
+        "title": "UCIe Consortium Releases UCIe 4.0 Specs",
+        "link": "https://www.eetasia.com/ucie-consortium-releases-ucie-4-0-specs/",
+        "pubDate": "Mon, 16 Nov 2026 03:44:06 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "FiRa Consortium Sets Up Japan Committee to Support UWB Technology Adoption",
-        "link": "https://www.eetasia.com/fira-consortium-sets-up-japan-committee-to-support-uwb-technology-adoption/",
-        "pubDate": "Fri, 13 Nov 2026 06:23:58 +0000"
+        "title": "Axelera AI Targets Data Center Inference with Third-Gen Titania Architecture",
+        "link": "https://www.eetasia.com/axelera-ai-targets-data-center-inference-with-third-gen-titania-architecture/",
+        "pubDate": "Mon, 16 Nov 2026 03:34:14 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "PsiQuantum, AMD Expand Partnership on Quantum Computing Infrastructure",
-        "link": "https://www.eetasia.com/psiquantum-amd-expand-partnership-on-quantum-computing-infrastructure/",
-        "pubDate": "Fri, 13 Nov 2026 06:14:04 +0000"
+        "title": "Intel, RadixArk Optimize SGLang for AI Inference on Intel Platforms",
+        "link": "https://www.eetasia.com/intel-radixark-optimize-sglang-for-ai-inference-on-intel-platforms/",
+        "pubDate": "Mon, 16 Nov 2026 03:30:15 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Siemens, NVIDIA Develop AI-Based Virtual PCB Inspection Workflow",
-        "link": "https://www.eetasia.com/siemens-nvidia-develop-ai-based-virtual-pcb-inspection-workflow/",
-        "pubDate": "Thu, 12 Nov 2026 04:34:17 +0000"
+        "title": "Digilent ADP2230 Same Great 12 in 1 Tool — Now at a Lower Price",
+        "link": "https://www.eetasia.com/digilent-adp2230-same-great-12-in-1-tool-now-at-a-lower-price/",
+        "pubDate": "Mon, 16 Nov 2026 03:01:25 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "CEO Interview with Kurt Busch of Syntiant",
+        "link": "https://semiwiki.com/ceo-interviews/376259-ceo-interview-with-kurt-busch-of-syntiant/",
+        "pubDate": "Sun, 15 Nov 2026 20:00:41 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "IEDM 2026 Reveals New Paths to Faster, More Efficient AI",
+        "link": "https://semiwiki.com/events/376230-iedm-2026-reveals-new-paths-to-faster-more-efficient-ai/",
+        "pubDate": "Sun, 15 Nov 2026 18:00:47 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "CEO Interview with Daisuke Okanohara of Matlantis",
+        "link": "https://semiwiki.com/ceo-interviews/376079-ceo-interview-with-daisuke-okanohara-of-matlantis/",
+        "pubDate": "Sun, 15 Nov 2026 16:00:20 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "After Jensen: A Window for Nvidia’s Rivals, a Problem for Its Suppliers",
+        "link": "https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/",
+        "pubDate": "Sun, 15 Nov 2026 14:00:58 +0000"
       },
       {
         "source": "SemiWiki",
         "title": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout",
         "link": "https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/",
         "pubDate": "Fri, 13 Nov 2026 17:00:32 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Jensen Huang and the Cost of Unchecked Influence",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/",
-        "pubDate": "Fri, 13 Nov 2026 13:00:18 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "CTO Interview with Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA",
-        "link": "https://semiwiki.com/eda/siemens-eda/376086-cto-interview-with-uan-rey-senior-vp-and-general-manager-of-calibre-and-cto-of-siemens-eda/",
-        "pubDate": "Thu, 12 Nov 2026 20:00:22 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
-        "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
-        "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Bring Your Innovation to Silicon Valley at DAC 2027",
-        "link": "https://semiwiki.com/events/375295-bring-your-innovation-to-silicon-valley-at-dac-2027/",
-        "pubDate": "Thu, 12 Nov 2026 14:00:40 +0000"
       }
     ],
     "china_policy": [
@@ -324,15 +284,9 @@
       },
       {
         "keyword": "德州仪器(TI)",
-        "title": "Texas Instruments Hasn’t Axed Any China Staff, Will Continue to Invest in China, Unit Says - 一财全球Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3A3SEkxdGJnam0yaURjVkJEcnlNblo1OWpwZjQ4cWh6N3RwU05DYlllNVZ5NGVENTl5WklrcFlfX3k4Q2pFdkUzZFVHR0NnTE9nZy1jWTZiYVQ0cThvWDlpelM4cDRCaFFCM3k3dWdLUC14U2V3cGk5MGR4MHRJOVRFUHR4ZEltcDBBQ3RoSlhtVkxKYlRCWWlXMy04aHQyemN1N04xOTI2LU55ZjhwZUY3a1ZCVnNNRjlQcg?oc=5",
-        "pubDate": "2022-05-09 07:00"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
-        "title": "贸泽开售NXP Semiconductors全新Ara240独立神经处理单元 - 电子工程世界（EEWorld）",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RHJMcXd2ZFd5akZXTk1hVTlBQzVDNGtxMFFMVVhmSDRfaWJuNmpSUTZZSGlnYjZib1VkSnlqbWZrTlNXaWdJYWZrWG90SEJHS3RMRGFJNVA?oc=5",
-        "pubDate": "2026-10-29 07:00"
+        "title": "德州仪器拟议收购Silicon Labs获新加坡竞争监管机构批准 - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQak42SE5vNDBSbUJmdVFLWS1FZUVBdHZZRFo3aWRidE44dHhtbjdSdEJlWXhYTUlDZV9EVFhVTWIzYnJtQ0ZJNlpwdVRNR2M3UVFxUlJDTnVHZjMyRmlob0NlTC1DQnptaEpRSk9PeXRhQ2NpSWk1ZHNvNzFmQ1JKTzNYWnQwNTFZUjkybVFCbzhzcGJxclhzeXlkQ3EyMFZwUFJYc0VRN2VHd2xaMHd4R1l1TXIxN1FIdGVFeG1oZ21KWTQ0WF9YclY4cmFqbnhUTUNnSTlaTGFTR2ZocWlHazllOA?oc=5",
+        "pubDate": "2026-08-07 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
@@ -345,6 +299,12 @@
         "title": "NXP Semiconductors to Focus on Auto Electronics, IoT Businesses in China, Local Head Says - 一财全球Yicai Global",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXRJak1QY1RGSjJpUUNOVzYxaFpMd3M2Q09TSGpkVktTRTZTUmxzVDhQeFh5UkZCdng3d2RDalhqY1BCVmJXalBoRXJoM0w4VlIzSTM5RVhUcksxanQwLVFDOE9jbm5pVkhyYUl6MHQwZEpIdTdta1FpUWxQUWVrNjA3U29IcUdJUUR3NmpwTjZQdEZ0RU5BNm5aN0dSbnRXNWE4VEpzQXJ1M1ViQnp4RC1HNUxYcFpob3lQTA?oc=5",
         "pubDate": "2018-09-05 07:00"
+      },
+      {
+        "keyword": "恩智浦(NXP)",
+        "title": "TSMC, Bosch, Infineon, and NXP Establish Joint Venture to Bring Advanced Semiconductor Manufacturing to Europe - TSMC",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EWUtxWkI0Q1YtTDZtZFFidXZtS2lJRUhhNjZhOGJuaXNwRWdkTTg5ejZkY0dFZEJYaXkyY3F1ZDZfWS1jcDFBZGJMUlJpTnc?oc=5",
+        "pubDate": "2023-08-08 07:00"
       },
       {
         "keyword": "英飞凌",
@@ -426,15 +386,15 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "Microchip Technology 股票价格：MCHP股票走势图、市值与今日新闻 - CoinGecko",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96MTJlc21KZlpqbE5xYk9lZ19OalhvQ2EwWWlKTmViTDYtQ0lLaml4aWVsMDUyQkNvWnVJMUZCVGs4ZjhoMlFKZ0Eyc1dXYVFBWXd4MDk4T0VGQXlBWl9SX3J4bDloeDg?oc=5",
-        "pubDate": "2026-10-11 11:24"
+        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
+        "pubDate": "2026-10-19 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "以太网PHY芯片市场规模及份额，2036年行业报告 - Research Nester",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83cU1uU1M5X2N5MDFZNHQxRjFNODRnY3hycXV0Q1lRaGFDTjIxc3NpTmdzajE3MUs4SUZLZDZXUmVRZzU5NzVaeEEwcnZVdk9HRmwzSm5VZ3d6VnJEeFJuX3FvWklEa0tRUnFQeFRUNnVaOG5NZ21JNjd1QQ?oc=5",
-        "pubDate": "2026-08-31 07:00"
+        "title": "Microchip与Navitas携手推动数据中心迈向800V电源架构 - DIGITIMES",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0TVJtRmo1VnUyUjkza1pITFhhaWprcW8tbTRENHh6N3Q0V1dvak1YT3RzbTR2ckhvd09MMldZSi1mU1hEa1p6Z2hjcU5VUkhlZHNCQkVyNEhUYm5HNDlmMEJUejdxcVZBVWJMVTVWeTl0aHlmS19JakxUYw?oc=5",
+        "pubDate": "2026-10-22 07:00"
       }
     ]
   }
