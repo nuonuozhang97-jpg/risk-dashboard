@@ -1,154 +1,134 @@
 {
-  "date": "2026-11-18",
-  "updated_at": "2026-11-18T05:43:00.560380+00:00",
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19T05:42:07.129456+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 5.2,
-        "place": "Galapagos Triple Junction 区域",
-        "time": "2026-11-18 05:25",
+        "magnitude": 4.9,
+        "place": "36公里 NNE Kilimatinde Tanzania",
+        "time": "2026-11-19 02:11",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxz",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.8,
-        "place": "40公里 北 Ruteng 印度尼西亚",
-        "time": "2026-11-18 04:41",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
         "tsunami": 0
       },
       {
         "magnitude": 5.2,
-        "place": "54公里 NNE Ruteng 印度尼西亚",
-        "time": "2026-11-18 04:21",
+        "place": "130公里 西 Teluk Dalam 印度尼西亚",
+        "time": "2026-11-19 01:34",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxc",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.8,
-        "place": "99公里 东南偏东 Madang 巴布亚新几内亚",
-        "time": "2026-11-18 03:42",
-        "depth_km": 52.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "134公里 东北偏东 Nabire 印度尼西亚",
-        "time": "2026-11-18 03:23",
+        "place": "40公里 NNE Kilimatinde Tanzania",
+        "time": "2026-11-19 01:29",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.8,
-        "place": "150公里 西南 Merizo Village Guam",
-        "time": "2026-11-18 02:22",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "16公里 东南偏东 Comandău Romania",
-        "time": "2026-11-18 00:48",
-        "depth_km": 130.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.3,
-        "place": "7公里 东南 Karakenja Tajikistan",
-        "time": "2026-11-18 00:46",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw6",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "Owen Fracture 区域 区域",
-        "time": "2026-11-17 23:25",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyvt",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "26公里 西北 Port-Vila Vanuatu",
-        "time": "2026-11-17 18:15",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tytz",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
         "tsunami": 0
       },
       {
         "magnitude": 4.8,
-        "place": "141公里 西北 Kavieng 巴布亚新几内亚",
-        "time": "2026-11-17 16:35",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt9",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "135公里 南 Vilyuchinsk 俄罗斯",
-        "time": "2026-11-17 15:49",
-        "depth_km": 83.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt4",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.9,
-        "place": "102公里 东北偏东 Ozernovskiy 俄罗斯",
-        "time": "2026-11-17 15:48",
-        "depth_km": 87.3,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt3",
+        "place": "11公里 西南偏南 Santa Gertrudis Miramar 墨西哥",
+        "time": "2026-11-18 22:06",
+        "depth_km": 35,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubwa",
         "tsunami": 0
       },
       {
         "magnitude": 5.2,
-        "place": "south the Kermadec Islands",
-        "time": "2026-11-17 14:20",
-        "depth_km": 337.1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysq",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "95公里 西 Alotau 巴布亚新几内亚",
-        "time": "2026-11-17 12:26",
+        "place": "169公里 南 Attu Station Alaska",
+        "time": "2026-11-18 21:28",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysa",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubw3",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "134公里 西南 Lorengau 巴布亚新几内亚",
+        "time": "2026-11-18 20:38",
+        "depth_km": 16.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubvu",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 6.1,
+        "place": "太平洋-Antarctic Ridge",
+        "time": "2026-11-18 19:14",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
         "tsunami": 0
       },
       {
         "magnitude": 4.5,
-        "place": "8公里 西北偏西 Piti Village Guam",
-        "time": "2026-11-17 11:12",
-        "depth_km": 106.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysm",
+        "place": "23公里 西南偏南 Ollagüe 智利",
+        "time": "2026-11-18 18:46",
+        "depth_km": 133.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "46公里 NNE Kilimatinde Tanzania",
+        "time": "2026-11-18 18:08",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz2w",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.3,
+        "place": "4公里 北西北 Tsunagi 日本",
+        "time": "2026-11-18 17:22",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.3,
+        "place": "149公里 西南偏南 Merizo Village Guam",
+        "time": "2026-11-18 16:06",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a",
         "tsunami": 0
       },
       {
         "magnitude": 4.9,
-        "place": "173公里 东北偏东 Noda 日本",
-        "time": "2026-11-17 10:32",
-        "depth_km": 26.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrw",
+        "place": "West 智利 Rise",
+        "time": "2026-11-18 11:10",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyza",
         "tsunami": 0
       },
       {
-        "magnitude": 4.9,
-        "place": "43公里 西北 Oxford 新西兰",
-        "time": "2026-11-17 10:30",
-        "depth_km": 14.2,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrv",
+        "magnitude": 5.2,
+        "place": "86公里 西北 Ryōtsu-minato 日本",
+        "time": "2026-11-18 09:37",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyw",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.9,
+        "place": "85公里 西北偏西 San Juan 秘鲁",
+        "time": "2026-11-18 06:07",
+        "depth_km": 21.9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8",
         "tsunami": 0
       }
     ],
     "gdacs": [
+      {
+        "title": "绿色（低） 地震 (震级6.1级, 深度:10公里) 太平洋-Antarctic Ridge 18/11/2026 19:14 , 未知.",
+        "description": "On 11/18/2026 7:14:23 PM, an earthquake occurred in Pacific-Antarctic Ridge potentially affecting [unknown]. The earthquake had Magnitude 6.1M, Depth:10km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578046",
+        "pubDate": "2026-11-18 19:35"
+      },
+      {
+        "title": "绿色（低） 地震 (震级5.9级, 深度:21.895公里) 秘鲁 18/11/2026 06:07 , 40千 MMI IV.",
+        "description": "On 11/18/2026 6:07:42 AM, an earthquake occurred in Peru potentially affecting 40 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:21.895km.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577946",
+        "pubDate": "2026-11-18 06:23"
+      },
       {
         "title": "绿色（低） 地震 (震级5.8级, 深度:10公里) 印度尼西亚 18/11/2026 04:41 , 6千 ( 烈度≥VII级).",
         "description": "On 11/18/2026 4:41:32 AM, an earthquake occurred in Indonesia potentially affecting 6 thousand (in MMI>=VII). The earthquake had Magnitude 5.8M, Depth:10km.",
@@ -168,22 +148,34 @@
         "pubDate": "2026-11-18 02:34"
       },
       {
+        "title": "绿色（低） 森林火灾 警报 南非",
+        "description": "On 17/11/2026, a forest fire started in South Africa,  until 18/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033939",
+        "pubDate": "2026-11-18 08:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Botswana",
+        "description": "On 17/11/2026, a forest fire started in Botswana,  until 18/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033946",
+        "pubDate": "2026-11-19 04:01"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 17/11/2026, a forest fire started in Australia,  until 18/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033942",
+        "pubDate": "2026-11-18 20:02"
+      },
+      {
         "title": "绿色（低） 地震 (震级6.6级, 深度:68公里) 印度尼西亚 16/11/2026 21:11 , 6千 MMI V.",
         "description": "On 11/16/2026 9:11:17 PM, an earthquake occurred in Indonesia potentially affecting 6 thousand in MMI V. The earthquake had Magnitude 6.6M, Depth:68km.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577696",
         "pubDate": "2026-11-16 21:26"
       },
       {
-        "title": "橙色（中） 警报 for 热带气旋 AKVAN-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (15.432 million Tropical Storm).",
-        "description": "From 16/11/2026 to 18/11/2026, a Tropical Storm (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (15.432 million in tropical storm).",
+        "title": "橙色（中） 警报 for 热带气旋 AKVAN-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 0 (39.362 million Tropical Storm).",
+        "description": "From 16/11/2026 to 19/11/2026, a Tropical Storm (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (39.362 million in tropical storm).",
         "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001351",
         "pubDate": "2026-11-16 20:06"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 16/11/2026, a forest fire started in Australia,  until 17/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033916",
-        "pubDate": "2026-11-17 20:02"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
@@ -193,51 +185,27 @@
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 16/11/2026, a forest fire started in Australia,  until 18/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033943",
+        "pubDate": "2026-11-18 20:02"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 16/11/2026, a forest fire started in Australia,  until 17/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033907",
-        "pubDate": "2026-11-18 04:01"
+        "pubDate": "2026-11-19 04:04"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 16/11/2026, a forest fire started in Australia,  until 17/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033916",
+        "pubDate": "2026-11-17 20:02"
       },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:9.971公里) 菲律宾 15/11/2026 13:41 , 30千 MMI VI.",
         "description": "On 11/15/2026 1:41:35 PM, an earthquake occurred in Philippines potentially affecting 30 thousand in MMI VI. The earthquake had Magnitude 5.5M, Depth:9.971km.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577487",
         "pubDate": "2026-11-15 13:55"
-      },
-      {
-        "title": "绿色（低） 警报 for 热带气旋 XAVIER-26. 受影响人口（等级 1 (120 公里/小时) 及以上风速） 130 .",
-        "description": "From 15/11/2026 to 17/11/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 241 km/h) XAVIER-26 was active in SEPacific. The cyclone affects these countries: Cook Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 130 .",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001350",
-        "pubDate": "2026-11-15 08:51"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.5级, 深度:469.881公里) 斐济 15/11/2026 05:15 , Few people affected 100km.",
-        "description": "On 11/15/2026 5:15:02 AM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.5M, Depth:469.881km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577445",
-        "pubDate": "2026-11-15 05:31"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 南非",
-        "description": "On 15/11/2026, a flood started in South Africa, lasting until 17/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104286",
-        "pubDate": "2026-11-17 07:24"
-      },
-      {
-        "title": "绿色（低） 洪水 警报 西班牙",
-        "description": "On 15/11/2026, a flood started in Spain, lasting until 17/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104287",
-        "pubDate": "2026-11-17 07:43"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 15/11/2026, a forest fire started in Australia,  until 17/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033937",
-        "pubDate": "2026-11-18 04:02"
-      },
-      {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 15/11/2026, a forest fire started in Australia,  until 16/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033899",
-        "pubDate": "2026-11-17 00:02"
       }
     ],
     "typhoon": [],
@@ -250,90 +218,90 @@
       {
         "pair": "美元/人民币",
         "rate": 6.68,
-        "date": "2026-11-18"
+        "date": "2026-11-19"
       },
       {
         "pair": "欧元/美元",
-        "rate": 1.1001,
-        "date": "2026-11-18"
+        "rate": 1.0977,
+        "date": "2026-11-19"
       },
       {
         "pair": "美元/日元",
-        "rate": 159.39,
-        "date": "2026-11-18"
+        "rate": 159.36,
+        "date": "2026-11-19"
       },
       {
         "pair": "欧元/人民币",
-        "rate": 7.3487,
-        "date": "2026-11-18"
+        "rate": 7.3326,
+        "date": "2026-11-19"
       },
       {
         "pair": "英镑/美元",
-        "rate": 1.3193,
-        "date": "2026-11-18"
+        "rate": 1.3158,
+        "date": "2026-11-19"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "Morse Micro Module Certified for Japan’s Higher-power 850MHz Wi-Fi HaLow Band",
-        "link": "https://www.eetasia.com/morse-micro-module-certified-for-japans-higher-power-850mhz-wi-fi-halow-band/",
-        "pubDate": "Wed, 18 Nov 2026 01:53:45 +0000"
+        "title": "From Intelligence to Action: 2026 AI Forum Explores New Business Opportunities in AI Deployment",
+        "link": "https://www.eetasia.com/from-intelligence-to-action-2026-ai-forum-explores-new-business-opportunities-in-ai-deployment/",
+        "pubDate": "Thu, 19 Nov 2026 04:46:52 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Semiconductor Equipment Market Forecast to Reach $372B by 2033",
-        "link": "https://www.eetasia.com/semiconductor-equipment-market-forecast-to-reach-372b-by-2033/",
-        "pubDate": "Wed, 18 Nov 2026 00:38:24 +0000"
+        "title": "Staera Semiconductor Raises $4.6M for Integrated Optical Interconnect Technology",
+        "link": "https://www.eetasia.com/staera-semiconductor-raises-4-6m-for-integrated-optical-interconnect-technology/",
+        "pubDate": "Thu, 19 Nov 2026 03:53:41 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Lam Research Pledges $15M to Expand STEM Education with LEGO",
-        "link": "https://www.eetasia.com/lam-research-pledges-15m-to-expand-stem-education-with-lego/",
-        "pubDate": "Wed, 18 Nov 2026 00:33:03 +0000"
+        "title": "Expedera, Cadence Demonstrate Combined NPU and AI Co-Processor Subsystem",
+        "link": "https://www.eetasia.com/expedera-cadence-demonstrate-combined-npu-and-ai-co-processor-subsystem/",
+        "pubDate": "Thu, 19 Nov 2026 03:37:09 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Polar Light, Foxconn Sign Agreement on MicroLED Optical Interconnects",
-        "link": "https://www.eetasia.com/polar-light-foxconn-sign-agreement-on-microled-optical-interconnects/",
-        "pubDate": "Wed, 18 Nov 2026 00:28:49 +0000"
+        "title": "Mouser Expands Industrial Automation Inventory for Smart Factory and Robotics Markets",
+        "link": "https://www.eetasia.com/mouser-expands-industrial-automation-inventory-for-smart-factory-and-robotics-markets/",
+        "pubDate": "Thu, 19 Nov 2026 03:26:00 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Intel, Altera Develop FPGA-based Sensor Bridge for Edge AI Systems",
-        "link": "https://www.eetasia.com/intel-altera-develop-fpga-based-sensor-bridge-for-edge-ai-systems/",
-        "pubDate": "Wed, 18 Nov 2026 00:18:38 +0000"
+        "title": "JEDEC DDR6 Targets 12.8GT/s Initial Data Rate, 96-bit Bus",
+        "link": "https://www.eetasia.com/jedec-ddr6-targets-12-8gt-s-initial-data-rate-96-bit-bus/",
+        "pubDate": "Thu, 19 Nov 2026 03:19:23 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "CTO Interview with Paweł Banachowicz of Silicon Creations",
-        "link": "https://semiwiki.com/ip/silicon-creations/375932-cto-interview-with-pawel-banachowicz-of-silicon-creations/",
-        "pubDate": "Tue, 17 Nov 2026 20:00:50 +0000"
+        "title": "Semiconductor Market Doubling in 2026 – Last Issue",
+        "link": "https://semiwiki.com/semiconductor-services/semiconductor-intelligence/376566-semiconductor-market-doubling-in-2026-last-issue/",
+        "pubDate": "Wed, 18 Nov 2026 22:00:39 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "Can Faster HBM Solve AI’s Memory Bottleneck?",
-        "link": "https://semiwiki.com/3dic/376277-can-faster-hbm-solve-ais-memory-bottleneck/",
-        "pubDate": "Tue, 17 Nov 2026 18:00:22 +0000"
+        "title": "CTO Interview with Dr. Valerio Tenace of ChipNexus",
+        "link": "https://semiwiki.com/eda/chipnexus/376283-cto-interview-with-dr-valerio-tenace-of-chipnexus/",
+        "pubDate": "Wed, 18 Nov 2026 20:00:27 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "The Anatomy of a Convergence Delta: Closing the Correlation Gap Between P&R and Sign-Off",
-        "link": "https://semiwiki.com/eda/376206-the-anatomy-of-a-convergence-delta-closing-the-correlation-gap-between-pr-and-sign-off/",
-        "pubDate": "Tue, 17 Nov 2026 14:00:28 +0000"
+        "title": "Physics Over Probability: How Agentic AI Solves Electronic Systems Verification",
+        "link": "https://semiwiki.com/3dic/376374-physics-over-probability-how-agentic-ai-solves-electronic-systems-verification/",
+        "pubDate": "Wed, 18 Nov 2026 18:00:29 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "CXO Interview with Vishal Moondhra of Perforce IPLM",
-        "link": "https://semiwiki.com/eda/perforce/375968-cxo-interview-with-vishal-moondhra-of-perforce-iplm/",
-        "pubDate": "Mon, 16 Nov 2026 20:00:27 +0000"
+        "title": "Is AI Ready to Help Chip Teams Get the Architecture Right?",
+        "link": "https://semiwiki.com/eda/undo/376342-is-ai-ready-to-help-chip-teams-get-the-architecture-right/",
+        "pubDate": "Wed, 18 Nov 2026 16:00:33 +0000"
       },
       {
         "source": "SemiWiki",
-        "title": "The AI-First Platform the Disaggregated Semiconductor Industry Needs",
-        "link": "https://semiwiki.com/eda/pdf-solutions/376330-the-ai-first-platform-the-disaggregated-semiconductor-industry-needs/",
-        "pubDate": "Mon, 16 Nov 2026 18:00:06 +0000"
+        "title": "PDF Solutions: Has the Puck Finally Arrived?",
+        "link": "https://semiwiki.com/eda/pdf-solutions/376337-pdf-solutions-has-the-puck-finally-arrived/",
+        "pubDate": "Wed, 18 Nov 2026 14:00:31 +0000"
       }
     ],
     "china_policy": [
@@ -344,15 +312,15 @@
     "competitor_news": [
       {
         "keyword": "德州仪器(TI)",
-        "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑EE Times China",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
-        "pubDate": "2026-02-04 08:00"
+        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
+        "pubDate": "2026-07-14 07:00"
       },
       {
         "keyword": "德州仪器(TI)",
-        "title": "Texas Instruments’ Price Cuts Will Put Strain On Lower End of China’s Chip Market, Insider Says - 一财全球Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVFcxa2Rvb3pRRnJKUDV6dzJ6TXY4VnJJbURpbHZBaU9rRENwVWxZRDVPTHlUN28tc1lrcGV2UXlaV1RYdUF5cHcyVm55cU5aaHVMZG9pbVhVcVgxd1ZWU3dSVld6bk1FcmQ5TF9tNU5meGJGcmpOZHN4N09jM3hnVndfcjVUZjJ4OG5KQkFvOFpVd0hTNXcwQnVqTEk5S0ZxeHJBWXVUM214Z2VmYW00REJQZHRkQVdPU09tT3JHZ01QSTJQUVpXZk1yY1dScGZPa1Nz?oc=5",
-        "pubDate": "2023-06-01 07:00"
+        "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑EE Times China",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRkUxREJmWkVFMTF2ZUJpNTZ1SUtjUENUcXZiVWU3TEZEYlZ2VWhmbXBBaG5aaENnNjB6am5taDdhUlpfUjZMRjVEdjhNeEZ6Z3hENE5MMFltWEUx?oc=5",
+        "pubDate": "2026-02-04 08:00"
       },
       {
         "keyword": "德州仪器(TI)",
@@ -392,9 +360,9 @@
       },
       {
         "keyword": "英飞凌",
-        "title": "德国半导体公司英飞凌准备启用耗资50亿欧元的半导体工厂，7月2日正式投产 - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPX2dXWjVMMGIwc2xaM09IMFdnT2dUdTFhXzFzemNtNDBORjJCUnpSVzhEZUtvaFlUN0hJTF9rWjI1UHlZTDRZNGlqTU1BdlpBWEZWX3NXaHRrVUZaTGxud2NBV3BLMGM?oc=5",
-        "pubDate": "2026-06-12 07:00"
+        "title": "高位套现，英飞凌75亿元出售存储器业务！ - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqR3oyN2lHZDRpbi1LM2k1VzY1aS1jN29RM2drV3dpRnkwTXZMQ3VQM1hVZlpHWG1ncW5BMVhKMkczU3I0RFRoZklpaEgtUDNNWWlJ?oc=5",
+        "pubDate": "2026-09-17 07:00"
       },
       {
         "keyword": "意法半导体(ST)",
@@ -464,9 +432,9 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "Microchip与Navitas携手推动数据中心迈向800V电源架构 - DIGITIMES",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0TVJtRmo1VnUyUjkza1pITFhhaWprcW8tbTRENHh6N3Q0V1dvak1YT3RzbTR2ckhvd09MMldZSi1mU1hEa1p6Z2hjcU5VUkhlZHNCQkVyNEhUYm5HNDlmMEJUejdxcVZBVWJMVTVWeTl0aHlmS19JakxUYw?oc=5",
-        "pubDate": "2026-10-22 07:00"
+        "title": "以太网PHY芯片市场规模及份额，2036年行业报告 - Research Nester",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83cU1uU1M5X2N5MDFZNHQxRjFNODRnY3hycXV0Q1lRaGFDTjIxc3NpTmdzajE3MUs4SUZLZDZXUmVRZzU5NzVaeEEwcnZVdk9HRmwzSm5VZ3d6VnJEeFJuX3FvWklEa0tRUnFQeFRUNnVaOG5NZ21JNjd1QQ?oc=5",
+        "pubDate": "2026-08-31 07:00"
       }
     ]
   }
