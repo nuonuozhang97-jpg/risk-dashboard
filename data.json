@@ -1,94 +1,62 @@
 {
-  "date": "2026-11-25",
-  "updated_at": "2026-11-25T06:44:55.172140+00:00",
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T06:36:20.648721+00:00",
   "categories": {
     "earthquake": [
       {
-        "magnitude": 4.7,
-        "place": "178公里 东南偏东 Kimbe 巴布亚新几内亚",
-        "time": "2026-11-25 04:30",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uddj",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5.9,
-        "place": "Balleny Islands 区域",
-        "time": "2026-11-25 01:38",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udd1",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "2公里 北西北 Cabatuan 菲律宾",
-        "time": "2026-11-24 23:29",
-        "depth_km": 35.8,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udck",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.5,
-        "place": "64公里 西 San Juan 秘鲁",
-        "time": "2026-11-24 22:36",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udcc",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 5,
-        "place": "209公里 东南 Kokopo 巴布亚新几内亚",
-        "time": "2026-11-24 21:11",
-        "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udbn",
-        "tsunami": 0
-      },
-      {
         "magnitude": 4.6,
-        "place": "49公里 西南 Ovalle 智利",
-        "time": "2026-11-24 20:27",
-        "depth_km": 50.9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udb8",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.7,
-        "place": "18公里 东南偏东 Güvercinlik 土耳其",
-        "time": "2026-11-24 15:39",
+        "place": "97公里 西南 Puerto Madero 墨西哥",
+        "time": "2026-11-26 03:30",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7z",
-        "tsunami": 0
-      },
-      {
-        "magnitude": 4.8,
-        "place": "71公里 西 Vallenar 智利",
-        "time": "2026-11-24 13:22",
-        "depth_km": 33.4,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7h",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udki",
         "tsunami": 0
       },
       {
         "magnitude": 5,
-        "place": "24公里 西北偏西 Piti Village Guam",
-        "time": "2026-11-24 11:55",
-        "depth_km": 107.6,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud73",
+        "place": "184公里 北 Hicks Bay 新西兰",
+        "time": "2026-11-26 02:09",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjz",
         "tsunami": 0
       },
       {
         "magnitude": 5.2,
-        "place": "93公里 WSW Puerto Madero 墨西哥",
-        "time": "2026-11-24 11:51",
-        "depth_km": 35,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6z",
+        "place": "183公里 北 Hicks Bay 新西兰",
+        "time": "2026-11-26 01:48",
+        "depth_km": 12.7,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjx",
         "tsunami": 0
       },
       {
-        "magnitude": 6.4,
-        "place": "Mauritius - Reunion 区域",
-        "time": "2026-11-24 11:06",
+        "magnitude": 4.8,
+        "place": "190公里 北 Hicks Bay 新西兰",
+        "time": "2026-11-25 21:32",
         "depth_km": 10,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udib",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 4.7,
+        "place": "13公里 西北 Port-Vila Vanuatu",
+        "time": "2026-11-25 18:59",
+        "depth_km": 51.5,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udht",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5,
+        "place": "67公里 NNE Luwuk 印度尼西亚",
+        "time": "2026-11-25 12:08",
+        "depth_km": 106.4,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udf2",
+        "tsunami": 0
+      },
+      {
+        "magnitude": 5.3,
+        "place": "83公里 东南偏东 Hengchun 台湾",
+        "time": "2026-11-25 08:47",
+        "depth_km": 10,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udef",
         "tsunami": 0
       }
     ],
@@ -115,7 +83,13 @@
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 24/11/2026, a forest fire started in Australia,  until 24/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034058",
-        "pubDate": "2026-11-25 04:00"
+        "pubDate": "2026-11-25 08:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 Benin, Burkina Faso",
+        "description": "On 24/11/2026, a forest fire started in Benin, Burkina Faso,  until 25/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034078",
+        "pubDate": "2026-11-25 20:00"
       },
       {
         "title": "绿色（低） 地震 (震级5.5级, 深度:10公里) West Of Macquarie Island 23/11/2026 08:01 , 未知.",
@@ -131,15 +105,27 @@
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
+        "description": "On 23/11/2026, a forest fire started in Australia,  until 24/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034059",
+        "pubDate": "2026-11-25 04:00"
+      },
+      {
+        "title": "绿色（低） 森林火灾 警报 澳大利亚",
         "description": "On 23/11/2026, a forest fire started in Australia,  until 23/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034037",
         "pubDate": "2026-11-23 20:00"
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 23/11/2026, a forest fire started in Australia,  until 24/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034059",
-        "pubDate": "2026-11-25 04:00"
+        "description": "On 23/11/2026, a forest fire started in Australia,  until 25/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034063",
+        "pubDate": "2026-11-26 00:00"
+      },
+      {
+        "title": "绿色（低） 洪水 警报 Uganda",
+        "description": "On 22/11/2026, a flood started in Uganda, lasting until 24/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104299",
+        "pubDate": "2026-11-25 07:17"
       },
       {
         "title": "绿色（低） 洪水 警报 Ireland",
@@ -154,12 +140,6 @@
         "pubDate": "2026-11-23 13:55"
       },
       {
-        "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 22/11/2026, a forest fire started in Australia,  until 24/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034046",
-        "pubDate": "2026-11-24 08:01"
-      },
-      {
         "title": "绿色（低） 森林火灾 警报 Bolivia",
         "description": "On 22/11/2026, a forest fire started in Bolivia,  until 23/11/2026.",
         "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034027",
@@ -167,21 +147,9 @@
       },
       {
         "title": "绿色（低） 森林火灾 警报 澳大利亚",
-        "description": "On 22/11/2026, a forest fire started in Australia,  until 23/11/2026.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034028",
-        "pubDate": "2026-11-25 04:00"
-      },
-      {
-        "title": "绿色（低） 地震 (震级5.9级, 深度:10公里) 中国 21/11/2026 10:45 , Few people affected ( 烈度≥VII级).",
-        "description": "On 11/21/2026 10:45:33 AM, an earthquake occurred in China potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.9M, Depth:10km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578540",
-        "pubDate": "2026-11-21 11:02"
-      },
-      {
-        "title": "绿色（低） 地震 (震级6.8级, 深度:143.423公里) 印度尼西亚 21/11/2026 09:42 , 70千 MMI V.",
-        "description": "On 11/21/2026 9:42:10 AM, an earthquake occurred in Indonesia potentially affecting 70 thousand in MMI V. The earthquake had Magnitude 6.8M, Depth:143.423km.",
-        "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578530",
-        "pubDate": "2026-11-21 09:54"
+        "description": "On 22/11/2026, a forest fire started in Australia,  until 24/11/2026.",
+        "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034046",
+        "pubDate": "2026-11-24 08:01"
       }
     ],
     "typhoon": [],
@@ -194,90 +162,90 @@
       {
         "pair": "美元/人民币",
         "rate": 6.68,
-        "date": "2026-11-25"
+        "date": "2026-11-26"
       },
       {
         "pair": "欧元/美元",
         "rate": 1.0965,
-        "date": "2026-11-25"
+        "date": "2026-11-26"
       },
       {
         "pair": "美元/日元",
-        "rate": 159.24,
-        "date": "2026-11-25"
+        "rate": 159.18,
+        "date": "2026-11-26"
       },
       {
         "pair": "欧元/人民币",
         "rate": 7.3246,
-        "date": "2026-11-25"
+        "date": "2026-11-26"
       },
       {
         "pair": "英镑/美元",
         "rate": 1.3106,
-        "date": "2026-11-25"
+        "date": "2026-11-26"
       }
     ],
     "bond_yields": [],
     "semiconductor_news": [
       {
         "source": "EET Asia",
-        "title": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
-        "link": "https://www.eetasia.com/from-ai-platforms-to-industry-innovation-how-nvidia-connects-startups-to-build-an-ai-ecosystem-2/",
-        "pubDate": "Wed, 25 Nov 2026 05:00:42 +0000"
+        "title": "Universal Robots Integrates Inbolt 3D AI Vision Software Into Gen 7 Platform",
+        "link": "https://www.eetasia.com/universal-robots-integrates-inbolt-3d-ai-vision-software-into-gen-7-platform/",
+        "pubDate": "Thu, 26 Nov 2026 03:09:11 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Smartphone OLED Market Faces 2026 Slump",
-        "link": "https://www.eetasia.com/smartphone-oled-market-faces-2026-slump/",
-        "pubDate": "Wed, 25 Nov 2026 03:40:18 +0000"
+        "title": "Seoul Semiconductor Ramps Up Production of RGB LCD Backlight Technology",
+        "link": "https://www.eetasia.com/seoul-semiconductor-ramps-up-production-of-rgb-lcd-backlight-technology/",
+        "pubDate": "Thu, 26 Nov 2026 02:53:34 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "DigiKey Celebrates Winners of AIoT Design Challenge 2026",
-        "link": "https://www.eetasia.com/digikey-celebrates-winners-of-aiot-design-challenge-2026/",
-        "pubDate": "Wed, 25 Nov 2026 03:32:24 +0000"
+        "title": "PCB Costs Push 65-in LCD TV Panel Production Costs Up 6.5%",
+        "link": "https://www.eetasia.com/pcb-costs-push-65-in-lcd-tv-panel-production-costs-up-6-5/",
+        "pubDate": "Thu, 26 Nov 2026 02:45:25 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Aixtron and Nokia Strengthen InP Photonics Collaboration",
-        "link": "https://www.eetasia.com/aixtron-and-nokia-strengthen-inp-photonics-collaboration/",
-        "pubDate": "Wed, 25 Nov 2026 03:20:48 +0000"
+        "title": "Renesas Expands ChipAgents AI Tools Across Global Design Teams",
+        "link": "https://www.eetasia.com/renesas-expands-chipagents-ai-tools-across-global-design-teams/",
+        "pubDate": "Thu, 26 Nov 2026 02:41:43 +0000"
       },
       {
         "source": "EET Asia",
-        "title": "Edge AI Opens Opportunities for Asia’s Semiconductor Industry",
-        "link": "https://www.eetasia.com/edge-ai-opens-opportunities-for-asias-semiconductor-industry/",
-        "pubDate": "Wed, 25 Nov 2026 03:02:58 +0000"
+        "title": "Edge AI Design Extends Beyond Compute to System Integration",
+        "link": "https://www.eetasia.com/edge-ai-design-extends-beyond-compute-to-system-integration/",
+        "pubDate": "Thu, 26 Nov 2026 02:28:15 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "NVIDIA: What Really Happened Behind Closed Doors Between November 11 and November 23?",
+        "link": "https://semiwiki.com/artificial-intelligence/376841-nvidia-what-really-happened-behind-closed-doors-between-november-11-and-november-23/",
+        "pubDate": "Wed, 25 Nov 2026 21:30:36 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "CXO Interview with Osman Chaudry of yieldWerx",
+        "link": "https://semiwiki.com/eda/yieldwerx/376626-cxo-interview-with-osman-chaudry-of-yieldwerx/",
+        "pubDate": "Wed, 25 Nov 2026 18:00:37 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "Keysight Unites RF and Photonic Design for Tower Semiconductor",
+        "link": "https://semiwiki.com/eda/keysight-eda/376442-keysight-unites-rf-and-photonic-design-for-tower-semiconductor/",
+        "pubDate": "Wed, 25 Nov 2026 16:00:42 +0000"
+      },
+      {
+        "source": "SemiWiki",
+        "title": "PDF Solutions: What Happens Now That the Puck Has Arrived?",
+        "link": "https://semiwiki.com/eda/pdf-solutions/376678-pdf-solutions-what-happens-now-that-the-puck-has-arrived/",
+        "pubDate": "Wed, 25 Nov 2026 14:00:07 +0000"
       },
       {
         "source": "SemiWiki",
         "title": "Moores Lab AI’s Benchmark Push: Measuring Whether AI Can Actually Verify Chips",
         "link": "https://semiwiki.com/eda/moores-lab-ai/375754-moores-lab-ais-benchmark-push-measuring-whether-ai-can-actually-verify-chips/",
         "pubDate": "Tue, 24 Nov 2026 18:00:52 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Why Siemens’ Breker Deal Matters for the Next Generation of AI Chips",
-        "link": "https://semiwiki.com/eda/376542-why-siemens-breker-deal-matters-for-the-next-generation-of-ai-chips/",
-        "pubDate": "Tue, 24 Nov 2026 16:00:26 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "Why Peak FLOPS is the Wrong Yardstick for Inference Hardware",
-        "link": "https://semiwiki.com/semiconductor-manufacturers/vsora/376702-why-peak-flops-is-the-wrong-yardstick-for-inference-hardware/",
-        "pubDate": "Tue, 24 Nov 2026 14:00:02 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "2000 Zero Zero, Party Over — Oops, Out of Time",
-        "link": "https://semiwiki.com/artificial-intelligence/376608-2000-zero-zero-party-over-oops-out-of-time/",
-        "pubDate": "Mon, 23 Nov 2026 18:00:01 +0000"
-      },
-      {
-        "source": "SemiWiki",
-        "title": "ChipAgents Webinar – How a Multi-Agent Platform Accelerates Functional and Formal Verification",
-        "link": "https://semiwiki.com/events/376394-chipagents-webinar-how-a-multi-agent-platform-accelerates-functional-and-formal-verification/",
-        "pubDate": "Mon, 23 Nov 2026 16:00:59 +0000"
       }
     ],
     "china_policy": [
@@ -286,6 +254,12 @@
       }
     ],
     "competitor_news": [
+      {
+        "keyword": "德州仪器(TI)",
+        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
+        "pubDate": "2026-07-14 07:00"
+      },
       {
         "keyword": "德州仪器(TI)",
         "title": "传TI就收购芯科科技进行谈判，交易估值约70亿美元 - 电子工程专辑EE Times China",
@@ -299,28 +273,22 @@
         "pubDate": "2022-05-09 07:00"
       },
       {
-        "keyword": "德州仪器(TI)",
-        "title": "AI半导体仍在上涨，为何基金开始抛售设备股？ - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMYzhiQWFPYkEtaUtJT2pRRmFUNjZDUGkyZTAyT1lIdlFkMlVmaXRlajJfNTRwSnZESFl5M3ZaUl9FbkJNVjRqbS1qNmFzLXRxVXgxd0EtaWUycDVxWXNUTl93QVNkdWhUUWRpeTZ2OHZ2T01pSDhWeTFqaUg1dEd1T3hrTmJoTEpGYzZRZEhfaVhwdHJaTng4TlJmNEU1MXBubnN3MA?oc=5",
-        "pubDate": "2026-07-14 07:00"
+        "keyword": "恩智浦(NXP)",
+        "title": "印度又觉得自己行了：荷兰芯片企业不想选中国，选我 - 观察者网",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11THNEbEQ1NkNpNVdHaU12VENuRUtSQW9jdjFiRmFBckRLdC0yQmVGSHF6Z0RvMVFNN08wTHQ2RDh3dEZQMTZuVFA3YndNWDl2UEs3b2p4M0dyVEIzYkp4c082UFZ4QVNVT2c?oc=5",
+        "pubDate": "2026-03-05 08:00"
       },
       {
         "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors Initiated at Buy by StoneX - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblRMMzQ1c2NZMkpKNDV2SmlJd0plalBzV09iVlJTY2E3TDNqU1hSbjlpeXgwcHdadFVKSTZYVXhCX3FYUUtmc044ZFVQMmU3RU0zTk1aV0FuLVNCaVU2X3I2bzJrTDkzMHdBbzdCOENOREJKTmNyRjBSa1VSSXRvcmtwbVU3R1lFbFBxMlU5NUkxU0x0dXhNZWRPLU9tMk1qb29aVnNuc1RhYlBOMTJUREJ1MlplSjlpbW13dlpSeXV4OTFsLUoxZQ?oc=5",
-        "pubDate": "2026-11-19 16:35"
+        "title": "恩智浦半导体公司提供哪些产品? - OneBullEx",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUpiYk1QRVA1dW00UXU5cl80bmIzV2dGX3M2MWFiRkg0elFQV2FpSXFxNEZ6bUFkbGZuS3lRYWNMeDloa2FITVJLS0lQanNrTkNub0lyU0RZeU5ia045MTJzblR2VEszTHZ4N3BfZHJsMThqQVRadG1sRFoxSDFodFlLXzlTYV9TaUNPNEwxLUY?oc=5",
+        "pubDate": "2026-09-09 07:00"
       },
       {
         "keyword": "恩智浦(NXP)",
         "title": "VSMC斥资78亿美元在新加坡开设晶圆厂，押注“实体人工智能”需求 - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGNxSVdaNWdERGJzN2ZIUXIwalhtUjNrM3I1cWNvNzNfNnVDQWpNRVJRQWVKcHpkUmdqQXM4SUQxZkQ3aEI4N0Z6dDZ6b3pZQ2Z4X0pXRUxHSy1heWc1b0dTZGVpUFU0aWUxVi1QVEZISkRGdXNOTDlSUFY3OFluZVlvR21jYUxCS2lYbXhfRzNvNXE5SEh2SXVDNlprR0ZsMDRpTWJkN2RpNGZRRHcyY2pQVThRT0RIVkE?oc=5",
         "pubDate": "2026-09-28 07:00"
-      },
-      {
-        "keyword": "恩智浦(NXP)",
-        "title": "NXP Semiconductors to Focus on Auto Electronics, IoT Businesses in China, Local Head Says - 一财全球Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXRJak1QY1RGSjJpUUNOVzYxaFpMd3M2Q09TSGpkVktTRTZTUmxzVDhQeFh5UkZCdng3d2RDalhqY1BCVmJXalBoRXJoM0w4VlIzSTM5RVhUcksxanQwLVFDOE9jbm5pVkhyYUl6MHQwZEpIdTdta1FpUWxQUWVrNjA3U29IcUdJUUR3NmpwTjZQdEZ0RU5BNm5aN0dSbnRXNWE4VEpzQXJ1M1ViQnp4RC1HNUxYcFpob3lQTA?oc=5",
-        "pubDate": "2018-09-05 07:00"
       },
       {
         "keyword": "英飞凌",
@@ -354,9 +322,15 @@
       },
       {
         "keyword": "意法半导体(ST)",
-        "title": "意法半导体股价下跌，因芯片股在行业冲击后普遍回落，交易员在近期人工智能数据中心乐观情绪后获利了结。 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3g2MEZobUdhSEhtd2ZZY2pkemttQlB4aGo4UTR6SnlGN0VrOG9kU1BNYjZEVkloQkxmajdDaGg4VlBtaVEwN3gzMlZNaTJiZzJlaWI3UmYzSENpLS13bjIwWFgwaVU1VERUeHRlX0pPSVRGMUxzRms4NXhyV2xTcWdsUnRhY3otMkhyZTRjYlNzOXQwblN5MFRDNkdDS0xyME9yWmlWeGk2d2o1aFhKRzk5RXROdHh5dE1Z?oc=5",
-        "pubDate": "2026-06-04 07:00"
+        "title": "【AI光通信】硅光芯片中锗硅（SiGe）产能稀缺性 ——AI光模块驱动下，高端射频芯片产能被挤占 - 雪球",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLWk5seXM4TThXLWpQc05QR3owcXdjUmtFTUJ6OUpmTWxtQ3ZjYWY5UjVfUFJPN1NrVFZrQVIwbndMb3VzejhwQ2VMSGx2WlFh?oc=5",
+        "pubDate": "2026-03-10 07:00"
+      },
+      {
+        "keyword": "亚德诺(ADI)",
+        "title": "英伟达之外，AI产业链还有一门好生意：ADI交出152亿美元年收入 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDdJbjI4T283ZTNVSkNsbmczam1Qbkp1U3IxcnhKaldVSEtOT3VPdzBDRjZtV0lsZEkxd2ZpYnFLeVh5NnNudV8zN0Mzam1pdEVzVnRwb2FKcTFmUTZYWEl6NldmbEhReVpoYXRKYW1ZTVduNEVRejAwVldtakIwemZMc2hlUlVpakRUag?oc=5",
+        "pubDate": "2026-11-25 10:29"
       },
       {
         "keyword": "亚德诺(ADI)",
@@ -369,12 +343,6 @@
         "title": "Analog Devices完成对Alif Semiconductor的收购 - 电子工程专辑EE Times China",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Ml80LUE0QzlHNlFGbHRlTzhrMzRwTEhXUDlnQ0pFQUFZWDlycWtWOHNuNXpBMWJnYndDQ2g4cEpnNng1cXV0QWtxYzNrdUh4Y0FR?oc=5",
         "pubDate": "2026-11-04 03:05"
-      },
-      {
-        "keyword": "亚德诺(ADI)",
-        "title": "Analog Devices完成对Alif Semiconductor的收购_Analog_Devices - 中国工控网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1laHJGLUNkRUpaSGplQ0tfdkNqNEprYWNObUpwSmpHUTlRYlcxVGFDSllkUEdkQ2R4U0VHZU1EeEFSZ0YzdG9QNzBSX09RMElDcU85dm9ZTVBwaF8t?oc=5",
-        "pubDate": "2026-11-06 05:47"
       },
       {
         "keyword": "瑞萨",
@@ -402,15 +370,15 @@
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "以太网PHY芯片市场规模及份额，2036年行业报告 - Research Nester",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83cU1uU1M5X2N5MDFZNHQxRjFNODRnY3hycXV0Q1lRaGFDTjIxc3NpTmdzajE3MUs4SUZLZDZXUmVRZzU5NzVaeEEwcnZVdk9HRmwzSm5VZ3d6VnJEeFJuX3FvWklEa0tRUnFQeFRUNnVaOG5NZ21JNjd1QQ?oc=5",
-        "pubDate": "2026-08-31 07:00"
+        "title": "AI数据中心迈向800V直流机架电源架构：Microchip与Navitas合作助力推动电源转型 - 电子工程专辑EE Times China",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2UU05SXRRMlNBLVY2OXRyYXlOOUdTR2IwZ1RaaEZIejl1Z092Z3lBZV84X09JT05BbkxmczJia0xnanMxSWFiVkRMdFhxX0xlMGZz?oc=5",
+        "pubDate": "2026-10-12 07:00"
       },
       {
         "keyword": "微芯科技(Microchip)",
-        "title": "AI数据中心迈向800V直流机架电源架构：Microchip与Navitas合作助力推动电源转型 - 电子工程专辑EE Times China",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sVWp5TGdpMXhpSXFGM0Y4dWhLWDdkZW5ST0I0ZlcxTE1DTEVmV3A2cnd4NFE4U0ZJNXhFSTFGaTN2SlNuYTJlQjhabXpPS19QM2xB?oc=5",
-        "pubDate": "2026-10-12 07:00"
+        "title": "空间半导体市场规模、份额|成长[2034] - Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFRxOVlZQ1dJX0NjbDhBd2NSSnBhT3ZhMFU3VE9pcFpjQkRpSmFKd2s4SzR6NVZjaHpkX05vbG1aaGpDNmFjYy1RUklubzh5N0JiSE5WTUlLTnFMYVNRNzVFaTNaZGNkc1pGOWJ0Q1NGb2VVWl9fbm14dXk1amF2ZTdR?oc=5",
+        "pubDate": "2026-11-02 08:00"
       }
     ]
   }
